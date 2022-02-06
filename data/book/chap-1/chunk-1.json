@@ -1,0 +1,281 @@
+[
+  {
+    "id": "chap1-ck1#01",
+    "quest": [
+      "Herzlich willkommen"
+    ],
+    "answer": [
+      "Добр_о_ пож_а_ловать"
+    ]
+  },
+  {
+    "id": "chap1-ck1#02",
+    "quest": [
+      "Guten Tag ~- ungeduzt~"
+    ],
+    "answer": [
+      "Здр_а_вствуйте!"
+    ]
+  },
+  {
+    "id": "chap1-ck1#03",
+    "quest": [
+      "ich"
+    ],
+    "answer": [
+      "я"
+    ]
+  },
+  {
+    "id": "chap1-ck1#04",
+    "quest": [
+      "und ~- als Gegensatz~"
+    ],
+    "answer": [
+      "а"
+    ]
+  },
+  {
+    "id": "chap1-ck1#05",
+    "quest": [
+      "wer"
+    ],
+    "answer": [
+      "кто"
+    ]
+  },
+  {
+    "id": "chap1-ck1#06",
+    "quest": [
+      "Sie, ihr"
+    ],
+    "answer": [
+      "вы"
+    ]
+  },
+  {
+    "id": "chap1-ck1#07",
+    "quest": [
+      "du"
+    ],
+    "answer": [
+      "ты"
+    ]
+  },
+  {
+    "id": "chap1-ck1#08",
+    "quest": [
+      "Guten Tag!"
+    ],
+    "answer": [
+      "Д_о_брый день"
+    ]
+  },
+  {
+    "id": "chap1-ck1#09",
+    "quest": [
+      "Guten Tag ~- geduzt~"
+    ],
+    "answer": [
+      "Здр_а_вствуй!"
+    ]
+  },
+  {
+    "id": "chap1-ck1#10",
+    "quest": [
+      "Herr ~- Anrede~"
+    ],
+    "answer": [
+      "господ_и_н"
+    ]
+  },
+  {
+    "id": "chap1-ck1#11",
+    "quest": [
+      "Frau ~- Anrede~"
+    ],
+    "answer": [
+      "госпож_а_"
+    ]
+  },
+  {
+    "id": "chap1-ck1#12",
+    "quest": [
+      "Hallo"
+    ],
+    "answer": [
+      "Прив_е_т"
+    ]
+  },
+  {
+    "id": "chap1-ck1#13",
+    "quest": [
+      "das ist / das sind"
+    ],
+    "answer": [
+      "_э_то"
+    ]
+  },
+  {
+    "id": "chap1-ck1#14",
+    "quest": [
+      "Auf wiedersehen"
+    ],
+    "answer": [
+      "До свид_а_ния"
+    ]
+  },
+  {
+    "id": "chap1-ck1#15",
+    "quest": [
+      "Tschüss"
+    ],
+    "answer": [
+      "пок_а_"
+    ]
+  },
+  {
+    "id": "chap1-ck1#16",
+    "quest": [
+      "nein"
+    ],
+    "answer": [
+      "нет"
+    ]
+  },
+  {
+    "id": "chap1-ck1#17",
+    "quest": [
+      "was"
+    ],
+    "answer": [
+      "что"
+    ]
+  },
+  {
+    "id": "chap1-ck1#18",
+    "quest": [
+      "auf dem Foto"
+    ],
+    "answer": [
+      "на фотогр_а_фии"
+    ]
+  },
+  {
+    "id": "chap1-ck1#19",
+    "quest": [
+      "auf"
+    ],
+    "answer": [
+      "на"
+    ]
+  },
+  {
+    "id": "chap1-ck1#20",
+    "quest": [
+      "Foto"
+    ],
+    "answer": [
+      "фотогр_а_фия"
+    ]
+  },
+  {
+    "id": "chap1-ck1#21",
+    "quest": [
+      "Firma"
+    ],
+    "answer": [
+      "ф_и_рма"
+    ]
+  },
+  {
+    "id": "chap1-ck1#22",
+    "quest": [
+      "Fabrik"
+    ],
+    "answer": [
+      "ф_а_брика"
+    ]
+  },
+  {
+    "id": "chap1-ck1#23",
+    "quest": [
+      "Fontäne"
+    ],
+    "answer": [
+      "фонт_а_н"
+    ]
+  },
+  {
+    "id": "chap1-ck1#24",
+    "quest": [
+      "Film"
+    ],
+    "answer": [
+      "Фильм"
+    ]
+  },
+  {
+    "id": "chap1-ck1#25",
+    "quest": [
+      "Charakter"
+    ],
+    "answer": [
+      "хар_а_ктер"
+    ]
+  },
+  {
+    "id": "chap1-ck1#26",
+    "quest": [
+      "Architektur"
+    ],
+    "answer": [
+      "архитект_у_ра"
+    ]
+  },
+  {
+    "id": "chap1-ck1#27",
+    "quest": [
+      "Zirkus"
+    ],
+    "answer": [
+      "цирк"
+    ]
+  },
+  {
+    "id": "chap1-ck1#28",
+    "quest": [
+      "Zentrum"
+    ],
+    "answer": [
+      "центр"
+    ]
+  },
+  {
+    "id": "chap1-ck1#29",
+    "quest": [
+      "Bühne"
+    ],
+    "answer": [
+      "сц_е_на"
+    ]
+  },
+  {
+    "id": "chap1-ck1#30",
+    "quest": [
+      "Spezialist"
+    ],
+    "answer": [
+      "специал_и_ст"
+    ]
+  },
+  {
+    "id": "chap1-ck1#31",
+    "quest": [
+      "Champion"
+    ],
+    "answer": [
+      "чемпи_о_н"
+    ]
+  }
+]

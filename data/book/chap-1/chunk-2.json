@@ -1,0 +1,308 @@
+[
+  {
+    "id": "chap1-ck2#01",
+    "quest": [
+      "Post"
+    ],
+    "answer": [
+      "п_о_чта"
+    ]
+  },
+  {
+    "id": "chap1-ck2#02",
+    "quest": [
+      "Theater"
+    ],
+    "answer": [
+      "те_а_тр"
+    ]
+  },
+  {
+    "id": "chap1-ck2#03",
+    "quest": [
+      "Museum"
+    ],
+    "answer": [
+      "муз_е_й"
+    ]
+  },
+  {
+    "id": "chap1-ck2#04",
+    "quest": [
+      "Kino"
+    ],
+    "answer": [
+      "киноте_а_тр"
+    ]
+  },
+  {
+    "id": "chap1-ck2#05",
+    "quest": [
+      "Geschäft / Laden"
+    ],
+    "answer": [
+      "магаз_и_н"
+    ]
+  },
+  {
+    "id": "chap1-ck2#06",
+    "quest": [
+      "Universität"
+    ],
+    "answer": [
+      "университ_е_т"
+    ]
+  },
+  {
+    "id": "chap1-ck2#07",
+    "quest": [
+      "Bibliothek"
+    ],
+    "answer": [
+      "библиот_е_ка"
+    ]
+  },
+  {
+    "id": "chap1-ck2#08",
+    "quest": [
+      "Stadion"
+    ],
+    "answer": [
+      "стади_о_н"
+    ]
+  },
+  {
+    "id": "chap1-ck2#09",
+    "quest": [
+      "Restaurant"
+    ],
+    "answer": [
+      "рестор_а_н"
+    ]
+  },
+  {
+    "id": "chap1-ck2#10",
+    "quest": [
+      "Kiosk"
+    ],
+    "answer": [
+      "ки_о_ск"
+    ]
+  },
+  {
+    "id": "chap1-ck2#11",
+    "quest": [
+      "U-Bahn"
+    ],
+    "answer": [
+      "метр_о_"
+    ]
+  },
+  {
+    "id": "chap1-ck2#12",
+    "quest": [
+      "Park"
+    ],
+    "answer": [
+      "парк"
+    ]
+  },
+  {
+    "id": "chap1-ck2#13",
+    "quest": [
+      "Taxi"
+    ],
+    "answer": [
+      "такс_и_"
+    ]
+  },
+  {
+    "id": "chap1-ck2#14",
+    "quest": [
+      "Wer ist das?"
+    ],
+    "answer": [
+      "кто _э_то?"
+    ]
+  },
+  {
+    "id": "chap1-ck2#15",
+    "quest": [
+      "Sportler"
+    ],
+    "answer": [
+      "спортсм_е_н"
+    ]
+  },
+  {
+    "id": "chap1-ck2#16",
+    "quest": [
+      "Politiker, -in"
+    ],
+    "answer": [
+      "пол_и_тик"
+    ]
+  },
+  {
+    "id": "chap1-ck2#17",
+    "quest": [
+      "Tennisspielerin"
+    ],
+    "answer": [
+      "теннис_и_стка"
+    ]
+  },
+  {
+    "id": "chap1-ck2#18",
+    "quest": [
+      "Primaballerina"
+    ],
+    "answer": [
+      "пр_и_ма-балер_и_на"
+    ]
+  },
+  {
+    "id": "chap1-ck2#19",
+    "quest": [
+      "Kremel"
+    ],
+    "answer": [
+      "кремль"
+    ]
+  },
+  {
+    "id": "chap1-ck2#20",
+    "quest": [
+      "Subjekt"
+    ],
+    "answer": [
+      "субъ_е_кт"
+    ]
+  },
+  {
+    "id": "chap1-ck2#21",
+    "quest": [
+      "Objekt"
+    ],
+    "answer": [
+      "объ_е_кт"
+    ]
+  },
+  {
+    "id": "chap1-ck2#22",
+    "quest": [
+      "Objektiv"
+    ],
+    "answer": [
+      "объект_и_в"
+    ]
+  },
+  {
+    "id": "chap1-ck2#23",
+    "quest": [
+      "Geschäftskontakte"
+    ],
+    "answer": [
+      "делов_ы_е конт_а_кты"
+    ]
+  },
+  {
+    "id": "chap1-ck2#24",
+    "quest": [
+      "Russland"
+    ],
+    "answer": [
+      "Росс_и_я"
+    ]
+  },
+  {
+    "id": "chap1-ck2#25",
+    "quest": [
+      "für mich"
+    ],
+    "answer": [
+      "для мен_я_"
+    ]
+  },
+  {
+    "id": "chap1-ck2#26",
+    "quest": [
+      "Zar"
+    ],
+    "answer": [
+      "царь"
+    ]
+  },
+  {
+    "id": "chap1-ck2#27",
+    "quest": [
+      "und"
+    ],
+    "answer": [
+      "и"
+    ]
+  },
+  {
+    "id": "chap1-ck2#28",
+    "quest": [
+      "Vulkan"
+    ],
+    "answer": [
+      "вулк_а_н"
+    ]
+  },
+  {
+    "id": "chap1-ck2#29",
+    "quest": [
+      "Sibirien"
+    ],
+    "answer": [
+      "сиб_и_рь"
+    ]
+  },
+  {
+    "id": "chap1-ck2#30",
+    "quest": [
+      "Tundra"
+    ],
+    "answer": [
+      "т_у_ндра"
+    ]
+  },
+  {
+    "id": "chap1-ck2#31",
+    "quest": [
+      "Winter"
+    ],
+    "answer": [
+      "зим_а_"
+    ]
+  },
+  {
+    "id": "chap1-ck2#32",
+    "quest": [
+      "Schwarzes Meer"
+    ],
+    "answer": [
+      "чёрное м_о_ре"
+    ]
+  },
+  {
+    "id": "chap1-ck2#33",
+    "quest": [
+      "Strand"
+    ],
+    "answer": [
+      "пл_я_ж"
+    ]
+  },
+  {
+    "id": "chap1-ck2#34",
+    "quest": [
+      "Früchte"
+    ],
+    "answer": [
+      "фр_у_кты"
+    ]
+  }
+]

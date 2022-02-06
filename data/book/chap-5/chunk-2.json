@@ -1,0 +1,291 @@
+[
+  {
+    "id": "chap5-ck2#01",
+    "quest": [
+      "Gemüse"
+    ],
+    "answer": [
+      "_о_вощи",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#02",
+    "quest": [
+      "Getränk"
+    ],
+    "answer": [
+      "нап_и_ток",
+      "нап_и_тка ~- Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#03",
+    "quest": [
+      "Praline",
+      "Bonbon"
+    ],
+    "answer": [
+      "конф_е_та"
+    ]
+  },
+  {
+    "id": "chap5-ck2#04",
+    "quest": [
+      "Birne"
+    ],
+    "answer": [
+      "гр_у_ша"
+    ]
+  },
+  {
+    "id": "chap5-ck2#05",
+    "quest": [
+      "(Wiener) Würstchen"
+    ],
+    "answer": [
+      "сос_и_ска"
+    ]
+  },
+  {
+    "id": "chap5-ck2#06",
+    "quest": [
+      "Kuchen"
+    ],
+    "answer": [
+      "пир_о_г"
+    ]
+  },
+  {
+    "id": "chap5-ck2#07",
+    "quest": [
+      "Salat"
+    ],
+    "answer": [
+      "сaл_а_т"
+    ]
+  },
+  {
+    "id": "chap5-ck2#08",
+    "quest": [
+      "Ananas"
+    ],
+    "answer": [
+      "анан_а_с"
+    ]
+  },
+  {
+    "id": "chap5-ck2#09",
+    "quest": [
+      "Gurke"
+    ],
+    "answer": [
+      "огур_е_ц",
+      "огурц_а_ ~- Gennitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#10",
+    "quest": [
+      "Kühlschrank"
+    ],
+    "answer": [
+      "холод_и_льник"
+    ]
+  },
+  {
+    "id": "chap5-ck2#11",
+    "quest": [
+      "saure Sahne"
+    ],
+    "answer": [
+      "смет_а_на"
+    ]
+  },
+  {
+    "id": "chap5-ck2#12",
+    "quest": [
+      "Quark"
+    ],
+    "answer": [
+      "тв_о_рог"
+    ]
+  },
+  {
+    "id": "chap5-ck2#13",
+    "quest": [
+      "Salz"
+    ],
+    "answer": [
+      "соль",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#14",
+    "quest": [
+      "Zucker"
+    ],
+    "answer": [
+      "с_а_хар"
+    ]
+  },
+  {
+    "id": "chap5-ck2#15",
+    "quest": [
+      "Plus"
+    ],
+    "answer": [
+      "плюс"
+    ]
+  },
+  {
+    "id": "chap5-ck2#16",
+    "quest": [
+      "Minus"
+    ],
+    "answer": [
+      "м_и_нус"
+    ]
+  },
+  {
+    "id": "chap5-ck2#17",
+    "quest": [
+      "Wie viel kostet ...?"
+    ],
+    "answer": [
+      "Ск_о_лько ст_о_ит ...?"
+    ]
+  },
+  {
+    "id": "chap5-ck2#18",
+    "quest": [
+      "Rubel"
+    ],
+    "answer": [
+      "рубль",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#19",
+    "quest": [
+      "Euro"
+    ],
+    "answer": [
+      "_е_вро",
+      "~Maskulinum - Ausnahme~"
+    ]
+  },
+  {
+    "id": "chap5-ck2#20",
+    "quest": [
+      "Butter"
+    ],
+    "answer": [
+      "сл_и_вочное м_а_сло"
+    ]
+  },
+  {
+    "id": "chap5-ck2#21",
+    "quest": [
+      "Schachtel"
+    ],
+    "answer": [
+      "кор_о_бка"
+    ]
+  },
+  {
+    "id": "chap5-ck2#22",
+    "quest": [
+      "Gewicht"
+    ],
+    "answer": [
+      "вес"
+    ]
+  },
+  {
+    "id": "chap5-ck2#23",
+    "quest": [
+      "Packung"
+    ],
+    "answer": [
+      "упак_о_вка"
+    ]
+  },
+  {
+    "id": "chap5-ck2#24",
+    "quest": [
+      "Preis"
+    ],
+    "answer": [
+      "цен_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck2#25",
+    "quest": [
+      "Gramm"
+    ],
+    "answer": [
+      "грамм"
+    ]
+  },
+  {
+    "id": "chap5-ck2#26",
+    "quest": [
+      "Päckchen"
+    ],
+    "answer": [
+      "п_а_чка"
+    ]
+  },
+  {
+    "id": "chap5-ck2#27",
+    "quest": [
+      "Kilogramm"
+    ],
+    "answer": [
+      "килогр_а_мм"
+    ]
+  },
+  {
+    "id": "chap5-ck2#28",
+    "quest": [
+      "Tüte",
+      "Beutel"
+    ],
+    "answer": [
+      "пак_е_т"
+    ]
+  },
+  {
+    "id": "chap5-ck2#29",
+    "quest": [
+      "Liter"
+    ],
+    "answer": [
+      "литр"
+    ]
+  },
+  {
+    "id": "chap5-ck2#30",
+    "quest": [
+      "Flasche"
+    ],
+    "answer": [
+      "бут_ы_лка"
+    ]
+  },
+  {
+    "id": "chap5-ck2#31",
+    "quest": [
+      "Gib ...",
+      "Geben Sie ..."
+    ],
+    "answer": [
+      "Дай ...",
+      "Дайте ..."
+    ]
+  }
+]

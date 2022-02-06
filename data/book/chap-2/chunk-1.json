@@ -1,0 +1,214 @@
+[
+  {
+    "id": "chap2-ck1#01",
+    "quest": [
+      "wir"
+    ],
+    "answer": [
+      "мы"
+    ]
+  },
+  {
+    "id": "chap2-ck1#02",
+    "quest": [
+      "aus"
+    ],
+    "answer": [
+      "из ~+ Genitiv~"
+    ]
+  },
+  {
+    "id": "chap2-ck1#03",
+    "quest": [
+      "Machen Sie sich bekannt!"
+    ],
+    "answer": [
+      "Познак_о_мьтесь!"
+    ]
+  },
+  {
+    "id": "chap2-ck1#04",
+    "quest": [
+      "bitte"
+    ],
+    "answer": [
+      "пож_а_луйста"
+    ]
+  },
+  {
+    "id": "chap2-ck1#05",
+    "quest": [
+      "wie"
+    ],
+    "answer": [
+      "как"
+    ]
+  },
+  {
+    "id": "chap2-ck1#06",
+    "quest": [
+      "Wie heißen Sie?"
+    ],
+    "answer": [
+      "как вас зов_у_т?"
+    ]
+  },
+  {
+    "id": "chap2-ck1#07",
+    "quest": [
+      "Ich heiße Volker."
+    ],
+    "answer": [
+      "Мен_я_ зов_у_т Фолькер."
+    ]
+  },
+  {
+    "id": "chap2-ck1#08",
+    "quest": [
+      "sehr"
+    ],
+    "answer": [
+      "_о_чень"
+    ]
+  },
+  {
+    "id": "chap2-ck1#09",
+    "quest": [
+      "angenehm"
+    ],
+    "answer": [
+      "при_я_тно"
+    ]
+  },
+  {
+    "id": "chap2-ck1#10",
+    "quest": [
+      "Wie heißt du?"
+    ],
+    "answer": [
+      "Как теб_я_ зов_у_т?"
+    ]
+  },
+  {
+    "id": "chap2-ck1#11",
+    "quest": [
+      "Machen wir uns bekannt!"
+    ],
+    "answer": [
+      "Дав_а_йте познак_о_мимся!"
+    ]
+  },
+  {
+    "id": "chap2-ck1#12",
+    "quest": [
+      "Wie geht es Ihnen?",
+      "~zwei Antworten~"
+    ],
+    "answer": [
+      "Как В_а_ши дел_а_?",
+      "Как у Вас дел_а_?"
+    ]
+  },
+  {
+    "id": "chap2-ck1#13",
+    "quest": [
+      "Danke!"
+    ],
+    "answer": [
+      "Спас_и_бо!"
+    ]
+  },
+  {
+    "id": "chap2-ck1#14",
+    "quest": [
+      "Mir geht es gut."
+    ],
+    "answer": [
+      "У мен_я_ всё хорош_о_."
+    ]
+  },
+  {
+    "id": "chap2-ck1#15",
+    "quest": [
+      "alles"
+    ],
+    "answer": [
+      "всё"
+    ]
+  },
+  {
+    "id": "chap2-ck1#16",
+    "quest": [
+      "gut"
+    ],
+    "answer": [
+      "хорош_о_"
+    ]
+  },
+  {
+    "id": "chap2-ck1#17",
+    "quest": [
+      "Alles in Ordnung!",
+      "~nicht naheliegende Antwort~"
+    ],
+    "answer": [
+      "Всё в пор_я_дке!"
+    ]
+  },
+  {
+    "id": "chap2-ck1#18",
+    "quest": [
+      "Wie geht es dir?",
+      "~zwei Antworten~"
+    ],
+    "answer": [
+      "Как тво_и_ дел_а_?",
+      "Как у теб_я_ дел_а_?"
+    ]
+  },
+  {
+    "id": "chap2-ck1#19",
+    "quest": [
+      "hier: es geht"
+    ],
+    "answer": [
+      "ничег_о_"
+    ]
+  },
+  {
+    "id": "chap2-ck1#20",
+    "quest": [
+      "normal"
+    ],
+    "answer": [
+      "норм_а_льно"
+    ]
+  },
+  {
+    "id": "chap2-ck1#21",
+    "quest": [
+      "Wie gehts?"
+    ],
+    "answer": [
+      "Как дел_а_?"
+    ]
+  },
+  {
+    "id": "chap2-ck1#22",
+    "quest": [
+      "nicht"
+    ],
+    "answer": [
+      "не"
+    ]
+  },
+  {
+    "id": "chap2-ck1#23",
+    "quest": [
+      "nicht besonders"
+    ],
+    "answer": [
+      "не _о_чень"
+    ]
+  }
+]

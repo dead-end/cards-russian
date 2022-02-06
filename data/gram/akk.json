@@ -1,0 +1,453 @@
+[
+  {
+    "id": "gram-akk#01",
+    "quest": [
+      "Wir schauen Fernsehen."
+    ],
+    "answer": [
+      "Мы смотрим телевизор."
+    ]
+  },
+  {
+    "id": "gram-akk#02",
+    "quest": [
+      "Schauen Sie den Film?"
+    ],
+    "answer": [
+      "Вы смотрите фильм?"
+    ]
+  },
+  {
+    "id": "gram-akk#03",
+    "quest": [
+      "Der Lehrer macht Salat."
+    ],
+    "answer": [
+      "Учитель готовит салат."
+    ]
+  },
+  {
+    "id": "gram-akk#04",
+    "quest": [
+      "Das Kind trinkt Tee."
+    ],
+    "answer": [
+      "Ребенок пьет чай."
+    ]
+  },
+  {
+    "id": "gram-akk#05",
+    "quest": [
+      "Wir machen einen Kuchen."
+    ],
+    "answer": [
+      "Мы делаем пирог."
+    ]
+  },
+  {
+    "id": "gram-akk#06",
+    "quest": [
+      "Ich kenne den Übersetzer."
+    ],
+    "answer": [
+      "Я знаю переводчика."
+    ]
+  },
+  {
+    "id": "gram-akk#07",
+    "quest": [
+      "Die Hausfrau liebt den Arzt."
+    ],
+    "answer": [
+      "Домохозяйка любит врача."
+    ]
+  },
+  {
+    "id": "gram-akk#08",
+    "quest": [
+      "Bruder und Schwester lieben den Vater."
+    ],
+    "answer": [
+      "Брат и сестра любят отца."
+    ]
+  },
+  {
+    "id": "gram-akk#09",
+    "quest": [
+      "Oma hört den Enkel."
+    ],
+    "answer": [
+      "Бабушка слушает внука."
+    ]
+  },
+  {
+    "id": "gram-akk#10",
+    "quest": [
+      "Der Mann schaut das Meer an."
+    ],
+    "answer": [
+      "Мужчина смотрит на море."
+    ]
+  },
+  {
+    "id": "gram-akk#11",
+    "quest": [
+      "Das Schülerin hört die Aufgabe."
+    ],
+    "answer": [
+      "Школьница слушает задание."
+    ]
+  },
+  {
+    "id": "gram-akk#12",
+    "quest": [
+      "Unsere Schwester isst Marmelade."
+    ],
+    "answer": [
+      "Наша сестра ест варенье."
+    ]
+  },
+  {
+    "id": "gram-akk#13",
+    "quest": [
+      "Sie kennt den Platz."
+    ],
+    "answer": [
+      "Она знает это место."
+    ]
+  },
+  {
+    "id": "gram-akk#14",
+    "quest": [
+      "Wir trinken Bier."
+    ],
+    "answer": [
+      "Мы пьем пиво."
+    ]
+  },
+  {
+    "id": "gram-akk#15",
+    "quest": [
+      "Die Eltern lesen das Buch."
+    ],
+    "answer": [
+      "Родители читают книгу."
+    ]
+  },
+  {
+    "id": "gram-akk#16",
+    "quest": [
+      "Sie hassen die Familie."
+    ],
+    "answer": [
+      "Они ненабидят семью."
+    ]
+  },
+  {
+    "id": "gram-akk#17",
+    "quest": [
+      "Die Mönche lieben die Kirche."
+    ],
+    "answer": [
+      "Монахи любят церковь."
+    ]
+  },
+  {
+    "id": "gram-akk#18",
+    "quest": [
+      "Gib mir die Fotografie."
+    ],
+    "answer": [
+      "Дай мне фотографию."
+    ]
+  },
+  {
+    "id": "gram-akk#19",
+    "quest": [
+      "Mein Bruder liebt die russische Küche."
+    ],
+    "answer": [
+      "Мой брат любит русскую кухню."
+    ]
+  },
+  {
+    "id": "gram-akk#20",
+    "quest": [
+      "Wir lesen Zeitung."
+    ],
+    "answer": [
+      "Мы читаем газету."
+    ]
+  },
+  {
+    "id": "gram-akk#21",
+    "quest": [
+      "Der Vater kocht Brei."
+    ],
+    "answer": [
+      "Отец готовит кашу."
+    ]
+  },
+  {
+    "id": "gram-akk#22",
+    "quest": [
+      "Der Mitarbeiter kennt die Kirche in der Stadt."
+    ],
+    "answer": [
+      "Сотрудник знает церковь в городе. "
+    ]
+  },
+  {
+    "id": "gram-akk#23",
+    "quest": [
+      "Die Verkäuferin liesst die Unterschrift."
+    ],
+    "answer": [
+      "Продавщица читает подпись."
+    ]
+  },
+  {
+    "id": "gram-akk#24",
+    "quest": [
+      "Der Arbeiter hasst die Direktoren."
+    ],
+    "answer": [
+      "Рабочий ненавидит директоров."
+    ]
+  },
+  {
+    "id": "gram-akk#25",
+    "quest": [
+      "Omas lieben Enkel."
+    ],
+    "answer": [
+      "Бабушки любят внуков."
+    ]
+  },
+  {
+    "id": "gram-akk#26",
+    "quest": [
+      "Der Käufer liebt die Verkäufer."
+    ],
+    "answer": [
+      "Покупатель любит продавцов."
+    ]
+  },
+  {
+    "id": "gram-akk#27",
+    "quest": [
+      "Ich kenne die Mönche."
+    ],
+    "answer": [
+      "Я знаю монахов."
+    ]
+  },
+  {
+    "id": "gram-akk#28",
+    "quest": [
+      "Wir lieben unsere Töchter."
+    ],
+    "answer": [
+      "Мы любим своих дочерей."
+    ]
+  },
+  {
+    "id": "gram-akk#29",
+    "quest": [
+      "Wir hören die Mütter."
+    ],
+    "answer": [
+      "Мы слушаем матерей."
+    ]
+  },
+  {
+    "id": "gram-akk#30",
+    "quest": [
+      "Der Direktor kennt die Sekretäre."
+    ],
+    "answer": [
+      "Директор знает секретарей."
+    ]
+  },
+  {
+    "id": "gram-akk#31",
+    "quest": [
+      "Er hasst die Lehrer."
+    ],
+    "answer": [
+      "Он ненавидит учителей."
+    ]
+  },
+  {
+    "id": "gram-akk#32",
+    "quest": [
+      "Die Frau kocht Tomaten."
+    ],
+    "answer": [
+      "Женщина готовит помидоры."
+    ]
+  },
+  {
+    "id": "gram-akk#33",
+    "quest": [
+      "Der Student liest Bücher."
+    ],
+    "answer": [
+      "Студент читает книги."
+    ]
+  },
+  {
+    "id": "gram-akk#34",
+    "quest": [
+      "Der Mann isst Bonbons."
+    ],
+    "answer": [
+      "Мужчина ест конфеты."
+    ]
+  },
+  {
+    "id": "gram-akk#35",
+    "quest": [
+      "Die Familie hasst Plätze."
+    ],
+    "answer": [
+      "Семья ненавидит места."
+    ]
+  },
+  {
+    "id": "gram-akk#36",
+    "quest": [
+      "Sie lesen Zeitschriften."
+    ],
+    "answer": [
+      "Они читают журналы."
+    ]
+  },
+  {
+    "id": "gram-akk#37",
+    "quest": [
+      "Der Händler verkauft Zeitungen und Magazine."
+    ],
+    "answer": [
+      "Дилер продает газеты и журналы."
+    ]
+  },
+  {
+    "id": "gram-akk#38",
+    "quest": [
+      "Unser Freund verkauft das Auto."
+    ],
+    "answer": [
+      "Наш друг продаёт машину."
+    ]
+  },
+  {
+    "id": "gram-akk#39",
+    "quest": [
+      "Die Mitarbeiterin verkauft Wurst, Würstchen, Milch und Eier auf dem Markt."
+    ],
+    "answer": [
+      "Сотрудница продаёт на рынке колбасу, сосиски, молоко и яйца."
+    ]
+  },
+  {
+    "id": "gram-akk#40",
+    "quest": [
+      "Die Familie kauft Fisch, Käse, Tomaten und Marmelade im Supermarkt."
+    ],
+    "answer": [
+      "Семья покупает в супермаркете рыбу, сыр, помидоры и варенье."
+    ]
+  },
+  {
+    "id": "gram-akk#41",
+    "quest": [
+      "Der Freund kauft das Auto im Autosalon."
+    ],
+    "answer": [
+      "Друг покупает машину в автосалоне."
+    ]
+  },
+  {
+    "id": "gram-akk#42",
+    "quest": [
+      "Die Freunde kaufen Kuchen im Kirchen Laden."
+    ],
+    "answer": [
+      "Друзья покупают пирог в церковной лавке."
+    ]
+  },
+  {
+    "id": "gram-akk#43",
+    "quest": [
+      "Ich schreibe den Vornamen und Namen."
+    ],
+    "answer": [
+      "Я пишу имя и фамилию."
+    ]
+  },
+  {
+    "id": "gram-akk#44",
+    "quest": [
+      "Die Studentin schreibt den Dialog."
+    ],
+    "answer": [
+      "Студентка пишет диалог."
+    ]
+  },
+  {
+    "id": "gram-akk#45",
+    "quest": [
+      "Vater und Mutter kaufen eine Katze und einen Hund."
+    ],
+    "answer": [
+      "Отец и мать покупают кошку и собаку."
+    ]
+  },
+  {
+    "id": "gram-akk#46",
+    "quest": [
+      "Ich schaue den Stuard an."
+    ],
+    "answer": [
+      "Я смотрю на стюарда."
+    ]
+  },
+  {
+    "id": "gram-akk#47",
+    "quest": [
+      "Der Käufer liesst die Garantie."
+    ],
+    "answer": [
+      "Покупатель читает гарантию."
+    ]
+  },
+  {
+    "id": "gram-akk#48",
+    "quest": [
+      "Geben Sie mir Bonbons, eine Schachtel."
+    ],
+    "answer": [
+      "Дайте мне конфету, одну коробку."
+    ]
+  },
+  {
+    "id": "gram-akk#49",
+    "quest": [
+      "Ich liebe Bier. Geben Sie mir drei Flaschen."
+    ],
+    "answer": [
+      "Я люблю пиво. Дайте мне три бутылки. "
+    ]
+  },
+  {
+    "id": "gram-akk#50",
+    "quest": [
+      "Ich und meine Frau kennen die Schauspieler und Schauspielerinnen."
+    ],
+    "answer": [
+      "Я и моя жена знаем актёров и актрис.",
+      "~Ausnahme Akkusativ Plural:~ актрис "
+    ]
+  }
+]

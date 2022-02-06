@@ -1,0 +1,294 @@
+[
+    {
+        "id": "chap5-ck4#01",
+        "quest": [
+            "Flugticket"
+        ],
+        "answer": [
+            "бил_е_т на самолёт"
+        ]
+    },
+    {
+        "id": "chap5-ck4#02",
+        "quest": [
+            "medizinische Geräte"
+        ],
+        "answer": [
+            "аппарат_у_ра для медиц_и_ны"
+        ]
+    },
+    {
+        "id": "chap5-ck4#03",
+        "quest": [
+            "Computer"
+        ],
+        "answer": [
+            "компь_ю_тер"
+        ]
+    },
+    {
+        "id": "chap5-ck4#04",
+        "quest": [
+            "Kredit"
+        ],
+        "answer": [
+            "кред_и_т"
+        ]
+    },
+    {
+        "id": "chap5-ck4#05",
+        "quest": [
+            "Arbeit"
+        ],
+        "answer": [
+            "раб_о_та"
+        ]
+    },
+    {
+        "id": "chap5-ck4#06",
+        "quest": [
+            "Autoreparatur"
+        ],
+        "answer": [
+            "рем_о_нт маш_и_н"
+        ]
+    },
+    {
+        "id": "chap5-ck4#07",
+        "quest": [
+            "Auto"
+        ],
+        "answer": [
+            "маш_и_на"
+        ]
+    },
+    {
+        "id": "chap5-ck4#08",
+        "quest": [
+            "verkaufen",
+            "~konjugieren~"
+        ],
+        "answer": [
+            "продав_а_ть",
+            "я продаю",
+            "ты продаёшь",
+            "он / она / оно продаёт",
+            "мы продаём",
+            "вы продаёте",
+            "они продают"
+        ]
+    },
+    {
+        "id": "chap5-ck4#09",
+        "quest": [
+            "Hauptstadt"
+        ],
+        "answer": [
+            "стол_и_ца"
+        ]
+    },
+    {
+        "id": "chap5-ck4#10",
+        "quest": [
+            "Süd-, südlich"
+        ],
+        "answer": [
+            "_ю_жный"
+        ]
+    },
+    {
+        "id": "chap5-ck4#11",
+        "quest": [
+            "Asowsches Meer"
+        ],
+        "answer": [
+            "Аз_о_вское м_о_ре"
+        ]
+    },
+    {
+        "id": "chap5-ck4#12",
+        "quest": [
+            "Sprachschule"
+        ],
+        "answer": [
+            "языков_а_я шк_о_ла"
+        ]
+    },
+    {
+        "id": "chap5-ck4#13",
+        "quest": [
+            "Hobby"
+        ],
+        "answer": [
+            "х_о_бби"
+        ]
+    },
+    {
+        "id": "chap5-ck4#14",
+        "quest": [
+            "russische Küche"
+        ],
+        "answer": [
+            "р_у_сская к_у_хня"
+        ]
+    },
+    {
+        "id": "chap5-ck4#15",
+        "quest": [
+            "kaufen"
+        ],
+        "answer": [
+            "покуп_а_ть"
+        ]
+    },
+    {
+        "id": "chap5-ck4#16",
+        "quest": [
+            "Markt"
+        ],
+        "answer": [
+            "рынок",
+            "рынка ~Genitiv Singular~"
+        ]
+    },
+    {
+        "id": "chap5-ck4#17",
+        "quest": [
+            "besser"
+        ],
+        "answer": [
+            "л_у_чше"
+        ]
+    },
+    {
+        "id": "chap5-ck4#18",
+        "quest": [
+            "Fest"
+        ],
+        "answer": [
+            "пр_а_здник"
+        ]
+    },
+    {
+        "id": "chap5-ck4#19",
+        "quest": [
+            "multinational"
+        ],
+        "answer": [
+            "многонацион_а_льный"
+        ]
+    },
+    {
+        "id": "chap5-ck4#20",
+        "quest": [
+            "Jahrmarkt",
+            "Messe"
+        ],
+        "answer": [
+            "_я_рмарка"
+        ]
+    },
+    {
+        "id": "chap5-ck4#21",
+        "quest": [
+            "man kann",
+            "man darf"
+        ],
+        "answer": [
+            "м_о_жно"
+        ]
+    },
+    {
+        "id": "chap5-ck4#22",
+        "quest": [
+            "kosten"
+        ],
+        "answer": [
+            "попр_о_бовать",
+            "~Achtung:~ бо ~nicht:~ ба"
+        ]
+    },
+    {
+        "id": "chap5-ck4#23",
+        "quest": [
+            "armenischer Cognac"
+        ],
+        "answer": [
+            "арм_я_нский конь_я_к"
+        ]
+    },
+    {
+        "id": "chap5-ck4#24",
+        "quest": [
+            "weißrussisch"
+        ],
+        "answer": [
+            "белор_у_сский"
+        ]
+    },
+    {
+        "id": "chap5-ck4#25",
+        "quest": [
+            "usbekisch"
+        ],
+        "answer": [
+            "узб_е_кский"
+        ]
+    },
+    {
+        "id": "chap5-ck4#26",
+        "quest": [
+            "griechisch"
+        ],
+        "answer": [
+            "гр_е_ческий"
+        ]
+    },
+    {
+        "id": "chap5-ck4#27",
+        "quest": [
+            "polnisch"
+        ],
+        "answer": [
+            "п_о_льский"
+        ]
+    },
+    {
+        "id": "chap5-ck4#28",
+        "quest": [
+            "anderer"
+        ],
+        "answer": [
+            "другой"
+        ]
+    },
+    {
+        "id": "chap5-ck4#29",
+        "quest": [
+            "hier: nationale Spezialität"
+        ],
+        "answer": [
+            "национ_а_льное бл_ю_до"
+        ]
+    },
+    {
+        "id": "chap5-ck4#30",
+        "quest": [
+            "Gericht",
+            "Speise"
+        ],
+        "answer": [
+            "бл_ю_до"
+        ]
+    },
+    {
+        "id": "chap5-ck4#31",
+        "quest": [
+            "Interview"
+        ],
+        "answer": [
+            "интервь_ю_",
+            "~Neutrum indeklinabel~"
+        ]
+    }
+]

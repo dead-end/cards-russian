@@ -1,0 +1,337 @@
+[
+  {
+    "id": "gram-plural#01",
+    "quest": [
+      "die Tomate",
+      "die Tomaten"
+    ],
+    "answer": [
+      "помид_о_р",
+      "помидоры"
+    ]
+  },
+  {
+    "id": "gram-plural#02",
+    "quest": [
+      "das Bonbon",
+      "die Bonbons"
+    ],
+    "answer": [
+      "конф_е_та ",
+      "конфеты"
+    ]
+  },
+  {
+    "id": "gram-plural#03",
+    "quest": [
+      "das Getränk",
+      "die Getränke"
+    ],
+    "answer": [
+      "нап_и_ток",
+      "напитки",
+      "~Vokalausfall~"
+    ]
+  },
+  {
+    "id": "gram-plural#04",
+    "quest": [
+      "die Birne",
+      "die Birnen"
+    ],
+    "answer": [
+      "гр_у_ша",
+      "груши"
+    ]
+  },
+  {
+    "id": "gram-plural#05",
+    "quest": [
+      "das Würstchen",
+      "die Würstchen"
+    ],
+    "answer": [
+      "сос_и_ска",
+      "сосиски"
+    ]
+  },
+  {
+    "id": "gram-plural#06",
+    "quest": [
+      "die Frucht",
+      "die Früchte"
+    ],
+    "answer": [
+      "фрукт",
+      "фрукты"
+    ]
+  },
+  {
+    "id": "gram-plural#07",
+    "quest": [
+      "die Zitrone",
+      "die Zitronen"
+    ],
+    "answer": [
+      "лим_о_н",
+      "лимоны"
+    ]
+  },
+  {
+    "id": "gram-plural#08",
+    "quest": [
+      "der Salat",
+      "die Salate"
+    ],
+    "answer": [
+      "сал_а_т",
+      "салаты"
+    ]
+  },
+  {
+    "id": "gram-plural#09",
+    "quest": [
+      "die Banane",
+      "die Bananen"
+    ],
+    "answer": [
+      "бан_а_н",
+      "бананы"
+    ]
+  },
+  {
+    "id": "gram-plural#10",
+    "quest": [
+      "das Produkt",
+      "die Produkte"
+    ],
+    "answer": [
+      "прод_у_кт",
+      "продукты"
+    ]
+  },
+  {
+    "id": "gram-plural#11",
+    "quest": [
+      "der Kuchen",
+      "die Kuchen"
+    ],
+    "answer": [
+      "пир_о_г",
+      "пироги"
+    ]
+  },
+  {
+    "id": "gram-plural#12",
+    "quest": [
+      "das Brötchen",
+      "die Brötchen"
+    ],
+    "answer": [
+      "б_у_лочка",
+      "булочки"
+    ]
+  },
+  {
+    "id": "gram-plural#13",
+    "quest": [
+      "die Ananas",
+      "die Ananassen :o)"
+    ],
+    "answer": [
+      "анан_а_с",
+      "ананасы"
+    ]
+  },
+  {
+    "id": "gram-plural#14",
+    "quest": [
+      "die Lehrerin",
+      "die Lehrerinnen"
+    ],
+    "answer": [
+      "уч_и_тельница",
+      "учительницы"
+    ]
+  },
+  {
+    "id": "gram-plural#15",
+    "quest": [
+      "das Ei",
+      "die Eier"
+    ],
+    "answer": [
+      "яйц_о_",
+      "яйца"
+    ]
+  },
+  {
+    "id": "gram-plural#16",
+    "quest": [
+      "das Meer",
+      "die Meere"
+    ],
+    "answer": [
+      "м_о_ре",
+      "моря"
+    ]
+  },
+  {
+    "id": "gram-plural#17",
+    "quest": [
+      "der Platz",
+      "die Plätze"
+    ],
+    "answer": [
+      "м_е_сто",
+      "места"
+    ]
+  },
+  {
+    "id": "gram-plural#18",
+    "quest": [
+      "das Gericht / die Speise",
+      "die Gerichte / die Speisen"
+    ],
+    "answer": [
+      "бл_ю_до",
+      "блюда"
+    ]
+  },
+  {
+    "id": "gram-plural#19",
+    "quest": [
+      "die Marmelade",
+      "die Marmeladen"
+    ],
+    "answer": [
+      "вар_е_нье",
+      "варенья"
+    ]
+  },
+  {
+    "id": "gram-plural#20",
+    "quest": [
+      "der Apfel",
+      "die Äpfel"
+    ],
+    "answer": [
+      "_я_блоко",
+      "яблоки",
+      "~Neutrum: Ausnahme~"
+    ]
+  },
+  {
+    "id": "gram-plural#21",
+    "quest": [
+      "die Kirche",
+      "die Kirchen"
+    ],
+    "answer": [
+      "церковь",
+      "церкви"
+    ]
+  },
+  {
+    "id": "gram-plural#22",
+    "quest": [
+      "die Unterschrift",
+      "die Unterschriften"
+    ],
+    "answer": [
+      "п_о_дпись",
+      "подписи"
+    ]
+  },
+  {
+    "id": "gram-plural#23",
+    "quest": [
+      "die Nazionalität",
+      "die Nazionalitäten"
+    ],
+    "answer": [
+      "национальность",
+      "национальности"
+    ]
+  },
+  {
+    "id": "gram-plural#24",
+    "quest": [
+      "das Kloster",
+      "die Klöster"
+    ],
+    "answer": [
+      "монаст_ы_рь",
+      "монастыри"
+    ]
+  },
+  {
+    "id": "gram-plural#25",
+    "quest": [
+      "der Sekretär",
+      "die Sekretäre"
+    ],
+    "answer": [
+      "секрет_а_рь",
+      "секретари"
+    ]
+  },
+  {
+    "id": "gram-plural#26",
+    "quest": [
+      "der Rubel",
+      "die Rubel"
+    ],
+    "answer": [
+      "рубль",
+      "рубли"
+    ]
+  },
+  {
+    "id": "gram-plural#27",
+    "quest": [
+      "der Käufer",
+      "die Käufer"
+    ],
+    "answer": [
+      "покуп_а_тель",
+      "покупатели"
+    ]
+  },
+  {
+    "id": "gram-plural#28",
+    "quest": [
+      "der Lehrer",
+      "die Lehrer"
+    ],
+    "answer": [
+      "учитель",
+      "учителя",
+      "~Maskulinum: Ausnahme~"
+    ]
+  },
+  {
+    "id": "gram-plural#29",
+    "quest": [
+      "die Gurke",
+      "die Gurken"
+    ],
+    "answer": [
+      "огур_е_ц",
+      "огурцы",
+      "~Vokalausfall~"
+    ]
+  },
+  {
+    "id": "gram-plural#30",
+    "quest": [
+      "der Markt",
+      "die Märkte"
+    ],
+    "answer": [
+      "р_ы_нок",
+      "рынки",
+      "~Vokalausfall~"
+    ]
+  }
+]

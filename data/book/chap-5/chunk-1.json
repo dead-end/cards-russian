@@ -1,0 +1,291 @@
+[
+  {
+    "id": "chap5-ck1#01",
+    "quest": [
+      "Geschäft",
+      "Laden"
+    ],
+    "answer": [
+      "магаз_и_н"
+    ]
+  },
+  {
+    "id": "chap5-ck1#02",
+    "quest": [
+      "Brot"
+    ],
+    "answer": [
+      "хлеб"
+    ]
+  },
+  {
+    "id": "chap5-ck1#03",
+    "quest": [
+      "Brötchen"
+    ],
+    "answer": [
+      "б_у_лочка"
+    ]
+  },
+  {
+    "id": "chap5-ck1#04",
+    "quest": [
+      "Butter",
+      "Öl"
+    ],
+    "answer": [
+      "м_а_сло"
+    ]
+  },
+  {
+    "id": "chap5-ck1#05",
+    "quest": [
+      "Käse"
+    ],
+    "answer": [
+      "сыр"
+    ]
+  },
+  {
+    "id": "chap5-ck1#06",
+    "quest": [
+      "Wurst"
+    ],
+    "answer": [
+      "колбас_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#07",
+    "quest": [
+      "Schinken"
+    ],
+    "answer": [
+      "ветчин_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#08",
+    "quest": [
+      "Ei"
+    ],
+    "answer": [
+      "- яйц_о_",
+      "- _я_йца ~- Nominativ Plural~"
+    ]
+  },
+  {
+    "id": "chap5-ck1#09",
+    "quest": [
+      "Joghurt"
+    ],
+    "answer": [
+      "й_о_гурт"
+    ]
+  },
+  {
+    "id": "chap5-ck1#10",
+    "quest": [
+      "Honig"
+    ],
+    "answer": [
+      "мёд"
+    ]
+  },
+  {
+    "id": "chap5-ck1#11",
+    "quest": [
+      "Kaffee"
+    ],
+    "answer": [
+      "к_о_фе",
+      "~Maskulinum / indeklinabel",
+      "Achtung: das Cafe~"
+    ]
+  },
+  {
+    "id": "chap5-ck1#12",
+    "quest": [
+      "Marmelade",
+      "Konfitüre"
+    ],
+    "answer": [
+      "вар_е_нье"
+    ]
+  },
+  {
+    "id": "chap5-ck1#13",
+    "quest": [
+      "Milch"
+    ],
+    "answer": [
+      "молок_о_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#14",
+    "quest": [
+      "Saft"
+    ],
+    "answer": [
+      "сок"
+    ]
+  },
+  {
+    "id": "chap5-ck1#15",
+    "quest": [
+      "Wein"
+    ],
+    "answer": [
+      "вин_о_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#16",
+    "quest": [
+      "Apfel"
+    ],
+    "answer": [
+      "_я_блоко"
+    ]
+  },
+  {
+    "id": "chap5-ck1#17",
+    "quest": [
+      "Banane"
+    ],
+    "answer": [
+      "бан_а_н"
+    ]
+  },
+  {
+    "id": "chap5-ck1#18",
+    "quest": [
+      "Tomate"
+    ],
+    "answer": [
+      "помид_о_р"
+    ]
+  },
+  {
+    "id": "chap5-ck1#19",
+    "quest": [
+      "hier: Lebensmittel",
+      "Nahrungsmittel"
+    ],
+    "answer": [
+      "прод_у_кты",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap5-ck1#20",
+    "quest": [
+      "Mineralwasser"
+    ],
+    "answer": [
+      "минер_а_льная вод_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#21",
+    "quest": [
+      "Kaviar"
+    ],
+    "answer": [
+      "икр_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#22",
+    "quest": [
+      "Bier"
+    ],
+    "answer": [
+      "п_и_во"
+    ]
+  },
+  {
+    "id": "chap5-ck1#23",
+    "quest": [
+      "Mehl"
+    ],
+    "answer": [
+      "мук_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#24",
+    "quest": [
+      "Kartoffel"
+    ],
+    "answer": [
+      "карт_о_фель",
+      "~Maskulinum / nur Singular~"
+    ]
+  },
+  {
+    "id": "chap5-ck1#25",
+    "quest": [
+      "Kohl"
+    ],
+    "answer": [
+      "кап_у_ста"
+    ]
+  },
+  {
+    "id": "chap5-ck1#26",
+    "quest": [
+      "Möhre"
+    ],
+    "answer": [
+      "морк_о_вь",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck1#27",
+    "quest": [
+      "Zwiebel"
+    ],
+    "answer": [
+      "лук"
+    ]
+  },
+  {
+    "id": "chap5-ck1#28",
+    "quest": [
+      "Wasser"
+    ],
+    "answer": [
+      "вод_а_"
+    ]
+  },
+  {
+    "id": "chap5-ck1#29",
+    "quest": [
+      "Milchprodukte"
+    ],
+    "answer": [
+      "мол_о_чные прод_у_кты"
+    ]
+  },
+  {
+    "id": "chap5-ck1#30",
+    "quest": [
+      "Fleisch"
+    ],
+    "answer": [
+      "м_я_со"
+    ]
+  },
+  {
+    "id": "chap5-ck1#31",
+    "quest": [
+      "Fisch"
+    ],
+    "answer": [
+      "р_ы_ба"
+    ]
+  }
+]

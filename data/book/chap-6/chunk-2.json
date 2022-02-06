@@ -1,0 +1,289 @@
+[
+  {
+    "id": "chap6-ck2#01",
+    "quest": [
+      "Datscha",
+      "Landhaus"
+    ],
+    "answer": [
+      "д_а_ча"
+    ]
+  },
+  {
+    "id": "chap6-ck2#02",
+    "quest": [
+      "(Obst-) Garten"
+    ],
+    "answer": [
+      "сад",
+      "в саду ~Präp. Singular~"
+    ]
+  },
+  {
+    "id": "chap6-ck2#03",
+    "quest": [
+      "tele­fonieren"
+    ],
+    "answer": [
+      "говор_и_ть по телеф_о_ну"
+    ]
+  },
+  {
+    "id": "chap6-ck2#04",
+    "quest": [
+      "sich treffen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "встречаться",
+      "я встречаюсь",
+      "ты встречаешься",
+      "он / она / оно встречается",
+      "мы встречаемся",
+      "вы встречаетесь",
+      "они встречаются"
+    ]
+  },
+  {
+    "id": "chap6-ck2#05",
+    "quest": [
+      "mit (den) Freunden"
+    ],
+    "answer": [
+      "с друзь_я_ми"
+    ]
+  },
+  {
+    "id": "chap6-ck2#06",
+    "quest": [
+      "überhaupt nicht"
+    ],
+    "answer": [
+      "совс_е_м не"
+    ]
+  },
+  {
+    "id": "chap6-ck2#07",
+    "quest": [
+      "ganz",
+      "gänzlich",
+      "völlig"
+    ],
+    "answer": [
+      "совс_е_м"
+    ]
+  },
+  {
+    "id": "chap6-ck2#08",
+    "quest": [
+      "machen",
+      "tun"
+    ],
+    "answer": [
+      "сделать ~vollendeter Aspekt~",
+      "(делать ~unvollendeter Aspekt~)"
+    ]
+  },
+  {
+    "id": "chap6-ck2#09",
+    "quest": [
+      "was",
+      "dass"
+    ],
+    "answer": [
+      "что"
+    ]
+  },
+  {
+    "id": "chap6-ck2#10",
+    "quest": [
+      "Ergebnis"
+    ],
+    "answer": [
+      "результ_а_т"
+    ]
+  },
+  {
+    "id": "chap6-ck2#11",
+    "quest": [
+      "Umfrage"
+    ],
+    "answer": [
+      "анк_е_та"
+    ]
+  },
+  {
+    "id": "chap6-ck2#12",
+    "quest": [
+      "Website"
+    ],
+    "answer": [
+      "сайт"
+    ]
+  },
+  {
+    "id": "chap6-ck2#13",
+    "quest": [
+      "Krimi"
+    ],
+    "answer": [
+      "детект_и_в"
+    ]
+  },
+  {
+    "id": "chap6-ck2#14",
+    "quest": [
+      "Serie"
+    ],
+    "answer": [
+      "сери_а_л"
+    ]
+  },
+  {
+    "id": "chap6-ck2#15",
+    "quest": [
+      "Boxen",
+      "Boxkampf"
+    ],
+    "answer": [
+      "бокс"
+    ]
+  },
+  {
+    "id": "chap6-ck2#16",
+    "quest": [
+      "Fernsehsender"
+    ],
+    "answer": [
+      "телекан_а_л"
+    ]
+  },
+  {
+    "id": "chap6-ck2#17",
+    "quest": [
+      "Kultur"
+    ],
+    "answer": [
+      "культ_у_ра"
+    ]
+  },
+  {
+    "id": "chap6-ck2#18",
+    "quest": [
+      "Menschen",
+      "Leute"
+    ],
+    "answer": [
+      "л_ю_ди ~Plural~"
+    ]
+  },
+  {
+    "id": "chap6-ck2#19",
+    "quest": [
+      "Zeitung"
+    ],
+    "answer": [
+      "газ_е_та"
+    ]
+  },
+  {
+    "id": "chap6-ck2#20",
+    "quest": [
+      "Zeitschrift",
+      "Magazin"
+    ],
+    "answer": [
+      "журн_а_л"
+    ]
+  },
+  {
+    "id": "chap6-ck2#21",
+    "quest": [
+      "Buch"
+    ],
+    "answer": [
+      "кн_и_га"
+    ]
+  },
+  {
+    "id": "chap6-ck2#22",
+    "quest": [
+      "Science-Fiction"
+    ],
+    "answer": [
+      "фант_а_стика"
+    ]
+  },
+  {
+    "id": "chap6-ck2#23",
+    "quest": [
+      "Fantasy"
+    ],
+    "answer": [
+      "фэнтези ~Neutrum indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap6-ck2#24",
+    "quest": [
+      "Einwohner von Sotschi"
+    ],
+    "answer": [
+      "с_о_чинцы ~Plural~"
+    ]
+  },
+  {
+    "id": "chap6-ck2#25",
+    "quest": [
+      "Forum"
+    ],
+    "answer": [
+      "ф_о_рум"
+    ]
+  },
+  {
+    "id": "chap6-ck2#26",
+    "quest": [
+      "Chat"
+    ],
+    "answer": [
+      "чат"
+    ]
+  },
+  {
+    "id": "chap6-ck2#27",
+    "quest": [
+      "jung"
+    ],
+    "answer": [
+      "молод_о_й"
+    ]
+  },
+  {
+    "id": "chap6-ck2#28",
+    "quest": [
+      "doch"
+    ],
+    "answer": [
+      "ведь"
+    ]
+  },
+  {
+    "id": "chap6-ck2#29",
+    "quest": [
+      "Olympiade"
+    ],
+    "answer": [
+      "Олимпи_а_да"
+    ]
+  },
+  {
+    "id": "chap6-ck2#30",
+    "quest": [
+      "Tennis spielen"
+    ],
+    "answer": [
+      "игр_а_ть в т_е_ннис"
+    ]
+  }
+]

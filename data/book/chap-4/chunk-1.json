@@ -1,0 +1,323 @@
+[
+  {
+    "id": "chap4-ck1#01",
+    "quest": [
+      "Familie"
+    ],
+    "answer": [
+      "семь_я_"
+    ]
+  },
+  {
+    "id": "chap4-ck1#02",
+    "quest": [
+      "Vater",
+      "Vati"
+    ],
+    "answer": [
+      "п_а_па",
+      "~Ausnahme: Maskulinum~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#03",
+    "quest": [
+      "Vater"
+    ],
+    "answer": [
+      "от_е_ц",
+      "отц_а_ ~- Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#04",
+    "quest": [
+      "Mutter",
+      "Mutti"
+    ],
+    "answer": [
+      "м_а_ма"
+    ]
+  },
+  {
+    "id": "chap4-ck1#05",
+    "quest": [
+      "Mutter"
+    ],
+    "answer": [
+      "мать",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#06",
+    "quest": [
+      "Eltern"
+    ],
+    "answer": [
+      "род_и_тели",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#07",
+    "quest": [
+      "Ehemann"
+    ],
+    "answer": [
+      "муж"
+    ]
+  },
+  {
+    "id": "chap4-ck1#08",
+    "quest": [
+      "Ehefrau"
+    ],
+    "answer": [
+      "жен_а_"
+    ]
+  },
+  {
+    "id": "chap4-ck1#09",
+    "quest": [
+      "Sohn"
+    ],
+    "answer": [
+      "сын"
+    ]
+  },
+  {
+    "id": "chap4-ck1#10",
+    "quest": [
+      "Tochter"
+    ],
+    "answer": [
+      "дочь",
+      "Femininum - Endung: ь"
+    ]
+  },
+  {
+    "id": "chap4-ck1#11",
+    "quest": [
+      "(kleine) Tochter"
+    ],
+    "answer": [
+      "д_о_чка"
+    ]
+  },
+  {
+    "id": "chap4-ck1#12",
+    "quest": [
+      "Kinder"
+    ],
+    "answer": [
+      "д_е_ти",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#13",
+    "quest": [
+      "Bruder"
+    ],
+    "answer": [
+      "брат"
+    ]
+  },
+  {
+    "id": "chap4-ck1#14",
+    "quest": [
+      "Schwester"
+    ],
+    "answer": [
+      "сестр_а_"
+    ]
+  },
+  {
+    "id": "chap4-ck1#15",
+    "quest": [
+      "Großvater",
+      "Opa"
+    ],
+    "answer": [
+      "д_е_душка",
+      "~Ausnahme: Maskulinum~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#16",
+    "quest": [
+      "Großmutter",
+      "Oma"
+    ],
+    "answer": [
+      "б_а_бушка"
+    ]
+  },
+  {
+    "id": "chap4-ck1#17",
+    "quest": [
+      "Enkel"
+    ],
+    "answer": [
+      "внук"
+    ]
+  },
+  {
+    "id": "chap4-ck1#18",
+    "quest": [
+      "Enkelin"
+    ],
+    "answer": [
+      "вн_у_чка"
+    ]
+  },
+  {
+    "id": "chap4-ck1#19",
+    "quest": [
+      "Freund"
+    ],
+    "answer": [
+      "друг"
+    ]
+  },
+  {
+    "id": "chap4-ck1#20",
+    "quest": [
+      "Freundin"
+    ],
+    "answer": [
+      "подр_у_га"
+    ]
+  },
+  {
+    "id": "chap4-ck1#21",
+    "quest": [
+      "Freunde"
+    ],
+    "answer": [
+      "друзь_я_",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#22",
+    "quest": [
+      "einträchtig",
+      "einmütig"
+    ],
+    "answer": [
+      "др_у_жная"
+    ]
+  },
+  {
+    "id": "chap4-ck1#23",
+    "quest": [
+      "Moskauerin"
+    ],
+    "answer": [
+      "москв_и_чка"
+    ]
+  },
+  {
+    "id": "chap4-ck1#24",
+    "quest": [
+      "nicht weit von"
+    ],
+    "answer": [
+      "недалек_о_ от ~+ Genitiv~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#25",
+    "quest": [
+      "U-Bahn-Station"
+    ],
+    "answer": [
+      "ст_а_нция метр_о_"
+    ]
+  },
+  {
+    "id": "chap4-ck1#26",
+    "quest": [
+      "er heißt..."
+    ],
+    "answer": [
+      "ег_о_ зов_у_т"
+    ]
+  },
+  {
+    "id": "chap4-ck1#27",
+    "quest": [
+      "unser",
+      "unsere"
+    ],
+    "answer": [
+      "н_а_ш",
+      "н_а_ша",
+      "н_а_ши"
+    ]
+  },
+  {
+    "id": "chap4-ck1#28",
+    "quest": [
+      "Studentin"
+    ],
+    "answer": [
+      "студ_е_нтка"
+    ]
+  },
+  {
+    "id": "chap4-ck1#29",
+    "quest": [
+      "mein",
+      "meine"
+    ],
+    "answer": [
+      "мой",
+      "мо_я_",
+      "мо_и_"
+    ]
+  },
+  {
+    "id": "chap4-ck1#30",
+    "quest": [
+      "alle zusammen"
+    ],
+    "answer": [
+      "все вм_е_сте",
+      "все ~alle~",
+      "всё ~alles~"
+    ]
+  },
+  {
+    "id": "chap4-ck1#31",
+    "quest": [
+      "sie heißen ...",
+      "~mehrere Personen~"
+    ],
+    "answer": [
+      "их зов_у_т ..."
+    ]
+  },
+  {
+    "id": "chap4-ck1#32",
+    "quest": [
+      "sie heißt ...",
+      "~eine weibliche Person~"
+    ],
+    "answer": "её зов_у_т ..."
+  },
+  {
+    "id": "chap4-ck1#33",
+    "quest": [
+      "dein",
+      "deine"
+    ],
+    "answer": [
+      "твой",
+      "тво_я_",
+      "тво_и_"
+    ]
+  }
+]

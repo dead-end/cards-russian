@@ -1,0 +1,320 @@
+[
+  {
+    "id": "chap4-gram#01",
+    "quest": [
+      "Woher kommen Sie / kommst du?"
+    ],
+    "answer": [
+      "Вы / ты отк_у_да?"
+    ]
+  },
+  {
+    "id": "chap4-gram#02",
+    "quest": [
+      "Ich komme aus Russland."
+    ],
+    "answer": [
+      "Я из Росс_и_и."
+    ]
+  },
+  {
+    "id": "chap4-gram#03",
+    "quest": [
+      "Kommen Sie / du aus Deutschland."
+    ],
+    "answer": [
+      "Вы / ты из Герм_а_нии?"
+    ]
+  },
+  {
+    "id": "chap4-gram#04",
+    "quest": [
+      "Ich spreche deutsch, englisch und russisch."
+    ],
+    "answer": [
+      "Я говор_ю_ по-нем_е_цки, по-англ_и_йски и по-р_у_сски."
+    ]
+  },
+  {
+    "id": "chap4-gram#05",
+    "quest": [
+      "Ich spreche etwas französisch."
+    ],
+    "answer": [
+      "Я немн_о_го говор_ю_ по-франц_у_зски."
+    ]
+  },
+  {
+    "id": "chap4-gram#06",
+    "quest": [
+      "Sprechen Sie russisch?",
+      "Sprichst du russisch?"
+    ],
+    "answer": [
+      "Вы говор_и_те по-р_у_сски?",
+      "Ты говор_и_шь по-р_у_сски?"
+    ]
+  },
+  {
+    "id": "chap4-gram#07",
+    "quest": [
+      "Wo wohnen Sie?"
+    ],
+    "answer": [
+      "Где вы живёте?"
+    ]
+  },
+  {
+    "id": "chap4-gram#08",
+    "quest": [
+      "Ich wohne in Moskau."
+    ],
+    "answer": [
+      "Я жив_у_ в Москв_е_."
+    ]
+  },
+  {
+    "id": "chap4-gram#09",
+    "quest": [
+      "Wo wohnst du?"
+    ],
+    "answer": [
+      "Где ты живёшь?"
+    ]
+  },
+  {
+    "id": "chap4-gram#10",
+    "quest": [
+      "Ich wohne in Berlin."
+    ],
+    "answer": [
+      "Я жив_у_ в Берл_и_не."
+    ]
+  },
+  {
+    "id": "chap4-gram#11",
+    "quest": [
+      "Wohnen Sie in Russland?"
+    ],
+    "answer": [
+      "Вы живёте в Росс_и_и?"
+    ]
+  },
+  {
+    "id": "chap4-gram#12",
+    "quest": [
+      "Wohnst du in Deutschland?"
+    ],
+    "answer": [
+      "Ты живёшь в Герман_и_и?"
+    ]
+  },
+  {
+    "id": "chap4-gram#13",
+    "quest": [
+      "Was ist Ihre Adresse?",
+      "Was ist deine Adresse?"
+    ],
+    "answer": [
+      "Как_о_й у Вас _а_дрес?",
+      "Как_о_й у теб_я_ _а_дрес?"
+    ]
+  },
+  {
+    "id": "chap4-gram#14",
+    "quest": [
+      "Meine Adresse:",
+      "Straße Roderbruch, Haus 44, Wohnung 1"
+    ],
+    "answer": [
+      "Мой адрес:",
+      "Улица Родербрух, дом 44, кварт_и_ра 1"
+    ]
+  },
+  {
+    "id": "chap4-gram#15",
+    "quest": [
+      "Wie ist Ihre telefonnummer?",
+      "Wie ist deine telefonnummer?"
+    ],
+    "answer": [
+      "Как_о_й у вас н_о_мер телеф_о_на?",
+      "Как_о_й у теб_я_ н_о_мер телеф_о_на?"
+    ]
+  },
+  {
+    "id": "chap4-gram#16",
+    "quest": [
+      "Russland",
+      "aus Russland"
+    ],
+    "answer": [
+      "Росс_и_я ~Nominativ Singular~",
+      "(из) Росс_и_и ~Genitiv singular~"
+    ]
+  },
+  {
+    "id": "chap4-gram#17",
+    "quest": [
+      "Deutschland",
+      "aus Deutschland"
+    ],
+    "answer": [
+      "Герм_а_ния ~Nominativ Singular~",
+      "(из) Герм_а_нии ~Genitiv singular~"
+    ]
+  },
+  {
+    "id": "chap4-gram#18",
+    "quest": [
+      "England",
+      "aus England"
+    ],
+    "answer": [
+      "_А_нглия ~Nominativ Singular~",
+      "(из) _А_нглии ~Genitiv singular~"
+    ]
+  },
+  {
+    "id": "chap4-gram#19",
+    "quest": [
+      "sprechen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "~ и Konjugation~",
+      "я говорю",
+      "ты говоришь",
+      "он / она / оно говорит",
+      "мы говорим",
+      "вы говорите",
+      "они говорят"
+    ]
+  },
+  {
+    "id": "chap4-gram#20",
+    "quest": [
+      "wohnen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "~ е Konjugation~",
+      "я живу",
+      "ты живёшь",
+      "он / она / оно живёт",
+      "мы живём",
+      "вы живёте",
+      "они живут"
+    ]
+  },
+  {
+    "id": "chap4-gram#21",
+    "quest": [
+      "in der Stadt"
+    ],
+    "answer": [
+      "в г_о_роде",
+      "~Maskulinum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#22",
+    "quest": [
+      "im Zentrum"
+    ],
+    "answer": [
+      "в ц_е_нтре",
+      "~Maskulinum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#23",
+    "quest": [
+      "am Meer"
+    ],
+    "answer": [
+      "на м_о_ре",
+      "~Neutrum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#24",
+    "quest": [
+      "am Platz"
+    ],
+    "answer": [
+      "на месте",
+      "~Neutrum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#25",
+    "quest": [
+      "in Polen"
+    ],
+    "answer": [
+      "в Польше",
+      "~Femininum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#26",
+    "quest": [
+      "in der Straße"
+    ],
+    "answer": [
+      "на ул_и_це",
+      "~Femininum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#27",
+    "quest": [
+      "in Italien"
+    ],
+    "answer": [
+      "в Италии",
+      "~Femininum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#28",
+    "quest": [
+      "in Belgien"
+    ],
+    "answer": [
+      "в Бельгии",
+      "~Femininum~"
+    ]
+  },
+  {
+    "id": "chap4-gram#29",
+    "quest": [
+      "in der Metro"
+    ],
+    "answer": [
+      "в метро",
+      "~Viele Eigennamen / Fremdworte auf die einem Vokal enden werden nicht dekliniert.~"
+    ]
+  },
+  {
+    "id": "chap4-gram#30",
+    "quest": [
+      "im Kino"
+    ],
+    "answer": [
+      "в кино",
+      "~Viele Eigennamen / Fremdworte auf die einem Vokal enden werden nicht dekliniert.~"
+    ]
+  },
+  {
+    "id": "chap4-gram#31",
+    "quest": [
+      "im Cafe"
+    ],
+    "answer": [
+      "в кафе",
+      "~Viele Eigennamen / Fremdworte auf die einem Vokal enden werden nicht dekliniert.~"
+    ]
+  }
+]

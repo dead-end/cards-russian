@@ -1,0 +1,266 @@
+[
+  {
+    "id": "chap6-ck3#01",
+    "quest": [
+      "Thema"
+    ],
+    "answer": [
+      "т_е_ма"
+    ]
+  },
+  {
+    "id": "chap6-ck3#02",
+    "quest": [
+      "Rundfunk­sendung"
+    ],
+    "answer": [
+      "радиоперед_а_ча"
+    ]
+  },
+  {
+    "id": "chap6-ck3#03",
+    "quest": [
+      "Moderatorin"
+    ],
+    "answer": [
+      "вед_у_щая"
+    ]
+  },
+  {
+    "id": "chap6-ck3#04",
+    "quest": [
+      "erzählen"
+    ],
+    "answer": [
+      "расск_а_зывать"
+    ]
+  },
+  {
+    "id": "chap6-ck3#05",
+    "quest": [
+      "welche"
+    ],
+    "answer": [
+      "как_и_е ~Pl.~"
+    ]
+  },
+  {
+    "id": "chap6-ck3#06",
+    "quest": [
+      "Live-Übertragung"
+    ],
+    "answer": [
+      "эф_и_р"
+    ]
+  },
+  {
+    "id": "chap6-ck3#07",
+    "quest": [
+      "Rundfunk­sender"
+    ],
+    "answer": [
+      "радиост_а_нция"
+    ]
+  },
+  {
+    "id": "chap6-ck3#08",
+    "quest": [
+      "mit Ihnen",
+      "mit euch"
+    ],
+    "answer": [
+      "с в_а_ми"
+    ]
+  },
+  {
+    "id": "chap6-ck3#09",
+    "quest": [
+      "also"
+    ],
+    "answer": [
+      "ит_а_к"
+    ]
+  },
+  {
+    "id": "chap6-ck3#10",
+    "quest": [
+      "Anruf"
+    ],
+    "answer": [
+      "звон_о_к",
+      "звонк_а_ ~Gen. Sg.~"
+    ]
+  },
+  {
+    "id": "chap6-ck3#11",
+    "quest": [
+      "Tourismus"
+    ],
+    "answer": [
+      "тур_и_зм"
+    ]
+  },
+  {
+    "id": "chap6-ck3#12",
+    "quest": [
+      "toll"
+    ],
+    "answer": [
+      "зд_о_рово"
+    ]
+  },
+  {
+    "id": "chap6-ck3#13",
+    "quest": [
+      "Fakultät"
+    ],
+    "answer": [
+      "факульт_е_т"
+    ]
+  },
+  {
+    "id": "chap6-ck3#14",
+    "quest": [
+      "Mathematik"
+    ],
+    "answer": [
+      "матем_а_тика"
+    ]
+  },
+  {
+    "id": "chap6-ck3#15",
+    "quest": [
+      "Extremsport"
+    ],
+    "answer": [
+      "экстр_и_м-спорт "
+    ]
+  },
+  {
+    "id": "chap6-ck3#16",
+    "quest": [
+      "zum Beispiel"
+    ],
+    "answer": [
+      "наприм_е_р"
+    ]
+  },
+  {
+    "id": "chap6-ck3#17",
+    "quest": [
+      "Skateboarding"
+    ],
+    "answer": [
+      "скейтб_о_рдинг"
+    ]
+  },
+  {
+    "id": "chap6-ck3#18",
+    "quest": [
+      "Snowboarding"
+    ],
+    "answer": [
+      "сноуб_о_рдинг"
+    ]
+  },
+  {
+    "id": "chap6-ck3#19",
+    "quest": [
+      "klasse"
+    ],
+    "answer": [
+      "кл_а_ссно ~(ugs.)~"
+    ]
+  },
+  {
+    "id": "chap6-ck3#20",
+    "quest": [
+      "Sportma­nagement"
+    ],
+    "answer": [
+      "сп_о_ртменеджмент"
+    ]
+  },
+  {
+    "id": "chap6-ck3#21",
+    "quest": [
+      "Marketing"
+    ],
+    "answer": [
+      "марк_е_тинг"
+    ]
+  },
+  {
+    "id": "chap6-ck3#22",
+    "quest": [
+      "Gitarre"
+    ],
+    "answer": [
+      "гит_а_ра"
+    ]
+  },
+  {
+    "id": "chap6-ck3#23",
+    "quest": [
+      "Flöte"
+    ],
+    "answer": [
+      "фл_е_йта"
+    ]
+  },
+  {
+    "id": "chap6-ck3#24",
+    "quest": [
+      "Saxofon"
+    ],
+    "answer": [
+      "саксоф_о_н"
+    ]
+  },
+  {
+    "id": "chap6-ck3#25",
+    "quest": [
+      "Balalaika"
+    ],
+    "answer": [
+      "балал_а_йка"
+    ]
+  },
+  {
+    "id": "chap6-ck3#26",
+    "quest": [
+      "wieder"
+    ],
+    "answer": [
+      "оп_я_ть"
+    ]
+  },
+  {
+    "id": "chap6-ck3#27",
+    "quest": [
+      "Klavier"
+    ],
+    "answer": [
+      "пиан_и_но",
+      "~Neutrum indekl.~"
+    ]
+  },
+  {
+    "id": "chap6-ck3#28",
+    "quest": [
+      "Keyboard"
+    ],
+    "answer": [
+      "к_и_борд"
+    ]
+  },
+  {
+    "id": "chap6-ck3#29",
+    "quest": [
+      "schwimmen"
+    ],
+    "answer": [
+      "пл_а_вать"
+    ]
+  }
+]

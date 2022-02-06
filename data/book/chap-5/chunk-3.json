@@ -1,0 +1,290 @@
+[
+  {
+    "id": "chap5-ck3#01",
+    "quest": [
+      "Stück"
+    ],
+    "answer": [
+      "шт_у_кa"
+    ]
+  },
+  {
+    "id": "chap5-ck3#02",
+    "quest": [
+      "Kann ich Ihnen helfen?"
+    ],
+    "answer": [
+      "Вам пом_о_чь?"
+    ]
+  },
+  {
+    "id": "chap5-ck3#03",
+    "quest": [
+      "Das macht ... Rubel für Sie."
+    ],
+    "answer": [
+      "С вас ... рубль.",
+      "С вас ... рубл_е_й."
+    ]
+  },
+  {
+    "id": "chap5-ck3#04",
+    "quest": [
+      "Geld"
+    ],
+    "answer": [
+      "д_е_ньги",
+      "~Plural~"
+    ]
+  },
+  {
+    "id": "chap5-ck3#05",
+    "quest": [
+      "Was noch?"
+    ],
+    "answer": [
+      "Что ещё?"
+    ]
+  },
+  {
+    "id": "chap5-ck3#06",
+    "quest": [
+      "Das wäre alles."
+    ],
+    "answer": [
+      "_Э_то всё."
+    ]
+  },
+  {
+    "id": "chap5-ck3#07",
+    "quest": [
+      "mit"
+    ],
+    "answer": [
+      "с"
+    ]
+  },
+  {
+    "id": "chap5-ck3#08",
+    "quest": [
+      "Picknick"
+    ],
+    "answer": [
+      "пикн_и_к"
+    ]
+  },
+  {
+    "id": "chap5-ck3#09",
+    "quest": [
+      "Abendbrot",
+      "Abendessen"
+    ],
+    "answer": [
+      "_у_жин"
+    ]
+  },
+  {
+    "id": "chap5-ck3#10",
+    "quest": [
+      "Käufer"
+    ],
+    "answer": [
+      "покуп_а_тель",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck3#11",
+    "quest": [
+      "Bürotechnik"
+    ],
+    "answer": [
+      "_о_фисная т_е_хника"
+    ]
+  },
+  {
+    "id": "chap5-ck3#12",
+    "quest": [
+      "Kopierer"
+    ],
+    "answer": [
+      "кс_е_рокс"
+    ]
+  },
+  {
+    "id": "chap5-ck3#13",
+    "quest": [
+      "Drucker"
+    ],
+    "answer": [
+      "пр_и_нтер"
+    ]
+  },
+  {
+    "id": "chap5-ck3#14",
+    "quest": [
+      "Faxgerät"
+    ],
+    "answer": [
+      "факс"
+    ]
+  },
+  {
+    "id": "chap5-ck3#15",
+    "quest": [
+      "Scanner"
+    ],
+    "answer": [
+      "ск_а_нер"
+    ]
+  },
+  {
+    "id": "chap5-ck3#16",
+    "quest": [
+      "Installation"
+    ],
+    "answer": [
+      "устан_о_вка"
+    ]
+  },
+  {
+    "id": "chap5-ck3#17",
+    "quest": [
+      "Garantie"
+    ],
+    "answer": [
+      "гар_а_нтия"
+    ]
+  },
+  {
+    "id": "chap5-ck3#18",
+    "quest": [
+      "Service"
+    ],
+    "answer": [
+      "с_е_рвис"
+    ]
+  },
+  {
+    "id": "chap5-ck3#19",
+    "quest": [
+      "hier: Süßwarenproduzent"
+    ],
+    "answer": [
+      "конд_и_тер"
+    ]
+  },
+  {
+    "id": "chap5-ck3#20",
+    "quest": [
+      "anbieten",
+      "vorschlagen"
+    ],
+    "answer": [
+      "предлаг_а_ть"
+    ]
+  },
+  {
+    "id": "chap5-ck3#21",
+    "quest": [
+      "Schokolade"
+    ],
+    "answer": [
+      "шокол_а_д"
+    ]
+  },
+  {
+    "id": "chap5-ck3#22",
+    "quest": [
+      "Biskuit"
+    ],
+    "answer": [
+      "бискв_и_т"
+    ]
+  },
+  {
+    "id": "chap5-ck3#23",
+    "quest": [
+      "Torte"
+    ],
+    "answer": [
+      "т_о_рт"
+    ]
+  },
+  {
+    "id": "chap5-ck3#24",
+    "quest": [
+      "Cracker ~(Gebäcksorte)~"
+    ],
+    "answer": [
+      "кр_е_кер"
+    ]
+  },
+  {
+    "id": "chap5-ck3#25",
+    "quest": [
+      "Karamell"
+    ],
+    "answer": [
+      "карам_е_ль",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck3#26",
+    "quest": [
+      "Autohaus"
+    ],
+    "answer": [
+      "автосал_о_н"
+    ]
+  },
+  {
+    "id": "chap5-ck3#27",
+    "quest": [
+      "offiziell",
+      "zugelassen"
+    ],
+    "answer": [
+      "офици_а_льный"
+    ]
+  },
+  {
+    "id": "chap5-ck3#28",
+    "quest": [
+      "Händler"
+    ],
+    "answer": [
+      "д_и_лер"
+    ]
+  },
+  {
+    "id": "chap5-ck3#29",
+    "quest": [
+      "Auto",
+      "Automobil"
+    ],
+    "answer": [
+      "автомобиль",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap5-ck3#30",
+    "quest": [
+      "Dialog"
+    ],
+    "answer": [
+      "диал_о_г"
+    ]
+  },
+  {
+    "id": "chap5-ck3#31",
+    "quest": [
+      "Werbung"
+    ],
+    "answer": [
+      "рекл_а_мa"
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "id": "chap6-ck4#01",
+    "quest": [
+      "Schwimmbad",
+      "Swimmingpool"
+    ],
+    "answer": [
+      "басс_е_йн"
+    ]
+  },
+  {
+    "id": "chap6-ck4#02",
+    "quest": [
+      "Fahrrad fahren"
+    ],
+    "answer": [
+      "кат_а_ться на велосип_е_де"
+    ]
+  },
+  {
+    "id": "chap6-ck4#03",
+    "quest": [
+      "Fahrrad"
+    ],
+    "answer": [
+      "велосип_е_д"
+    ]
+  },
+  {
+    "id": "chap6-ck4#04",
+    "quest": [
+      "fahren",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "кат_а_ться",
+      "я кат_а_юсь",
+      "ты кат_а_ешься",
+      "он / она / оно кат_а_ется",
+      "мы кат_а_емся",
+      "вы кат_а_етесь",
+      "они кат_а_ются"
+    ]
+  },
+  {
+    "id": "chap6-ck4#05",
+    "quest": [
+      "laufen",
+      "rennen"
+    ],
+    "answer": [
+      "б_е_гать"
+    ]
+  },
+  {
+    "id": "chap6-ck4#06",
+    "quest": [
+      "Skateboard"
+    ],
+    "answer": [
+      "скейтб_о_рд"
+    ]
+  },
+  {
+    "id": "chap6-ck4#07",
+    "quest": [
+      "sich erholen",
+      "sich ausruhen"
+    ],
+    "answer": [
+      "отдых_а_ть"
+    ]
+  },
+  {
+    "id": "chap6-ck4#08",
+    "quest": [
+      "Würfelspiel"
+    ],
+    "answer": [
+      "игр_а_ в к_о_сти"
+    ]
+  },
+  {
+    "id": "chap6-ck4#09",
+    "quest": [
+      "gewöhnlich"
+    ],
+    "answer": [
+      "об_ы_чно"
+    ]
+  },
+  {
+    "id": "chap6-ck4#10",
+    "quest": [
+      "Sonntag"
+    ],
+    "answer": [
+      "воскрес_е_нье"
+    ]
+  },
+  {
+    "id": "chap6-ck4#11",
+    "quest": [
+      "Montag"
+    ],
+    "answer": [
+      "понед_е_льник"
+    ]
+  },
+  {
+    "id": "chap6-ck4#12",
+    "quest": [
+      "Dienstag"
+    ],
+    "answer": [
+      "вт_о_рник"
+    ]
+  },
+  {
+    "id": "chap6-ck4#13",
+    "quest": [
+      "Mittwoch"
+    ],
+    "answer": [
+      "сред_а_"
+    ]
+  },
+  {
+    "id": "chap6-ck4#14",
+    "quest": [
+      "Donnerstag"
+    ],
+    "answer": [
+      "четв_е_рг"
+    ]
+  },
+  {
+    "id": "chap6-ck4#15",
+    "quest": [
+      "Freitag"
+    ],
+    "answer": [
+      "п_я_тница"
+    ]
+  },
+  {
+    "id": "chap6-ck4#16",
+    "quest": [
+      "Samstag"
+    ],
+    "answer": [
+      "субб_о_та"
+    ]
+  },
+  {
+    "id": "chap6-ck4#17",
+    "quest": [
+      "morgen"
+    ],
+    "answer": [
+      "з_а_втра"
+    ]
+  },
+  {
+    "id": "chap6-ck4#18",
+    "quest": [
+      "wann?"
+    ],
+    "answer": [
+      "когд_а_?"
+    ]
+  },
+  {
+    "id": "chap6-ck4#19",
+    "quest": [
+      "Disco"
+    ],
+    "answer": [
+      "дискот_е_ка"
+    ]
+  },
+  {
+    "id": "chap6-ck4#20",
+    "quest": [
+      "wohin?"
+    ],
+    "answer": [
+      "куд_а_?"
+    ]
+  },
+  {
+    "id": "chap6-ck4#21",
+    "quest": [
+      "gehen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "ход_и_ть",
+      "я хож_у_",
+      "ты х_о_дишь",
+      "он / она / оно х_о_дит",
+      "мы х_о_дим",
+      "вы х_о_дите",
+      "они х_о_дят"
+    ]
+  },
+  {
+    "id": "chap6-ck4#22",
+    "quest": [
+      "besonders"
+    ],
+    "answer": [
+      "ос_о_бенно"
+    ]
+  },
+  {
+    "id": "chap6-ck4#23",
+    "quest": [
+      "Baum der Freundschaft"
+    ],
+    "answer": [
+      "Д_е_рево Др_у_жбы"
+    ]
+  },
+  {
+    "id": "chap6-ck4#24",
+    "quest": [
+      "Freundschaft"
+    ],
+    "answer": [
+      "др_у_жба"
+    ]
+  },
+  {
+    "id": "chap6-ck4#25",
+    "quest": [
+      "dorthin"
+    ],
+    "answer": [
+      "туд_а_"
+    ]
+  },
+  {
+    "id": "chap6-ck4#26",
+    "quest": [
+      "Schachspiel"
+    ],
+    "answer": [
+      "ш_а_хматы ~Pl.~"
+    ]
+  },
+  {
+    "id": "chap6-ck4#27",
+    "quest": [
+      "Zoo"
+    ],
+    "answer": [
+      "зооп_а_рк"
+    ]
+  },
+  {
+    "id": "chap6-ck4#28",
+    "quest": [
+      "langweilig"
+    ],
+    "answer": [
+      "ск_у_чно"
+    ]
+  },
+  {
+    "id": "chap6-ck4#29",
+    "quest": [
+      "Bergsteigen",
+      "Alpinsport"
+    ],
+    "answer": [
+      "альпин_и_зм"
+    ]
+  },
+  {
+    "id": "chap6-ck4#30",
+    "quest": [
+      "Berg"
+    ],
+    "answer": [
+      "гор_а_",
+      "г_о_ры ~Nom Pl.~"
+    ]
+  },
+  {
+    "id": "chap6-ck4#31",
+    "quest": [
+      "Fitnessclub"
+    ],
+    "answer": [
+      "ф_и_тнес-кл_у_б"
+    ]
+  }
+]

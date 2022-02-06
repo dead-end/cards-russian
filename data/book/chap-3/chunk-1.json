@@ -1,0 +1,277 @@
+[
+  {
+    "id": "chap3-ck1#01",
+    "quest": [
+      "leben",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "жить",
+      "- я жив_у_",
+      "- ты живёшь",
+      "- он, она, оно живёт",
+      "- мы живём",
+      "- вы живёте",
+      "- они жив_у_т"
+    ]
+  },
+  {
+    "id": "chap3-ck1#02",
+    "quest": [
+      "Italien"
+    ],
+    "answer": [
+      "Ит_а_лия"
+    ]
+  },
+  {
+    "id": "chap3-ck1#03",
+    "quest": [
+      "Türkei"
+    ],
+    "answer": [
+      "Т_у_рция"
+    ]
+  },
+  {
+    "id": "chap3-ck1#04",
+    "quest": [
+      "Frankreich"
+    ],
+    "answer": [
+      "Фр_а_нция"
+    ]
+  },
+  {
+    "id": "chap3-ck1#05",
+    "quest": [
+      "Holland"
+    ],
+    "answer": [
+      "Голл_а_ндия"
+    ]
+  },
+  {
+    "id": "chap3-ck1#06",
+    "quest": [
+      "Spanien"
+    ],
+    "answer": [
+      "Исп_а_ния"
+    ]
+  },
+  {
+    "id": "chap3-ck1#07",
+    "quest": [
+      "England"
+    ],
+    "answer": [
+      "_А_нглия"
+    ]
+  },
+  {
+    "id": "chap3-ck1#08",
+    "quest": [
+      "Ukraine"
+    ],
+    "answer": [
+      "Укра_и_на"
+    ]
+  },
+  {
+    "id": "chap3-ck1#09",
+    "quest": [
+      "Norwegen"
+    ],
+    "answer": [
+      "Норв_е_гия"
+    ]
+  },
+  {
+    "id": "chap3-ck1#10",
+    "quest": [
+      "Österreich"
+    ],
+    "answer": [
+      "_А_встрия"
+    ]
+  },
+  {
+    "id": "chap3-ck1#11",
+    "quest": [
+      "sprechen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "говор_и_ть",
+      "- я говор_ю_",
+      "- ты говор_и_шь",
+      "- он, она, оно говор_и_т",
+      "- мы говор_и_м",
+      "- вы говор_и_те",
+      "- они говор_я_т"
+    ]
+  },
+  {
+    "id": "chap3-ck1#12",
+    "quest": [
+      "(auf) Russisch"
+    ],
+    "answer": [
+      "по-р_у_сски"
+    ]
+  },
+  {
+    "id": "chap3-ck1#13",
+    "quest": [
+      "Polen"
+    ],
+    "answer": [
+      "П_о_льша"
+    ]
+  },
+  {
+    "id": "chap3-ck1#14",
+    "quest": [
+      "Tunesien"
+    ],
+    "answer": [
+      "Тун_и_с"
+    ]
+  },
+  {
+    "id": "chap3-ck1#15",
+    "quest": [
+      "Japan"
+    ],
+    "answer": [
+      "Яп_о_ния"
+    ]
+  },
+  {
+    "id": "chap3-ck1#16",
+    "quest": [
+      "Usbekistan"
+    ],
+    "answer": [
+      "Узбекист_а_н"
+    ]
+  },
+  {
+    "id": "chap3-ck1#17",
+    "quest": [
+      "sie"
+    ],
+    "answer": [
+      "он_и_"
+    ]
+  },
+  {
+    "id": "chap3-ck1#18",
+    "quest": [
+      "aber"
+    ],
+    "answer": [
+      "но"
+    ]
+  },
+  {
+    "id": "chap3-ck1#19",
+    "quest": [
+      "(auf) Deutsch"
+    ],
+    "answer": [
+      "по-нем_е_цки"
+    ]
+  },
+  {
+    "id": "chap3-ck1#20",
+    "quest": [
+      "(auf) Englisch"
+    ],
+    "answer": [
+      "по-англ_и_йски"
+    ]
+  },
+  {
+    "id": "chap3-ck1#21",
+    "quest": [
+      "leider"
+    ],
+    "answer": [
+      "к сожал_е_нию"
+    ]
+  },
+  {
+    "id": "chap3-ck1#22",
+    "quest": [
+      "(auf) Spanisch"
+    ],
+    "answer": [
+      "по-исп_а_нски"
+    ]
+  },
+  {
+    "id": "chap3-ck1#23",
+    "quest": [
+      "ein wenig"
+    ],
+    "answer": [
+      "немн_о_го"
+    ]
+  },
+  {
+    "id": "chap3-ck1#24",
+    "quest": [
+      "noch"
+    ],
+    "answer": [
+      "ещё"
+    ]
+  },
+  {
+    "id": "chap3-ck1#25",
+    "quest": [
+      "natürlich"
+    ],
+    "answer": [
+      "кон_е_чно"
+    ]
+  },
+  {
+    "id": "chap3-ck1#26",
+    "quest": [
+      "Kanada"
+    ],
+    "answer": [
+      "Кан_а_да"
+    ]
+  },
+  {
+    "id": "chap3-ck1#27",
+    "quest": [
+      "(auf) Französisch"
+    ],
+    "answer": [
+      "по-франц_у_зски"
+    ]
+  },
+  {
+    "id": "chap3-ck1#28",
+    "quest": [
+      "in / im"
+    ],
+    "answer": [
+      "в ~+ Präpositiv~"
+    ]
+  },
+  {
+    "id": "chap3-ck1#29",
+    "quest": [
+      "jetzt, gerade"
+    ],
+    "answer": [
+      "сейч_а_с"
+    ]
+  }
+]

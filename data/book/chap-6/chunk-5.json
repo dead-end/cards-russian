@@ -1,0 +1,254 @@
+[
+  {
+    "id": "chap6-ck5#01",
+    "quest": [
+      "na"
+    ],
+    "answer": [
+      "ну"
+    ]
+  },
+  {
+    "id": "chap6-ck5#02",
+    "quest": [
+      "Spiel"
+    ],
+    "answer": [
+      "игр_а_"
+    ]
+  },
+  {
+    "id": "chap6-ck5#03",
+    "quest": [
+      "Surfing"
+    ],
+    "answer": [
+      "сёрфинг"
+    ]
+  },
+  {
+    "id": "chap6-ck5#04",
+    "quest": [
+      "Golf"
+    ],
+    "answer": [
+      "гольф"
+    ]
+  },
+  {
+    "id": "chap6-ck5#05",
+    "quest": [
+      "richtig"
+    ],
+    "answer": [
+      "пр_а_вильно"
+    ]
+  },
+  {
+    "id": "chap6-ck5#06",
+    "quest": [
+      "nicht richtig",
+      "falsch"
+    ],
+    "answer": [
+      "непр_а_вильно"
+    ]
+  },
+  {
+    "id": "chap6-ck5#07",
+    "quest": [
+      "Reisebüro"
+    ],
+    "answer": [
+      "турф_и_рма"
+    ]
+  },
+  {
+    "id": "chap6-ck5#08",
+    "quest": [
+      "Urlaub"
+    ],
+    "answer": [
+      "_о_тпуск"
+    ]
+  },
+  {
+    "id": "chap6-ck5#09",
+    "quest": [
+      "Reiseunternehmen"
+    ],
+    "answer": [
+      "тур"
+    ]
+  },
+  {
+    "id": "chap6-ck5#10",
+    "quest": [
+      "Ski laufen"
+    ],
+    "answer": [
+      "кат_а_ться на л_ы_жах",
+      "~Präpositiv Prlural:~ лыжах"
+    ]
+  },
+  {
+    "id": "chap6-ck5#11",
+    "quest": [
+      "Ski"
+    ],
+    "answer": [
+      "лыжи ~Plural~"
+    ]
+  },
+  {
+    "id": "chap6-ck5#12",
+    "quest": [
+      "Tauchen"
+    ],
+    "answer": [
+      "д_а_йвинг"
+    ]
+  },
+  {
+    "id": "chap6-ck5#13",
+    "quest": [
+      "hier: Wasserball"
+    ],
+    "answer": [
+      "поло ~n indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap6-ck5#14",
+    "quest": [
+      "Rafting"
+    ],
+    "answer": [
+      "р_а_фтинг"
+    ]
+  },
+  {
+    "id": "chap6-ck5#15",
+    "quest": [
+      "Bergsteiger"
+    ],
+    "answer": [
+      "альпин_и_ст"
+    ]
+  },
+  {
+    "id": "chap6-ck5#16",
+    "quest": [
+      "einfach klasse ~ugs.~"
+    ],
+    "answer": [
+      "пр_о_сто класс"
+    ]
+  },
+  {
+    "id": "chap6-ck5#17",
+    "quest": [
+      "teuer"
+    ],
+    "answer": [
+      "д_о_рого"
+    ]
+  },
+  {
+    "id": "chap6-ck5#18",
+    "quest": [
+      "Keine Ursache.",
+      "Nichts zu danken."
+    ],
+    "answer": [
+      "Не за что."
+    ]
+  },
+  {
+    "id": "chap6-ck5#19",
+    "quest": [
+      "Alles Gute!",
+      "~zwei mal~"
+    ],
+    "answer": [
+      "Всег_о_ д_о_брого!",
+      "Всег_о_ хор_о_шего!"
+    ]
+  },
+  {
+    "id": "chap6-ck5#20",
+    "quest": [
+      "Bis Samstag!"
+    ],
+    "answer": [
+      "До субб_о_ты!",
+      "~Genitiv:~ субб_о_ты"
+    ]
+  },
+  {
+    "id": "chap6-ck5#21",
+    "quest": [
+      "Kurort"
+    ],
+    "answer": [
+      "г_о_род-кур_о_рт"
+    ]
+  },
+  {
+    "id": "chap6-ck5#22",
+    "quest": [
+      "Exkursion",
+      "Ausflug",
+      "Führung"
+    ],
+    "answer": [
+      "экскурсия"
+    ]
+  },
+  {
+    "id": "chap6-ck5#23",
+    "quest": [
+      "Delfinarium"
+    ],
+    "answer": [
+      "дельфинарий"
+    ]
+  },
+  {
+    "id": "chap6-ck5#24",
+    "quest": [
+      "Region",
+      "~administrative Einheit Russlands~"
+    ],
+    "answer": [
+      "край"
+    ]
+  },
+  {
+    "id": "chap6-ck5#25",
+    "quest": [
+      "Erholung"
+    ],
+    "answer": [
+      "_о_тдых"
+    ]
+  },
+  {
+    "id": "chap6-ck5#26",
+    "quest": [
+      "Sonne"
+    ],
+    "answer": [
+      "с_о_лнце"
+    ]
+  },
+  {
+    "id": "chap6-ck5#27",
+    "quest": [
+      "Konzert"
+    ],
+    "answer": [
+      "конц_е_рт"
+    ]
+  }
+]

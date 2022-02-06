@@ -1,0 +1,331 @@
+[
+  {
+    "id": "chap4-ck4#01",
+    "quest": [
+      "Supermarkt"
+    ],
+    "answer": [
+      "суперм_а_ркет"
+    ]
+  },
+  {
+    "id": "chap4-ck4#02",
+    "quest": [
+      "Bank"
+    ],
+    "answer": [
+      "б_а_нк"
+    ]
+  },
+  {
+    "id": "chap4-ck4#03",
+    "quest": [
+      "Werk ",
+      "Fabrik"
+    ],
+    "answer": [
+      "зав_о_д"
+    ]
+  },
+  {
+    "id": "chap4-ck4#04",
+    "quest": [
+      " Botschaft"
+    ],
+    "answer": [
+      "пос_о_льство"
+    ]
+  },
+  {
+    "id": "chap4-ck4#05",
+    "quest": [
+      "Schule"
+    ],
+    "answer": [
+      "шк_о_ла"
+    ]
+  },
+  {
+    "id": "chap4-ck4#06",
+    "quest": [
+      "Redaktion"
+    ],
+    "answer": [
+      "ред_а_кция"
+    ]
+  },
+  {
+    "id": "chap4-ck4#07",
+    "quest": [
+      "Unternehmen",
+      "Firma"
+    ],
+    "answer": [
+      "комп_а_ния"
+    ]
+  },
+  {
+    "id": "chap4-ck4#08",
+    "quest": [
+      "Kino"
+    ],
+    "answer": [
+      "кин_о_",
+      "~indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap4-ck4#09",
+    "quest": [
+      "Kollege",
+      "Kollegin"
+    ],
+    "answer": [
+      "колл_е_га",
+      "~Maskulinum / Femininum~"
+    ]
+  },
+  {
+    "id": "chap4-ck4#10",
+    "quest": [
+      "Manager",
+      "Managerin"
+    ],
+    "answer": [
+      "м_е_неджер"
+    ]
+  },
+  {
+    "id": "chap4-ck4#11",
+    "quest": [
+      "Partner",
+      "Partnerin "
+    ],
+    "answer": [
+      "партнёр"
+    ]
+  },
+  {
+    "id": "chap4-ck4#12",
+    "quest": [
+      "Ich freue mich sehr, Sie (dich, euch) kennenzulernen."
+    ],
+    "answer": [
+      "_О_чень рад познак_о_миться."
+    ]
+  },
+  {
+    "id": "chap4-ck4#13",
+    "quest": [
+      "froh "
+    ],
+    "answer": [
+      "рад",
+      "р_а_да",
+      "р_а_ды"
+    ]
+  },
+  {
+    "id": "chap4-ck4#14",
+    "quest": [
+      "Ich freue mich, Sie zu sehen.",
+      "Ich freue mich, euch zu sehen."
+    ],
+    "answer": [
+      "Рад вас в_и_деть."
+    ]
+  },
+  {
+    "id": "chap4-ck4#15",
+    "quest": [
+      "Projekt"
+    ],
+    "answer": [
+      "про_е_кт"
+    ]
+  },
+  {
+    "id": "chap4-ck4#16",
+    "quest": [
+      "Es geht gut (voran)."
+    ],
+    "answer": [
+      "Дел_а_ ид_у_т хорош_о_."
+    ]
+  },
+  {
+    "id": "chap4-ck4#17",
+    "quest": [
+      "Mitarbeiterin"
+    ],
+    "answer": [
+      "сотр_у_дница"
+    ]
+  },
+  {
+    "id": "chap4-ck4#18",
+    "quest": [
+      "Danke für das Kompliment!"
+    ],
+    "answer": [
+      "Спас_и_бо за комплим_е_нт!"
+    ]
+  },
+  {
+    "id": "chap4-ck4#19",
+    "quest": [
+      "Direktor",
+      "Direktorin"
+    ],
+    "answer": [
+      "дир_е_ктор"
+    ]
+  },
+  {
+    "id": "chap4-ck4#20",
+    "quest": [
+      "Übersetzerin",
+      "Dolmetscherin"
+    ],
+    "answer": [
+      "перев_о_дчица"
+    ]
+  },
+  {
+    "id": "chap4-ck4#21",
+    "quest": [
+      "Mitarbeiter"
+    ],
+    "answer": [
+      "сотр_у_дник"
+    ]
+  },
+  {
+    "id": "chap4-ck4#22",
+    "quest": [
+      "Übersetzer",
+      "Dometscher"
+    ],
+    "answer": [
+      "перев_о_дчик"
+    ]
+  },
+  {
+    "id": "chap4-ck4#23",
+    "quest": [
+      "Techniker",
+      "Technikerin"
+    ],
+    "answer": [
+      "т_е_хник"
+    ]
+  },
+  {
+    "id": "chap4-ck4#24",
+    "quest": [
+      "Agent",
+      "Agentin",
+      "Vertreter",
+      "Vertreterin"
+    ],
+    "answer": [
+      "аг_е_нт"
+    ]
+  },
+  {
+    "id": "chap4-ck4#25",
+    "quest": [
+      "Finanzfachmann",
+      "Finanzfachfrau"
+    ],
+    "answer": [
+      "финанс_и_ст"
+    ]
+  },
+  {
+    "id": "chap4-ck4#26",
+    "quest": [
+      "schön",
+      "wunderschön",
+      "wunderbar"
+    ],
+    "answer": [
+      "прекр_а_сно"
+    ]
+  },
+  {
+    "id": "chap4-ck4#27",
+    "quest": [
+      "(kleine) Stadt"
+    ],
+    "answer": [
+      "город_о_к",
+      "городк_а_ ~- Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap4-ck4#28",
+    "quest": [
+      "Universität für Luft und Weltraumfahrt"
+    ],
+    "answer": [
+      "Аэрокосм_и_ческий университ_е_т"
+    ]
+  },
+  {
+    "id": "chap4-ck4#29",
+    "quest": [
+      "Flugzeugfabrik"
+    ],
+    "answer": [
+      "авиаци_о_нный зав_о_д"
+    ]
+  },
+  {
+    "id": "chap4-ck4#30",
+    "quest": [
+      "Automobilwerk"
+    ],
+    "answer": [
+      "автомоб_и_льный зав_о_д"
+    ]
+  },
+  {
+    "id": "chap4-ck4#31",
+    "quest": [
+      "Opern und Balletttheater"
+    ],
+    "answer": [
+      "те_а_тр _о_перы и бал_е_та"
+    ]
+  },
+  {
+    "id": "chap4-ck4#32",
+    "quest": [
+      "Frauenkloster"
+    ],
+    "answer": [
+      "ж_е_нский монаст_ы_рь",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap4-ck4#33",
+    "quest": [
+      "Synagoge"
+    ],
+    "answer": [
+      "синаг_о_га"
+    ]
+  },
+  {
+    "id": "chap4-ck4#34",
+    "quest": [
+      "Gruschin Festival"
+    ],
+    "answer": [
+      "Гр_у_шинский фестив_а_ль",
+      "~Maskulinum - Endung: ь~"
+    ]
+  }
+]

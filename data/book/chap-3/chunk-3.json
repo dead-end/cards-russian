@@ -1,0 +1,274 @@
+[
+  {
+    "id": "chap3-ck3#01",
+    "quest": [
+      "Überraschung"
+    ],
+    "answer": [
+      "сюрпр_и_з"
+    ]
+  },
+  {
+    "id": "chap3-ck3#02",
+    "quest": [
+      "Bis bald!"
+    ],
+    "answer": [
+      "до встр_е_чи!"
+    ]
+  },
+  {
+    "id": "chap3-ck3#03",
+    "quest": [
+      "Hallo! (am Telefon)"
+    ],
+    "answer": [
+      "Алл_о_!"
+    ]
+  },
+  {
+    "id": "chap3-ck3#04",
+    "quest": [
+      "Das ist aber toll!"
+    ],
+    "answer": [
+      "Вот зд_о_рово!"
+    ]
+  },
+  {
+    "id": "chap3-ck3#05",
+    "quest": [
+      "Lass uns treffen!"
+    ],
+    "answer": [
+      "дав_а_й встр_е_тимся"
+    ]
+  },
+  {
+    "id": "chap3-ck3#06",
+    "quest": [
+      "Bahnhof"
+    ],
+    "answer": [
+      "вокз_а_л"
+    ]
+  },
+  {
+    "id": "chap3-ck3#07",
+    "quest": [
+      "Guten Abend!"
+    ],
+    "answer": [
+      "Д_о_брый в_е_чер!"
+    ]
+  },
+  {
+    "id": "chap3-ck3#08",
+    "quest": [
+      "Einen Augenblick!"
+    ],
+    "answer": [
+      "Мин_у_точку!"
+    ]
+  },
+  {
+    "id": "chap3-ck3#09",
+    "quest": [
+      "ihr, euer"
+    ],
+    "answer": [
+      "ваш"
+    ]
+  },
+  {
+    "id": "chap3-ck3#10",
+    "quest": [
+      "Pass, Ausweis"
+    ],
+    "answer": [
+      "п_а_спорт"
+    ]
+  },
+  {
+    "id": "chap3-ck3#11",
+    "quest": [
+      "Hotelzimmer"
+    ],
+    "answer": [
+      "н_о_мер"
+    ]
+  },
+  {
+    "id": "chap3-ck3#12",
+    "quest": [
+      "Schlüssel"
+    ],
+    "answer": [
+      "ключ"
+    ]
+  },
+  {
+    "id": "chap3-ck3#13",
+    "quest": [
+      "Aufzug"
+    ],
+    "answer": [
+      "лифт"
+    ]
+  },
+  {
+    "id": "chap3-ck3#14",
+    "quest": [
+      "rechts"
+    ],
+    "answer": [
+      "спр_а_ва"
+    ]
+  },
+  {
+    "id": "chap3-ck3#15",
+    "quest": [
+      "links"
+    ],
+    "answer": [
+      "сл_е_ва"
+    ]
+  },
+  {
+    "id": "chap3-ck3#16",
+    "quest": [
+      "(Hotel-) Formular für Gäste"
+    ],
+    "answer": [
+      "к_а_рта г_о_стя"
+    ]
+  },
+  {
+    "id": "chap3-ck3#17",
+    "quest": [
+      "mein Nachname"
+    ],
+    "answer": [
+      "мо_я_ фам_и_лия"
+    ]
+  },
+  {
+    "id": "chap3-ck3#18",
+    "quest": [
+      "mein Vorname"
+    ],
+    "answer": [
+      "моё _и_мя",
+      "~Ausnahme: Neutrum~"
+    ]
+  },
+  {
+    "id": "chap3-ck3#19",
+    "quest": [
+      "Geburtsdatum"
+    ],
+    "answer": [
+      "д_а_та рожд_е_ния"
+    ]
+  },
+  {
+    "id": "chap3-ck3#20",
+    "quest": [
+      "Datum"
+    ],
+    "answer": [
+      "д_а_та"
+    ]
+  },
+  {
+    "id": "chap3-ck3#21",
+    "quest": [
+      "Land"
+    ],
+    "answer": [
+      "стран_а_"
+    ]
+  },
+  {
+    "id": "chap3-ck3#22",
+    "quest": [
+      "Unterschrift"
+    ],
+    "answer": [
+      "п_о_дпись",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap3-ck3#23",
+    "quest": [
+      "Tee"
+    ],
+    "answer": [
+      "чай"
+    ]
+  },
+  {
+    "id": "chap3-ck3#24",
+    "quest": [
+      "Hafen"
+    ],
+    "answer": [
+      "порт"
+    ]
+  },
+  {
+    "id": "chap3-ck3#25",
+    "quest": [
+      "Jazz"
+    ],
+    "answer": [
+      "джаз"
+    ]
+  },
+  {
+    "id": "chap3-ck3#26",
+    "quest": [
+      "Mönch"
+    ],
+    "answer": [
+      "мон_а_х"
+    ]
+  },
+  {
+    "id": "chap3-ck3#27",
+    "quest": [
+      "Meer"
+    ],
+    "answer": [
+      "м_о_ре"
+    ]
+  },
+  {
+    "id": "chap3-ck3#28",
+    "quest": [
+      "Vater"
+    ],
+    "answer": [
+      "от_е_ц"
+    ]
+  },
+  {
+    "id": "chap3-ck3#29",
+    "quest": [
+      "Präsident, -in"
+    ],
+    "answer": [
+      "презид_е_нт"
+    ]
+  },
+  {
+    "id": "chap3-ck3#30",
+    "quest": [
+      "über"
+    ],
+    "answer": [
+      "о ~+ Präpositiv~"
+    ]
+  }
+]

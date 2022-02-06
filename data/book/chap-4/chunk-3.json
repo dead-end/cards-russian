@@ -1,0 +1,332 @@
+[
+  {
+    "id": "chap4-ck3#01",
+    "quest": [
+      "wissen",
+      "kennen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "зн_а_ть",
+      "- я зн_а_ю",
+      "- ты зн_а_ешь",
+      "- он, она, оно зн_а_ет",
+      "- мы зн_а_ем",
+      "- вы зн_а_ете",
+      "- они зн_а_ют"
+    ]
+  },
+  {
+    "id": "chap4-ck3#02",
+    "quest": [
+      "Sekretär",
+      "Sekretärin"
+    ],
+    "answer": [
+      "секрет_а_рь",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap4-ck3#03",
+    "quest": [
+      "Büro "
+    ],
+    "answer": [
+      "_о_фис"
+    ]
+  },
+  {
+    "id": "chap4-ck3#04",
+    "quest": [
+      "Hausfrau"
+    ],
+    "answer": [
+      "домохоз_я_йка"
+    ]
+  },
+  {
+    "id": "chap4-ck3#05",
+    "quest": [
+      "Fotograf",
+      "Fotografin"
+    ],
+    "answer": [
+      "фот_о_граф"
+    ]
+  },
+  {
+    "id": "chap4-ck3#06",
+    "quest": [
+      "oft"
+    ],
+    "answer": [
+      "ч_а_сто"
+    ]
+  },
+  {
+    "id": "chap4-ck3#07",
+    "quest": [
+      "Dienstreise"
+    ],
+    "answer": [
+      "командир_о_вка"
+    ]
+  },
+  {
+    "id": "chap4-ck3#08",
+    "quest": [
+      "deshalb"
+    ],
+    "answer": [
+      "по_э_тому"
+    ]
+  },
+  {
+    "id": "chap4-ck3#09",
+    "quest": [
+      "zu Hause"
+    ],
+    "answer": [
+      "д_о_ма"
+    ]
+  },
+  {
+    "id": "chap4-ck3#10",
+    "quest": [
+      "wissen Sie was"
+    ],
+    "answer": [
+      "зн_а_ете что ..."
+    ]
+  },
+  {
+    "id": "chap4-ck3#11",
+    "quest": [
+      "Lasst uns gehen! / Gehen wir!",
+      "Lassen Sie uns gehen!"
+    ],
+    "answer": [
+      "пойдём",
+      "пойдёмте"
+    ]
+  },
+  {
+    "id": "chap4-ck3#12",
+    "quest": [
+      "Café",
+      "Kaffeehaus"
+    ],
+    "answer": [
+      "каф_е_",
+      "~Neutrum - indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap4-ck3#13",
+    "quest": [
+      "Lasst uns miteinander reden!",
+      "Lassen Sie uns miteinander reden!"
+    ],
+    "answer": [
+      "поговор_и_м"
+    ]
+  },
+  {
+    "id": "chap4-ck3#14",
+    "quest": [
+      "gerne",
+      "mit Vergnügen"
+    ],
+    "answer": [
+      "с удов_о_льствием"
+    ]
+  },
+  {
+    "id": "chap4-ck3#15",
+    "quest": [
+      "warum  "
+    ],
+    "answer": [
+      "почем_у_"
+    ]
+  },
+  {
+    "id": "chap4-ck3#16",
+    "quest": [
+      "wie viel "
+    ],
+    "answer": [
+      "ск_о_лько"
+    ]
+  },
+  {
+    "id": "chap4-ck3#17",
+    "quest": [
+      "Student"
+    ],
+    "answer": [
+      "студ_е_нт"
+    ]
+  },
+  {
+    "id": "chap4-ck3#18",
+    "quest": [
+      "Rechtsanwalt",
+      "Rechtsanwältin"
+    ],
+    "answer": [
+      "адвок_а_т"
+    ]
+  },
+  {
+    "id": "chap4-ck3#19",
+    "quest": [
+      "Schauspielerin"
+    ],
+    "answer": [
+      "актр_и_са"
+    ]
+  },
+  {
+    "id": "chap4-ck3#20",
+    "quest": [
+      "Flugbegleiterin"
+    ],
+    "answer": [
+      "стюард_е_сса"
+    ]
+  },
+  {
+    "id": "chap4-ck3#21",
+    "quest": [
+      "Fremdenführer",
+      "Fremdenführerin"
+    ],
+    "answer": [
+      "гид"
+    ]
+  },
+  {
+    "id": "chap4-ck3#22",
+    "quest": [
+      "Schauspieler "
+    ],
+    "answer": [
+      "актёр"
+    ]
+  },
+  {
+    "id": "chap4-ck3#23",
+    "quest": [
+      "promovierte Lehrkraft"
+    ],
+    "answer": [
+      "доц_е_нт",
+      "~Maskulinum~"
+    ]
+  },
+  {
+    "id": "chap4-ck3#24",
+    "quest": [
+      "Journalist"
+    ],
+    "answer": [
+      "журнал_и_ст"
+    ]
+  },
+  {
+    "id": "chap4-ck3#25",
+    "quest": [
+      "Schüler"
+    ],
+    "answer": [
+      "шк_о_льник"
+    ]
+  },
+  {
+    "id": "chap4-ck3#26",
+    "quest": [
+      "Ökonom",
+      "Ökonomin"
+    ],
+    "answer": [
+      "эконом_и_ст"
+    ]
+  },
+  {
+    "id": "chap4-ck3#27",
+    "quest": [
+      "Flugbegleiter"
+    ],
+    "answer": [
+      "ст_ю_ард"
+    ]
+  },
+  {
+    "id": "chap4-ck3#28",
+    "quest": [
+      "Rentnerin"
+    ],
+    "answer": [
+      "пенсион_е_рка"
+    ]
+  },
+  {
+    "id": "chap4-ck3#29",
+    "quest": [
+      "Verkäufer"
+    ],
+    "answer": [
+      "продав_е_ц",
+      "продавц_а_ ~- Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap4-ck3#30",
+    "quest": [
+      "Schülerin"
+    ],
+    "answer": [
+      "шк_о_льница"
+    ]
+  },
+  {
+    "id": "chap4-ck3#31",
+    "quest": [
+      "Lehrerin"
+    ],
+    "answer": [
+      "уч_и_тельница"
+    ]
+  },
+  {
+    "id": "chap4-ck3#32",
+    "quest": [
+      "Verkäuferin"
+    ],
+    "answer": [
+      "продавщ_и_ца"
+    ]
+  },
+  {
+    "id": "chap4-ck3#33",
+    "quest": [
+      "Diplomat",
+      "Diplomatin"
+    ],
+    "answer": [
+      "диплом_а_т"
+    ]
+  },
+  {
+    "id": "chap4-ck3#34",
+    "quest": [
+      "Lehrer"
+    ],
+    "answer": [
+      "уч_и_тель",
+      "~Maskulinum - Endung: ь~"
+    ]
+  }
+]

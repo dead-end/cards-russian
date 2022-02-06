@@ -1,0 +1,298 @@
+[
+    {
+        "id": "gram-mein-dein#01",
+        "quest": [
+            "mein Geschäft"
+        ],
+        "answer": [
+            "мой магаз_и_н"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#02",
+        "quest": [
+            "mein Kühlschrank"
+        ],
+        "answer": [
+            "мой холод_и_льник"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#03",
+        "quest": [
+            "mein Brötchen"
+        ],
+        "answer": [
+            "мо_я_ б_у_лочка"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#04",
+        "quest": [
+            "meine Beruf"
+        ],
+        "answer": [
+            "мо_я_ проф_е_ссия"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#05",
+        "quest": [
+            "mein Meer"
+        ],
+        "answer": [
+            "моё м_о_ре"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#06",
+        "quest": [
+            "meine Milch"
+        ],
+        "answer": [
+            "моё молок_о_"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#07",
+        "quest": [
+            "meine Kinder"
+        ],
+        "answer": [
+            "мо_и_ дет_е_й"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#08",
+        "quest": [
+            "meine Brüder"
+        ],
+        "answer": [
+            "мо_и_ бр_а_тья"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#09",
+        "quest": [
+            "dein Pass"
+        ],
+        "answer": [
+            "твой п_а_спорт"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#10",
+        "quest": [
+            "dein Tee"
+        ],
+        "answer": [
+            "твой чай"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#11",
+        "quest": [
+            "dein Hotel"
+        ],
+        "answer": [
+            "тво_я_ гост_и_ница"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#12",
+        "quest": [
+            "dein Foto"
+        ],
+        "answer": [
+            "тво_я_ фотогр_а_фия"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#13",
+        "quest": [
+            "dein Bier"
+        ],
+        "answer": [
+            "твоё п_и_во"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#14",
+        "quest": [
+            "dein Wein"
+        ],
+        "answer": [
+            "твоё вин_о_"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#15",
+        "quest": [
+            "deine Eltern"
+        ],
+        "answer": [
+            "тво_и_ род_и_тели"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#16",
+        "quest": [
+            "deine Schwestern"
+        ],
+        "answer": [
+            "тво_и_ сёстры"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#17",
+        "quest": [
+            "unser Museum"
+        ],
+        "answer": [
+            "наш муз_е_й"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#18",
+        "quest": [
+            "unsere Stadt"
+        ],
+        "answer": [
+            "наш г_о_род"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#19",
+        "quest": [
+            "unsere Nationalität"
+        ],
+        "answer": [
+            "н_а_ша национ_а_льность"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#20",
+        "quest": [
+            "unsere Firma"
+        ],
+        "answer": [
+            "н_а_ша ф_и_рма"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#21",
+        "quest": [
+            "unser Platz"
+        ],
+        "answer": [
+            "н_а_ше м_е_сто"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#22",
+        "quest": [
+            "unsere Aufgabe"
+        ],
+        "answer": [
+            "н_а_ше зад_а_ние"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#23",
+        "quest": [
+            "unsere Enkel"
+        ],
+        "answer": [
+            "н_а_ши внуки"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#24",
+        "quest": [
+            "unsere Söhne"
+        ],
+        "answer": [
+            "н_а_ши сыновья"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#25",
+        "quest": [
+            "- euer Bahnhof",
+            "- Ihr Bahnhof"
+        ],
+        "answer": [
+            "ваш вокз_а_л"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#26",
+        "quest": [
+            "- euer Adresse",
+            "- Ihre Adresse"
+        ],
+        "answer": [
+            "ваш _а_дрес"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#27",
+        "quest": [
+            "- eure Wohnung",
+            "- Ihre Wohnung"
+        ],
+        "answer": [
+            "в_а_ша кварт_и_ра"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#28",
+        "quest": [
+            "- eure Land",
+            "- Ihre Land"
+        ],
+        "answer": [
+            "в_а_ша стран_а_"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#29",
+        "quest": [
+            "- eurer Vorname",
+            "- Ihr Vorname"
+        ],
+        "answer": [
+            "в_а_ше _и_мя"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#30",
+        "quest": [
+            "- eurer Wort",
+            "- Ihr Wort"
+        ],
+        "answer": [
+            "в_а_ше сл_о_во"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#31",
+        "quest": [
+            "- eure Freunde",
+            "- Ihre Freunde"
+        ],
+        "answer": [
+            "в_а_ши друзь_я_"
+        ]
+    },
+    {
+        "id": "gram-mein-dein#32",
+        "quest": [
+            "- eure Töchter",
+            "- Ihre Töchter"
+        ],
+        "answer": [
+            "в_а_ши дочери"
+        ]
+    }
+]

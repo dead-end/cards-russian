@@ -1,0 +1,221 @@
+[
+  {
+    "id": "chap2-ck2#01",
+    "quest": [
+      "auch"
+    ],
+    "answer": [
+      "т_о_же"
+    ]
+  },
+  {
+    "id": "chap2-ck2#02",
+    "quest": [
+      "schlecht"
+    ],
+    "answer": [
+      "пл_о_хо"
+    ]
+  },
+  {
+    "id": "chap2-ck2#03",
+    "quest": [
+      "woher"
+    ],
+    "answer": [
+      "отк_у_да"
+    ]
+  },
+  {
+    "id": "chap2-ck2#04",
+    "quest": [
+      "Sag!"
+    ],
+    "answer": [
+      "скаж_и_"
+    ]
+  },
+  {
+    "id": "chap2-ck2#05",
+    "quest": [
+      "Sagen Sie!"
+    ],
+    "answer": [
+      "скаж_и_те"
+    ]
+  },
+  {
+    "id": "chap2-ck2#06",
+    "quest": [
+      "wo"
+    ],
+    "answer": [
+      "где"
+    ]
+  },
+  {
+    "id": "chap2-ck2#07",
+    "quest": [
+      "hier: da, hier (ist, sind)"
+    ],
+    "answer": [
+      "вот"
+    ]
+  },
+  {
+    "id": "chap2-ck2#08",
+    "quest": [
+      "interessant"
+    ],
+    "answer": [
+      "интер_е_сно"
+    ]
+  },
+  {
+    "id": "chap2-ck2#09",
+    "quest": [
+      "wahrscheinlich"
+    ],
+    "answer": [
+      "нав_е_рное"
+    ]
+  },
+  {
+    "id": "chap2-ck2#10",
+    "quest": [
+      "Russe / Russin"
+    ],
+    "answer": [
+      "р_у_сский / р_у_сская"
+    ]
+  },
+  {
+    "id": "chap2-ck2#11",
+    "quest": [
+      "Deutscher / Deutsche"
+    ],
+    "answer": [
+      "н_е_мец / н_е_мка"
+    ]
+  },
+  {
+    "id": "chap2-ck2#12",
+    "quest": [
+      "Welche Nationalität hast du / haben Sie?"
+    ],
+    "answer": [
+      "Кто вы (ты) по национ_а_льности?"
+    ]
+  },
+  {
+    "id": "chap2-ck2#13",
+    "quest": [
+      "Nationalität"
+    ],
+    "answer": [
+      "национ_а_льность",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap2-ck2#14",
+    "quest": [
+      "Entschuldigen Sie! / Enschuldigt!"
+    ],
+    "answer": [
+      "извин_и_те"
+    ]
+  },
+  {
+    "id": "chap2-ck2#15",
+    "quest": [
+      "dort"
+    ],
+    "answer": [
+      "там"
+    ]
+  },
+  {
+    "id": "chap2-ck2#16",
+    "quest": [
+      "Deutschland"
+    ],
+    "answer": [
+      "Герм_а_ния"
+    ]
+  },
+  {
+    "id": "chap2-ck2#17",
+    "quest": [
+      "ja"
+    ],
+    "answer": [
+      "да"
+    ]
+  },
+  {
+    "id": "chap2-ck2#18",
+    "quest": [
+      "Goldener Ring"
+    ],
+    "answer": [
+      "Золот_о_е кольц_о_"
+    ]
+  },
+  {
+    "id": "chap2-ck2#19",
+    "quest": [
+      "heute"
+    ],
+    "answer": [
+      "сег_о_дня"
+    ]
+  },
+  {
+    "id": "chap2-ck2#20",
+    "quest": [
+      "Exkursion"
+    ],
+    "answer": [
+      "экск_у_рсия"
+    ]
+  },
+  {
+    "id": "chap2-ck2#21",
+    "quest": [
+      "Kloster"
+    ],
+    "answer": [
+      "монаст_ы_рь",
+      "~Maskulinum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap2-ck2#22",
+    "quest": [
+      "Kirche"
+    ],
+    "answer": [
+      "ц_е_рковь",
+      "~Femininum - Endung: ь~"
+    ]
+  },
+  {
+    "id": "chap2-ck2#23",
+    "quest": [
+      "Dom, Kathedrale"
+    ],
+    "answer": [
+      "соб_о_р"
+    ]
+  },
+  {
+    "id": "chap2-ck2#24",
+    "quest": [
+      "Fastnachtswoche"
+    ],
+    "answer": [
+      "м_а_сленица"
+    ]
+  }
+]

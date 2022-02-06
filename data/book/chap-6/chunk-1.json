@@ -1,0 +1,297 @@
+[
+  {
+    "id": "chap6-ck1#01",
+    "quest": [
+      "Freizeit"
+    ],
+    "answer": [
+      "своб_о_дное вр_е_мя",
+      "~Freiheit:~ Своб_о_да"
+    ]
+  },
+  {
+    "id": "chap6-ck1#02",
+    "quest": [
+      "Zeit"
+    ],
+    "answer": [
+      "вр_е_мя",
+      "~Neutrum:~ -мя"
+    ]
+  },
+  {
+    "id": "chap6-ck1#03",
+    "quest": [
+      "Fußball"
+    ],
+    "answer": [
+      "футб_о_л"
+    ]
+  },
+  {
+    "id": "chap6-ck1#04",
+    "quest": [
+      "Musik"
+    ],
+    "answer": [
+      "м_у_зыка"
+    ]
+  },
+  {
+    "id": "chap6-ck1#05",
+    "quest": [
+      "Handball"
+    ],
+    "answer": [
+      "гандб_о_л"
+    ]
+  },
+  {
+    "id": "chap6-ck1#06",
+    "quest": [
+      "Volleyball"
+    ],
+    "answer": [
+      "волейб_о_л"
+    ]
+  },
+  {
+    "id": "chap6-ck1#07",
+    "quest": [
+      "Federball"
+    ],
+    "answer": [
+      "бадминт_о_н"
+    ]
+  },
+  {
+    "id": "chap6-ck1#08",
+    "quest": [
+      "Ballett"
+    ],
+    "answer": [
+      "бал_е_т"
+    ]
+  },
+  {
+    "id": "chap6-ck1#09",
+    "quest": [
+      "Eishockey"
+    ],
+    "answer": [
+      "хокк_е_й"
+    ]
+  },
+  {
+    "id": "chap6-ck1#10",
+    "quest": [
+      "Radsport"
+    ],
+    "answer": [
+      "велосп_о_рт"
+    ]
+  },
+  {
+    "id": "chap6-ck1#11",
+    "quest": [
+      "Literatur"
+    ],
+    "answer": [
+      "литерат_у_ра"
+    ]
+  },
+  {
+    "id": "chap6-ck1#12",
+    "quest": [
+      "Internet"
+    ],
+    "answer": [
+      "Интерн_е_т"
+    ]
+  },
+  {
+    "id": "chap6-ck1#13",
+    "quest": [
+      "Gymnastik"
+    ],
+    "answer": [
+      "гимн_а_стика"
+    ]
+  },
+  {
+    "id": "chap6-ck1#14",
+    "quest": [
+      "Shopping"
+    ],
+    "answer": [
+      "ш_о_пинг"
+    ]
+  },
+  {
+    "id": "chap6-ck1#15",
+    "quest": [
+      "Was mögen Sie?"
+    ],
+    "answer": [
+      "Что вы л_ю_бите?"
+    ]
+  },
+  {
+    "id": "chap6-ck1#16",
+    "quest": [
+      "lieben",
+      "mögen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "люб_и_ть",
+      "я л_ю_блю",
+      "ты л_ю_бишь",
+      "он / она / оно л_ю_бит",
+      "мы л_ю_бим",
+      "вы л_ю_бите",
+      "они л_ю_бят"
+    ]
+  },
+  {
+    "id": "chap6-ck1#17",
+    "quest": [
+      "Klassik"
+    ],
+    "answer": [
+      "кл_а_ссика"
+    ]
+  },
+  {
+    "id": "chap6-ck1#18",
+    "quest": [
+      "Rock"
+    ],
+    "answer": [
+      "рок"
+    ]
+  },
+  {
+    "id": "chap6-ck1#19",
+    "quest": [
+      "Rap"
+    ],
+    "answer": [
+      "рэп"
+    ]
+  },
+  {
+    "id": "chap6-ck1#20",
+    "quest": [
+      "Tennis"
+    ],
+    "answer": [
+      "т_е_ннис"
+    ]
+  },
+  {
+    "id": "chap6-ck1#21",
+    "quest": [
+      "(Musik) hö­ren"
+    ],
+    "answer": [
+      "сл_у_шать (м_у_зыку)"
+    ]
+  },
+  {
+    "id": "chap6-ck1#22",
+    "quest": [
+      "lesen"
+    ],
+    "answer": [
+      "чит_а_ть"
+    ]
+  },
+  {
+    "id": "chap6-ck1#23",
+    "quest": [
+      "Sport"
+    ],
+    "answer": [
+      "спорт"
+    ]
+  },
+  {
+    "id": "chap6-ck1#24",
+    "quest": [
+      "im Internet surfen (ugs.)"
+    ],
+    "answer": [
+      "сид_е_ть в Интерн_е_те"
+    ]
+  },
+  {
+    "id": "chap6-ck1#25",
+    "quest": [
+      "sitzen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "сид_е_ть",
+      "я сиж_у_",
+      "ты сид_и_шь",
+      "он / она / оно сид_и_т",
+      "мы сид_и_м",
+      "вы сид_и_те",
+      "они сид_я_т"
+    ]
+  },
+  {
+    "id": "chap6-ck1#26",
+    "quest": [
+      "fernse­hen"
+    ],
+    "answer": [
+      "смотр_е_ть телев_и_зор"
+    ]
+  },
+  {
+    "id": "chap6-ck1#27",
+    "quest": [
+      "schauen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "смотр_е_ть",
+      "я смотр_ю_",
+      "ты см_о_тришь",
+      "он / она / оно см_о_трит",
+      "мы см_о_трим",
+      "вы см_о_трите",
+      "они см_о_трят"
+    ]
+  },
+  {
+    "id": "chap6-ck1#28",
+    "quest": [
+      "Fernseher"
+    ],
+    "answer": [
+      "телев_и_зор"
+    ]
+  },
+  {
+    "id": "chap6-ck1#29",
+    "quest": [
+      "spazieren gehen"
+    ],
+    "answer": [
+      "гул_я_ть"
+    ]
+  },
+  {
+    "id": "chap6-ck1#30",
+    "quest": [
+      "Wald"
+    ],
+    "answer": [
+      "лес",
+      "в лесу ~Präp. Singular~"
+    ]
+  }
+]
