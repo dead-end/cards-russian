@@ -197,10 +197,35 @@
         ]
     },
     {
-        "file": "data/gram/akk.json",
+        "file": "data/gram/akk/chk-1.json",
         "title": "Grammatik Akkusativ",
         "tags": [
-            "Grammatik"
+            "Grammatik",
+            "Akkusativ"
+        ],
+        "details": [
+            "~Maskulinum Singular:~",
+            "- ~unbelebt =>~ -",
+            "- ~belebt =>~ а",
+            "~Neutrum Singular:~",
+            "- о ~=>~ -",
+            "- е ~=>~ -",
+            "~Femininum Singular:~",
+            "- а ~=>~у",
+            "- я ~=>~ ю",
+            "- ь ~=>~ -",
+            "~Plural:~",
+            "- ~belebt Maskulinum:~ - ~=>~ ов",
+            "- ~belebt:~ ь ~=>~ ей",
+            "- ~unbelebt:~ -"
+        ]
+    },
+    {
+        "file": "data/gram/akk/chk-2.json",
+        "title": "Grammatik Akkusativ",
+        "tags": [
+            "Grammatik",
+            "Akkusativ"
         ],
         "details": [
             "~Maskulinum Singular:~",

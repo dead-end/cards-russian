@@ -1,0 +1,319 @@
+[
+  {
+    "id": "gram-akk-ch2#01",
+    "quest": [
+      "Sie lesen Zeitschriften."
+    ],
+    "answer": [
+      "Они читают журналы."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#02",
+    "quest": [
+      "Der Händler verkauft Zeitungen und Magazine."
+    ],
+    "answer": [
+      "Дилер продает газеты и журналы."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#03",
+    "quest": [
+      "Unser Freund verkauft das Auto."
+    ],
+    "answer": [
+      "Наш друг продаёт машину."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#04",
+    "quest": [
+      "Die Mitarbeiterin verkauft Wurst, Würstchen, Milch und Eier auf dem Markt."
+    ],
+    "answer": [
+      "Сотрудница продаёт на рынке колбасу, сосиски, молоко и яйца."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#05",
+    "quest": [
+      "Die Familie kauft Fisch, Käse, Tomaten und Marmelade im Supermarkt."
+    ],
+    "answer": [
+      "Семья покупает в супермаркете рыбу, сыр, помидоры и варенье."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#06",
+    "quest": [
+      "Der Freund kauft das Auto im Autosalon."
+    ],
+    "answer": [
+      "Друг покупает машину в автосалоне."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#07",
+    "quest": [
+      "Die Freunde kaufen Kuchen im Kirchen Laden."
+    ],
+    "answer": [
+      "Друзья покупают пирог в церковной лавке."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#08",
+    "quest": [
+      "Ich schreibe den Vornamen und Namen."
+    ],
+    "answer": [
+      "Я пишу имя и фамилию."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#09",
+    "quest": [
+      "Die Studentin schreibt den Dialog."
+    ],
+    "answer": [
+      "Студентка пишет диалог."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#10",
+    "quest": [
+      "Vater und Mutter kaufen eine Katze und einen Hund."
+    ],
+    "answer": [
+      "Отец и мать покупают кошку и собаку."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#11",
+    "quest": [
+      "Ich schaue den Stuard an."
+    ],
+    "answer": [
+      "Я смотрю на стюарда."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#12",
+    "quest": [
+      "Der Käufer liesst die Garantie."
+    ],
+    "answer": [
+      "Покупатель читает гарантию."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#13",
+    "quest": [
+      "Geben Sie mir Bonbons, eine Schachtel."
+    ],
+    "answer": [
+      "Дайте мне конфету, одну коробку."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#14",
+    "quest": [
+      "Ich liebe Bier. Geben Sie mir drei Flaschen."
+    ],
+    "answer": [
+      "Я люблю пиво. Дайте мне три бутылки. "
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#15",
+    "quest": [
+      "Ich und meine Frau kennen die Schauspieler und Schauspielerinnen."
+    ],
+    "answer": [
+      "Я и моя жена знаем актёров и актрис.",
+      "~Ausnahme Akkusativ Plural:~ актрис "
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#16",
+    "quest": [
+      "Wir lernen zusammen die russische Sprache."
+    ],
+    "answer": [
+      "Мы вместе учим русский язык."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#17",
+    "quest": [
+      "Die Schülerin lernt oft Mathematik."
+    ],
+    "answer": [
+      "Школьница учит часто математику."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#18",
+    "quest": [
+      "Ich trinke Mineralwasser und armenischen Cognac."
+    ],
+    "answer": [
+      "Я пью минеральную воду и армянский коньяк."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#19",
+    "quest": [
+      "Die Frau und der Mann trinken Apfelsaft."
+    ],
+    "answer": [
+      "Женщина и мужчина пьют яблочный сок."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#20",
+    "quest": [
+      "Meine Freundin und ich trinken Kaffee und keinen Tee."
+    ],
+    "answer": [
+      "Я и моя подруга пьем кофе, а не чай."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#21",
+    "quest": [
+      "Ich sehe das Frauenkloster."
+    ],
+    "answer": [
+      "Я смотрю женский монастырь."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#22",
+    "quest": [
+      "Die Kinder und ich verkaufen Getränke auf dem Jahrmarkt."
+    ],
+    "answer": [
+      "Дети и я продаём напитки на ярмарке."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#23",
+    "quest": [
+      "Verkaufst du Gurken auf dem Fest?"
+    ],
+    "answer": [
+      "Ты продаёшь огурцы на празднике?"
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#24",
+    "quest": [
+      "Der Bär liebt Honig und Fische."
+    ],
+    "answer": [
+      "Медведь любит мед и рыбу."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#25",
+    "quest": [
+      "Der Dozent schreibt eine Zahl und einen Buchstaben."
+    ],
+    "answer": [
+      "Доцент пишет число и букву."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#26",
+    "quest": [
+      "Kennen Sie Land und die Leute?"
+    ],
+    "answer": [
+      "Вы знаете страну и людей?"
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#27",
+    "quest": [
+      "Der Diplomat kocht das Gericht in der Botschaft."
+    ],
+    "answer": [
+      "Дипломат готовит блюдо в посольстве."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#28",
+    "quest": [
+      "Der Diplomat kocht das Gericht in der Botschaft."
+    ],
+    "answer": [
+      "Дипломат готовит блюдо в посольстве."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#29",
+    "quest": [
+      "Essen wir hier Gemüse oder Fleisch?"
+    ],
+    "answer": [
+      "Мы едим здесь овощи или мясо?"
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#30",
+    "quest": [
+      "Lesen Sie den Preis."
+    ],
+    "answer": [
+      "Прочитайте цену."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#31",
+    "quest": [
+      "Alle lieben die Freizeit, aber hassen die Arbeit."
+    ],
+    "answer": [
+      "Все любят свободное время, но ненавидят работу.",
+      "время ~ist Akkusativ~"
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#32",
+    "quest": [
+      "Die Leute lieben gewöhnlich Anrufe."
+    ],
+    "answer": [
+      "Люди обычно любят звонки."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#33",
+    "quest": [
+      "Wir schreiben einen Text für die Zeitung."
+    ],
+    "answer": [
+      "Пишем текст для газеты."
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#34",
+    "quest": [
+      "Lernen Sie Radfahren?"
+    ],
+    "answer": [
+      "Вы учите кататься на велосипеде?"
+    ]
+  },
+  {
+    "id": "gram-akk-ch2#35",
+    "quest": [
+      "Lernst du jetzt russisch?"
+    ],
+    "answer": [
+      "Ты сейчас учишь русский?"
+    ]
+  }
+]
