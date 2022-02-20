@@ -140,7 +140,9 @@
       "(Hotel-) Formular für Gäste"
     ],
     "answer": [
-      "к_а_рта г_о_стя"
+      "к_а_рта г_о_стя",
+      "- гость ~Gast~",
+      "- госмя ~Gästin oder Genitiv von Gast~"
     ]
   },
   {
