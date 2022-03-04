@@ -1,0 +1,296 @@
+[
+  {
+    "id": "chap7-ck2#01",
+    "quest": [
+      "wenn"
+    ],
+    "answer": [
+      "когд_а_"
+    ]
+  },
+  {
+    "id": "chap7-ck2#02",
+    "quest": [
+      "~hier:~ draußen"
+    ],
+    "answer": [
+      "на _у_лице"
+    ]
+  },
+  {
+    "id": "chap7-ck2#03",
+    "quest": [
+      "heiß",
+      "es ist heiß",
+      "es ist sehr warm"
+    ],
+    "answer": [
+      "ж_а_рко"
+    ]
+  },
+  {
+    "id": "chap7-ck2#04",
+    "quest": [
+      "Müsli"
+    ],
+    "answer": [
+      "м_ю_сли ~Plural indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap7-ck2#05",
+    "quest": [
+      "Spaghetti"
+    ],
+    "answer": [
+      "спаг_е_тти ~Plural indeklinabel~"
+    ]
+  },
+  {
+    "id": "chap7-ck2#06",
+    "quest": [
+      "~hier:~ Hähnchen"
+    ],
+    "answer": [
+      "к_у_рица"
+    ]
+  },
+  {
+    "id": "chap7-ck2#07",
+    "quest": [
+      "Kefir"
+    ],
+    "answer": [
+      "кеф_и_р"
+    ]
+  },
+  {
+    "id": "chap7-ck2#08",
+    "quest": [
+      "Zitrone"
+    ],
+    "answer": [
+      "лим_о_н"
+    ]
+  },
+  {
+    "id": "chap7-ck2#09",
+    "quest": [
+      "Pommes Frites"
+    ],
+    "answer": [
+      "карт_о_фель фри",
+      "~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap7-ck2#10",
+    "quest": [
+      "Ketchup"
+    ],
+    "answer": [
+      "к_е_тчуп"
+    ]
+  },
+  {
+    "id": "chap7-ck2#11",
+    "quest": [
+      "Kartoffel",
+      "Kartoffeln"
+    ],
+    "answer": [
+      "карт_о_шка"
+    ]
+  },
+  {
+    "id": "chap7-ck2#12",
+    "quest": [
+      "wir haben Besuch",
+      "~wörtlich:~ Gäste"
+    ],
+    "answer": [
+      "у нас г_о_сти"
+    ]
+  },
+  {
+    "id": "chap7-ck2#13",
+    "quest": [
+      "Stadtplan"
+    ],
+    "answer": [
+      "к_а_рта г_о_рода"
+    ]
+  },
+  {
+    "id": "chap7-ck2#14",
+    "quest": [
+      "Reisehandbuch"
+    ],
+    "answer": [
+      "путевод_и_тель ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap7-ck2#15",
+    "quest": [
+      "Denkmal"
+    ],
+    "answer": [
+      "п_а_мятник"
+    ]
+  },
+  {
+    "id": "chap7-ck2#16",
+    "quest": [
+      "Postkarte"
+    ],
+    "answer": [
+      "откр_ы_тка"
+    ]
+  },
+  {
+    "id": "chap7-ck2#16",
+    "quest": [
+      "wollen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "хот_е_ть",
+      "я хоч_у_",
+      "ты х_о_чешь",
+      "он / она / оно х_о_чет",
+      "мы хот_и_м",
+      "вы хот_и_те",
+      "они хот_я_т"
+    ]
+  },
+  {
+    "id": "chap7-ck2#17",
+    "quest": [
+      "senden",
+      "schicken"
+    ],
+    "answer": [
+      "посл_а_ть"
+    ]
+  },
+  {
+    "id": "chap7-ck2#18",
+    "quest": [
+      "zu Mittag essen"
+    ],
+    "answer": [
+      "об_е_дать"
+    ]
+  },
+  {
+    "id": "chap7-ck2#19",
+    "quest": [
+      "zu Abend essen"
+    ],
+    "answer": [
+      "_у_жинать"
+    ]
+  },
+  {
+    "id": "chap7-ck2#20",
+    "quest": [
+      "Kommen Sie bitte herein!"
+    ],
+    "answer": [
+      "Проход_и_те, пожалуйста!"
+    ]
+  },
+  {
+    "id": "chap7-ck2#21",
+    "quest": [
+      "~hier:~ … für Sie?"
+    ],
+    "answer": [
+      "Вам …?"
+    ]
+  },
+  {
+    "id": "chap7-ck2#22",
+    "quest": [
+      "~hier:~ Für mich bitte..."
+    ],
+    "answer": [
+      "Мне, пож_а_луйста..."
+    ]
+  },
+  {
+    "id": "chap7-ck2#23",
+    "quest": [
+      "ohne"
+    ],
+    "answer": [
+      "без ~(+) Genitiv~"
+    ]
+  },
+  {
+    "id": "chap7-ck2#24",
+    "quest": [
+      "~hier:~ Kohlensäure"
+    ],
+    "answer": [
+      "газ"
+    ]
+  },
+  {
+    "id": "chap7-ck2#25",
+    "quest": [
+      "Ich bitte zu Tisch."
+    ],
+    "answer": [
+      "Прошу к столу."
+    ]
+  },
+  {
+    "id": "chap7-ck2#26",
+    "quest": [
+      "lecker",
+      "das schmeckt gut"
+    ],
+    "answer": [
+      "вк_у_сно"
+    ]
+  },
+  {
+    "id": "chap7-ck2#27",
+    "quest": [
+      "Pilz"
+    ],
+    "answer": [
+      "гриб"
+    ]
+  },
+  {
+    "id": "chap7-ck2#28",
+    "quest": [
+      "Kosten Sie lieber ..."
+    ],
+    "answer": [
+      "Попр_о_буйте л_у_чше..."
+    ]
+  },
+  {
+    "id": "chap7-ck2#29",
+    "quest": [
+      "Soße"
+    ],
+    "answer": [
+      "соус"
+    ]
+  },
+  {
+    "id": "chap7-ck2#30",
+    "quest": [
+      "wenn möglich",
+      "wenn es geht"
+    ],
+    "answer": [
+      "_е_сли м_о_жно"
+    ]
+  }
+]
