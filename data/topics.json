@@ -168,6 +168,14 @@
         ]
     },
     {
+        "file": "data/book/chap-7/chunk-1.json",
+        "title": "Kapitel 7 Teil 1",
+        "tags": [
+            "Buch",
+            "Kapitel-7"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [

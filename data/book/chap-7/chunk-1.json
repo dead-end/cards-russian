@@ -1,0 +1,296 @@
+[
+  {
+    "id": "chap7-ck1#01",
+    "quest": [
+      "Guten Appetit!"
+    ],
+    "answer": [
+      "При_я_тного аппет_и_та!"
+    ]
+  },
+  {
+    "id": "chap7-ck1#02",
+    "quest": [
+      "Appetit"
+    ],
+    "answer": [
+      "аппет_и_т"
+    ]
+  },
+  {
+    "id": "chap7-ck1#03",
+    "quest": [
+      "Pelmeni",
+      "~mit Fleisch gefüllte russische Teigtaschen~"
+    ],
+    "answer": [
+      "пельм_е_ни ~Plural~"
+    ]
+  },
+  {
+    "id": "chap7-ck1#04",
+    "quest": [
+      "Bliny",
+      "~flache russische Pfannkuchen~"
+    ],
+    "answer": [
+      "блин_ы_ ~Plural~"
+    ]
+  },
+  {
+    "id": "chap7-ck1#05",
+    "quest": [
+      "Borschtsch",
+      "~Suppe mit Roter Bete~"
+    ],
+    "answer": [
+      "борщ"
+    ]
+  },
+  {
+    "id": "chap7-ck1#06",
+    "quest": [
+      "belegtes Brot"
+    ],
+    "answer": [
+      "бутербр_о_д"
+    ]
+  },
+  {
+    "id": "chap7-ck1#07",
+    "quest": [
+      "essen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "есть",
+      "я ем",
+      "ты ешь",
+      "он / она / оно ест",
+      "мы едим",
+      "вы едите",
+      "они едят"
+    ]
+  },
+  {
+    "id": "chap7-ck1#08",
+    "quest": [
+      "Wie oft?",
+      "Wie viel mal?"
+    ],
+    "answer": [
+      "Ск_о_лько раз?"
+    ]
+  },
+  {
+    "id": "chap7-ck1#09",
+    "quest": [
+      "Mal"
+    ],
+    "answer": [
+      "раз"
+    ]
+  },
+  {
+    "id": "chap7-ck1#10",
+    "quest": [
+      "trinken",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "пить",
+      "я пью",
+      "ты пьёшь",
+      "он / она / оно пьёт",
+      "мы пьём",
+      "вы пьёте",
+      "они пьют"
+    ]
+  },
+  {
+    "id": "chap7-ck1#11",
+    "quest": [
+      "am Morgen",
+      "morgens"
+    ],
+    "answer": [
+      "_у_тром"
+    ]
+  },
+  {
+    "id": "chap7-ck1#12",
+    "quest": [
+      "Frühstück"
+    ],
+    "answer": [
+      "з_а_втрак"
+    ]
+  },
+  {
+    "id": "chap7-ck1#13",
+    "quest": [
+      "am Tag",
+      "tagsüber"
+    ],
+    "answer": [
+      "днём"
+    ]
+  },
+  {
+    "id": "chap7-ck1#14",
+    "quest": [
+      "Mittagessen"
+    ],
+    "answer": [
+      "об_е_д"
+    ]
+  },
+  {
+    "id": "chap7-ck1#15",
+    "quest": [
+      "am Abend",
+      "abends"
+    ],
+    "answer": [
+      "в_е_чером"
+    ]
+  },
+  {
+    "id": "chap7-ck1#16",
+    "quest": [
+      "Spiegelei",
+      "Rührei"
+    ],
+    "answer": [
+      "я_и_чница"
+    ]
+  },
+  {
+    "id": "chap7-ck1#17",
+    "quest": [
+      "Brei"
+    ],
+    "answer": [
+      "к_а_ша"
+    ]
+  },
+  {
+    "id": "chap7-ck1#18",
+    "quest": [
+      "Buchweizenbrei"
+    ],
+    "answer": [
+      "гр_е_чневая к_а_ша"
+    ]
+  },
+  {
+    "id": "chap7-ck1#19",
+    "quest": [
+      "meistens"
+    ],
+    "answer": [
+      "ч_а_ще всег_о_"
+    ]
+  },
+  {
+    "id": "chap7-ck1#20",
+    "quest": [
+      "Quarkpfannkuchen"
+    ],
+    "answer": [
+      "с_ы_рник"
+    ]
+  },
+  {
+    "id": "chap7-ck1#21",
+    "quest": [
+      "Kakao",
+      "heiße Schokolade"
+    ],
+    "answer": [
+      "какао"
+    ]
+  },
+  {
+    "id": "chap7-ck1#22",
+    "quest": [
+      "Suppe"
+    ],
+    "answer": [
+      "суп"
+    ]
+  },
+  {
+    "id": "chap7-ck1#23",
+    "quest": [
+      "Kohlsuppe"
+    ],
+    "answer": [
+      "щи"
+    ]
+  },
+  {
+    "id": "chap7-ck1#24",
+    "quest": [
+      "Beilage"
+    ],
+    "answer": [
+      "гарн_и_р"
+    ]
+  },
+  {
+    "id": "chap7-ck1#25",
+    "quest": [
+      "Makkaroni",
+      "Nudeln"
+    ],
+    "answer": [
+      "макар_о_ны ~Plural~"
+    ]
+  },
+  {
+    "id": "chap7-ck1#26",
+    "quest": [
+      "Reis"
+    ],
+    "answer": [
+      "рис"
+    ]
+  },
+  {
+    "id": "chap7-ck1#27",
+    "quest": [
+      "Moosbeer-Getränk"
+    ],
+    "answer": [
+      "морс"
+    ]
+  },
+  {
+    "id": "chap7-ck1#28",
+    "quest": [
+      "kompottähnliches Getränk aus Dörrobst"
+    ],
+    "answer": [
+      "компот"
+    ]
+  },
+  {
+    "id": "chap7-ck1#29",
+    "quest": [
+      "Kwass"
+    ],
+    "answer": [
+      "квас"
+    ]
+  },
+  {
+    "id": "chap7-ck1#30",
+    "quest": [
+      "im Sommer"
+    ],
+    "answer": [
+      "л_е_том"
+    ]
+  }
+]
