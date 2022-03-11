@@ -261,6 +261,22 @@
         ]
     },
     {
+        "file": "data/verbs/part-1.json",
+        "title": "Verben Teil 1",
+        "tags": [
+            "Verben"
+        ],
+        "desc": "schreiben, singen, tanzen, malen, fotografieren, reisen"
+    },
+    {
+        "file": "data/verbs/part-2.json",
+        "title": "Verben Teil 2",
+        "tags": [
+            "Verben"
+        ],
+        "desc": "spazieren, spielen, studieren, entspannen, hören, lesen, sprechen, gehen"
+    },
+    {
         "file": "data/misc.json",
         "title": "Sonstiges - Test",
         "tags": [
