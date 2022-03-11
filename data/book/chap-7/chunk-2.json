@@ -1,14 +1,5 @@
 [
   {
-    "id": "chap7-ck2#01",
-    "quest": [
-      "wenn"
-    ],
-    "answer": [
-      "когд_а_"
-    ]
-  },
-  {
     "id": "chap7-ck2#02",
     "quest": [
       "~hier:~ draußen"
@@ -291,6 +282,24 @@
     ],
     "answer": [
       "_е_сли м_о_жно"
+    ]
+  },
+  {
+    "id": "chap7-ck2#32",
+    "quest": [
+      "Nachtisch"
+    ],
+    "answer": [
+      "дес_е_рт"
+    ]
+  },
+  {
+    "id": "chap7-ck2#33",
+    "quest": [
+      "Hering (nach russischer Art)"
+    ],
+    "answer": [
+      "селёдка под ш_у_бой"
     ]
   }
 ]

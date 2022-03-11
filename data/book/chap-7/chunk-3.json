@@ -1,0 +1,304 @@
+[
+  {
+    "id": "chap7-ck3#03",
+    "quest": [
+      "Hering"
+    ],
+    "answer": [
+      "селёдка"
+    ]
+  },
+  {
+    "id": "chap7-ck3#04",
+    "quest": [
+      "Gemüsesalat",
+      "~mit Sauerkraut und Roter Bete~"
+    ],
+    "answer": [
+      "винегр_е_т"
+    ]
+  },
+  {
+    "id": "chap7-ck3#05",
+    "quest": [
+      "ein wenig"
+    ],
+    "answer": [
+      "немн_о_го"
+    ]
+  },
+  {
+    "id": "chap7-ck3#06",
+    "quest": [
+      "Was ist...?",
+      "Was bedeutet...?"
+    ],
+    "answer": [
+      "Что такое ...?"
+    ]
+  },
+  {
+    "id": "chap7-ck3#07",
+    "quest": [
+      "Rindfleisch"
+    ],
+    "answer": [
+      "гов_я_дина"
+    ]
+  },
+  {
+    "id": "chap7-ck3#08",
+    "quest": [
+      "Pfeffer"
+    ],
+    "answer": [
+      "перец",
+      "перца ~Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap7-ck3#09",
+    "quest": [
+      "Mayonnaise"
+    ],
+    "answer": [
+      "майон_е_з"
+    ]
+  },
+  {
+    "id": "chap7-ck3#10",
+    "quest": [
+      "junge Erbsen"
+    ],
+    "answer": [
+      "горошек",
+      "горошка ~Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap7-ck3#11",
+    "quest": [
+      "Vorspeise"
+    ],
+    "answer": [
+      "зак_у_ска"
+    ]
+  },
+  {
+    "id": "chap7-ck3#12",
+    "quest": [
+      "Soljanka",
+      "~Suppe mit sauren Gurken~"
+    ],
+    "answer": [
+      "сол_я_нка"
+    ]
+  },
+  {
+    "id": "chap7-ck3#13",
+    "quest": [
+      "warme Speisen"
+    ],
+    "answer": [
+      "гор_я_чие бл_ю_да"
+    ]
+  },
+  {
+    "id": "chap7-ck3#14",
+    "quest": [
+      "Bulette"
+    ],
+    "answer": [
+      "котл_е_та"
+    ]
+  },
+  {
+    "id": "chap7-ck3#15",
+    "quest": [
+      "Boeuf Stroga­noff"
+    ],
+    "answer": [
+      "бефстр_о_ганов"
+    ]
+  },
+  {
+    "id": "chap7-ck3#16",
+    "quest": [
+      "Schaschlik"
+    ],
+    "answer": [
+      "шашл_ы_к"
+    ]
+  },
+  {
+    "id": "chap7-ck3#17",
+    "quest": [
+      "Schweinefleisch"
+    ],
+    "answer": [
+      "свин_и_на"
+    ]
+  },
+  {
+    "id": "chap7-ck3#18",
+    "quest": [
+      "kleine Pirogge"
+    ],
+    "answer": [
+      "пирожок",
+      "пирожка ~Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap7-ck3#19",
+    "quest": [
+      "Eis"
+    ],
+    "answer": [
+      "мор_о_женое"
+    ]
+  },
+  {
+    "id": "chap7-ck3#20",
+    "quest": [
+      "bestellen"
+    ],
+    "answer": [
+      "зак_а_зывать"
+    ]
+  },
+  {
+    "id": "chap7-ck3#21",
+    "quest": [
+      "Speisekarte"
+    ],
+    "answer": [
+      "меню",
+      "~neutrum indekl.~"
+    ]
+  },
+  {
+    "id": "chap7-ck3#22",
+    "quest": [
+      "wünschen"
+    ],
+    "answer": [
+      "жел_а_ть"
+    ]
+  },
+  {
+    "id": "chap7-ck3#23",
+    "quest": [
+      "Bringen Sie uns ..."
+    ],
+    "answer": [
+      "Принесите нам ..."
+    ]
+  },
+  {
+    "id": "chap7-ck3#24",
+    "quest": [
+      "Teig"
+    ],
+    "answer": [
+      "т_е_сто"
+    ]
+  },
+  {
+    "id": "chap7-ck3#25",
+    "quest": [
+      "Was soll / kann ich Ihnen bringen?"
+    ],
+    "answer": [
+      "Что вам принест_и_?"
+    ]
+  },
+  {
+    "id": "chap7-ck3#26",
+    "quest": [
+      "Treffen (hier: Termin)",
+      "Verabredung"
+    ],
+    "answer": [
+      "встр_е_ча"
+    ]
+  },
+  {
+    "id": "chap7-ck3#27",
+    "quest": [
+      "Büro"
+    ],
+    "answer": [
+      "кабин_е_т"
+    ]
+  },
+  {
+    "id": "chap7-ck3#28",
+    "quest": [
+      "warten"
+    ],
+    "answer": [
+      "ждать",
+      "я жду",
+      "ты ждёшь",
+      "он/она/оно ждёт",
+      "мы ждём",
+      "вы ждёте",
+      "они ждут"
+    ]
+  },
+  {
+    "id": "chap7-ck3#29",
+    "quest": [
+      "Visiten­karte"
+    ],
+    "answer": [
+      "виз_и_тная к_а_рточка"
+    ]
+  },
+  {
+    "id": "chap7-ck3#30",
+    "quest": [
+      "Nehmen Sie...!"
+    ],
+    "answer": [
+      "Возьм_и_те...!"
+    ]
+  },
+  {
+    "id": "chap7-ck3#31",
+    "quest": [
+      "Business-Lunch"
+    ],
+    "answer": [
+      "б_и_знес-л_а_нч"
+    ]
+  },
+  {
+    "id": "chap7-ck4#32",
+    "quest": [
+      "~hier:~ warme Speisen"
+    ],
+    "answer": [
+      "гор_я_чее"
+    ]
+  },
+  {
+    "id": "chap7-ck4#33",
+    "quest": [
+      "europäisch"
+    ],
+    "answer": [
+      "европ_е_йский"
+    ]
+  },
+  {
+    "id": "chap7-ck4#34",
+    "quest": [
+      "Pizza"
+    ],
+    "answer": [
+      "п_и_цца"
+    ]
+  }
+]

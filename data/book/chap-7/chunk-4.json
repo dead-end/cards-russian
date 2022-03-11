@@ -1,0 +1,293 @@
+[
+  {
+    "id": "chap7-ck4#04",
+    "quest": [
+      "Präsentation"
+    ],
+    "answer": [
+      "презент_а_ция"
+    ]
+  },
+  {
+    "id": "chap7-ck4#05",
+    "quest": [
+      "einladen"
+    ],
+    "answer": [
+      "приглаш_а_ть"
+    ]
+  },
+  {
+    "id": "chap7-ck4#06",
+    "quest": [
+      "~hier:~ Passt Ihnen das?"
+    ],
+    "answer": [
+      "_Э_то вам уд_о_бно?"
+    ]
+  },
+  {
+    "id": "chap7-ck4#07",
+    "quest": [
+      "Heimatstadt"
+    ],
+    "answer": [
+      "родн_о_й г_о_род"
+    ]
+  },
+  {
+    "id": "chap7-ck4#08",
+    "quest": [
+      "zusammen mit der Familie"
+    ],
+    "answer": [
+      "вм_е_сте с семьёй"
+    ]
+  },
+  {
+    "id": "chap7-ck4#09",
+    "quest": [
+      "nicht nur ..., sondern auch ..."
+    ],
+    "answer": [
+      "не т_о_лько ..., но и ..."
+    ]
+  },
+  {
+    "id": "chap7-ck4#10",
+    "quest": [
+      "Kellnerin"
+    ],
+    "answer": [
+      "офици_а_нтка"
+    ]
+  },
+  {
+    "id": "chap7-ck4#11",
+    "quest": [
+      "interessant"
+    ],
+    "answer": [
+      "интер_е_сный"
+    ]
+  },
+  {
+    "id": "chap7-ck4#12",
+    "quest": [
+      "Geschichte"
+    ],
+    "answer": [
+      "ист_о_рия"
+    ]
+  },
+  {
+    "id": "chap7-ck4#13",
+    "quest": [
+      "Tourist"
+    ],
+    "answer": [
+      "тур_и_ст"
+    ]
+  },
+  {
+    "id": "chap7-ck4#14",
+    "quest": [
+      "besuchen"
+    ],
+    "answer": [
+      "посещ_а_ть"
+    ]
+  },
+  {
+    "id": "chap7-ck4#15",
+    "quest": [
+      "erblicken",
+      "sehen"
+    ],
+    "answer": [
+      "ув_и_деть"
+    ]
+  },
+  {
+    "id": "chap7-ck4#16",
+    "quest": [
+      "historisches Zentrum",
+      "Altstadt"
+    ],
+    "answer": [
+      "ст_а_рый центр"
+    ]
+  },
+  {
+    "id": "chap7-ck4#17",
+    "quest": [
+      "Kremlmauer"
+    ],
+    "answer": [
+      "Кремлёвская стен_а_"
+    ]
+  },
+  {
+    "id": "chap7-ck4#18",
+    "quest": [
+      "Turm"
+    ],
+    "answer": [
+      "башня"
+    ]
+  },
+  {
+    "id": "chap7-ck4#19",
+    "quest": [
+      "Gelände"
+    ],
+    "answer": [
+      "террит_о_рия"
+    ]
+  },
+  {
+    "id": "chap7-ck4#20",
+    "quest": [
+      "einzigartig"
+    ],
+    "answer": [
+      "уник_а_льный"
+    ]
+  },
+  {
+    "id": "chap7-ck4#21",
+    "quest": [
+      "Kirche",
+      "Tempel"
+    ],
+    "answer": [
+      "храм"
+    ]
+  },
+  {
+    "id": "chap7-ck4#22",
+    "quest": [
+      "Mariä-Entschlafens-Kathedrale"
+    ],
+    "answer": [
+      "Усп_е_нский собор"
+    ]
+  },
+  {
+    "id": "chap7-ck4#23",
+    "quest": [
+      "schön"
+    ],
+    "answer": [
+      "крас_и_вый"
+    ]
+  },
+  {
+    "id": "chap7-ck4#24",
+    "quest": [
+      "Konfekt aus Fruchtsaft"
+    ],
+    "answer": [
+      "пастил_а_"
+    ]
+  },
+  {
+    "id": "chap7-ck4#25",
+    "quest": [
+      "gut"
+    ],
+    "answer": [
+      "хор_о_ший"
+    ]
+  },
+  {
+    "id": "chap7-ck4#26",
+    "quest": [
+      "Souvenir"
+    ],
+    "answer": [
+      "сувен_и_р"
+    ]
+  },
+  {
+    "id": "chap7-ck4#27",
+    "quest": [
+      "Eispalast"
+    ],
+    "answer": [
+      "Лед_о_вый двор_е_ц"
+    ]
+  },
+  {
+    "id": "chap7-ck4#28",
+    "quest": [
+      "Sportanlage"
+    ],
+    "answer": [
+      "спорт_и_вный к_о_мплекс"
+    ]
+  },
+  {
+    "id": "chap7-ck4#29",
+    "quest": [
+      "Eisschnelllauf"
+    ],
+    "answer": [
+      "конькоб_е_жный спорт"
+    ]
+  },
+  {
+    "id": "chap7-ck4#30",
+    "quest": [
+      "Rudern"
+    ],
+    "answer": [
+      "гр_е_бля"
+    ]
+  },
+  {
+    "id": "chap7-ck4#31",
+    "quest": [
+      "populär"
+    ],
+    "answer": [
+      "попул_я_рный"
+    ]
+  },
+  {
+    "id": "chap7-ck4#32",
+    "quest": [
+      "Sportart"
+    ],
+    "answer": [
+      "вид спорта"
+    ]
+  },
+  {
+    "id": "chap7-ck4#33",
+    "quest": [
+      "weil"
+    ],
+    "answer": [
+      "потом_у_ что"
+    ]
+  },
+  {
+    "id": "chap7-ck4#34",
+    "quest": [
+      "(es ist) schön"
+    ],
+    "answer": [
+      "красивo"
+    ]
+  },
+  {
+    "id": "chap7-ck4#35",
+    "quest": [
+      "Kommen Sie!"
+    ],
+    "answer": [
+      "Приезж_а_йте!"
+    ]
+  }
+]
