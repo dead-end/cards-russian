@@ -184,6 +184,22 @@
         ]
     },
     {
+        "file": "data/book/chap-7/chunk-3.json",
+        "title": "Kapitel 7 Teil 3",
+        "tags": [
+            "Buch",
+            "Kapitel-7"
+        ]
+    },
+    {
+        "file": "data/book/chap-7/chunk-4.json",
+        "title": "Kapitel 7 Teil 4",
+        "tags": [
+            "Buch",
+            "Kapitel-7"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [
