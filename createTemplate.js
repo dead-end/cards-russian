@@ -55,7 +55,7 @@ const prefix = process.argv[2];
 const count = process.argv[3];
 const file = process.argv[4];
 
-if (isNaN(count) || count < 0 || count > 30) {
+if (isNaN(count) || count < 0 || count > 40) {
   logUsage('Wrong count:', count);
 }
 

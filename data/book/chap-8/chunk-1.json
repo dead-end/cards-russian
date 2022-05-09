@@ -1,0 +1,375 @@
+[
+  {
+    "id": "chap8-ck1#0",
+    "quest": [
+      "tragen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "носить",
+      "я ношу",
+      "ты носишь",
+      "он / она / оно носит",
+      "мы носим",
+      "вы носите",
+      "они носят"
+    ]
+  },
+  {
+    "id": "chap8-ck1#1",
+    "quest": [
+      "rot"
+    ],
+    "answer": [
+      "красный",
+      "красная",
+      "красное",
+      "красные"
+    ]
+  },
+  {
+    "id": "chap8-ck1#2",
+    "quest": [
+      "gelb"
+    ],
+    "answer": [
+      "жёлтый",
+      "жёлтая",
+      "жёлтое",
+      "жёлтые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#3",
+    "quest": [
+      "grün"
+    ],
+    "answer": [
+      "зелёный",
+      "зелёная",
+      "зелёное",
+      "зелёные"
+    ]
+  },
+  {
+    "id": "chap8-ck1#4",
+    "quest": [
+      "blau"
+    ],
+    "answer": [
+      "синий",
+      "синяя",
+      "синее",
+      "синие"
+    ]
+  },
+  {
+    "id": "chap8-ck1#5",
+    "quest": [
+      "weiß"
+    ],
+    "answer": [
+      "белый",
+      "белая",
+      "белое",
+      "белые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#6",
+    "quest": [
+      "schwarz"
+    ],
+    "answer": [
+      "чёрный",
+      "чёрная",
+      "чёрное",
+      "чёрные"
+    ]
+  },
+  {
+    "id": "chap8-ck1#7",
+    "quest": [
+      "braun"
+    ],
+    "answer": [
+      "коричневый",
+      "коричневая",
+      "коричневое",
+      "коричневые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#8",
+    "quest": [
+      "orange"
+    ],
+    "answer": [
+      "оранжевый",
+      "оранжевая",
+      "оранжевое",
+      "оранжевые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#9",
+    "quest": [
+      "hier: Lieblings-"
+    ],
+    "answer": [
+      "любимый",
+      "любимая",
+      "любимое",
+      "любимые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#10",
+    "quest": [
+      "Farbe",
+      "Farben"
+    ],
+    "answer": [
+      "цвет",
+      "цвета ~Nom. Pl.~"
+    ]
+  },
+  {
+    "id": "chap8-ck1#11",
+    "quest": [
+      "welcher?",
+      "was für ein?"
+    ],
+    "answer": [
+      "какой",
+      "какая",
+      "какое",
+      "какие"
+    ]
+  },
+  {
+    "id": "chap8-ck1#12",
+    "quest": [
+      "dieser",
+      "diese",
+      "dieses",
+      "diese ~(Pl.)~"
+    ],
+    "answer": [
+      "этот",
+      "эта",
+      "это",
+      "эти"
+    ]
+  },
+  {
+    "id": "chap8-ck1#13",
+    "quest": [
+      "Jacke",
+      "Anorak"
+    ],
+    "answer": [
+      "куртка"
+    ]
+  },
+  {
+    "id": "chap8-ck1#14",
+    "quest": [
+      "Kleidung"
+    ],
+    "answer": [
+      "одежда"
+    ]
+  },
+  {
+    "id": "chap8-ck1#15",
+    "quest": [
+      "Kostüm",
+      "Herrenanzug"
+    ],
+    "answer": [
+      "костюм"
+    ]
+  },
+  {
+    "id": "chap8-ck1#16",
+    "quest": [
+      "Krawatte"
+    ],
+    "answer": [
+      "г_а_лстук"
+    ]
+  },
+  {
+    "id": "chap8-ck1#17",
+    "quest": [
+      "Pullover"
+    ],
+    "answer": [
+      "пул_о_вер"
+    ]
+  },
+  {
+    "id": "chap8-ck1#18",
+    "quest": [
+      "~Pl.~ Brille"
+    ],
+    "answer": [
+      "очк_и_"
+    ]
+  },
+  {
+    "id": "chap8-ck1#19",
+    "quest": [
+      "T-Shirt"
+    ],
+    "answer": [
+      "футб_о_лка T-Shirt"
+    ]
+  },
+  {
+    "id": "chap8-ck1#20",
+    "quest": [
+      "~Pl.~ Jeans"
+    ],
+    "answer": [
+      "дж_и_нсы"
+    ]
+  },
+  {
+    "id": "chap8-ck1#21",
+    "quest": [
+      "Hemd"
+    ],
+    "answer": [
+      "руб_а_шка"
+    ]
+  },
+  {
+    "id": "chap8-ck1#22",
+    "quest": [
+      "Bluse"
+    ],
+    "answer": [
+      "бл_у_зка"
+    ]
+  },
+  {
+    "id": "chap8-ck1#23",
+    "quest": [
+      "Rock"
+    ],
+    "answer": [
+      "_ю_бка"
+    ]
+  },
+  {
+    "id": "chap8-ck1#24",
+    "quest": [
+      "Mantel"
+    ],
+    "answer": [
+      "пальт_о_"
+    ]
+  },
+  {
+    "id": "chap8-ck1#25",
+    "quest": [
+      "~Pl.~ (Damen-) Schuhe"
+    ],
+    "answer": [
+      "т_у_фли"
+    ]
+  },
+  {
+    "id": "chap8-ck1#26",
+    "quest": [
+      "~Pl.~ Hose"
+    ],
+    "answer": [
+      "бр_ю_ки"
+    ]
+  },
+  {
+    "id": "chap8-ck1#27",
+    "quest": [
+      "Kleid"
+    ],
+    "answer": [
+      "пл_а_тье"
+    ]
+  },
+  {
+    "id": "chap8-ck1#28",
+    "quest": [
+      "Tasche"
+    ],
+    "answer": [
+      "с_у_мка"
+    ]
+  },
+  {
+    "id": "chap8-ck1#29",
+    "quest": [
+      "~Pl.~ Schuhe",
+      "Schnürschuhe"
+    ],
+    "answer": [
+      "бот_и_нки"
+    ]
+  },
+  {
+    "id": "chap8-ck1#30",
+    "quest": [
+      "Frauen-"
+    ],
+    "answer": [
+      "женский",
+      "женская",
+      "женское",
+      "женскые"
+    ]
+  },
+  {
+    "id": "chap8-ck1#31",
+    "quest": [
+      "Männer-",
+      "Herren-"
+    ],
+    "answer": [
+      "мужской",
+      "мужская",
+      "мужское",
+      "мужские"
+    ]
+  },
+  {
+    "id": "chap8-ck1#32",
+    "quest": [
+      "Schuhe",
+      "Schuhwerk"
+    ],
+    "answer": [
+      "_о_бувь ~femininum~"
+    ]
+  },
+  {
+    "id": "chap8-ck1#33",
+    "quest": [
+      "~hier:~ Schmuck",
+      "Zubehör"
+    ],
+    "answer": [
+      "аксессу_а_р"
+    ]
+  },
+  {
+    "id": "chap8-ck1#34",
+    "quest": [
+      "Tausend"
+    ],
+    "answer": [
+      "т_ы_сяча"
+    ]
+  }
+]
