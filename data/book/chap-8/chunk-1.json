@@ -319,6 +319,24 @@
     ]
   },
   {
+    "id": "chap8-ck1#33",
+    "quest": [
+      "Frau"
+    ],
+    "answer": [
+      "ж_е_нщина"
+    ]
+  },
+  {
+    "id": "chap8-ck1#34",
+    "quest": [
+      "Mann"
+    ],
+    "answer": [
+      "мужч_и_на ~maskulinum~"
+    ]
+  },
+  {
     "id": "chap8-ck1#30",
     "quest": [
       "Frauen-"
@@ -351,25 +369,6 @@
     ],
     "answer": [
       "_о_бувь ~femininum~"
-    ]
-  },
-  {
-    "id": "chap8-ck1#33",
-    "quest": [
-      "~hier:~ Schmuck",
-      "Zubehör"
-    ],
-    "answer": [
-      "аксессу_а_р"
-    ]
-  },
-  {
-    "id": "chap8-ck1#34",
-    "quest": [
-      "Tausend"
-    ],
-    "answer": [
-      "т_ы_сяча"
     ]
   }
 ]
