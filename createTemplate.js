@@ -13,8 +13,10 @@ const createData = (prefix, count) => {
   const arr = [];
 
   for (let i = 0; i < count; i++) {
+    const n = i < 10 ? `0${i}` : `${i}`;
+
     arr.push({
-      id: `${prefix}#${i}`,
+      id: `${prefix}#${n}`,
       quest: [''],
       answer: [''],
     });
