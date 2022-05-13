@@ -1,0 +1,379 @@
+[
+  {
+    "id": "chap8-ck2#00",
+    "quest": [
+      "hier: Schmuck",
+      "Zubehör"
+    ],
+    "answer": [
+      "аксессу_а_р"
+    ]
+  },
+  {
+    "id": "chap8-ck2#01",
+    "quest": [
+      "Tausend"
+    ],
+    "answer": [
+      "т_ы_сяча"
+    ]
+  },
+  {
+    "id": "chap8-ck2#02",
+    "quest": [
+      "Diese Bluse steht Ihnen sehr gut!",
+      "Diese Bluse steht dir sehr gut!",
+      "Diese Bluse steht mir sehr gut!"
+    ],
+    "answer": [
+      "_Э_та бл_у_зка вам _о_чень идёт!",
+      "_Э_та бл_у_зка теб_е_ _о_чень идёшь!",
+      "_Э_та бл_у_зка мне _о_чень идут!"
+    ]
+  },
+  {
+    "id": "chap8-ck2#03",
+    "quest": [
+      "Lackchatullen"
+    ],
+    "answer": [
+      "л_а_ковые шкат_у_лки"
+    ]
+  },
+  {
+    "id": "chap8-ck2#04",
+    "quest": [
+      "klein"
+    ],
+    "answer": [
+      "м_а_ленький",
+      "м_а_ленькая",
+      "м_а_ленькое",
+      "м_а_ленькие"
+    ]
+  },
+  {
+    "id": "chap8-ck2#05",
+    "quest": [
+      "hier: Kopftuch"
+    ],
+    "answer": [
+      "плат_о_к",
+      "платк_а_ ~Gen. Sg.~"
+    ]
+  },
+  {
+    "id": "chap8-ck2#06",
+    "quest": [
+      "Mütze"
+    ],
+    "answer": [
+      "ш_а_пка"
+    ]
+  },
+  {
+    "id": "chap8-ck2#07",
+    "quest": [
+      "~hier:~ Junger Mann!"
+    ],
+    "answer": [
+      "Молод_о_й челов_е_к!"
+    ]
+  },
+  {
+    "id": "chap8-ck2#08",
+    "quest": [
+      "jung"
+    ],
+    "answer": [
+      "молод_о_й",
+      "молод_о_ая",
+      "молод_о_ая",
+      "молод_о_ие"
+    ]
+  },
+  {
+    "id": "chap8-ck2#09",
+    "quest": [
+      "Mensch"
+    ],
+    "answer": [
+      "челов_е_к",
+      "л_ю_ди ~Nom. Pl.~"
+    ]
+  },
+  {
+    "id": "chap8-ck2#10",
+    "quest": [
+      "teuer",
+      "lieber / liebe",
+      "~(bei Anreden)~"
+    ],
+    "answer": [
+      "дорог_о_й",
+      "дорог_а_я",
+      "дорог_о_е",
+      "дорог_и_е"
+    ]
+  },
+  {
+    "id": "chap8-ck2#11",
+    "quest": [
+      "groß"
+    ],
+    "answer": [
+      "больш_о_й",
+      "больш_а_я",
+      "больш_о_е",
+      "больш_и_е"
+    ]
+  },
+  {
+    "id": "chap8-ck2#12",
+    "quest": [
+      "Größe"
+    ],
+    "answer": [
+      "разм_е_р"
+    ]
+  },
+  {
+    "id": "chap8-ck2#13",
+    "quest": [
+      "dann"
+    ],
+    "answer": [
+      "тогд_а_"
+    ]
+  },
+  {
+    "id": "chap8-ck2#14",
+    "quest": [
+      "modisch",
+      "aktuell"
+    ],
+    "answer": [
+      "м_о_дный",
+      "м_о_дная",
+      "м_о_дное",
+      "м_о_дные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#15",
+    "quest": [
+      "Hoffnung"
+    ],
+    "answer": [
+      "над_е_жда"
+    ]
+  },
+  {
+    "id": "chap8-ck2#16",
+    "quest": [
+      "egal"
+    ],
+    "answer": [
+      "всё равн_о_"
+    ]
+  },
+  {
+    "id": "chap8-ck2#17",
+    "quest": [
+      "violett",
+      "aktuell"
+    ],
+    "answer": [
+      "фиол_е_товый",
+      "фиол_е_товая",
+      "фиол_е_товое",
+      "фиол_е_товые"
+    ]
+  },
+  {
+    "id": "chap8-ck2#18",
+    "quest": [
+      "schlecht"
+    ],
+    "answer": [
+      "плох_о_й",
+      "плох_а_я",
+      "плох_о_е",
+      "плох_и_е"
+    ]
+  },
+  {
+    "id": "chap8-ck2#19",
+    "quest": [
+      "elegant"
+    ],
+    "answer": [
+      "элег_а_нтный",
+      "элег_а_нтная",
+      "элег_а_нтное",
+      "элег_а_нтные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#20",
+    "quest": [
+      "sportlich"
+    ],
+    "answer": [
+      "спорт_и_вный",
+      "спорт_и_вная",
+      "спорт_и_вное",
+      "спорт_и_вные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#21",
+    "quest": [
+      "bequem"
+    ],
+    "answer": [
+      "уд_о_бный",
+      "уд_о_бная",
+      "уд_о_бное",
+      "уд_о_бные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#22",
+    "quest": [
+      "günstig",
+      "billig"
+    ],
+    "answer": [
+      "дешёвый",
+      "дешёвая",
+      "дешёвое",
+      "дешёвые"
+    ]
+  },
+  {
+    "id": "chap8-ck2#23",
+    "quest": [
+      "langweilig"
+    ],
+    "answer": [
+      "ск_у_чный",
+      "ск_у_чная",
+      "ск_у_чное",
+      "ск_у_чные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#24",
+    "quest": [
+      "praktisch"
+    ],
+    "answer": [
+      "практ_и_чный",
+      "практ_и_чная",
+      "практ_и_чное",
+      "практ_и_чные"
+    ]
+  },
+  {
+    "id": "chap8-ck2#25",
+    "quest": [
+      "gefallen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "нр_а_виться",
+      "я нр_а_влюсь",
+      "ты нр_а_вишься",
+      "он/она/оно нр_а_вится",
+      "мы нр_а_вимся",
+      "вы нр_а_витесь",
+      "они нр_а_вятся"
+    ]
+  },
+  {
+    "id": "chap8-ck2#26",
+    "quest": [
+      "anprobieren"
+    ],
+    "answer": [
+      "прим_е_рить"
+    ]
+  },
+  {
+    "id": "chap8-ck2#27",
+    "quest": [
+      "~hier:~ Umkleidekabine"
+    ],
+    "answer": [
+      "каб_и_на"
+    ]
+  },
+  {
+    "id": "chap8-ck2#28",
+    "quest": [
+      "dort ~(etwas weiter entfernt)~"
+    ],
+    "answer": [
+      "вон там"
+    ]
+  },
+  {
+    "id": "chap8-ck2#29",
+    "quest": [
+      "neben",
+      "in der Nähe von"
+    ],
+    "answer": [
+      "р_я_дом с"
+    ]
+  },
+  {
+    "id": "chap8-ck2#30",
+    "quest": [
+      "~hier:~ Und, wie findest du mich?"
+    ],
+    "answer": [
+      "Ну, как?"
+    ]
+  },
+  {
+    "id": "chap8-ck2#31",
+    "quest": [
+      "zu"
+    ],
+    "answer": [
+      "сл_и_шком"
+    ]
+  },
+  {
+    "id": "chap8-ck2#32",
+    "quest": [
+      "es kann sein",
+      "es ist möglich"
+    ],
+    "answer": [
+      "м_о_жет быть"
+    ]
+  },
+  {
+    "id": "chap8-ck2#33",
+    "quest": [
+      "Mädchen (junge Frau)"
+    ],
+    "answer": [
+      "девушка",
+      "девушек ~Gen. Pl.~"
+    ]
+  },
+  {
+    "id": "chap8-ck2#34",
+    "quest": [
+      "passt genau",
+      "gerade"
+    ],
+    "answer": [
+      "как раз"
+    ]
+  }
+]

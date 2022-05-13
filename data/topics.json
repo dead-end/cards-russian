@@ -208,6 +208,14 @@
         ]
     },
     {
+        "file": "data/book/chap-8/chunk-2.json",
+        "title": "Kapitel 8 Teil 2",
+        "tags": [
+            "Buch",
+            "Kapitel-8"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [
