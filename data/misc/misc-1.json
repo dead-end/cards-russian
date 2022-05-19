@@ -1,0 +1,284 @@
+[
+  {
+    "id": "misc1#00",
+    "quest": [
+      "Alles fing an mit..."
+    ],
+    "answer": [
+      "Всё началось с ..."
+    ]
+  },
+  {
+    "id": "misc1#01",
+    "quest": [
+      "einfach"
+    ],
+    "answer": [
+      "пр_о_сто"
+    ]
+  },
+  {
+    "id": "misc1#02",
+    "quest": [
+      "Lektion",
+      "(Unterrichts-) Stunde"
+    ],
+    "answer": [
+      "ур_о_к "
+    ]
+  },
+  {
+    "id": "misc1#03",
+    "quest": [
+      "fragen"
+    ],
+    "answer": [
+      "спрос_и_ть"
+    ]
+  },
+  {
+    "id": "misc1#04",
+    "quest": [
+      "Kantine"
+    ],
+    "answer": [
+      "стол_о_вая"
+    ]
+  },
+  {
+    "id": "misc1#05",
+    "quest": [
+      "Beeren"
+    ],
+    "answer": [
+      "_я_года"
+    ]
+  },
+  {
+    "id": "misc1#06",
+    "quest": [
+      "der",
+      "welch"
+    ],
+    "answer": [
+      "который"
+    ]
+  },
+  {
+    "id": "misc1#07",
+    "quest": [
+      "antworten"
+    ],
+    "answer": [
+      "отв_е_тить"
+    ]
+  },
+  {
+    "id": "misc1#08",
+    "quest": [
+      "Lehrer",
+      "Lehrerin"
+    ],
+    "answer": [
+      "преподав_а_тель",
+      "преподав_а_тельниц"
+    ]
+  },
+  {
+    "id": "misc1#09",
+    "quest": [
+      "das ist das gleiche"
+    ],
+    "answer": [
+      "это то же самое"
+    ]
+  },
+  {
+    "id": "misc1#10",
+    "quest": [
+      "verdünnt"
+    ],
+    "answer": [
+      "разб_а_вленный"
+    ]
+  },
+  {
+    "id": "misc1#11",
+    "quest": [
+      "(etwas) hinzufügen",
+      "(etwas) zugeben"
+    ],
+    "answer": [
+      "доб_а_вить"
+    ]
+  },
+  {
+    "id": "misc1#12",
+    "quest": [
+      "kürzlich",
+      "vor kurzem"
+    ],
+    "answer": [
+      "нед_а_вно"
+    ]
+  },
+  {
+    "id": "misc1#13",
+    "quest": [
+      "heißen"
+    ],
+    "answer": [
+      "назыв_а_ться"
+    ]
+  },
+  {
+    "id": "misc1#14",
+    "quest": [
+      "beschäftigt"
+    ],
+    "answer": [
+      "занятый"
+    ]
+  },
+  {
+    "id": "misc1#15",
+    "quest": [
+      "ähnlich"
+    ],
+    "answer": [
+      "пох_о_жий "
+    ]
+  },
+  {
+    "id": "misc1#16",
+    "quest": [
+      "meistens",
+      "am meisten"
+    ],
+    "answer": [
+      "б_о_льше всег_о_",
+      "б_о_льше ~mehr~",
+      "всего ~nur, insgesamt~"
+    ]
+  },
+  {
+    "id": "misc1#17",
+    "quest": [
+      "gesalzen"
+    ],
+    "answer": [
+      "солёный"
+    ]
+  },
+  {
+    "id": "misc1#18",
+    "quest": [
+      "gestern"
+    ],
+    "answer": [
+      "вчер_а_"
+    ]
+  },
+  {
+    "id": "misc1#19",
+    "quest": [
+      "Party"
+    ],
+    "answer": [
+      "вечер_и_нка"
+    ]
+  },
+  {
+    "id": "misc1#20",
+    "quest": [
+      "anbieten"
+    ],
+    "answer": [
+      "предлож_и_ть",
+      "предлаг_а_ть"
+    ]
+  },
+  {
+    "id": "misc1#21",
+    "quest": [
+      "blutig"
+    ],
+    "answer": [
+      "кров_а_вый"
+    ]
+  },
+  {
+    "id": "misc1#22",
+    "quest": [
+      "schweigen"
+    ],
+    "answer": [
+      "молч_а_ть"
+    ]
+  },
+  {
+    "id": "misc1#23",
+    "quest": [
+      "machmal"
+    ],
+    "answer": [
+      "иногд_а_"
+    ]
+  },
+  {
+    "id": "misc1#24",
+    "quest": [
+      "ohne alles",
+      "ohne nichts"
+    ],
+    "answer": [
+      "б_е_з ничег_о_"
+    ]
+  },
+  {
+    "id": "misc1#25",
+    "quest": [
+      "Wohnheim"
+    ],
+    "answer": [
+      "общеж_и_тие"
+    ]
+  },
+  {
+    "id": "misc1#26",
+    "quest": [
+      "sogar"
+    ],
+    "answer": [
+      "д_а_же"
+    ]
+  },
+  {
+    "id": "misc1#27",
+    "quest": [
+      "gut ankommen",
+      "gefallen"
+    ],
+    "answer": [
+      "нравится"
+    ]
+  },
+  {
+    "id": "misc1#28",
+    "quest": [
+      "man muss"
+    ],
+    "answer": [
+      "н_у_жно"
+    ]
+  },
+  {
+    "id": "misc1#29",
+    "quest": [
+      "wiederholen"
+    ],
+    "answer": [
+      "повтор_и_ть"
+    ]
+  }
+]

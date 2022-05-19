@@ -309,6 +309,14 @@
         "desc": "spazieren, spielen, studieren, entspannen, hören, lesen, sprechen, gehen"
     },
     {
+        "file": "data/misc/misc-1.json",
+        "title": "Verschiedenes 1",
+        "tags": [
+            "Verschiedenes"
+        ],
+        "desc": "Text über Getränke"
+    },
+    {
         "file": "data/misc.json",
         "title": "Sonstiges - Test",
         "tags": [
