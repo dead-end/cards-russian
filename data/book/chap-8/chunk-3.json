@@ -1,0 +1,357 @@
+[
+  {
+    "id": "chap8-ck3#00",
+    "quest": [
+      "die Hauptsache"
+    ],
+    "answer": [
+      "гл_а_вное"
+    ]
+  },
+  {
+    "id": "chap8-ck3#01",
+    "quest": [
+      "Was Sie nicht sagen!"
+    ],
+    "answer": [
+      "Что вы!"
+    ]
+  },
+  {
+    "id": "chap8-ck3#02",
+    "quest": [
+      "Schlafanzug"
+    ],
+    "answer": [
+      "пиж_а_ма"
+    ]
+  },
+  {
+    "id": "chap8-ck3#03",
+    "quest": [
+      "Morgenmantel",
+      "Kittel"
+    ],
+    "answer": [
+      "хал_а_т"
+    ]
+  },
+  {
+    "id": "chap8-ck3#04",
+    "quest": [
+      "Shorts",
+      "kurze Hose"
+    ],
+    "answer": [
+      "шорты ~Pluram~"
+    ]
+  },
+  {
+    "id": "chap8-ck3#05",
+    "quest": [
+      "Bettwäsche"
+    ],
+    "answer": [
+      "пост_е_льное бельё"
+    ]
+  },
+  {
+    "id": "chap8-ck3#06",
+    "quest": [
+      "Wäsche"
+    ],
+    "answer": [
+      "бельё"
+    ]
+  },
+  {
+    "id": "chap8-ck3#07",
+    "quest": [
+      "Ausverkauf",
+      "Preisaktion"
+    ],
+    "answer": [
+      "распрод_а_жа"
+    ]
+  },
+  {
+    "id": "chap8-ck3#08",
+    "quest": [
+      "Zeigen Sie …"
+    ],
+    "answer": [
+      "покаж_и_те …"
+    ]
+  },
+  {
+    "id": "chap8-ck3#09",
+    "quest": [
+      "herstellen",
+      "erzeugen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "произв_о_дить",
+      "я произвож_у_",
+      "ты произв_о_дишь",
+      "он/она/оно производит",
+      "мы произв_о_дим",
+      "вы произв_о_дите",
+      "они произв_о_дят"
+    ]
+  },
+  {
+    "id": "chap8-ck3#10",
+    "quest": [
+      "nicht teuer"
+    ],
+    "answer": [
+      "нед_о_рого"
+    ]
+  },
+  {
+    "id": "chap8-ck3#11",
+    "quest": [
+      "neu"
+    ],
+    "answer": [
+      "новый",
+      "новая",
+      "новое",
+      "новые"
+    ]
+  },
+  {
+    "id": "chap8-ck3#12",
+    "quest": [
+      "Design"
+    ],
+    "answer": [
+      "диз_а_йн"
+    ]
+  },
+  {
+    "id": "chap8-ck3#13",
+    "quest": [
+      "Preisermäßigung",
+      "Rabatt"
+    ],
+    "answer": [
+      "ск_и_дкa"
+    ]
+  },
+  {
+    "id": "chap8-ck3#14",
+    "quest": [
+      "Seien Sie so lieb …"
+    ],
+    "answer": [
+      "Б_у_дьте добр_ы_ …"
+    ]
+  },
+  {
+    "id": "chap8-ck3#15",
+    "quest": [
+      "Kreditkarte ~ugs.~"
+    ],
+    "answer": [
+      "кредитка"
+    ]
+  },
+  {
+    "id": "chap8-ck3#16",
+    "quest": [
+      "grau"
+    ],
+    "answer": [
+      "серый",
+      "серая",
+      "серое",
+      "серые"
+    ]
+  },
+  {
+    "id": "chap8-ck3#17",
+    "quest": [
+      "Trainingsanzug"
+    ],
+    "answer": [
+      "спорт_и_вный кост_ю_м"
+    ]
+  },
+  {
+    "id": "chap8-ck3#18",
+    "quest": [
+      "Smoking"
+    ],
+    "answer": [
+      "см_о_кинг"
+    ]
+  },
+  {
+    "id": "chap8-ck3#19",
+    "quest": [
+      "Haute Couture"
+    ],
+    "answer": [
+      "от кут_ю_р"
+    ]
+  },
+  {
+    "id": "chap8-ck3#20",
+    "quest": [
+      "dunkel"
+    ],
+    "answer": [
+      "тёмный",
+      "тёмная",
+      "тёмное",
+      "тёмные"
+    ]
+  },
+  {
+    "id": "chap8-ck3#21",
+    "quest": [
+      "Laufschuhe",
+      "Sneaker"
+    ],
+    "answer": [
+      "кроссовки ~Plural~"
+    ]
+  },
+  {
+    "id": "chap8-ck3#22",
+    "quest": [
+      "experimentieren"
+    ],
+    "answer": [
+      "эксперимент_и_ровать"
+    ]
+  },
+  {
+    "id": "chap8-ck3#23",
+    "quest": [
+      "Leggins"
+    ],
+    "answer": [
+      "л_е_ггинсы ~Plural~"
+    ]
+  },
+  {
+    "id": "chap8-ck3#24",
+    "quest": [
+      "leuchtend",
+      "grell",
+      "hell"
+    ],
+    "answer": [
+      "_я_ркий",
+      "_я_ркая",
+      "_я_ркое",
+      "_я_ркие"
+    ]
+  },
+  {
+    "id": "chap8-ck3#25",
+    "quest": [
+      "Tunika"
+    ],
+    "answer": [
+      "тун_и_ка"
+    ]
+  },
+  {
+    "id": "chap8-ck3#26",
+    "quest": [
+      "(Damen-) Schuhe mit hohen Absätzen"
+    ],
+    "answer": [
+      "т_у_фли на выс_о_ком каблук_е_"
+    ]
+  },
+  {
+    "id": "chap8-ck3#27",
+    "quest": [
+      "hoch"
+    ],
+    "answer": [
+      "выс_о_кий",
+      "выс_о_кая",
+      "выс_о_кое",
+      "выс_о_кие"
+    ]
+  },
+  {
+    "id": "chap8-ck3#28",
+    "quest": [
+      "Absatz"
+    ],
+    "answer": [
+      "кабл_у_к"
+    ]
+  },
+  {
+    "id": "chap8-ck3#29",
+    "quest": [
+      "hell"
+    ],
+    "answer": [
+      "св_е_тлый",
+      "св_е_тлая",
+      "св_е_тлое",
+      "св_е_тлые"
+    ]
+  },
+  {
+    "id": "chap8-ck3#30",
+    "quest": [
+      "streng"
+    ],
+    "answer": [
+      "стр_о_гий",
+      "стр_о_гая",
+      "стр_о_гое",
+      "стр_о_гие"
+    ]
+  },
+  {
+    "id": "chap8-ck3#31",
+    "quest": [
+      "Dresscode",
+      "Kleiderordnung"
+    ],
+    "answer": [
+      "дресс-к_о_д"
+    ]
+  },
+  {
+    "id": "chap8-ck3#32",
+    "quest": [
+      "klassisch"
+    ],
+    "answer": [
+      "класс_и_ческий",
+      "класс_и_ческая",
+      "класс_и_ческое",
+      "класс_и_ческие"
+    ]
+  },
+  {
+    "id": "chap8-ck3#33",
+    "quest": [
+      "nur"
+    ],
+    "answer": [
+      "т_о_лько"
+    ]
+  },
+  {
+    "id": "chap8-ck3#34",
+    "quest": [
+      "Geschäftspartner"
+    ],
+    "answer": [
+      "делов_о_й партнёр"
+    ]
+  }
+]

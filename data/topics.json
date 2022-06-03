@@ -216,6 +216,22 @@
         ]
     },
     {
+        "file": "data/book/chap-8/chunk-3.json",
+        "title": "Kapitel 8 Teil 3",
+        "tags": [
+            "Buch",
+            "Kapitel-8"
+        ]
+    },
+    {
+        "file": "data/book/chap-8/chunk-4.json",
+        "title": "Kapitel 8 Teil 4",
+        "tags": [
+            "Buch",
+            "Kapitel-8"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [
