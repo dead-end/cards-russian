@@ -1,0 +1,276 @@
+[
+  {
+    "id": "chap9-ck1#00",
+    "quest": [
+      "feiern"
+    ],
+    "answer": [
+      "пр_а_здновать"
+    ]
+  },
+  {
+    "id": "chap9-ck1#01",
+    "quest": [
+      "Nationalfeiertag Russlands"
+    ],
+    "answer": [
+      "День Росс_и_и"
+    ]
+  },
+  {
+    "id": "chap9-ck1#02",
+    "quest": [
+      "Neujahr"
+    ],
+    "answer": [
+      "Н_о_вый год"
+    ]
+  },
+  {
+    "id": "chap9-ck1#03",
+    "quest": [
+      "Ostern"
+    ],
+    "answer": [
+      "П_а_сха"
+    ]
+  },
+  {
+    "id": "chap9-ck1#04",
+    "quest": [
+      "Internationaler Frauentag"
+    ],
+    "answer": [
+      "Междунар_о_дный ж_е_нский день"
+    ]
+  },
+  {
+    "id": "chap9-ck1#05",
+    "quest": [
+      "Weihnachten"
+    ],
+    "answer": [
+      "Рождеств_о_"
+    ]
+  },
+  {
+    "id": "chap9-ck1#06",
+    "quest": [
+      "Frohes neues Jahr!"
+    ],
+    "answer": [
+      "С Н_о_вым годом"
+    ]
+  },
+  {
+    "id": "chap9-ck1#07",
+    "quest": [
+      "Valentinstag"
+    ],
+    "answer": [
+      "День Свят_о_го Валент_и_на"
+    ]
+  },
+  {
+    "id": "chap9-ck1#08",
+    "quest": [
+      "kommerziell"
+    ],
+    "answer": [
+      "комм_е_рческий",
+      "комм_е_рческая",
+      "комм_е_рческое",
+      "комм_е_рческие"
+    ]
+  },
+  {
+    "id": "chap9-ck1#09",
+    "quest": [
+      "alle"
+    ],
+    "answer": [
+      "все"
+    ]
+  },
+  {
+    "id": "chap9-ck1#10",
+    "quest": [
+      "fast"
+    ],
+    "answer": [
+      "почт_и_"
+    ]
+  },
+  {
+    "id": "chap9-ck1#11",
+    "quest": [
+      "Monat"
+    ],
+    "answer": [
+      "м_е_сяц"
+    ]
+  },
+  {
+    "id": "chap9-ck1#12",
+    "quest": [
+      "Januar"
+    ],
+    "answer": [
+      "янв_а_рь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#13",
+    "quest": [
+      "Februar"
+    ],
+    "answer": [
+      "февр_а_ль ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#14",
+    "quest": [
+      "März"
+    ],
+    "answer": [
+      "март"
+    ]
+  },
+  {
+    "id": "chap9-ck1#15",
+    "quest": [
+      "April"
+    ],
+    "answer": [
+      "апр_е_ль ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#16",
+    "quest": [
+      "Mai"
+    ],
+    "answer": [
+      "май"
+    ]
+  },
+  {
+    "id": "chap9-ck1#17",
+    "quest": [
+      "Juni"
+    ],
+    "answer": [
+      "и_ю_нь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#18",
+    "quest": [
+      "Juli"
+    ],
+    "answer": [
+      "и_ю_ль ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#19",
+    "quest": [
+      "August"
+    ],
+    "answer": [
+      "_а_вгуст"
+    ]
+  },
+  {
+    "id": "chap9-ck1#20",
+    "quest": [
+      "September"
+    ],
+    "answer": [
+      "сент_я_брь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#21",
+    "quest": [
+      "Oktober"
+    ],
+    "answer": [
+      "окт_я_брь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#22",
+    "quest": [
+      "November"
+    ],
+    "answer": [
+      "но_я_брь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#23",
+    "quest": [
+      "Dezember"
+    ],
+    "answer": [
+      "дек_а_брь ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#24",
+    "quest": [
+      "Muttertag"
+    ],
+    "answer": [
+      "День м_а_тери"
+    ]
+  },
+  {
+    "id": "chap9-ck1#25",
+    "quest": [
+      "~wörtl. hier:~ Tag des Lachens"
+    ],
+    "answer": [
+      "День см_е_ха"
+    ]
+  },
+  {
+    "id": "chap9-ck1#26",
+    "quest": [
+      "~hier:~ Klassenzimmer"
+    ],
+    "answer": [
+      "класс"
+    ]
+  },
+  {
+    "id": "chap9-ck1#27",
+    "quest": [
+      "Chaussee"
+    ],
+    "answer": [
+      "шосс_е_ ~neutrum indekl.~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#28",
+    "quest": [
+      "Büro",
+      "Auskunftsstelle"
+    ],
+    "answer": [
+      "бюро ~neutrum indekl.~"
+    ]
+  },
+  {
+    "id": "chap9-ck1#29",
+    "quest": [
+      "Der Wievielte ist heute?"
+    ],
+    "answer": [
+      "Как_о_е сег_о_дня числ_о_?"
+    ]
+  }
+]

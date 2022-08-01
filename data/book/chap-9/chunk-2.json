@@ -1,0 +1,302 @@
+[
+  {
+    "id": "chap9-ck2#00",
+    "quest": [
+      "Am Wievielten?"
+    ],
+    "answer": [
+      "Как_о_го числ_а_?"
+    ]
+  },
+  {
+    "id": "chap9-ck2#01",
+    "quest": [
+      "hier: Datum"
+    ],
+    "answer": [
+      "числ_о_"
+    ]
+  },
+  {
+    "id": "chap9-ck2#02",
+    "quest": [
+      "Geburtstag"
+    ],
+    "answer": [
+      "день рожд_е_ния"
+    ]
+  },
+  {
+    "id": "chap9-ck2#03",
+    "quest": [
+      "zuerst"
+    ],
+    "answer": [
+      "снач_а_ла"
+    ]
+  },
+  {
+    "id": "chap9-ck2#04",
+    "quest": [
+      "Arbeit",
+      "Werk"
+    ],
+    "answer": [
+      "труд"
+    ]
+  },
+  {
+    "id": "chap9-ck2#05",
+    "quest": [
+      "Sieg"
+    ],
+    "answer": [
+      "поб_е_да"
+    ]
+  },
+  {
+    "id": "chap9-ck2#06",
+    "quest": [
+      "~wörtl.:~ Tag des Wissens",
+      "(der 1. Schultag in Russland)"
+    ],
+    "answer": [
+      "День знаний"
+    ]
+  },
+  {
+    "id": "chap9-ck2#07",
+    "quest": [
+      "Weltraumfahrt"
+    ],
+    "answer": [
+      "космон_а_втика"
+    ]
+  },
+  {
+    "id": "chap9-ck2#08",
+    "quest": [
+      "иausgerechnet",
+      "gerade",
+      "eben"
+    ],
+    "answer": [
+      "_и_менно"
+    ]
+  },
+  {
+    "id": "chap9-ck2#09",
+    "quest": [
+      "fröhlich",
+      "heiter"
+    ],
+    "answer": [
+      "в_е_село"
+    ]
+  },
+  {
+    "id": "chap9-ck2#10",
+    "quest": [
+      "lärmend",
+      "geräuschvoll"
+    ],
+    "answer": [
+      "ш_у_мно"
+    ]
+  },
+  {
+    "id": "chap9-ck2#11",
+    "quest": [
+      "dann",
+      "danach"
+    ],
+    "answer": [
+      "пот_о_м"
+    ]
+  },
+  {
+    "id": "chap9-ck2#12",
+    "quest": [
+      "schmücken"
+    ],
+    "answer": [
+      "украш_а_ть"
+    ]
+  },
+  {
+    "id": "chap9-ck2#13",
+    "quest": [
+      "Weihnachtsbaum",
+      "Tannenbaum"
+    ],
+    "answer": [
+      "ёлкa"
+    ]
+  },
+  {
+    "id": "chap9-ck2#14",
+    "quest": [
+      "(das Essen) zubereiten",
+      "kochen"
+    ],
+    "answer": [
+      "гот_о_вить",
+      "я гот_о_влю",
+      "ты гот_о_вишь",
+      "он / она / оно гот_о_вит",
+      "мы гот_о_вим",
+      "вы гот_о_вите",
+      "они гот_о_вят"
+    ]
+  },
+  {
+    "id": "chap9-ck2#15",
+    "quest": [
+      "festlich"
+    ],
+    "answer": [
+      "пр_а_здничный",
+      "пр_а_здничная",
+      "пр_а_здничное",
+      "пр_а_здничные"
+    ]
+  },
+  {
+    "id": "chap9-ck2#16",
+    "quest": [
+      "~hier:~ sich versammeln"
+    ],
+    "answer": [
+      "собир_а_ться"
+    ]
+  },
+  {
+    "id": "chap9-ck2#17",
+    "quest": [
+      "zu Besuch (sein)"
+    ],
+    "answer": [
+      "в гост_я_х (быть)"
+    ]
+  },
+  {
+    "id": "chap9-ck2#18",
+    "quest": [
+      "am Tisch"
+    ],
+    "answer": [
+      "за стол_о_м"
+    ]
+  },
+  {
+    "id": "chap9-ck2#19",
+    "quest": [
+      "Tisch"
+    ],
+    "answer": [
+      "стол"
+    ]
+  },
+  {
+    "id": "chap9-ck2#20",
+    "quest": [
+      "Glückwunsch",
+      "Gratulation"
+    ],
+    "answer": [
+      "поздравл_е_ние"
+    ]
+  },
+  {
+    "id": "chap9-ck2#21",
+    "quest": [
+      "im Fernsehen"
+    ],
+    "answer": [
+      "по телев_и_дению"
+    ]
+  },
+  {
+    "id": "chap9-ck2#22",
+    "quest": [
+      "die Uhr schlägt"
+    ],
+    "answer": [
+      "час_ы_ бьют"
+    ]
+  },
+  {
+    "id": "chap9-ck2#23",
+    "quest": [
+      "Uhr"
+    ],
+    "answer": [
+      "часы ~Plural~"
+    ]
+  },
+  {
+    "id": "chap9-ck2#24",
+    "quest": [
+      "einander"
+    ],
+    "answer": [
+      "друг др_у_га"
+    ]
+  },
+  {
+    "id": "chap9-ck2#25",
+    "quest": [
+      "schenken"
+    ],
+    "answer": [
+      "дар_и_ть",
+      "я дар_ю_",
+      "ты д_а_ришь",
+      "он / она / оно д_а_рит",
+      "мы д_а_рим",
+      "вы д_а_рите",
+      "они д_а_рят"
+    ]
+  },
+  {
+    "id": "chap9-ck2#26",
+    "quest": [
+      "Geschenk"
+    ],
+    "answer": [
+      "под_а_рок",
+      "под_а_рка ~Genitiv Singular~"
+    ]
+  },
+  {
+    "id": "chap9-ck2#27",
+    "quest": [
+      "immer"
+    ],
+    "answer": [
+      "всегд_а_"
+    ]
+  },
+  {
+    "id": "chap9-ck2#28",
+    "quest": [
+      "froh",
+      "freudig"
+    ],
+    "answer": [
+      "р_а_достный",
+      "р_а_достная",
+      "р_а_достное",
+      "р_а_достные"
+    ]
+  },
+  {
+    "id": "chap9-ck2#29",
+    "quest": [
+      "Minute"
+    ],
+    "answer": [
+      "мин_у_та"
+    ]
+  }
+]

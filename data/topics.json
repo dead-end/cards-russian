@@ -232,6 +232,22 @@
         ]
     },
     {
+        "file": "data/book/chap-9/chunk-1.json",
+        "title": "Kapitel 9 Teil 1",
+        "tags": [
+            "Buch",
+            "Kapitel-9"
+        ]
+    },
+    {
+        "file": "data/book/chap-9/chunk-2.json",
+        "title": "Kapitel 9 Teil 2",
+        "tags": [
+            "Buch",
+            "Kapitel-9"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [
