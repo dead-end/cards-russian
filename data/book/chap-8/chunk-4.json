@@ -103,7 +103,9 @@
       "Lieferung"
     ],
     "answer": [
-      "п_а_ртия тов_а_ра"
+      "п_а_ртия тов_а_ра",
+      "п_а_ртия ~die Partie, die Gruppe~",
+      "тов_а_ра ~die Ware, der Artikel~"
     ]
   },
   {
@@ -121,7 +123,8 @@
       "Verhandlungen"
     ],
     "answer": [
-      "перегов_о_ры ~Plural~"
+      "перегов_о_ры ~Plural~",
+      "г_о_вор ~das Gerede, der Dialekt~"
     ]
   },
   {
@@ -168,7 +171,7 @@
       "niedrig"
     ],
     "answer": [
-      "н_и_зкие",
+      "н_и_зкий",
       "н_и_зкая",
       "н_и_зкое",
       "н_и_зкие"
