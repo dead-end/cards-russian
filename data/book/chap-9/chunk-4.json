@@ -1,0 +1,303 @@
+[
+  {
+    "id": "chap9-ck4#00",
+    "quest": [
+      "Computerspiel"
+    ],
+    "answer": [
+      "компь_ю_терная игр_а_"
+    ]
+  },
+  {
+    "id": "chap9-ck4#01",
+    "quest": [
+      "traditionell",
+      "gewöhnlich"
+    ],
+    "answer": [
+      "традици_о_нный",
+      "традици_о_нная",
+      "традици_о_нное",
+      "традици_о_нные"
+    ]
+  },
+  {
+    "id": "chap9-ck4#02",
+    "quest": [
+      "Immer dasselbe!"
+    ],
+    "answer": [
+      "Всегд_а_ одн_о_ и то же!"
+    ]
+  },
+  {
+    "id": "chap9-ck4#03",
+    "quest": [
+      "(Gesichts-) Creme"
+    ],
+    "answer": [
+      "крем"
+    ]
+  },
+  {
+    "id": "chap9-ck4#04",
+    "quest": [
+      "gut"
+    ],
+    "answer": [
+      "л_а_дно"
+    ]
+  },
+  {
+    "id": "chap9-ck4#05",
+    "quest": [
+      "schreiben"
+    ],
+    "answer": [
+      "пис_а_ть",
+      "я пиш_у_",
+      "ты п_и_шешь",
+      "он / она / оно п_и_шет",
+      "мы п_и_шем",
+      "вы п_и_шете",
+      "они п_и_шут"
+    ]
+  },
+  {
+    "id": "chap9-ck4#06",
+    "quest": [
+      "manchmal"
+    ],
+    "answer": [
+      "иногд_а_"
+    ]
+  },
+  {
+    "id": "chap9-ck4#07",
+    "quest": [
+      "~hier:~ vorbereiten"
+    ],
+    "answer": [
+      "гот_о_вить",
+      "я гот_о_влю",
+      "ты гот_о_вишь",
+      "он / она / оно гот_о_вит",
+      "мы гот_о_вим",
+      "вы гот_о_вите",
+      "они гот_о_вят"
+    ]
+  },
+  {
+    "id": "chap9-ck4#08",
+    "quest": [
+      "Bescheid wissen"
+    ],
+    "answer": [
+      "быть в к_у_рсе"
+    ]
+  },
+  {
+    "id": "chap9-ck4#09",
+    "quest": [
+      "Firmenlogo"
+    ],
+    "answer": [
+      "логот_и_п ф_и_рмы"
+    ]
+  },
+  {
+    "id": "chap9-ck4#10",
+    "quest": [
+      "fertig"
+    ],
+    "answer": [
+      "гот_о_в",
+      "гот_о_ва",
+      "гот_о_вы"
+    ]
+  },
+  {
+    "id": "chap9-ck4#11",
+    "quest": [
+      "auf … hoffen"
+    ],
+    "answer": [
+      "над_е_яться",
+      "я над_е_юсь",
+      "ты над_е_ешься",
+      "он / она / оно над_е_ется",
+      "мы над_е_емся",
+      "вы над_е_етесь",
+      "они над_е_ются"
+    ]
+  },
+  {
+    "id": "chap9-ck4#12",
+    "quest": [
+      "weiterer(e)"
+    ],
+    "answer": [
+      "дальн_е_йший",
+      "дальн_е_йшая",
+      "дальн_е_йшее",
+      "дальн_е_йшие"
+    ]
+  },
+  {
+    "id": "chap9-ck4#13",
+    "quest": [
+      "Zusammenarbeit"
+    ],
+    "answer": [
+      "сотр_у_дничество"
+    ]
+  },
+  {
+    "id": "chap9-ck4#14",
+    "quest": [
+      "schätzen",
+      "würdigen"
+    ],
+    "answer": [
+      "цен_и_ть"
+    ]
+  },
+  {
+    "id": "chap9-ck4#15",
+    "quest": [
+      "Kunde"
+    ],
+    "answer": [
+      "кли_е_нт"
+    ]
+  },
+  {
+    "id": "chap9-ck4#16",
+    "quest": [
+      "sich für etwas bedanken"
+    ],
+    "answer": [
+      "благодар_и_ть за ~(+) Akkusativ~"
+    ]
+  },
+  {
+    "id": "chap9-ck4#17",
+    "quest": [
+      "städtische Residenz"
+    ],
+    "answer": [
+      "городск_а_я резид_е_нция"
+    ]
+  },
+  {
+    "id": "chap9-ck4#18",
+    "quest": [
+      "jeden Tag"
+    ],
+    "answer": [
+      "к_а_ждый день"
+    ]
+  },
+  {
+    "id": "chap9-ck4#19",
+    "quest": [
+      "technischer Fortschritt"
+    ],
+    "answer": [
+      "техн_и_ческий прогр_е_сс"
+    ]
+  },
+  {
+    "id": "chap9-ck4#20",
+    "quest": [
+      "Junge"
+    ],
+    "answer": [
+      "м_а_льчик"
+    ]
+  },
+  {
+    "id": "chap9-ck4#21",
+    "quest": [
+      "Wunsch"
+    ],
+    "answer": [
+      "жел_а_ние"
+    ]
+  },
+  {
+    "id": "chap9-ck4#22",
+    "quest": [
+      "gute Tat"
+    ],
+    "answer": [
+      "д_о_брое д_е_ло"
+    ]
+  },
+  {
+    "id": "chap9-ck4#23",
+    "quest": [
+      "Zwerg",
+      "Wichtel"
+    ],
+    "answer": [
+      "гн_о_м"
+    ]
+  },
+  {
+    "id": "chap9-ck4#24",
+    "quest": [
+      "Snegurotschka",
+      "~Enkelin des Weihnachtsmannes~"
+    ],
+    "answer": [
+      "Снег_у_рочка"
+    ]
+  },
+  {
+    "id": "chap9-ck4#25",
+    "quest": [
+      "Stiftung"
+    ],
+    "answer": [
+      "ф_о_нд"
+    ]
+  },
+  {
+    "id": "chap9-ck4#26",
+    "quest": [
+      "Organisation"
+    ],
+    "answer": [
+      "организ_а_ция"
+    ]
+  },
+  {
+    "id": "chap9-ck4#27",
+    "quest": [
+      "jeder"
+    ],
+    "answer": [
+      "к_а_ждый"
+    ]
+  },
+  {
+    "id": "chap9-ck4#28",
+    "quest": [
+      "Sobornoje dvorischtsche",
+      "~Kirchenensemble in Welikij Ustjug~"
+    ],
+    "answer": [
+      "Соб_о_рное дв_о_рище"
+    ]
+  },
+  {
+    "id": "chap9-ck4#29",
+    "quest": [
+      "Silvesterraketen zünden"
+    ],
+    "answer": [
+      "запуск_а_ть фейерв_е_рки"
+    ]
+  }
+]
