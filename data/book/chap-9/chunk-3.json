@@ -1,0 +1,309 @@
+[
+  {
+    "id": "chap9-ck3#00",
+    "quest": [
+      "später"
+    ],
+    "answer": [
+      "п_о_зже später"
+    ]
+  },
+  {
+    "id": "chap9-ck3#01",
+    "quest": [
+      "ach draußen gehen",
+      "aussteigen"
+    ],
+    "answer": [
+      "выход_и_ть",
+      "я выхож_у_",
+      "ты вых_о_дишь",
+      "он / она / оно вых_о_дит",
+      "мы вых_о_дим",
+      "вы вых_о_дите",
+      "они вых_о_дят"
+    ]
+  },
+  {
+    "id": "chap9-ck3#02",
+    "quest": [
+      "Silvesterrakete",
+      "Feuerwerk"
+    ],
+    "answer": [
+      "фейерв_е_рк"
+    ]
+  },
+  {
+    "id": "chap9-ck3#03",
+    "quest": [
+      "stehen"
+    ],
+    "answer": [
+      "сто_я_ть",
+      "я сто_ю_",
+      "ты сто_и_шь",
+      "он / она / оно сто_и_т",
+      "мы сто_и_м",
+      "вы сто_и_те",
+      "они сто_я_т"
+    ]
+  },
+  {
+    "id": "chap9-ck3#04",
+    "quest": [
+      "Neujahrs-"
+    ],
+    "answer": [
+      "новог_о_дний",
+      "новог_о_дняя",
+      "новог_о_днее",
+      "новог_о_дние"
+    ]
+  },
+  {
+    "id": "chap9-ck3#05",
+    "quest": [
+      "Volk"
+    ],
+    "answer": [
+      "нар_о_д"
+    ]
+  },
+  {
+    "id": "chap9-ck3#06",
+    "quest": [
+      "singen"
+    ],
+    "answer": [
+      "петь",
+      "я по_ю_",
+      "ты поёшь",
+      "он / она / оно поёт",
+      "мы поём",
+      "вы поёте",
+      "они по_ю_т"
+    ]
+  },
+  {
+    "id": "chap9-ck3#07",
+    "quest": [
+      "tanzen"
+    ],
+    "answer": [
+      "танцев_а_ть"
+    ]
+  },
+  {
+    "id": "chap9-ck3#08",
+    "quest": [
+      "~hier:~ feiern",
+      "sich amüsieren",
+      "sich vergnügen"
+    ],
+    "answer": [
+      "весел_и_ться",
+      "я весел_ю_сь",
+      "ты весел_и_шься",
+      "он/она/оно весел_и_тся",
+      "мы весел_и_мся",
+      "вы весел_и_тесь",
+      "они весел_я_тся"
+    ]
+  },
+  {
+    "id": "chap9-ck3#09",
+    "quest": [
+      "~hier:~ bis in die Morgen stunden"
+    ],
+    "answer": [
+      "до утр_а_"
+    ]
+  },
+  {
+    "id": "chap9-ck3#10",
+    "quest": [
+      "unvergesslich"
+    ],
+    "answer": [
+      "незабыв_а_емый"
+    ]
+  },
+  {
+    "id": "chap9-ck3#11",
+    "quest": [
+      "Herzlichen Glückwunsch zum Feiertag!"
+    ],
+    "answer": [
+      "С пр_а_здником!"
+    ]
+  },
+  {
+    "id": "chap9-ck3#12",
+    "quest": [
+      "Empfänger"
+    ],
+    "answer": [
+      "получ_а_тель ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#13",
+    "quest": [
+      "Absender"
+    ],
+    "answer": [
+      "отправитель ~maskulinum~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#14",
+    "quest": [
+      "zu etwas gratulieren"
+    ],
+    "answer": [
+      "поздравл_я_ть с ~+ Instr.~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#15",
+    "quest": [
+      "Gesundheit"
+    ],
+    "answer": [
+      "здор_о_вье"
+    ]
+  },
+  {
+    "id": "chap9-ck3#16",
+    "quest": [
+      "Glück"
+    ],
+    "answer": [
+      "сч_а_стье"
+    ]
+  },
+  {
+    "id": "chap9-ck3#17",
+    "quest": [
+      "Erfolg"
+    ],
+    "answer": [
+      "усп_е_х"
+    ]
+  },
+  {
+    "id": "chap9-ck3#18",
+    "quest": [
+      "Melodie"
+    ],
+    "answer": [
+      "мел_о_дия"
+    ]
+  },
+  {
+    "id": "chap9-ck3#19",
+    "quest": [
+      "Wann soll es abgeschickt werden?"
+    ],
+    "answer": [
+      "Когд_а_ отпр_а_вить?"
+    ]
+  },
+  {
+    "id": "chap9-ck3#20",
+    "quest": [
+      "empfangen",
+      "erhalten"
+    ],
+    "answer": [
+      "получать ~vollendet~",
+      "(получать ~unvollendet~)"
+    ]
+  },
+  {
+    "id": "chap9-ck3#21",
+    "quest": [
+      "Roman"
+    ],
+    "answer": [
+      "ром_а_н"
+    ]
+  },
+  {
+    "id": "chap9-ck3#22",
+    "quest": [
+      "zu etwas gratulieren"
+    ],
+    "answer": [
+      "поздравл_я_ть с ~+ Instrumentalis~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#23",
+    "quest": [
+      "anrufen",
+      "telefonieren"
+    ],
+    "answer": [
+      "позвон_и_ть ~vollendet (+) Dativ~",
+      "звон_и_ть ~unvollendet~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#24",
+    "quest": [
+      "Zwillinge"
+    ],
+    "answer": [
+      "близнец_ы_ ~Plural~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#25",
+    "quest": [
+      "Was gibt es Neues?"
+    ],
+    "answer": [
+      "Что н_о_вого?"
+    ]
+  },
+  {
+    "id": "chap9-ck3#26",
+    "quest": [
+      "~hier:~ Pass auf!"
+    ],
+    "answer": [
+      "сл_у_шай",
+      "сл_у_шать ~hören~"
+    ]
+  },
+  {
+    "id": "chap9-ck3#27",
+    "quest": [
+      "Tatsächlich!",
+      "Wirklich!"
+    ],
+    "answer": [
+      "Пр_а_вда!"
+    ]
+  },
+  {
+    "id": "chap9-ck3#28",
+    "quest": [
+      "Noch nicht."
+    ],
+    "answer": [
+      "Пок_а_ нет."
+    ]
+  },
+  {
+    "id": "chap9-ck3#29",
+    "quest": [
+      "meiner Meinung nach"
+    ],
+    "answer": [
+      "по-м_о_ему"
+    ]
+  }
+]
