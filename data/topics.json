@@ -365,6 +365,14 @@
         "desc": "Text über Getränke"
     },
     {
+        "file": "data/misc/numbers.json",
+        "title": "Zahlen",
+        "tags": [
+            "Verschiedenes"
+        ],
+        "desc": "Zahlen 1 - 10.000"
+    },
+    {
         "file": "data/misc.json",
         "title": "Sonstiges - Test",
         "tags": [
