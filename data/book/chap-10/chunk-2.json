@@ -1,0 +1,320 @@
+[
+  {
+    "id": "chap10-ck2#00",
+    "quest": [
+      "Dorf"
+    ],
+    "answer": [
+      "дер_е_вня",
+      "село ~Alternative~"
+    ]
+  },
+  {
+    "id": "chap10-ck2#01",
+    "quest": [
+      "liegen"
+    ],
+    "answer": [
+      "леж_а_ть",
+      "я леж_у_",
+      "ты леж_и_шь",
+      "он / она / оно леж_и_т",
+      "мы леж_и_м",
+      "вы леж_и_те",
+      "они леж_а_т"
+    ]
+  },
+  {
+    "id": "chap10-ck2#02",
+    "quest": [
+      "Hängematte"
+    ],
+    "answer": [
+      "гам_а_к"
+    ]
+  },
+  {
+    "id": "chap10-ck2#03",
+    "quest": [
+      "hauptsächlich"
+    ],
+    "answer": [
+      "в основн_о_м",
+      "главное ~die Hauptsache~"
+    ]
+  },
+  {
+    "id": "chap10-ck2#04",
+    "quest": [
+      "sich sonnen",
+      "in der Sonne liegen"
+    ],
+    "answer": [
+      "загор_а_ть"
+    ]
+  },
+  {
+    "id": "chap10-ck2#05",
+    "quest": [
+      "hier: Bananenboot fahren"
+    ],
+    "answer": [
+      "кат_а_ться на бан_а_не"
+    ]
+  },
+  {
+    "id": "chap10-ck2#06",
+    "quest": [
+      "Bier"
+    ],
+    "answer": [
+      "п_и_во"
+    ]
+  },
+  {
+    "id": "chap10-ck2#07",
+    "quest": [
+      "kalt"
+    ],
+    "answer": [
+      "хол_о_дный",
+      "хол_о_дная",
+      "хол_о_дное",
+      "хол_о_дные"
+    ]
+  },
+  {
+    "id": "chap10-ck2#08",
+    "quest": [
+      "Karaoke-Bar"
+    ],
+    "answer": [
+      "кара_о_ке-бар"
+    ]
+  },
+  {
+    "id": "chap10-ck2#09",
+    "quest": [
+      "im Allgemeinen",
+      "eigentlich"
+    ],
+    "answer": [
+      "в _о_бщем",
+      "об_ы_чно ~gewöhnlich~"
+    ]
+  },
+  {
+    "id": "chap10-ck2#10",
+    "quest": [
+      "ein Auto mieten"
+    ],
+    "answer": [
+      "брать напрок_а_т маш_и_ну"
+    ]
+  },
+  {
+    "id": "chap10-ck2#11",
+    "quest": [
+      "nehmen"
+    ],
+    "answer": [
+      "брать",
+      "я беру",
+      "ты берёшь",
+      "он / она / оно берёт",
+      "мы берём",
+      "вы берёте",
+      "они берут"
+    ]
+  },
+  {
+    "id": "chap10-ck2#12",
+    "quest": [
+      "fotografieren"
+    ],
+    "answer": [
+      "фотограф_и_ровать"
+    ]
+  },
+  {
+    "id": "chap10-ck2#13",
+    "quest": [
+      "ins Ausland"
+    ],
+    "answer": [
+      "за гран_и_цу"
+    ]
+  },
+  {
+    "id": "chap10-ck2#14",
+    "quest": [
+      "hier: Landschaft"
+    ],
+    "answer": [
+      "пейзаж"
+    ]
+  },
+  {
+    "id": "chap10-ck2#15",
+    "quest": [
+      "mit der ganzen Familie"
+    ],
+    "answer": [
+      "всей семьёй"
+    ]
+  },
+  {
+    "id": "chap10-ck2#16",
+    "quest": [
+      "im Grünen"
+    ],
+    "answer": [
+      "на прир_о_де"
+    ]
+  },
+  {
+    "id": "chap10-ck2#17",
+    "quest": [
+      "Natur"
+    ],
+    "answer": [
+      "прир_о_да"
+    ]
+  },
+  {
+    "id": "chap10-ck2#18",
+    "quest": [
+      "Touristenherberge"
+    ],
+    "answer": [
+      "турб_а_за",
+      "- die Grundlage",
+      "- das Lager",
+      "- die Basis"
+    ]
+  },
+  {
+    "id": "chap10-ck2#19",
+    "quest": [
+      "malen",
+      "zeichnen"
+    ],
+    "answer": [
+      "рис_о_вать"
+    ]
+  },
+  {
+    "id": "chap10-ck2#20",
+    "quest": [
+      "der See"
+    ],
+    "answer": [
+      "озеро",
+      "озёра ~Nom. Pl.~"
+    ]
+  },
+  {
+    "id": "chap10-ck2#21",
+    "quest": [
+      "Boot"
+    ],
+    "answer": [
+      "л_о_дка"
+    ]
+  },
+  {
+    "id": "chap10-ck2#22",
+    "quest": [
+      "wandern gehen"
+    ],
+    "answer": [
+      "ход_и_ть в пох_о_ды"
+    ]
+  },
+  {
+    "id": "chap10-ck2#23",
+    "quest": [
+      "übernachten"
+    ],
+    "answer": [
+      "ночевать"
+    ]
+  },
+  {
+    "id": "chap10-ck2#24",
+    "quest": [
+      "Zelt"
+    ],
+    "answer": [
+      "пал_а_тка"
+    ]
+  },
+  {
+    "id": "chap10-ck2#25",
+    "quest": [
+      "fangen",
+      "~hier:~ fischen"
+    ],
+    "answer": [
+      "л_о_вить",
+      "я ловл_ю_",
+      "ты л_о_вишь",
+      "он/она/оно л_о_вит",
+      "мы л_о_вим",
+      "вы л_о_вите",
+      "они л_о_вят"
+    ]
+  },
+  {
+    "id": "chap10-ck2#26",
+    "quest": [
+      "kochen"
+    ],
+    "answer": [
+      "в_а_рить",
+      "я вар_ю_",
+      "ты в_а_ришь",
+      "он/она/оно в_а_рит",
+      "мы в_а_рим",
+      "вы в_а_рите",
+      "они в_а_рят"
+    ]
+  },
+  {
+    "id": "chap10-ck2#27",
+    "quest": [
+      "Essen"
+    ],
+    "answer": [
+      "ед_а_"
+    ]
+  },
+  {
+    "id": "chap10-ck2#28",
+    "quest": [
+      "Lagerfeuer"
+    ],
+    "answer": [
+      "костёр",
+      "костра ~Gen. Sg.~"
+    ]
+  },
+  {
+    "id": "chap10-ck2#29",
+    "quest": [
+      "begeistert"
+    ],
+    "answer": [
+      "в вост_о_рге"
+    ]
+  },
+  {
+    "id": "chap10-ck2#30",
+    "quest": [
+      "persönlich"
+    ],
+    "answer": [
+      "л_и_чно"
+    ]
+  }
+]

@@ -1,0 +1,295 @@
+[
+  {
+    "id": "chap10-ck1#00",
+    "quest": [
+      "Frühling"
+    ],
+    "answer": [
+      "в_е_сна",
+      "~im Frühling:~ весной"
+    ]
+  },
+  {
+    "id": "chap10-ck1#01",
+    "quest": [
+      "Sommer"
+    ],
+    "answer": [
+      "л_е_то",
+      "~im Sommer:~ летом"
+    ]
+  },
+  {
+    "id": "chap10-ck1#02",
+    "quest": [
+      "Herbst"
+    ],
+    "answer": [
+      "_о_сень ~f~",
+      "~im Herbst:~ осенью"
+    ]
+  },
+  {
+    "id": "chap10-ck1#03",
+    "quest": [
+      "Jahreszeit"
+    ],
+    "answer": [
+      "вр_е_мя г_о_да",
+      "времена года ~Nom. Pl.~"
+    ]
+  },
+  {
+    "id": "chap10-ck1#04",
+    "quest": [
+      "fahren"
+    ],
+    "answer": [
+      "_е_здить",
+      "я _е_зжу",
+      "ты _е_здишь",
+      "он / она / оно _е_здит",
+      "мы _е_здим",
+      "вы _е_здите",
+      "они _е_здят"
+    ]
+  },
+  {
+    "id": "chap10-ck1#05",
+    "quest": [
+      "Ägypten"
+    ],
+    "answer": [
+      "Ег_и_пет"
+    ]
+  },
+  {
+    "id": "chap10-ck1#06",
+    "quest": [
+      "Griechenland"
+    ],
+    "answer": [
+      "Гр_е_ция Griechenland"
+    ]
+  },
+  {
+    "id": "chap10-ck1#07",
+    "quest": [
+      "Bulgarien"
+    ],
+    "answer": [
+      "Болг_а_рия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#08",
+    "quest": [
+      "Kroatien"
+    ],
+    "answer": [
+      "Хорв_а_тия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#09",
+    "quest": [
+      "Montenegro"
+    ],
+    "answer": [
+      "Черног_о_рия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#10",
+    "quest": [
+      "Slowakei"
+    ],
+    "answer": [
+      "Слов_а_кия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#11",
+    "quest": [
+      "Zypern"
+    ],
+    "answer": [
+      "Кипр"
+    ]
+  },
+  {
+    "id": "chap10-ck1#12",
+    "quest": [
+      "Israel"
+    ],
+    "answer": [
+      "Изр_а_иль ~m~"
+    ]
+  },
+  {
+    "id": "chap10-ck1#13",
+    "quest": [
+      "Thailand"
+    ],
+    "answer": [
+      "Таил_а_нд"
+    ]
+  },
+  {
+    "id": "chap10-ck1#14",
+    "quest": [
+      "Portugal"
+    ],
+    "answer": [
+      "Португ_а_лия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#15",
+    "quest": [
+      "Kuba"
+    ],
+    "answer": [
+      "К_у_ба"
+    ]
+  },
+  {
+    "id": "chap10-ck1#16",
+    "quest": [
+      "China"
+    ],
+    "answer": [
+      "Кит_а_й"
+    ]
+  },
+  {
+    "id": "chap10-ck1#17",
+    "quest": [
+      "Indonesien"
+    ],
+    "answer": [
+      "Индон_е_зия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#18",
+    "quest": [
+      "Unternehmer"
+    ],
+    "answer": [
+      "предприним_а_тель ~m~"
+    ]
+  },
+  {
+    "id": "chap10-ck1#19",
+    "quest": [
+      "im Winter"
+    ],
+    "answer": [
+      "зим_о_й"
+    ]
+  },
+  {
+    "id": "chap10-ck1#20",
+    "quest": [
+      "Skigebiet"
+    ],
+    "answer": [
+      "горнол_ы_жный кур_о_рт"
+    ]
+  },
+  {
+    "id": "chap10-ck1#21",
+    "quest": [
+      "warm"
+    ],
+    "answer": [
+      "тёплый",
+      "тёплая",
+      "тёплое",
+      "тёплые"
+    ]
+  },
+  {
+    "id": "chap10-ck1#22",
+    "quest": [
+      "im Frühling"
+    ],
+    "answer": [
+      "весн_о_й"
+    ]
+  },
+  {
+    "id": "chap10-ck1#23",
+    "quest": [
+      "im Herbst"
+    ],
+    "answer": [
+      "_о_сенью"
+    ]
+  },
+  {
+    "id": "chap10-ck1#24",
+    "quest": [
+      "Kur",
+      "Kuraufenthalt"
+    ],
+    "answer": [
+      "леч_е_ние"
+    ]
+  },
+  {
+    "id": "chap10-ck1#25",
+    "quest": [
+      "zu"
+    ],
+    "answer": [
+      "к ~(+) Dat.~"
+    ]
+  },
+  {
+    "id": "chap10-ck1#26",
+    "quest": [
+      "Finnland"
+    ],
+    "answer": [
+      "Финл_я_ндия"
+    ]
+  },
+  {
+    "id": "chap10-ck1#27",
+    "quest": [
+      "Polen"
+    ],
+    "answer": [
+      "П_о_льша"
+    ]
+  },
+  {
+    "id": "chap10-ck1#28",
+    "quest": [
+      "Estland"
+    ],
+    "answer": [
+      "Эст_о_ния"
+    ]
+  },
+  {
+    "id": "chap10-ck1#29",
+    "quest": [
+      "stammen aus …"
+    ],
+    "answer": [
+      "р_о_дом из …"
+    ]
+  },
+  {
+    "id": "chap10-ck1#30",
+    "quest": [
+      "Ferien"
+    ],
+    "answer": [
+      "каникулы ~Pl.~"
+    ]
+  }
+]
