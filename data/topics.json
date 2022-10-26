@@ -1,7 +1,7 @@
 [
     {
         "file": "data/book/chap-1/chunk-1.json",
-        "title": "Kapitel 1 Teil 1",
+        "title": "Kapitel 01 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-1"
@@ -9,7 +9,7 @@
     },
     {
         "file": "data/book/chap-1/chunk-2.json",
-        "title": "Kapitel 1 Teil 2",
+        "title": "Kapitel 01 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-1"
@@ -17,7 +17,7 @@
     },
     {
         "file": "data/book/chap-2/chunk-1.json",
-        "title": "Kapitel 2 Teil 1",
+        "title": "Kapitel 02 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-2"
@@ -25,7 +25,7 @@
     },
     {
         "file": "data/book/chap-2/chunk-2.json",
-        "title": "Kapitel 2 Teil 2",
+        "title": "Kapitel 02 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-2"
@@ -33,7 +33,7 @@
     },
     {
         "file": "data/book/chap-3/chunk-1.json",
-        "title": "Kapitel 3 Teil 1",
+        "title": "Kapitel 03 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-3"
@@ -41,7 +41,7 @@
     },
     {
         "file": "data/book/chap-3/chunk-2.json",
-        "title": "Kapitel 3 Teil 2",
+        "title": "Kapitel 03 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-3"
@@ -49,7 +49,7 @@
     },
     {
         "file": "data/book/chap-3/chunk-3.json",
-        "title": "Kapitel 3 Teil 3",
+        "title": "Kapitel 03 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-3"
@@ -57,7 +57,7 @@
     },
     {
         "file": "data/book/chap-4/chunk-1.json",
-        "title": "Kapitel 4 Teil 1",
+        "title": "Kapitel 04 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-4"
@@ -65,7 +65,7 @@
     },
     {
         "file": "data/book/chap-4/chunk-2.json",
-        "title": "Kapitel 4 Teil 2",
+        "title": "Kapitel 04 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-4"
@@ -73,7 +73,7 @@
     },
     {
         "file": "data/book/chap-4/chunk-3.json",
-        "title": "Kapitel 4 Teil 3",
+        "title": "Kapitel 04 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-4"
@@ -81,7 +81,7 @@
     },
     {
         "file": "data/book/chap-4/chunk-4.json",
-        "title": "Kapitel 4 Teil 4",
+        "title": "Kapitel 04 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-4"
@@ -89,7 +89,7 @@
     },
     {
         "file": "data/book/chap-4/gram.json",
-        "title": "Kapitel 4 Grammatik",
+        "title": "Kapitel 04 Grammatik",
         "tags": [
             "Buch",
             "Kapitel-4"
@@ -97,7 +97,7 @@
     },
     {
         "file": "data/book/chap-5/chunk-1.json",
-        "title": "Kapitel 5 Teil 1",
+        "title": "Kapitel 05 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-5"
@@ -105,7 +105,7 @@
     },
     {
         "file": "data/book/chap-5/chunk-2.json",
-        "title": "Kapitel 5 Teil 2",
+        "title": "Kapitel 05 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-5"
@@ -113,7 +113,7 @@
     },
     {
         "file": "data/book/chap-5/chunk-3.json",
-        "title": "Kapitel 5 Teil 3",
+        "title": "Kapitel 05 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-5"
@@ -121,7 +121,7 @@
     },
     {
         "file": "data/book/chap-5/chunk-4.json",
-        "title": "Kapitel 5 Teil 4",
+        "title": "Kapitel 05 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-5"
@@ -129,7 +129,7 @@
     },
     {
         "file": "data/book/chap-6/chunk-1.json",
-        "title": "Kapitel 6 Teil 1",
+        "title": "Kapitel 06 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-6"
@@ -137,7 +137,7 @@
     },
     {
         "file": "data/book/chap-6/chunk-2.json",
-        "title": "Kapitel 6 Teil 2",
+        "title": "Kapitel 06 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-6"
@@ -145,7 +145,7 @@
     },
     {
         "file": "data/book/chap-6/chunk-3.json",
-        "title": "Kapitel 6 Teil 3",
+        "title": "Kapitel 06 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-6"
@@ -153,7 +153,7 @@
     },
     {
         "file": "data/book/chap-6/chunk-4.json",
-        "title": "Kapitel 6 Teil 4",
+        "title": "Kapitel 06 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-6"
@@ -161,7 +161,7 @@
     },
     {
         "file": "data/book/chap-6/chunk-5.json",
-        "title": "Kapitel 6 Teil 5",
+        "title": "Kapitel 06 Teil 5",
         "tags": [
             "Buch",
             "Kapitel-6"
@@ -169,7 +169,7 @@
     },
     {
         "file": "data/book/chap-7/chunk-1.json",
-        "title": "Kapitel 7 Teil 1",
+        "title": "Kapitel 07 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-7"
@@ -177,7 +177,7 @@
     },
     {
         "file": "data/book/chap-7/chunk-2.json",
-        "title": "Kapitel 7 Teil 2",
+        "title": "Kapitel 07 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-7"
@@ -185,7 +185,7 @@
     },
     {
         "file": "data/book/chap-7/chunk-3.json",
-        "title": "Kapitel 7 Teil 3",
+        "title": "Kapitel 07 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-7"
@@ -193,7 +193,7 @@
     },
     {
         "file": "data/book/chap-7/chunk-4.json",
-        "title": "Kapitel 7 Teil 4",
+        "title": "Kapitel 07 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-7"
@@ -201,7 +201,7 @@
     },
     {
         "file": "data/book/chap-8/chunk-1.json",
-        "title": "Kapitel 8 Teil 1",
+        "title": "Kapitel 08 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-8"
@@ -209,7 +209,7 @@
     },
     {
         "file": "data/book/chap-8/chunk-2.json",
-        "title": "Kapitel 8 Teil 2",
+        "title": "Kapitel 08 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-8"
@@ -217,7 +217,7 @@
     },
     {
         "file": "data/book/chap-8/chunk-3.json",
-        "title": "Kapitel 8 Teil 3",
+        "title": "Kapitel 08 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-8"
@@ -225,7 +225,7 @@
     },
     {
         "file": "data/book/chap-8/chunk-4.json",
-        "title": "Kapitel 8 Teil 4",
+        "title": "Kapitel 08 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-8"
@@ -233,7 +233,7 @@
     },
     {
         "file": "data/book/chap-9/chunk-1.json",
-        "title": "Kapitel 9 Teil 1",
+        "title": "Kapitel 09 Teil 1",
         "tags": [
             "Buch",
             "Kapitel-9"
@@ -241,7 +241,7 @@
     },
     {
         "file": "data/book/chap-9/chunk-2.json",
-        "title": "Kapitel 9 Teil 2",
+        "title": "Kapitel 09 Teil 2",
         "tags": [
             "Buch",
             "Kapitel-9"
@@ -249,7 +249,7 @@
     },
     {
         "file": "data/book/chap-9/chunk-3.json",
-        "title": "Kapitel 9 Teil 3",
+        "title": "Kapitel 09 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-9"
@@ -257,7 +257,7 @@
     },
     {
         "file": "data/book/chap-9/chunk-4.json",
-        "title": "Kapitel 9 Teil 4",
+        "title": "Kapitel 09 Teil 4",
         "tags": [
             "Buch",
             "Kapitel-9"
@@ -274,6 +274,14 @@
     {
         "file": "data/book/chap-10/chunk-2.json",
         "title": "Kapitel 10 Teil 2",
+        "tags": [
+            "Buch",
+            "Kapitel-10"
+        ]
+    },
+    {
+        "file": "data/book/chap-10/chunk-3.json",
+        "title": "Kapitel 10 Teil 3",
         "tags": [
             "Buch",
             "Kapitel-10"

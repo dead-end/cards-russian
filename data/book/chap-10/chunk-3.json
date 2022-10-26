@@ -1,0 +1,302 @@
+[
+  {
+    "id": "chap10-ck3#00",
+    "quest": [
+      "Schnee"
+    ],
+    "answer": [
+      "снег"
+    ]
+  },
+  {
+    "id": "chap10-ck3#01",
+    "quest": [
+      "Frost"
+    ],
+    "answer": [
+      "мор_о_з"
+    ]
+  },
+  {
+    "id": "chap10-ck3#02",
+    "quest": [
+      "hier: Gesellschaft"
+    ],
+    "answer": [
+      "комп_а_ния"
+    ]
+  },
+  {
+    "id": "chap10-ck3#03",
+    "quest": [
+      "aus der Stadt"
+    ],
+    "answer": [
+      "за город"
+    ]
+  },
+  {
+    "id": "chap10-ck3#04",
+    "quest": [
+      "rodeln"
+    ],
+    "answer": [
+      "кат_а_ться на санках",
+      "санках ~Schlitten~"
+    ]
+  },
+  {
+    "id": "chap10-ck3#05",
+    "quest": [
+      "Schlittschuh laufen"
+    ],
+    "answer": [
+      "кат_а_ться на коньк_а_х"
+    ]
+  },
+  {
+    "id": "chap10-ck3#06",
+    "quest": [
+      "hier: Herberge"
+    ],
+    "answer": [
+      "б_а_за"
+    ]
+  },
+  {
+    "id": "chap10-ck3#07",
+    "quest": [
+      "russisches Dampfbad"
+    ],
+    "answer": [
+      "б_а_ня"
+    ]
+  },
+  {
+    "id": "chap10-ck3#08",
+    "quest": [
+      "sich waschen"
+    ],
+    "answer": [
+      "м_ы_ться",
+      "я м_о_юсь",
+      "ты м_о_ешься",
+      "он/она/оно м_о_ется",
+      "мы м_о_емся",
+      "вы м_о_етесь",
+      "они м_о_ются"
+    ]
+  },
+  {
+    "id": "chap10-ck3#09",
+    "quest": [
+      "springen"
+    ],
+    "answer": [
+      "пр_ы_гать"
+    ]
+  },
+  {
+    "id": "chap10-ck3#10",
+    "quest": [
+      "grandios",
+      "großartig"
+    ],
+    "answer": [
+      "гранди_о_зно"
+    ]
+  },
+  {
+    "id": "chap10-ck3#11",
+    "quest": [
+      "küssen"
+    ],
+    "answer": [
+      "целовать",
+      "я целую",
+      "ты целуешь",
+      "он/она/оно целует",
+      "мы целуем",
+      "вы целуете",
+      "они целуют"
+    ]
+  },
+  {
+    "id": "chap10-ck3#12",
+    "quest": [
+      "Karelien"
+    ],
+    "answer": [
+      "Кар_е_лия"
+    ]
+  },
+  {
+    "id": "chap10-ck3#13",
+    "quest": [
+      "still"
+    ],
+    "answer": [
+      "тихо"
+    ]
+  },
+  {
+    "id": "chap10-ck3#14",
+    "quest": [
+      "ruhig"
+    ],
+    "answer": [
+      "спокойно"
+    ]
+  },
+  {
+    "id": "chap10-ck3#15",
+    "quest": [
+      "Dusche"
+    ],
+    "answer": [
+      "душ"
+    ]
+  },
+  {
+    "id": "chap10-ck3#16",
+    "quest": [
+      "Toilette"
+    ],
+    "answer": [
+      "туал_е_т"
+    ]
+  },
+  {
+    "id": "chap10-ck3#17",
+    "quest": [
+      "Etage"
+    ],
+    "answer": [
+      "эт_а_ж"
+    ]
+  },
+  {
+    "id": "chap10-ck3#18",
+    "quest": [
+      "Wetter"
+    ],
+    "answer": [
+      "пог_о_да"
+    ]
+  },
+  {
+    "id": "chap10-ck3#19",
+    "quest": [
+      "kühl"
+    ],
+    "answer": [
+      "прохл_а_дный",
+      "прохл_а_дная",
+      "прохл_а_дное",
+      "прохл_а_дные"
+    ]
+  },
+  {
+    "id": "chap10-ck3#20",
+    "quest": [
+      "Sonne scheint"
+    ],
+    "answer": [
+      "солнце светит",
+      "свет ~das Licht~",
+      "св_е_тлый ~hell~"
+    ]
+  },
+  {
+    "id": "chap10-ck3#21",
+    "quest": [
+      "selten"
+    ],
+    "answer": [
+      "р_е_дко"
+    ]
+  },
+  {
+    "id": "chap10-ck3#22",
+    "quest": [
+      "warm ~Adverb~"
+    ],
+    "answer": [
+      "тепло",
+      "тёплый ~Adjektiv~"
+    ]
+  },
+  {
+    "id": "chap10-ck3#23",
+    "quest": [
+      "Grad"
+    ],
+    "answer": [
+      "гр_а_дус"
+    ]
+  },
+  {
+    "id": "chap10-ck3#24",
+    "quest": [
+      "in der Nacht",
+      "nachts"
+    ],
+    "answer": [
+      "н_о_чью"
+    ]
+  },
+  {
+    "id": "chap10-ck3#25",
+    "quest": [
+      "es regnet"
+    ],
+    "answer": [
+      "идёт дождь"
+    ]
+  },
+  {
+    "id": "chap10-ck3#26",
+    "quest": [
+      "Regen"
+    ],
+    "answer": [
+      "дождь ~m~"
+    ]
+  },
+  {
+    "id": "chap10-ck3#27",
+    "quest": [
+      "Mücke"
+    ],
+    "answer": [
+      "комар"
+    ]
+  },
+  {
+    "id": "chap10-ck3#28",
+    "quest": [
+      "hier: seelisch"
+    ],
+    "answer": [
+      "душ_о_й"
+    ]
+  },
+  {
+    "id": "chap10-ck3#29",
+    "quest": [
+      "Seele"
+    ],
+    "answer": [
+      "душ_а_"
+    ]
+  },
+  {
+    "id": "chap10-ck3#30",
+    "quest": [
+      "Gruß"
+    ],
+    "answer": [
+      "Прив_е_т"
+    ]
+  }
+]
