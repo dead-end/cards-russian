@@ -1,0 +1,302 @@
+[
+  {
+    "id": "chap10-ck4#00",
+    "quest": [
+      "kalt"
+    ],
+    "answer": [
+      "х_о_лодно"
+    ]
+  },
+  {
+    "id": "chap10-ck4#01",
+    "quest": [
+      "Wind"
+    ],
+    "answer": [
+      "в_е_тер"
+    ]
+  },
+  {
+    "id": "chap10-ck4#02",
+    "quest": [
+      "bewölkt"
+    ],
+    "answer": [
+      "_о_блачно",
+      "_о_блако ~Wolke~"
+    ]
+  },
+  {
+    "id": "chap10-ck4#03",
+    "quest": [
+      "klar"
+    ],
+    "answer": [
+      "_я_сно"
+    ]
+  },
+  {
+    "id": "chap10-ck4#04",
+    "quest": [
+      "Temperatur",
+      "Fieber"
+    ],
+    "answer": [
+      "температ_у_ра"
+    ]
+  },
+  {
+    "id": "chap10-ck4#05",
+    "quest": [
+      "es schneit"
+    ],
+    "answer": [
+      "идёт снег"
+    ]
+  },
+  {
+    "id": "chap10-ck4#06",
+    "quest": [
+      "Prognose"
+    ],
+    "answer": [
+      "прогн_о_з"
+    ]
+  },
+  {
+    "id": "chap10-ck4#07",
+    "quest": [
+      "hier:",
+      "-Ich verstehe.",
+      "~Alles klar."
+    ],
+    "answer": [
+      "понятно"
+    ]
+  },
+  {
+    "id": "chap10-ck4#08",
+    "quest": [
+      "ausgezeichnet"
+    ],
+    "answer": [
+      "отл_и_чно"
+    ]
+  },
+  {
+    "id": "chap10-ck4#09",
+    "quest": [
+      "Motorboot"
+    ],
+    "answer": [
+      "к_а_тер"
+    ]
+  },
+  {
+    "id": "chap10-ck4#10",
+    "quest": [
+      "und so weiter"
+    ],
+    "answer": [
+      "и так д_а_лее",
+      "д_а_лее ~weiter~"
+    ]
+  },
+  {
+    "id": "chap10-ck4#11",
+    "quest": [
+      "Schreibe!"
+    ],
+    "answer": [
+      "Пиш_и_!"
+    ]
+  },
+  {
+    "id": "chap10-ck4#12",
+    "quest": [
+      "lang(e)",
+      "lange Zeit"
+    ],
+    "answer": [
+      "д_о_лго"
+    ]
+  },
+  {
+    "id": "chap10-ck4#13",
+    "quest": [
+      "baden"
+    ],
+    "answer": [
+      "куп_а_ться",
+      "я куп_а_юсь",
+      "ты куп_а_ешься",
+      "он / она / оно куп_а_ется",
+      "мы куп_а_емся",
+      "вы куп_а_етесь",
+      "они куп_а_ются"
+    ]
+  },
+  {
+    "id": "chap10-ck4#14",
+    "quest": [
+      "senden",
+      "schicken"
+    ],
+    "answer": [
+      "посыл_а_ть"
+    ]
+  },
+  {
+    "id": "chap10-ck4#15",
+    "quest": [
+      "Jahr"
+    ],
+    "answer": [
+      "год"
+    ]
+  },
+  {
+    "id": "chap10-ck4#16",
+    "quest": [
+      "im Jahr(e)"
+    ],
+    "answer": [
+      "в год_у_"
+    ]
+  },
+  {
+    "id": "chap10-ck4#17",
+    "quest": [
+      "im letzten Jahr",
+      "letztes Jahr"
+    ],
+    "answer": [
+      "пр_о_шлом год_у_"
+    ]
+  },
+  {
+    "id": "chap10-ck4#18",
+    "quest": [
+      "sogar"
+    ],
+    "answer": [
+      "д_а_же"
+    ]
+  },
+  {
+    "id": "chap10-ck4#19",
+    "quest": [
+      "in diesem Jahr",
+      "dieses Jahr"
+    ],
+    "answer": [
+      "в _э_том год_у_"
+    ]
+  },
+  {
+    "id": "chap10-ck4#20",
+    "quest": [
+      "Afrika"
+    ],
+    "answer": [
+      "_А_фрика"
+    ]
+  },
+  {
+    "id": "chap10-ck4#21",
+    "quest": [
+      "Ich habe dich lange nicht gesehen!"
+    ],
+    "answer": [
+      "Давн_о_ теб_я_ не в_и_дел!"
+    ]
+  },
+  {
+    "id": "chap10-ck4#22",
+    "quest": [
+      "Himmel"
+    ],
+    "answer": [
+      "н_е_бо"
+    ]
+  },
+  {
+    "id": "chap10-ck4#23",
+    "quest": [
+      "Palme"
+    ],
+    "answer": [
+      "п_а_льма"
+    ]
+  },
+  {
+    "id": "chap10-ck4#24",
+    "quest": [
+      "Glück gehabt!"
+    ],
+    "answer": [
+      "Повезл_о_!"
+    ]
+  },
+  {
+    "id": "chap10-ck4#25",
+    "quest": [
+      "einen Ausflug machen",
+      "auf Exkursion gehen"
+    ],
+    "answer": [
+      "_е_здить на экск_у_рсию"
+    ]
+  },
+  {
+    "id": "chap10-ck4#26",
+    "quest": [
+      "ernst",
+      "ernsthaft"
+    ],
+    "answer": [
+      "серьёзный",
+      "серьёзная",
+      "серьёзное",
+      "серьёзные"
+    ]
+  },
+  {
+    "id": "chap10-ck4#27",
+    "quest": [
+      "Anwaltskanzlei"
+    ],
+    "answer": [
+      "адвок_а_тская конт_о_ра"
+    ]
+  },
+  {
+    "id": "chap10-ck4#28",
+    "quest": [
+      "Helfen Sie!"
+    ],
+    "answer": [
+      "Помог_и_те!"
+    ]
+  },
+  {
+    "id": "chap10-ck4#29",
+    "quest": [
+      "Was ist passiert?"
+    ],
+    "answer": [
+      "Что случ_и_лось?"
+    ]
+  },
+  {
+    "id": "chap10-ck4#30",
+    "quest": [
+      "Horror",
+      "Alptraum"
+    ],
+    "answer": [
+      "кошм_а_р"
+    ]
+  }
+]

@@ -288,6 +288,22 @@
         ]
     },
     {
+        "file": "data/book/chap-10/chunk-4.json",
+        "title": "Kapitel 10 Teil 4",
+        "tags": [
+            "Buch",
+            "Kapitel-10"
+        ]
+    },
+    {
+        "file": "data/book/chap-10/chunk-5.json",
+        "title": "Kapitel 10 Teil 5",
+        "tags": [
+            "Buch",
+            "Kapitel-10"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [

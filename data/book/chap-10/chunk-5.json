@@ -1,0 +1,299 @@
+[
+  {
+    "id": "chap10-ck5#00",
+    "quest": [
+      "Erzählen Sie!"
+    ],
+    "answer": [
+      "Расскаж_и_те!"
+    ]
+  },
+  {
+    "id": "chap10-ck5#01",
+    "quest": [
+      "Hotel"
+    ],
+    "answer": [
+      "от_е_ль ~m~"
+    ]
+  },
+  {
+    "id": "chap10-ck5#02",
+    "quest": [
+      "schmutzig"
+    ],
+    "answer": [
+      "гр_я_зный",
+      "гр_я_зная",
+      "гр_я_зное",
+      "гр_я_зные"
+    ]
+  },
+  {
+    "id": "chap10-ck5#03",
+    "quest": [
+      "die ganze Zeit"
+    ],
+    "answer": [
+      "всё вр_е_мя"
+    ]
+  },
+  {
+    "id": "chap10-ck5#04",
+    "quest": [
+      "juristisch"
+    ],
+    "answer": [
+      "юрид_и_ческий",
+      "юрид_и_ческая",
+      "юрид_и_ческое",
+      "юрид_и_ческие"
+    ]
+  },
+  {
+    "id": "chap10-ck5#05",
+    "quest": [
+      "Hotelmanager"
+    ],
+    "answer": [
+      "администр_а_тор от_е_ля"
+    ]
+  },
+  {
+    "id": "chap10-ck5#06",
+    "quest": [
+      "schicken (senden) Sie …"
+    ],
+    "answer": [
+      "пришл_и_те …"
+    ]
+  },
+  {
+    "id": "chap10-ck5#07",
+    "quest": [
+      "~hier:~ Kontaktdaten"
+    ],
+    "answer": [
+      "координ_а_ты"
+    ]
+  },
+  {
+    "id": "chap10-ck5#08",
+    "quest": [
+      "unbedingt"
+    ],
+    "answer": [
+      "обяз_а_тельно"
+    ]
+  },
+  {
+    "id": "chap10-ck5#09",
+    "quest": [
+      "~hier:",
+      "-Reklamation",
+      "-Anspruch",
+      "-Anforderung"
+    ],
+    "answer": [
+      "прет_е_нзия"
+    ]
+  },
+  {
+    "id": "chap10-ck5#10",
+    "quest": [
+      "Vielen Dank!"
+    ],
+    "answer": [
+      "Спас_и_бо огр_о_мное!"
+    ]
+  },
+  {
+    "id": "chap10-ck5#11",
+    "quest": [
+      "zwei"
+    ],
+    "answer": [
+      "двух",
+      "два"
+    ]
+  },
+  {
+    "id": "chap10-ck5#12",
+    "quest": [
+      "bemerkenswert",
+      "hervorragend"
+    ],
+    "answer": [
+      "замеч_а_тельный",
+      "замеч_а_тельная",
+      "замеч_а_тельное",
+      "замеч_а_тельние"
+    ]
+  },
+  {
+    "id": "chap10-ck5#13",
+    "quest": [
+      "Jugendhotel"
+    ],
+    "answer": [
+      "молодёжный от_е_ль"
+    ]
+  },
+  {
+    "id": "chap10-ck5#14",
+    "quest": [
+      "ruhig"
+    ],
+    "answer": [
+      "спок_о_йный",
+      "спок_о_йная",
+      "спок_о_йное",
+      "спок_о_йные"
+    ]
+  },
+  {
+    "id": "chap10-ck5#15",
+    "quest": [
+      "familienfreundliches Hotel"
+    ],
+    "answer": [
+      "сем_е_йная гост_и_ница"
+    ]
+  },
+  {
+    "id": "chap10-ck5#16",
+    "quest": [
+      "Problem"
+    ],
+    "answer": [
+      "пробл_е_ма"
+    ]
+  },
+  {
+    "id": "chap10-ck5#17",
+    "quest": [
+      "schrecklich",
+      "furchtbar"
+    ],
+    "answer": [
+      "уж_а_сный",
+      "уж_а_сная",
+      "уж_а_сное",
+      "уж_а_сные"
+    ]
+  },
+  {
+    "id": "chap10-ck5#18",
+    "quest": [
+      "ungeduldig, sehr"
+    ],
+    "answer": [
+      "с нетерп_е_нием"
+    ]
+  },
+  {
+    "id": "chap10-ck5#19",
+    "quest": [
+      "Hotelbesitzerin"
+    ],
+    "answer": [
+      "хоз_я_йка гост_и_ницы"
+    ]
+  },
+  {
+    "id": "chap10-ck5#20",
+    "quest": [
+      "zu uns"
+    ],
+    "answer": [
+      "к нам"
+    ]
+  },
+  {
+    "id": "chap10-ck5#21",
+    "quest": [
+      "Region"
+    ],
+    "answer": [
+      "реги_о_н"
+    ]
+  },
+  {
+    "id": "chap10-ck5#22",
+    "quest": [
+      "~hier:~ UNESCO-Liste (des Weltkulturerbes)"
+    ],
+    "answer": [
+      "список ЮН_Е_СКО",
+      "списка ~Gen.Sg.~"
+    ]
+  },
+  {
+    "id": "chap10-ck5#23",
+    "quest": [
+      "UNESCO"
+    ],
+    "answer": [
+      "ЮН_Е_СКО"
+    ]
+  },
+  {
+    "id": "chap10-ck5#24",
+    "quest": [
+      "Und ob!"
+    ],
+    "answer": [
+      "Ещё как!"
+    ]
+  },
+  {
+    "id": "chap10-ck5#25",
+    "quest": [
+      "Reiseroute",
+      "Strecke"
+    ],
+    "answer": [
+      "маршр_у_т"
+    ]
+  },
+  {
+    "id": "chap10-ck5#26",
+    "quest": [
+      "Umwelt-",
+      "umwelt-"
+    ],
+    "answer": [
+      "эколог_и_ческий",
+      "эколог_и_ческая",
+      "эколог_и_ческое",
+      "эколог_и_ческие"
+    ]
+  },
+  {
+    "id": "chap10-ck5#27",
+    "quest": [
+      "sich befinden"
+    ],
+    "answer": [
+      "наход_и_ться"
+    ]
+  },
+  {
+    "id": "chap10-ck5#28",
+    "quest": [
+      "Spray"
+    ],
+    "answer": [
+      "спр_е_й"
+    ]
+  },
+  {
+    "id": "chap10-ck5#29",
+    "quest": [
+      "dafür"
+    ],
+    "answer": [
+      "зат_о_"
+    ]
+  }
+]
