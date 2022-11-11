@@ -67,9 +67,9 @@
   {
     "id": "chap10-ck4#07",
     "quest": [
-      "hier:",
+      "~hier:~",
       "-Ich verstehe.",
-      "~Alles klar."
+      "-Alles klar."
     ],
     "answer": [
       "понятно"
