@@ -413,6 +413,14 @@
         "desc": "Zahlen 1 - 10.000"
     },
     {
+        "file": "data/misc/numbers-ord.json",
+        "title": "Ordinal Zahlen",
+        "tags": [
+            "Verschiedenes"
+        ],
+        "desc": "Zahlen: 1 - 30"
+    },
+    {
         "file": "data/misc.json",
         "title": "Sonstiges - Test",
         "tags": [
