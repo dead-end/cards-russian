@@ -68,8 +68,8 @@
     "id": "chap10-ck4#07",
     "quest": [
       "~hier:~",
-      "-Ich verstehe.",
-      "-Alles klar."
+      "- Ich verstehe.",
+      "- Alles klar."
     ],
     "answer": [
       "понятно"
@@ -119,7 +119,8 @@
       "lange Zeit"
     ],
     "answer": [
-      "д_о_лго"
+      "д_о_лго",
+      "д_о_лгий ~lang~"
     ]
   },
   {
@@ -144,7 +145,8 @@
       "schicken"
     ],
     "answer": [
-      "посыл_а_ть"
+      "посыл_а_ть ~unvollendet~",
+      "посл_а_ть ~vollendet~"
     ]
   },
   {
@@ -172,7 +174,8 @@
       "letztes Jahr"
     ],
     "answer": [
-      "пр_о_шлом год_у_"
+      "в пр_о_шлом год_у_",
+      "пр_о_шлый ~letzter~"
     ]
   },
   {
@@ -246,7 +249,8 @@
       "auf Exkursion gehen"
     ],
     "answer": [
-      "_е_здить на экск_у_рсию"
+      "_е_здить на экск_у_рсию",
+      "~Akkusativ:~ я ~->~ ю"
     ]
   },
   {
