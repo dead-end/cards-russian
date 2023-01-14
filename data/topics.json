@@ -304,6 +304,14 @@
         ]
     },
     {
+        "file": "data/book/chap-11/chunk-1.json",
+        "title": "Kapitel 11 Teil 1",
+        "tags": [
+            "Buch",
+            "Kapitel-11"
+        ]
+    },
+    {
         "file": "data/gram/plural.json",
         "title": "Grammatik Plural",
         "tags": [

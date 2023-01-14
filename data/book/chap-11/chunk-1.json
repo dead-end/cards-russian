@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chap11-ck1#00",
+    "quest": ["Westen"],
+    "answer": ["з_а_пад"]
+  },
+  {
+    "id": "chap11-ck1#01",
+    "quest": ["Osten"],
+    "answer": ["вост_о_к"]
+  },
+  {
+    "id": "chap11-ck1#02",
+    "quest": ["~hier:~ Sitzplatz"],
+    "answer": ["м_е_сто"]
+  },
+  {
+    "id": "chap11-ck1#03",
+    "quest": ["~hier:~ deutsches Bundesland"],
+    "answer": ["земл_я_", "з_е_мли ~Nom. Pl.~", "зем_е_ль ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck1#04",
+    "quest": ["Baden-Württemberg"],
+    "answer": ["Б_а_ден-В_ю_ртемберг"]
+  },
+  {
+    "id": "chap11-ck1#05",
+    "quest": ["selbst, selber"],
+    "answer": ["сам", "сам_а_", "сам_o_", "сами"]
+  },
+  {
+    "id": "chap11-ck1#06",
+    "quest": ["Gebiet", "Region", "~administrative Einheit in Russland~"],
+    "answer": ["_о_бласть ~f~", "област_е_й ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck1#07",
+    "quest": ["es scheint"],
+    "answer": ["к_а_жется"]
+  },
+  {
+    "id": "chap11-ck1#08",
+    "quest": ["nach Hause"],
+    "answer": ["дом_о_й"]
+  },
+  {
+    "id": "chap11-ck1#09",
+    "quest": ["unten"],
+    "answer": ["вниз_у_"]
+  },
+  {
+    "id": "chap11-ck1#10",
+    "quest": ["Neuigkeit", "Nachrichten"],
+    "answer": ["н_о_вость ~f~"]
+  },
+  {
+    "id": "chap11-ck1#11",
+    "quest": ["Platz"],
+    "answer": ["пл_о_щадь ~f~"]
+  },
+  {
+    "id": "chap11-ck1#12",
+    "quest": ["Festung"],
+    "answer": ["кр_е_пость ~f~"]
+  },
+  {
+    "id": "chap11-ck1#13",
+    "quest": ["Möglichkeit"],
+    "answer": ["возм_о_жность ~f~"]
+  },
+  {
+    "id": "chap11-ck1#14",
+    "quest": ["Industrie"],
+    "answer": ["пром_ы_шленность ~f~"]
+  },
+  {
+    "id": "chap11-ck1#15",
+    "quest": ["Leben"],
+    "answer": ["жизнь ~f~"]
+  },
+  {
+    "id": "chap11-ck1#16",
+    "quest": ["groß", "bedeutend"],
+    "answer": ["кр_у_пный", "кр_у_пная", "кр_у_пное", "кр_у_пные"]
+  },
+  {
+    "id": "chap11-ck1#17",
+    "quest": ["Ausstellung"],
+    "answer": ["в_ы_ставка", "в_ы_ставок ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck1#18",
+    "quest": ["italienisch"],
+    "answer": [
+      "италь_я_нский",
+      "италь_я_нская",
+      "италь_я_нское",
+      "италь_я_нские"
+    ]
+  },
+  {
+    "id": "chap11-ck1#19",
+    "quest": ["zu mir"],
+    "answer": ["ко мне"]
+  },
+  {
+    "id": "chap11-ck1#20",
+    "quest": ["denken"],
+    "answer": ["д_у_мать"]
+  },
+  {
+    "id": "chap11-ck1#21",
+    "quest": ["Städter", "Städterin"],
+    "answer": ["городск_о_й челов_е_к"]
+  },
+  {
+    "id": "chap11-ck1#22",
+    "quest": ["Umzug"],
+    "answer": ["пере_е_зд"]
+  },
+  {
+    "id": "chap11-ck1#23",
+    "quest": ["Baustelle"],
+    "answer": ["стр_о_йка"]
+  },
+  {
+    "id": "chap11-ck1#24",
+    "quest": ["Umwelt", "Umweltbedingungen"],
+    "answer": ["экол_о_гия"]
+  },
+  {
+    "id": "chap11-ck1#25",
+    "quest": ["aus ... Sicht"],
+    "answer": ["на ... взгляд"]
+  },
+  {
+    "id": "chap11-ck1#26",
+    "quest": ["für", "hinter"],
+    "answer": ["за ~(+) Akk. / (+) Instr.~"]
+  },
+  {
+    "id": "chap11-ck1#27",
+    "quest": ["Metropole"],
+    "answer": ["мегап_о_лис"]
+  },
+  {
+    "id": "chap11-ck1#28",
+    "quest": ["Infrastruktur"],
+    "answer": ["инфраструкт_у_ра"]
+  },
+  {
+    "id": "chap11-ck1#29",
+    "quest": ["Kindergarten"],
+    "answer": ["с_а_дик"]
+  },
+  {
+    "id": "chap11-ck1#30",
+    "quest": ["Gymnasium"],
+    "answer": ["гимн_а_зия", "гимн_а_зий ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck1#31",
+    "quest": ["Hochschule", "Forschungsinstitut"],
+    "answer": ["инстит_у_т"]
+  },
+  {
+    "id": "chap11-ck1#32",
+    "quest": ["Poliklinik"],
+    "answer": ["поликл_и_ника"]
+  },
+  {
+    "id": "chap11-ck1#33",
+    "quest": ["Kind"],
+    "answer": ["ребёнок", "дети ~Nom. Pl.~", "детей ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck1#34",
+    "quest": ["ideal"],
+    "answer": ["иде_а_льный", "иде_а_льная", "иде_а_льное", "иде_а_льные"]
+  }
+]
