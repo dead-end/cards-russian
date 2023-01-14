@@ -16,7 +16,7 @@
   },
   {
     "id": "chap11-ck1#03",
-    "quest": ["~hier:~ deutsches Bundesland"],
+    "quest": ["~hier:~ deutsches Bundesland", "~normal:~ Erde"],
     "answer": ["земл_я_", "з_е_мли ~Nom. Pl.~", "зем_е_ль ~Gen. Pl.~"]
   },
   {
@@ -172,7 +172,7 @@
   {
     "id": "chap11-ck1#33",
     "quest": ["Kind"],
-    "answer": ["ребёнок", "дети ~Nom. Pl.~", "детей ~Gen. Pl.~"]
+    "answer": ["ребёнок", "д_е_ти ~Nom. Pl.~", "дет_е_й ~Gen. Pl.~"]
   },
   {
     "id": "chap11-ck1#34",
