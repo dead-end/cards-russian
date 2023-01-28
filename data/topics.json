@@ -1,439 +1,310 @@
 [
-    {
-        "file": "data/book/chap-1/chunk-1.json",
-        "title": "Kapitel 01 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-1"
-        ]
-    },
-    {
-        "file": "data/book/chap-1/chunk-2.json",
-        "title": "Kapitel 01 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-1"
-        ]
-    },
-    {
-        "file": "data/book/chap-2/chunk-1.json",
-        "title": "Kapitel 02 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-2"
-        ]
-    },
-    {
-        "file": "data/book/chap-2/chunk-2.json",
-        "title": "Kapitel 02 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-2"
-        ]
-    },
-    {
-        "file": "data/book/chap-3/chunk-1.json",
-        "title": "Kapitel 03 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-3"
-        ]
-    },
-    {
-        "file": "data/book/chap-3/chunk-2.json",
-        "title": "Kapitel 03 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-3"
-        ]
-    },
-    {
-        "file": "data/book/chap-3/chunk-3.json",
-        "title": "Kapitel 03 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-3"
-        ]
-    },
-    {
-        "file": "data/book/chap-4/chunk-1.json",
-        "title": "Kapitel 04 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-4"
-        ]
-    },
-    {
-        "file": "data/book/chap-4/chunk-2.json",
-        "title": "Kapitel 04 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-4"
-        ]
-    },
-    {
-        "file": "data/book/chap-4/chunk-3.json",
-        "title": "Kapitel 04 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-4"
-        ]
-    },
-    {
-        "file": "data/book/chap-4/chunk-4.json",
-        "title": "Kapitel 04 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-4"
-        ]
-    },
-    {
-        "file": "data/book/chap-4/gram.json",
-        "title": "Kapitel 04 Grammatik",
-        "tags": [
-            "Buch",
-            "Kapitel-4"
-        ]
-    },
-    {
-        "file": "data/book/chap-5/chunk-1.json",
-        "title": "Kapitel 05 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-5"
-        ]
-    },
-    {
-        "file": "data/book/chap-5/chunk-2.json",
-        "title": "Kapitel 05 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-5"
-        ]
-    },
-    {
-        "file": "data/book/chap-5/chunk-3.json",
-        "title": "Kapitel 05 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-5"
-        ]
-    },
-    {
-        "file": "data/book/chap-5/chunk-4.json",
-        "title": "Kapitel 05 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-5"
-        ]
-    },
-    {
-        "file": "data/book/chap-6/chunk-1.json",
-        "title": "Kapitel 06 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-6"
-        ]
-    },
-    {
-        "file": "data/book/chap-6/chunk-2.json",
-        "title": "Kapitel 06 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-6"
-        ]
-    },
-    {
-        "file": "data/book/chap-6/chunk-3.json",
-        "title": "Kapitel 06 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-6"
-        ]
-    },
-    {
-        "file": "data/book/chap-6/chunk-4.json",
-        "title": "Kapitel 06 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-6"
-        ]
-    },
-    {
-        "file": "data/book/chap-6/chunk-5.json",
-        "title": "Kapitel 06 Teil 5",
-        "tags": [
-            "Buch",
-            "Kapitel-6"
-        ]
-    },
-    {
-        "file": "data/book/chap-7/chunk-1.json",
-        "title": "Kapitel 07 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-7"
-        ]
-    },
-    {
-        "file": "data/book/chap-7/chunk-2.json",
-        "title": "Kapitel 07 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-7"
-        ]
-    },
-    {
-        "file": "data/book/chap-7/chunk-3.json",
-        "title": "Kapitel 07 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-7"
-        ]
-    },
-    {
-        "file": "data/book/chap-7/chunk-4.json",
-        "title": "Kapitel 07 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-7"
-        ]
-    },
-    {
-        "file": "data/book/chap-8/chunk-1.json",
-        "title": "Kapitel 08 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-8"
-        ]
-    },
-    {
-        "file": "data/book/chap-8/chunk-2.json",
-        "title": "Kapitel 08 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-8"
-        ]
-    },
-    {
-        "file": "data/book/chap-8/chunk-3.json",
-        "title": "Kapitel 08 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-8"
-        ]
-    },
-    {
-        "file": "data/book/chap-8/chunk-4.json",
-        "title": "Kapitel 08 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-8"
-        ]
-    },
-    {
-        "file": "data/book/chap-9/chunk-1.json",
-        "title": "Kapitel 09 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-9"
-        ]
-    },
-    {
-        "file": "data/book/chap-9/chunk-2.json",
-        "title": "Kapitel 09 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-9"
-        ]
-    },
-    {
-        "file": "data/book/chap-9/chunk-3.json",
-        "title": "Kapitel 09 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-9"
-        ]
-    },
-    {
-        "file": "data/book/chap-9/chunk-4.json",
-        "title": "Kapitel 09 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-9"
-        ]
-    },
-    {
-        "file": "data/book/chap-10/chunk-1.json",
-        "title": "Kapitel 10 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-10"
-        ]
-    },
-    {
-        "file": "data/book/chap-10/chunk-2.json",
-        "title": "Kapitel 10 Teil 2",
-        "tags": [
-            "Buch",
-            "Kapitel-10"
-        ]
-    },
-    {
-        "file": "data/book/chap-10/chunk-3.json",
-        "title": "Kapitel 10 Teil 3",
-        "tags": [
-            "Buch",
-            "Kapitel-10"
-        ]
-    },
-    {
-        "file": "data/book/chap-10/chunk-4.json",
-        "title": "Kapitel 10 Teil 4",
-        "tags": [
-            "Buch",
-            "Kapitel-10"
-        ]
-    },
-    {
-        "file": "data/book/chap-10/chunk-5.json",
-        "title": "Kapitel 10 Teil 5",
-        "tags": [
-            "Buch",
-            "Kapitel-10"
-        ]
-    },
-    {
-        "file": "data/book/chap-11/chunk-1.json",
-        "title": "Kapitel 11 Teil 1",
-        "tags": [
-            "Buch",
-            "Kapitel-11"
-        ]
-    },
-    {
-        "file": "data/gram/plural.json",
-        "title": "Grammatik Plural",
-        "tags": [
-            "Grammatik"
-        ],
-        "details": [
-            "~Maskulinum / Femininum~",
-            "- г, к, х, ш, щ, ч ~=>~ и",
-            "- ~default:~ ы",
-            "~Maskulinum / Femininum:~",
-            "- ь ~=>~ и",
-            "~Neutrum:~",
-            "- o ~=>~ а",
-            "- е ~=>~ я"
-        ]
-    },
-    {
-        "file": "data/gram/mein-dein.json",
-        "title": "Grammatik Mein-Dein",
-        "tags": [
-            "Grammatik"
-        ],
-        "details": [
-            "~Maskulinum: endungslos, Konsonanten,~ -й, -ь",
-            "~Femininum:~ -а / -я, -ия, -ь",
-            "~Neutrum:~ -о / -е, -ие -мя"
-        ]
-    },
-    {
-        "file": "data/gram/akk/chk-1.json",
-        "title": "Grammatik Akkusativ Teil 1",
-        "tags": [
-            "Grammatik",
-            "Akkusativ"
-        ],
-        "details": [
-            "~Maskulinum Singular:~",
-            "- ~unbelebt =>~ -",
-            "- ~belebt =>~ а",
-            "~Neutrum Singular:~",
-            "- о ~=>~ -",
-            "- е ~=>~ -",
-            "~Femininum Singular:~",
-            "- а ~=>~ у",
-            "- я ~=>~ ю",
-            "- ь ~=>~ -",
-            "~Plural:~",
-            "- ~belebt Maskulinum:~ - ~=>~ ов",
-            "- ~belebt:~ ь ~=>~ ей",
-            "- ~unbelebt:~ -"
-        ]
-    },
-    {
-        "file": "data/gram/akk/chk-2.json",
-        "title": "Grammatik Akkusativ Teil 2",
-        "tags": [
-            "Grammatik",
-            "Akkusativ"
-        ],
-        "details": [
-            "~Maskulinum Singular:~",
-            "- ~unbelebt =>~ -",
-            "- ~belebt =>~ а",
-            "~Neutrum Singular:~",
-            "- о ~=>~ -",
-            "- е ~=>~ -",
-            "~Femininum Singular:~",
-            "- а ~=>~у",
-            "- я ~=>~ ю",
-            "- ь ~=>~ -",
-            "~Plural:~",
-            "- ~belebt Maskulinum:~ - ~=>~ ов",
-            "- ~belebt:~ ь ~=>~ ей",
-            "- ~unbelebt:~ -"
-        ]
-    },
-    {
-        "file": "data/verbs/part-1.json",
-        "title": "Verben Teil 1",
-        "tags": [
-            "Verben"
-        ],
-        "desc": "schreiben, singen, tanzen, malen, fotografieren, reisen"
-    },
-    {
-        "file": "data/verbs/part-2.json",
-        "title": "Verben Teil 2",
-        "tags": [
-            "Verben"
-        ],
-        "desc": "spazieren, spielen, studieren, entspannen, hören, lesen, sprechen, gehen"
-    },
-    {
-        "file": "data/misc/misc-1.json",
-        "title": "Verschiedenes 1",
-        "tags": [
-            "Verschiedenes"
-        ],
-        "desc": "Text über Getränke"
-    },
-    {
-        "file": "data/misc/numbers.json",
-        "title": "Zahlen",
-        "tags": [
-            "Verschiedenes"
-        ],
-        "desc": "Zahlen 1 - 10.000"
-    },
-    {
-        "file": "data/misc/numbers-ord.json",
-        "title": "Ordinal Zahlen",
-        "tags": [
-            "Verschiedenes"
-        ],
-        "desc": "Zahlen: 1 - 30"
-    },
-    {
-        "file": "data/misc.json",
-        "title": "Sonstiges - Test",
-        "tags": [
-            "Sonstiges"
-        ],
-        "desc": "Dies ist meine Beschreibung!!!"
-    }
+  {
+    "file": "data/book/chap-1/chunk-1.json",
+    "title": "Kapitel 01 Teil 1",
+    "tags": ["Buch", "Kapitel-1"]
+  },
+  {
+    "file": "data/book/chap-1/chunk-2.json",
+    "title": "Kapitel 01 Teil 2",
+    "tags": ["Buch", "Kapitel-1"]
+  },
+  {
+    "file": "data/book/chap-2/chunk-1.json",
+    "title": "Kapitel 02 Teil 1",
+    "tags": ["Buch", "Kapitel-2"]
+  },
+  {
+    "file": "data/book/chap-2/chunk-2.json",
+    "title": "Kapitel 02 Teil 2",
+    "tags": ["Buch", "Kapitel-2"]
+  },
+  {
+    "file": "data/book/chap-3/chunk-1.json",
+    "title": "Kapitel 03 Teil 1",
+    "tags": ["Buch", "Kapitel-3"]
+  },
+  {
+    "file": "data/book/chap-3/chunk-2.json",
+    "title": "Kapitel 03 Teil 2",
+    "tags": ["Buch", "Kapitel-3"]
+  },
+  {
+    "file": "data/book/chap-3/chunk-3.json",
+    "title": "Kapitel 03 Teil 3",
+    "tags": ["Buch", "Kapitel-3"]
+  },
+  {
+    "file": "data/book/chap-4/chunk-1.json",
+    "title": "Kapitel 04 Teil 1",
+    "tags": ["Buch", "Kapitel-4"]
+  },
+  {
+    "file": "data/book/chap-4/chunk-2.json",
+    "title": "Kapitel 04 Teil 2",
+    "tags": ["Buch", "Kapitel-4"]
+  },
+  {
+    "file": "data/book/chap-4/chunk-3.json",
+    "title": "Kapitel 04 Teil 3",
+    "tags": ["Buch", "Kapitel-4"]
+  },
+  {
+    "file": "data/book/chap-4/chunk-4.json",
+    "title": "Kapitel 04 Teil 4",
+    "tags": ["Buch", "Kapitel-4"]
+  },
+  {
+    "file": "data/book/chap-4/gram.json",
+    "title": "Kapitel 04 Grammatik",
+    "tags": ["Buch", "Kapitel-4"]
+  },
+  {
+    "file": "data/book/chap-5/chunk-1.json",
+    "title": "Kapitel 05 Teil 1",
+    "tags": ["Buch", "Kapitel-5"]
+  },
+  {
+    "file": "data/book/chap-5/chunk-2.json",
+    "title": "Kapitel 05 Teil 2",
+    "tags": ["Buch", "Kapitel-5"]
+  },
+  {
+    "file": "data/book/chap-5/chunk-3.json",
+    "title": "Kapitel 05 Teil 3",
+    "tags": ["Buch", "Kapitel-5"]
+  },
+  {
+    "file": "data/book/chap-5/chunk-4.json",
+    "title": "Kapitel 05 Teil 4",
+    "tags": ["Buch", "Kapitel-5"]
+  },
+  {
+    "file": "data/book/chap-6/chunk-1.json",
+    "title": "Kapitel 06 Teil 1",
+    "tags": ["Buch", "Kapitel-6"]
+  },
+  {
+    "file": "data/book/chap-6/chunk-2.json",
+    "title": "Kapitel 06 Teil 2",
+    "tags": ["Buch", "Kapitel-6"]
+  },
+  {
+    "file": "data/book/chap-6/chunk-3.json",
+    "title": "Kapitel 06 Teil 3",
+    "tags": ["Buch", "Kapitel-6"]
+  },
+  {
+    "file": "data/book/chap-6/chunk-4.json",
+    "title": "Kapitel 06 Teil 4",
+    "tags": ["Buch", "Kapitel-6"]
+  },
+  {
+    "file": "data/book/chap-6/chunk-5.json",
+    "title": "Kapitel 06 Teil 5",
+    "tags": ["Buch", "Kapitel-6"]
+  },
+  {
+    "file": "data/book/chap-7/chunk-1.json",
+    "title": "Kapitel 07 Teil 1",
+    "tags": ["Buch", "Kapitel-7"]
+  },
+  {
+    "file": "data/book/chap-7/chunk-2.json",
+    "title": "Kapitel 07 Teil 2",
+    "tags": ["Buch", "Kapitel-7"]
+  },
+  {
+    "file": "data/book/chap-7/chunk-3.json",
+    "title": "Kapitel 07 Teil 3",
+    "tags": ["Buch", "Kapitel-7"]
+  },
+  {
+    "file": "data/book/chap-7/chunk-4.json",
+    "title": "Kapitel 07 Teil 4",
+    "tags": ["Buch", "Kapitel-7"]
+  },
+  {
+    "file": "data/book/chap-8/chunk-1.json",
+    "title": "Kapitel 08 Teil 1",
+    "tags": ["Buch", "Kapitel-8"]
+  },
+  {
+    "file": "data/book/chap-8/chunk-2.json",
+    "title": "Kapitel 08 Teil 2",
+    "tags": ["Buch", "Kapitel-8"]
+  },
+  {
+    "file": "data/book/chap-8/chunk-3.json",
+    "title": "Kapitel 08 Teil 3",
+    "tags": ["Buch", "Kapitel-8"]
+  },
+  {
+    "file": "data/book/chap-8/chunk-4.json",
+    "title": "Kapitel 08 Teil 4",
+    "tags": ["Buch", "Kapitel-8"]
+  },
+  {
+    "file": "data/book/chap-9/chunk-1.json",
+    "title": "Kapitel 09 Teil 1",
+    "tags": ["Buch", "Kapitel-9"]
+  },
+  {
+    "file": "data/book/chap-9/chunk-2.json",
+    "title": "Kapitel 09 Teil 2",
+    "tags": ["Buch", "Kapitel-9"]
+  },
+  {
+    "file": "data/book/chap-9/chunk-3.json",
+    "title": "Kapitel 09 Teil 3",
+    "tags": ["Buch", "Kapitel-9"]
+  },
+  {
+    "file": "data/book/chap-9/chunk-4.json",
+    "title": "Kapitel 09 Teil 4",
+    "tags": ["Buch", "Kapitel-9"]
+  },
+  {
+    "file": "data/book/chap-10/chunk-1.json",
+    "title": "Kapitel 10 Teil 1",
+    "tags": ["Buch", "Kapitel-10"]
+  },
+  {
+    "file": "data/book/chap-10/chunk-2.json",
+    "title": "Kapitel 10 Teil 2",
+    "tags": ["Buch", "Kapitel-10"]
+  },
+  {
+    "file": "data/book/chap-10/chunk-3.json",
+    "title": "Kapitel 10 Teil 3",
+    "tags": ["Buch", "Kapitel-10"]
+  },
+  {
+    "file": "data/book/chap-10/chunk-4.json",
+    "title": "Kapitel 10 Teil 4",
+    "tags": ["Buch", "Kapitel-10"]
+  },
+  {
+    "file": "data/book/chap-10/chunk-5.json",
+    "title": "Kapitel 10 Teil 5",
+    "tags": ["Buch", "Kapitel-10"]
+  },
+  {
+    "file": "data/book/chap-11/chunk-1.json",
+    "title": "Kapitel 11 Teil 1",
+    "tags": ["Buch", "Kapitel-11"]
+  },
+  {
+    "file": "data/book/chap-11/chunk-2.json",
+    "title": "Kapitel 11 Teil 2",
+    "tags": ["Buch", "Kapitel-11"]
+  },
+  {
+    "file": "data/book/chap-11/chunk-3.json",
+    "title": "Kapitel 11 Teil 3",
+    "tags": ["Buch", "Kapitel-11"]
+  },
+  {
+    "file": "data/gram/plural.json",
+    "title": "Grammatik Plural",
+    "tags": ["Grammatik"],
+    "details": [
+      "~Maskulinum / Femininum~",
+      "- г, к, х, ш, щ, ч ~=>~ и",
+      "- ~default:~ ы",
+      "~Maskulinum / Femininum:~",
+      "- ь ~=>~ и",
+      "~Neutrum:~",
+      "- o ~=>~ а",
+      "- е ~=>~ я"
+    ]
+  },
+  {
+    "file": "data/gram/mein-dein.json",
+    "title": "Grammatik Mein-Dein",
+    "tags": ["Grammatik"],
+    "details": [
+      "~Maskulinum: endungslos, Konsonanten,~ -й, -ь",
+      "~Femininum:~ -а / -я, -ия, -ь",
+      "~Neutrum:~ -о / -е, -ие -мя"
+    ]
+  },
+  {
+    "file": "data/gram/akk/chk-1.json",
+    "title": "Grammatik Akkusativ Teil 1",
+    "tags": ["Grammatik", "Akkusativ"],
+    "details": [
+      "~Maskulinum Singular:~",
+      "- ~unbelebt =>~ -",
+      "- ~belebt =>~ а",
+      "~Neutrum Singular:~",
+      "- о ~=>~ -",
+      "- е ~=>~ -",
+      "~Femininum Singular:~",
+      "- а ~=>~ у",
+      "- я ~=>~ ю",
+      "- ь ~=>~ -",
+      "~Plural:~",
+      "- ~belebt Maskulinum:~ - ~=>~ ов",
+      "- ~belebt:~ ь ~=>~ ей",
+      "- ~unbelebt:~ -"
+    ]
+  },
+  {
+    "file": "data/gram/akk/chk-2.json",
+    "title": "Grammatik Akkusativ Teil 2",
+    "tags": ["Grammatik", "Akkusativ"],
+    "details": [
+      "~Maskulinum Singular:~",
+      "- ~unbelebt =>~ -",
+      "- ~belebt =>~ а",
+      "~Neutrum Singular:~",
+      "- о ~=>~ -",
+      "- е ~=>~ -",
+      "~Femininum Singular:~",
+      "- а ~=>~у",
+      "- я ~=>~ ю",
+      "- ь ~=>~ -",
+      "~Plural:~",
+      "- ~belebt Maskulinum:~ - ~=>~ ов",
+      "- ~belebt:~ ь ~=>~ ей",
+      "- ~unbelebt:~ -"
+    ]
+  },
+  {
+    "file": "data/verbs/part-1.json",
+    "title": "Verben Teil 1",
+    "tags": ["Verben"],
+    "desc": "schreiben, singen, tanzen, malen, fotografieren, reisen"
+  },
+  {
+    "file": "data/verbs/part-2.json",
+    "title": "Verben Teil 2",
+    "tags": ["Verben"],
+    "desc": "spazieren, spielen, studieren, entspannen, hören, lesen, sprechen, gehen"
+  },
+  {
+    "file": "data/misc/misc-1.json",
+    "title": "Verschiedenes 1",
+    "tags": ["Verschiedenes"],
+    "desc": "Text über Getränke"
+  },
+  {
+    "file": "data/misc/numbers.json",
+    "title": "Zahlen",
+    "tags": ["Verschiedenes"],
+    "desc": "Zahlen 1 - 10.000"
+  },
+  {
+    "file": "data/misc/numbers-ord.json",
+    "title": "Ordinal Zahlen",
+    "tags": ["Verschiedenes"],
+    "desc": "Zahlen: 1 - 30"
+  },
+  {
+    "file": "data/misc.json",
+    "title": "Sonstiges - Test",
+    "tags": ["Sonstiges"],
+    "desc": "Dies ist meine Beschreibung!!!"
+  }
 ]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "chap11-ck2#00",
+    "quest": ["Variante"],
+    "answer": ["вари_а_нт"]
+  },
+  {
+    "id": "chap11-ck2#01",
+    "quest": ["Stille"],
+    "answer": ["тишин_а_"]
+  },
+  {
+    "id": "chap11-ck2#02",
+    "quest": ["Stress"],
+    "answer": ["стресс"]
+  },
+  {
+    "id": "chap11-ck2#03",
+    "quest": ["sauber"],
+    "answer": ["ч_и_стый", "ч_и_стая", "ч_и_стое", "ч_и_стые"]
+  },
+  {
+    "id": "chap11-ck2#04",
+    "quest": ["Luft"],
+    "answer": ["в_о_здух"]
+  },
+
+  {
+    "id": "chap11-ck2#05",
+    "quest": ["Natur- ~Adjektiv~"],
+    "answer": [
+      "натур_а_льный",
+      "натур_а_льная",
+      "натур_а_льное",
+      "натур_а_льные"
+    ]
+  },
+  {
+    "id": "chap11-ck2#06",
+    "quest": ["Feld"],
+    "answer": ["п_о_ле"]
+  },
+  {
+    "id": "chap11-ck2#07",
+    "quest": ["das ist in meinem Sinn, das ist mir recht"],
+    "answer": ["мне по душ_е_", "душ_а_ ~Seele~"]
+  },
+  {
+    "id": "chap11-ck2#08",
+    "quest": ["Lärm"],
+    "answer": ["шум", "ш_у_мно ~lärmend, geräuschvoll~"]
+  },
+  {
+    "id": "chap11-ck2#09",
+    "quest": ["Rauch"],
+    "answer": ["дым"]
+  },
+  {
+    "id": "chap11-ck2#10",
+    "quest": ["Hektik"],
+    "answer": ["сует_а_"]
+  },
+  {
+    "id": "chap11-ck2#11",
+    "quest": ["Stau"],
+    "answer": ["пробка", "пробок ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck2#12",
+    "quest": ["ein paar", "einige"],
+    "answer": ["н_е_сколько ~(+) Gen.~"]
+  },
+  {
+    "id": "chap11-ck2#13",
+    "quest": ["Woche"],
+    "answer": ["неделя", "недель ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck2#14",
+    "quest": ["zurück"],
+    "answer": ["наз_а_д"]
+  },
+  {
+    "id": "chap11-ck2#15",
+    "quest": ["schlechter"],
+    "answer": ["х_у_же", "пл_о_хо ~schlecht~"]
+  },
+  {
+    "id": "chap11-ck2#16",
+    "quest": ["~hier:~ Verkehrsmittel"],
+    "answer": ["тр_а_нспорт"]
+  },
+  {
+    "id": "chap11-ck2#17",
+    "quest": ["in Bezug auf"],
+    "answer": ["в пл_а_не"]
+  },
+  {
+    "id": "chap11-ck2#18",
+    "quest": ["Karriere"],
+    "answer": ["карь_е_ра"]
+  },
+  {
+    "id": "chap11-ck2#19",
+    "quest": ["viele Menschen"],
+    "answer": ["мн_о_го люд_е_й"]
+  },
+  {
+    "id": "chap11-ck2#20",
+    "quest": ["viel", "viele"],
+    "answer": ["много ~(+) Gen.~"]
+  },
+  {
+    "id": "chap11-ck2#21",
+    "quest": ["wenig", "wenige"],
+    "answer": ["мало ~(+) Gen.~"]
+  },
+  {
+    "id": "chap11-ck2#22",
+    "quest": ["Brücke"],
+    "answer": ["мост"]
+  },
+  {
+    "id": "chap11-ck2#23",
+    "quest": ["Station"],
+    "answer": ["ст_а_нция"]
+  },
+  {
+    "id": "chap11-ck2#24",
+    "quest": ["mehr"],
+    "answer": ["б_о_льше", "мн_о_го ~viel~"]
+  },
+  {
+    "id": "chap11-ck2#25",
+    "quest": ["weniger"],
+    "answer": ["м_е_ньше", "м_а_ло ~wenig~"]
+  },
+  {
+    "id": "chap11-ck2#26",
+    "quest": ["Bequemlichkeit", "Komfort"],
+    "answer": ["уд_о_бство", "уд_о_бный ~bequem~"]
+  },
+  {
+    "id": "chap11-ck2#27",
+    "quest": ["gehen ~zielgerichtet (konjugieren)~ "],
+    "answer": [
+      "идт_и_",
+      "я ид_у_",
+      "ты идёшь",
+      "он / она / оно идёт",
+      "мы идём",
+      "вы идёте",
+      "они ид_у_т"
+    ]
+  },
+  {
+    "id": "chap11-ck2#28",
+    "quest": ["ehrlich gesagt"],
+    "answer": ["ч_е_стно говор_я_"]
+  },
+  {
+    "id": "chap11-ck2#29",
+    "quest": ["Mannschaft"],
+    "answer": ["ком_а_нда"]
+  },
+  {
+    "id": "chap11-ck2#30",
+    "quest": ["Billard"],
+    "answer": ["биль_я_рд"]
+  },
+  {
+    "id": "chap11-ck2#31",
+    "quest": ["Galerie"],
+    "answer": ["галер_е_я", "галер_е_й ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap11-ck2#32",
+    "quest": ["Oper"],
+    "answer": ["_о_пера"]
+  },
+  {
+    "id": "chap11-ck2#33",
+    "quest": ["Trolleybus"],
+    "answer": ["тролл_е_йбус"]
+  },
+  {
+    "id": "chap11-ck2#34",
+    "quest": ["Straßenbahn"],
+    "answer": ["трамв_а_й", "трамв_а_ев ~Gen. Pl.~"]
+  }
+]
