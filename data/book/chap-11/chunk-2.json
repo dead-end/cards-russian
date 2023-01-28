@@ -63,7 +63,7 @@
   {
     "id": "chap11-ck2#11",
     "quest": ["Stau"],
-    "answer": ["пробка", "пробок ~Gen. Pl.~"]
+    "answer": ["пр_о_бка", "пр_о_бок ~Gen. Pl.~"]
   },
   {
     "id": "chap11-ck2#12",
@@ -73,7 +73,7 @@
   {
     "id": "chap11-ck2#13",
     "quest": ["Woche"],
-    "answer": ["неделя", "недель ~Gen. Pl.~"]
+    "answer": ["нед_е_ля", "нед_е_ль ~Gen. Pl.~"]
   },
   {
     "id": "chap11-ck2#14",
@@ -108,12 +108,12 @@
   {
     "id": "chap11-ck2#20",
     "quest": ["viel", "viele"],
-    "answer": ["много ~(+) Gen.~"]
+    "answer": ["мн_о_го ~(+) Gen.~"]
   },
   {
     "id": "chap11-ck2#21",
     "quest": ["wenig", "wenige"],
-    "answer": ["мало ~(+) Gen.~"]
+    "answer": ["м_а_ло ~(+) Gen.~"]
   },
   {
     "id": "chap11-ck2#22",
