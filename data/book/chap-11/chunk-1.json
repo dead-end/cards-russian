@@ -37,7 +37,7 @@
   {
     "id": "chap11-ck1#07",
     "quest": ["es scheint"],
-    "answer": ["к_а_жется"]
+    "answer": ["к_а_жется","~von:~ каз_а_ться"]
   },
   {
     "id": "chap11-ck1#08",
