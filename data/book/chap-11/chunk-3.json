@@ -78,7 +78,7 @@
   {
     "id": "chap11-ck3#12",
     "quest": ["ländlich", "Land-"],
-    "answer": ["с_е_льский"]
+    "answer": ["с_е_льский" ,"село ~Dorf~"]
   },
   {
     "id": "chap11-ck3#13",
@@ -98,7 +98,7 @@
   {
     "id": "chap11-ck3#16",
     "quest": ["bauen"],
-    "answer": ["стр_о_ить"]
+    "answer": ["стр_о_ить" , "стр_о_йка ~Baustelle~"]
   },
   {
     "id": "chap11-ck3#17",
@@ -108,7 +108,7 @@
   {
     "id": "chap11-ck3#18",
     "quest": ["Beschriftung"],
-    "answer": ["н_а_дпись ~f~"]
+    "answer": ["н_а_дпись ~f~" , "п_о_дпись ~Unterschrift~"]
   },
   {
     "id": "chap11-ck3#19",
