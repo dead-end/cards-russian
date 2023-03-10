@@ -1,0 +1,214 @@
+[
+  {
+    "id": "chap12-ck1#00",
+    "quest": ["Wie geht es Ihnen / euch gesundheitlich?"],
+    "answer": ["Как в_а_ше здор_о_вье?"]
+  },
+  {
+    "id": "chap12-ck1#01",
+    "quest": ["Jungen", "Jungs"],
+    "answer": ["реб_я_та ~Pl.~"]
+  },
+  {
+    "id": "chap12-ck1#02",
+    "quest": ["Trainer", "Trainerin"],
+    "answer": ["тр_е_нер"]
+  },
+  {
+    "id": "chap12-ck1#03",
+    "quest": ["Mädchen (junge Frau)"],
+    "answer": ["д_е_вушка", "д_е_вушек ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck1#04",
+    "quest": ["Sauna"],
+    "answer": ["са_у_на"]
+  },
+  {
+    "id": "chap12-ck1#05",
+    "quest": ["Studio"],
+    "answer": ["ст_у_дия", "ст_у_дий ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck1#06",
+    "quest": ["Massage"],
+    "answer": ["масс_а_ж"]
+  },
+  {
+    "id": "chap12-ck1#07",
+    "quest": ["Turnhalle"],
+    "answer": ["спортз_а_л"]
+  },
+  {
+    "id": "chap12-ck1#08",
+    "quest": ["Sushi Bar"],
+    "answer": ["с_у_ши-бар"]
+  },
+  {
+    "id": "chap12-ck1#09",
+    "quest": ["an der frischen Luft"],
+    "answer": ["на св_е_жем в_о_здухе"]
+  },
+  {
+    "id": "chap12-ck1#10",
+    "quest": ["frisch"],
+    "answer": ["св_е_жий", "св_е_жая", "св_е_жее", "св_е_жие"]
+  },
+  {
+    "id": "chap12-ck1#11",
+    "quest": ["Sport treiben"],
+    "answer": ["заним_а_ться сп_о_ртом"]
+  },
+  {
+    "id": "chap12-ck1#12",
+    "quest": ["Allergie"],
+    "answer": ["аллерг_и_я"]
+  },
+  {
+    "id": "chap12-ck1#13",
+    "quest": ["Depression"],
+    "answer": ["депр_е_ссия"]
+  },
+  {
+    "id": "chap12-ck1#14",
+    "quest": ["sich beschäftigen", "treiben"],
+    "answer": ["заним_а_ться ~(+) Instr~"]
+  },
+  {
+    "id": "chap12-ck1#15",
+    "quest": ["gesund"],
+    "answer": ["здор_о_вый", "здор_о_вая", "здор_о_вое", "здор_о_вые"]
+  },
+  {
+    "id": "chap12-ck1#16",
+    "quest": ["Lebensart", "Lebensstil"],
+    "answer": ["_о_браз ж_и_зни"]
+  },
+  {
+    "id": "chap12-ck1#17",
+    "quest": ["Yoga"],
+    "answer": ["й_о_га"]
+  },
+  {
+    "id": "chap12-ck1#18",
+    "quest": ["Alkohol"],
+    "answer": ["алког_о_ль ~m~"]
+  },
+  {
+    "id": "chap12-ck1#19",
+    "quest": ["bei jedem Wetter"],
+    "answer": ["в люб_у_ю пог_о_ду", "люб_о_й ~jeder~"]
+  },
+  {
+    "id": "chap12-ck1#20",
+    "quest": ["regelmäßig"],
+    "answer": ["регул_я_рно"]
+  },
+  {
+    "id": "chap12-ck1#21",
+    "quest": ["rauchen"],
+    "answer": ["кур_и_ть"]
+  },
+  {
+    "id": "chap12-ck1#22",
+    "quest": ["an Feiertagen"],
+    "answer": ["по пр_а_здникам"]
+  },
+  {
+    "id": "chap12-ck1#23",
+    "quest": ["Gesundes"],
+    "answer": ["пол_е_зное ~Subst.~"]
+  },
+  {
+    "id": "chap12-ck1#24",
+    "quest": ["aufstehen"],
+    "answer": [
+      "встав_а_ть",
+      "я вста_ю_",
+      "ты встаёшь",
+      "он / она / оно встаёт",
+      "мы встаём",
+      "вы встаёте",
+      "они вста_ю_т"
+    ]
+  },
+  {
+    "id": "chap12-ck1#25",
+    "quest": ["sich hinlegen"],
+    "answer": [
+      "лож_и_ться",
+      "я лож_у_сь",
+      "ты лож_и_шься",
+      "он / она / оно лож_и_тся",
+      "мы лож_и_мся",
+      "вы лож_и_тесь",
+      "они лож_а_тся"
+    ]
+  },
+  {
+    "id": "chap12-ck1#26",
+    "quest": ["schlafen"],
+    "answer": [
+      "спать",
+      "я сплю",
+      "ты спишь",
+      "он / она / оно спит",
+      "мы спим",
+      "вы спите",
+      "они спят"
+    ]
+  },
+  {
+    "id": "chap12-ck1#27",
+    "quest": ["spät"],
+    "answer": ["п_о_здно", "п_о_зже ~später~"]
+  },
+  {
+    "id": "chap12-ck1#28",
+    "quest": ["jede Woche"],
+    "answer": ["к_а_ждую нед_е_лю"]
+  },
+  {
+    "id": "chap12-ck1#29",
+    "quest": ["um etwas beten"],
+    "answer": ["мол_и_ться за ~(+) Akk.~"]
+  },
+  {
+    "id": "chap12-ck1#30",
+    "quest": ["sich fühlen"],
+    "answer": [
+      "ч_у_вствовать себ_я_",
+      "я чувствую себ_я_",
+      "ты чувствуешь себ_я_",
+      "он / она / оно чувствует себ_я_",
+      "мы чувствуем себ_я_",
+      "вы чувствуете себ_я_",
+      "они чувствуют себ_я_"
+    ]
+  },
+  {
+    "id": "chap12-ck1#31",
+    "quest": ["jedes Jahr"],
+    "answer": ["к_а_ждый год"]
+  },
+  {
+    "id": "chap12-ck1#32",
+    "quest": ["früh"],
+    "answer": ["р_а_но"]
+  },
+  {
+    "id": "chap12-ck1#33",
+    "quest": ["gesund", "heilsam"],
+    "answer": ["пол_е_зно"]
+  },
+  {
+    "id": "chap12-ck1#34",
+    "quest": ["ungesund", "(gesundheits-) schädlich"],
+    "answer": ["вр_е_дно"]
+  },
+  {
+    "id": "chap12-ck1#35",
+    "quest": ["selten"],
+    "answer": ["р_е_дкий", "р_е_дкая", "р_е_дкое", "р_е_дкие"]
+  }
+]
