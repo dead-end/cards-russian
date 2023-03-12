@@ -51,7 +51,7 @@
   },
   {
     "id": "chap12-ck1#10",
-    "quest": ["frisch"],
+    "quest": ["frisch ~Adjektiv~"],
     "answer": ["св_е_жий", "св_е_жая", "св_е_жее", "св_е_жие"]
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "id": "chap12-ck1#15",
-    "quest": ["gesund"],
+    "quest": ["gesund ~Adjektiv~"],
     "answer": ["здор_о_вый", "здор_о_вая", "здор_о_вое", "здор_о_вые"]
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "id": "chap12-ck1#24",
-    "quest": ["aufstehen"],
+    "quest": ["aufstehen ~konjugieren~"],
     "answer": [
       "встав_а_ть",
       "я вста_ю_",
@@ -134,7 +134,7 @@
   },
   {
     "id": "chap12-ck1#25",
-    "quest": ["sich hinlegen"],
+    "quest": ["sich hinlegen ~konjugieren~"],
     "answer": [
       "лож_и_ться",
       "я лож_у_сь",
@@ -147,7 +147,7 @@
   },
   {
     "id": "chap12-ck1#26",
-    "quest": ["schlafen"],
+    "quest": ["schlafen ~konjugieren~"],
     "answer": [
       "спать",
       "я сплю",
@@ -175,7 +175,7 @@
   },
   {
     "id": "chap12-ck1#30",
-    "quest": ["sich fühlen"],
+    "quest": ["sich fühlen ~konjugieren~"],
     "answer": [
       "ч_у_вствовать себ_я_",
       "я чувствую себ_я_",
@@ -208,7 +208,7 @@
   },
   {
     "id": "chap12-ck1#35",
-    "quest": ["selten ~adjektiv~"],
+    "quest": ["selten ~Adjektiv~"],
     "answer": ["р_е_дкий", "р_е_дкая", "р_е_дкое", "р_е_дкие"]
   }
 ]
