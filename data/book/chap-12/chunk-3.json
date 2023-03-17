@@ -1,0 +1,199 @@
+[
+  {
+    "id": "chap12-ck3#00",
+    "quest": ["Tablette gegen …"],
+    "answer": ["табл_е_тка от ~(+) Gen.~"]
+  },
+  {
+    "id": "chap12-ck3#01",
+    "quest": ["Herz"],
+    "answer": ["с_е_рдце", "серд_е_ц ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck3#02",
+    "quest": ["Angina"],
+    "answer": ["анг_и_на"]
+  },
+  {
+    "id": "chap12-ck3#03",
+    "quest": ["Umschlag", "Kompresse"],
+    "answer": ["компр_е_сс"]
+  },
+  {
+    "id": "chap12-ck3#04",
+    "quest": ["Bouillon", "Fleischbrühe"],
+    "answer": ["буль_о_н"]
+  },
+  {
+    "id": "chap12-ck3#05",
+    "quest": ["Arznei", "Medizin"],
+    "answer": ["лек_а_рство"]
+  },
+  {
+    "id": "chap12-ck3#06",
+    "quest": ["Sirup"],
+    "answer": ["сир_о_п"]
+  },
+  {
+    "id": "chap12-ck3#07",
+    "quest": ["Antibiotikum"],
+    "answer": ["антиби_о_тик"]
+  },
+  {
+    "id": "chap12-ck3#08",
+    "quest": ["links"],
+    "answer": ["сл_е_ваs"]
+  },
+  {
+    "id": "chap12-ck3#09",
+    "quest": ["schwach"],
+    "answer": ["сл_а_бый", "сл_а_бая", "сл_а_бое", "сл_а_бые"]
+  },
+  {
+    "id": "chap12-ck3#10",
+    "quest": ["Wie alt sind Sie?"],
+    "answer": ["Ск_о_лько вам лет?"]
+  },
+  {
+    "id": "chap12-ck3#11",
+    "quest": ["Ich bin … Jahre alt."],
+    "answer": ["Мне … год / г_о_да / лет."]
+  },
+  {
+    "id": "chap12-ck3#12",
+    "quest": ["merkwürdig"],
+    "answer": ["стр_а_нный", "стр_а_нная", "стр_а_нное", "стр_а_нные"]
+  },
+  {
+    "id": "chap12-ck3#13",
+    "quest": ["Entschuldigen Sie!"],
+    "answer": ["извин_и_те"]
+  },
+  {
+    "id": "chap12-ck3#14",
+    "quest": ["Geheimnis"],
+    "answer": ["секр_е_т"]
+  },
+  {
+    "id": "chap12-ck3#15",
+    "quest": ["man kann / darf"],
+    "answer": ["м_о_жно"]
+  },
+  {
+    "id": "chap12-ck3#16",
+    "quest": ["Nehmen Sie Platz (Setzen Sie sich)."],
+    "answer": ["Сад_и_тесь."]
+  },
+  {
+    "id": "chap12-ck3#17",
+    "quest": ["~hier:~ Was fehlt Ihnen?"],
+    "answer": ["На что ж_а_луетесь?"]
+  },
+  {
+    "id": "chap12-ck3#18",
+    "quest": ["sich beklagen"],
+    "answer": [
+      "ж_а_ловаться",
+      "я ж_а_луюсь",
+      "ты ж_а_луешься",
+      "он/она/оно ж_а_луется",
+      "мы ж_а_луемся",
+      "вы ж_а_луетесь",
+      "они ж_а_луются"
+    ]
+  },
+  {
+    "id": "chap12-ck3#19",
+    "quest": ["einfach so"],
+    "answer": ["пр_о_сто так"]
+  },
+  {
+    "id": "chap12-ck3#20",
+    "quest": ["Rezept"],
+    "answer": ["рец_е_пт"]
+  },
+  {
+    "id": "chap12-ck3#21",
+    "quest": ["dreimal am Tag"],
+    "answer": ["три р_а_за в день"]
+  },
+  {
+    "id": "chap12-ck3#22",
+    "quest": ["vor dem Essen"],
+    "answer": ["до ед_ы_"]
+  },
+  {
+    "id": "chap12-ck3#23",
+    "quest": ["nach dem Essen"],
+    "answer": ["п_о_сле ед_ы_"]
+  },
+  {
+    "id": "chap12-ck3#24",
+    "quest": ["Überweisung (zum Arzt)"],
+    "answer": ["направл_е_ние"]
+  },
+
+  {
+    "id": "chap12-ck3#25",
+    "quest": ["Facharzt / Fachärztin für Physiotherapie"],
+    "answer": ["физиотерап_е_вт"]
+  },
+  {
+    "id": "chap12-ck3#26",
+    "quest": ["Überweisung zur Laboruntersuchung"],
+    "answer": ["напр_а_вление на ан_а_лизы"]
+  },
+  {
+    "id": "chap12-ck3#27",
+    "quest": ["Vitamin"],
+    "answer": ["витам_и_н"]
+  },
+  {
+    "id": "chap12-ck3#28",
+    "quest": ["nach"],
+    "answer": ["п_о_сле ~(+) Gen.~"]
+  },
+  {
+    "id": "chap12-ck3#29",
+    "quest": ["dick", "korpulent"],
+    "answer": ["п_о_лный", "п_о_лная", "п_о_лное", "п_о_лные"]
+  },
+  {
+    "id": "chap12-ck3#30",
+    "quest": ["ermüden", "müde werden"],
+    "answer": [
+      "устав_а_ть",
+      "я уста_ю_",
+      "ты устаёшь",
+      "он / она / оно устаёт",
+      "мы устаём",
+      "вы устаёте",
+      "они уста_ю_т"
+    ]
+  },
+  {
+    "id": "chap12-ck3#31",
+    "quest": ["Zahnarzt"],
+    "answer": ["стомат_о_лог"]
+  },
+  {
+    "id": "chap12-ck3#32",
+    "quest": ["geschlossene Aktiengesellschaft (Rechtsform)"],
+    "answer": ["ЗАО"]
+  },
+  {
+    "id": "chap12-ck3#33",
+    "quest": ["Uferpromenade"],
+    "answer": ["н_а_бережная"]
+  },
+  {
+    "id": "chap12-ck3#34",
+    "quest": ["Herren"],
+    "answer": ["господ_а_ ~Pl.~"]
+  },
+  {
+    "id": "chap12-ck3#35",
+    "quest": ["teilnehmen"],
+    "answer": ["прин_я_ть уч_а_стие"]
+  }
+]
