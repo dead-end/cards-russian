@@ -81,8 +81,8 @@
   },
   {
     "id": "chap12-ck2#15",
-    "quest": ["… mir / dir tut / tun … weh"],
-    "answer": ["у меня / у тебя болит … / болят"]
+    "quest": ["… mir tut … weh", "… dir tun … weh"],
+    "answer": ["у меня болит", "у тебя болят"]
   },
   {
     "id": "chap12-ck2#16",
