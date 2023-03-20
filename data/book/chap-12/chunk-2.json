@@ -121,7 +121,7 @@
   },
   {
     "id": "chap12-ck2#23",
-    "quest": ["gesund"],
+    "quest": ["gesund" , "~Kurzform~"],
     "answer": ["здор_о_в", "здор_о_ва", "здор_о_вы"]
   },
   {
