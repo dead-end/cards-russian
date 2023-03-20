@@ -156,7 +156,7 @@
   },
   {
     "id": "chap12-ck2#30",
-    "quest": ["krank"],
+    "quest": ["krank", "~Kurzform~"],
     "answer": ["б_о_лeн", "больн_а_", "больн_ы_"]
   },
   {
