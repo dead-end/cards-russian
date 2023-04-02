@@ -29,12 +29,9 @@ const createData = (prefix, count) => {
  * The function writes the json data to the file.
  */
 const writeFile = (file, data) => {
-  fs.writeFile(path.join(__dirname, file), data, (err) => {
-    if (err) {
-      throw err;
-    }
-    console.log('File written:', file);
-  });
+  const p = path.join(__dirname, file)
+  fs.writeFileSync(p, data, {encoding: 'utf8'});
+  console.log('File written:', file);
 };
 
 /**
