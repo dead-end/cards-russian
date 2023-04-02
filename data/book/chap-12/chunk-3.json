@@ -82,7 +82,7 @@
   {
     "id": "chap12-ck3#16",
     "quest": ["Nehmen Sie Platz (Setzen Sie sich)."],
-    "answer": ["Сад_и_тесь."]
+    "answer": ["Сад_и_тесь.", "сад_и_ться ~sich setzen~"]
   },
   {
     "id": "chap12-ck3#17",
