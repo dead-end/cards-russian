@@ -1,0 +1,210 @@
+[
+  {
+    "id": "chap12-ck4#00",
+    "quest": ["international"],
+    "answer": [
+      "междунар_о_дный",
+      "междунар_о_дная",
+      "междунар_о_дное",
+      "междунар_о_дные"
+    ]
+  },
+  {
+    "id": "chap12-ck4#01",
+    "quest": ["Mittel"],
+    "answer": ["ср_е_дство"]
+  },
+  {
+    "id": "chap12-ck4#02",
+    "quest": ["Rehabilitation"],
+    "answer": ["реабилит_а_ция"]
+  },
+  {
+    "id": "chap12-ck4#03",
+    "quest": ["Prophylaxe"],
+    "answer": ["профил_а_ктика"]
+  },
+  {
+    "id": "chap12-ck4#04",
+    "quest": ["Schönheitsmedizin"],
+    "answer": ["эстет_и_ческая медиц_и_на"]
+  },
+  {
+    "id": "chap12-ck4#05",
+    "quest": ["Gesundheitstechnologien"],
+    "answer": ["оздоров_и_тельные технол_о_гии"]
+  },
+  {
+    "id": "chap12-ck4#06",
+    "quest": ["Kosmetologie"],
+    "answer": ["косметол_о_гия"]
+  },
+  {
+    "id": "chap12-ck4#07",
+    "quest": ["Dermatologie"],
+    "answer": ["дерматол_о_гия"]
+  },
+  {
+    "id": "chap12-ck4#08",
+    "quest": ["alternative Medizin"],
+    "answer": ["альтернат_и_вная медиц_и_на"]
+  },
+  {
+    "id": "chap12-ck4#09",
+    "quest": ["Medizin, Heilkunde"],
+    "answer": ["медиц_и_на"]
+  },
+  {
+    "id": "chap12-ck4#10",
+    "quest": ["technische Ausstattung", "Einrichtung", "Geräte"],
+    "answer": ["обор_у_дование"]
+  },
+  {
+    "id": "chap12-ck4#11",
+    "quest": ["Impfung und Prophylaxe"],
+    "answer": ["вакцинопрофил_а_ктика"]
+  },
+  {
+    "id": "chap12-ck4#12",
+    "quest": ["gesunde Ernährung"],
+    "answer": ["здор_о_вое пит_а_ние"]
+  },
+  {
+    "id": "chap12-ck4#13",
+    "quest": ["Diätprodukte"],
+    "answer": ["диет_и_ческие прод_у_кты"]
+  },
+  {
+    "id": "chap12-ck4#14",
+    "quest": ["Homöopathie"],
+    "answer": ["гомеоп_а_тия"]
+  },
+  {
+    "id": "chap12-ck4#15",
+    "quest": ["im Ausland"],
+    "answer": ["за рубеж_о_м", "руб_е_ж ~Grenze~"]
+  },
+  {
+    "id": "chap12-ck4#16",
+    "quest": ["Sessel"],
+    "answer": ["кресло", "кресел ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck4#17",
+    "quest": ["Kosmetikstudio"],
+    "answer": ["космет_и_ческий сал_о_н"]
+  },
+  {
+    "id": "chap12-ck4#18",
+    "quest": [
+      "sich behandeln lassen",
+      "sich therapieren lassen",
+      "~konjugieren~"
+    ],
+    "answer": [
+      "леч_и_ться",
+      "Я леч_у_сь",
+      "Ты л_е_чишься",
+      "Он л_е_чится",
+      "Мы л_е_чимся",
+      "Вы л_е_читесь",
+      "Они л_е_чатся"
+    ]
+  },
+  {
+    "id": "chap12-ck4#19",
+    "quest": ["Diabetes"],
+    "answer": ["диаб_е_т"]
+  },
+  {
+    "id": "chap12-ck4#20",
+    "quest": ["Bio-Lebensmittel"],
+    "answer": ["биолог_и_чески ч_и_стые прод_у_кты"]
+  },
+  {
+    "id": "chap12-ck4#21",
+    "quest": ["Name", "Bezeichnung"],
+    "answer": ["назв_а_ние"]
+  },
+  {
+    "id": "chap12-ck4#22",
+    "quest": ["Vertreter"],
+    "answer": ["представ_и_тель ~m~"]
+  },
+  {
+    "id": "chap12-ck4#23",
+    "quest": ["liefern"],
+    "answer": [
+      "поставл_я_ть",
+      "Я поставл_я_ю",
+      "Ты поставл_я_ешь",
+      "Он поставл_я_ет",
+      "Мы поставл_я_ем",
+      "Вы поставля_е_те",
+      "Они поставл_я_ют"
+    ]
+  },
+  {
+    "id": "chap12-ck4#24",
+    "quest": ["Mallorca"],
+    "answer": ["Маль_о_рка"]
+  },
+  {
+    "id": "chap12-ck4#25",
+    "quest": ["in der letzten Zeit"],
+    "answer": ["в посл_е_днее вр_е_мя"]
+  },
+  {
+    "id": "chap12-ck4#26",
+    "quest": ["Kurheim", "Sanatorium"],
+    "answer": ["санат_о_рий", "санат_о_риев ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck4#27",
+    "quest": ["сквер"],
+    "answer": ["сквер"]
+  },
+  {
+    "id": "chap12-ck4#28",
+    "quest": ["Blume"],
+    "answer": ["цветок", "цветы ~Nom. Pl.~", "цветов ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap12-ck4#29",
+    "quest": ["Klima"],
+    "answer": ["кл_и_мат"]
+  },
+  {
+    "id": "chap12-ck4#30",
+    "quest": ["behandeln", "therapieren", "~konjugieren~"],
+    "answer": [
+      "л_е_чить",
+      "Я леч_у_",
+      "Ты л_е_чишь",
+      "Он л_е_чит",
+      "Мы л_е_чим",
+      "Вы л_е_чите",
+      "Они л_е_чат"
+    ]
+  },
+  {
+    "id": "chap12-ck4#31",
+    "quest": ["Wasserfall"],
+    "answer": ["водоп_а_д"]
+  },
+  {
+    "id": "chap12-ck4#32",
+    "quest": ["erstaunlich", "wunderschön"],
+    "answer": ["изум_и_тельно"]
+  },
+  {
+    "id": "chap12-ck4#33",
+    "quest": ["hier: am liebsten"],
+    "answer": ["б_о_льше всег_о_"]
+  },
+  {
+    "id": "chap12-ck4#34",
+    "quest": ["gestern"],
+    "answer": ["вчер_а_"]
+  }
+]
