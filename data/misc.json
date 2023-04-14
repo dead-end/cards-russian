@@ -1,1 +1,30 @@
-[{"id":"misc#1","quest":["Guten Tag!","joho"],"answer":["Добрый день"]},{"id":"misc#2","quest":["Guten Abend!"],"answer":["Добрый вечер"]},{"id":"misc#3","quest":["Guten Appetit!!"],"answer":["Приятного аппетита"]}]
+[
+  {
+    "id": "misc#1",
+    "quest": [
+      "Guten Tag!",
+      "joho2"
+    ],
+    "answer": [
+      "Добрый день"
+    ]
+  },
+  {
+    "id": "misc#2",
+    "quest": [
+      "Guten Abend!"
+    ],
+    "answer": [
+      "Добрый вечер"
+    ]
+  },
+  {
+    "id": "misc#3",
+    "quest": [
+      "Guten Appetit!!"
+    ],
+    "answer": [
+      "Приятного аппетита"
+    ]
+  }
+]
