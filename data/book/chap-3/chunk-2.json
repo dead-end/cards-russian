@@ -1,284 +1,285 @@
 [
-    {
-        "id": "chap3-ck2#01",
-        "quest": [
-            "hier"
-        ],
-        "answer": [
-            "здесь"
-        ]
-    },
-    {
-        "id": "chap3-ck2#02",
-        "quest": [
-            "so"
-        ],
-        "answer": [
-            "так"
-        ]
-    },
-    {
-        "id": "chap3-ck2#03",
-        "quest": [
-            "Schau!"
-        ],
-        "answer": [
-            "Посмотр_и_!"
-        ]
-    },
-    {
-        "id": "chap3-ck2#04",
-        "quest": [
-            "Stadt"
-        ],
-        "answer": [
-            "г_о_род"
-        ]
-    },
-    {
-        "id": "chap3-ck2#05",
-        "quest": [
-            "Norden"
-        ],
-        "answer": [
-            "с_е_вер"
-        ]
-    },
-    {
-        "id": "chap3-ck2#06",
-        "quest": [
-            "im Norden"
-        ],
-        "answer": [
-            "на с_е_вере"
-        ]
-    },
-    {
-        "id": "chap3-ck2#07",
-        "quest": [
-            "Zentrum"
-        ],
-        "answer": [
-            "центр"
-        ]
-    },
-    {
-        "id": "chap3-ck2#08",
-        "quest": [
-            "- Stadtmitte",
-            "- Stadtzentrum"
-        ],
-        "answer": [
-            "центр г_о_рода"
-        ]
-    },
-    {
-        "id": "chap3-ck2#09",
-        "quest": [
-            "Hotel"
-        ],
-        "answer": [
-            "гост_и_ница"
-        ]
-    },
-    {
-        "id": "chap3-ck2#10",
-        "quest": [
-            "Flughafen"
-        ],
-        "answer": [
-            "аэроп_о_рт"
-        ]
-    },
-    {
-        "id": "chap3-ck2#11",
-        "quest": [
-            "es ist / wird Zeit für mich"
-        ],
-        "answer": [
-            "мне пор_а_"
-        ]
-    },
-    {
-        "id": "chap3-ck2#12",
-        "quest": [
-            "bald"
-        ],
-        "answer": [
-            "ск_о_ро"
-        ]
-    },
-    {
-        "id": "chap3-ck2#13",
-        "quest": [
-            "Flugzeug"
-        ],
-        "answer": [
-            "самолёт"
-        ]
-    },
-    {
-        "id": "chap3-ck2#14",
-        "quest": [
-            "oder"
-        ],
-        "answer": [
-            "_и_ли"
-        ]
-    },
-    {
-        "id": "chap3-ck2#15",
-        "quest": [
-            "mein"
-        ],
-        "answer": [
-            "мой"
-        ]
-    },
-    {
-        "id": "chap3-ck2#16",
-        "quest": [
-            "Süden"
-        ],
-        "answer": [
-            "юг"
-        ]
-    },
-    {
-        "id": "chap3-ck2#17",
-        "quest": [
-            "im Süden"
-        ],
-        "answer": [
-            "на _ю_ге"
-        ]
-    },
-    {
-        "id": "chap3-ck2#18",
-        "quest": [
-            "Belgien"
-        ],
-        "answer": [
-            "Б_е_льгия"
-        ]
-    },
-    {
-        "id": "chap3-ck2#19",
-        "quest": [
-            "Mach dich bekannt!"
-        ],
-        "answer": [
-            "Познак_о_мься!"
-        ]
-    },
-    {
-        "id": "chap3-ck2#20",
-        "quest": [
-            "- Das kann nicht (wahr) sein!",
-            "- Das gibt's doch nicht!"
-        ],
-        "answer": [
-            "Не м_о_жет быть!"
-        ]
-    },
-    {
-        "id": "chap3-ck2#21",
-        "quest": [
-            "Telefon",
-            "Telefonnummer"
-        ],
-        "answer": [
-            "телеф_о_н"
-        ]
-    },
-    {
-        "id": "chap3-ck2#22",
-        "quest": [
-            "Nummer"
-        ],
-        "answer": [
-            "н_о_мер"
-        ]
-    },
-    {
-        "id": "chap3-ck2#23",
-        "quest": [
-            "Welche Telefonnummer hast du?"
-        ],
-        "answer": [
-            "Как_о_й у теб_я_ н_о_мер телеф_о_на?"
-        ]
-    },
-    {
-        "id": "chap3-ck2#24",
-        "quest": [
-            "Welche Telefonnummer haben Sie / ihr?"
-        ],
-        "answer": [
-            "Как_о_й у вас н_о_мер телеф_о_на?"
-        ]
-    },
-    {
-        "id": "chap3-ck2#25",
-        "quest": [
-            "Straße"
-        ],
-        "answer": [
-            "_у_лица"
-        ]
-    },
-    {
-        "id": "chap3-ck2#26",
-        "quest": [
-            "Haus"
-        ],
-        "answer": [
-            "дом"
-        ]
-    },
-    {
-        "id": "chap3-ck2#27",
-        "quest": [
-            "Wohnung"
-        ],
-        "answer": [
-            "кварт_и_ра"
-        ]
-    },
-    {
-        "id": "chap3-ck2#28",
-        "quest": [
-            "Wie ist deine Adresse?"
-        ],
-        "answer": [
-            "Как_о_й у теб_я_ _а_дрес?"
-        ]
-    },
-    {
-        "id": "chap3-ck2#29",
-        "quest": [
-            "Wie ist Ihre / eure Adresse?"
-        ],
-        "answer": [
-            "Как_о_й у вас _а_дрес?"
-        ]
-    },
-    {
-        "id": "chap3-ck2#30",
-        "quest": [
-            "meine Adresse"
-        ],
-        "answer": [
-            "мой _а_дрес"
-        ]
-    },
-    {
-        "id": "chap3-ck2#31",
-        "quest": [
-            "Das ist eine Überraschung"
-        ],
-        "answer": [
-            "Вот _э_то сюрпр_и_з!"
-        ]
-    }
+  {
+    "id": "chap3-ck2#01",
+    "quest": [
+      "hier"
+    ],
+    "answer": [
+      "здесь"
+    ]
+  },
+  {
+    "id": "chap3-ck2#02",
+    "quest": [
+      "so"
+    ],
+    "answer": [
+      "так"
+    ]
+  },
+  {
+    "id": "chap3-ck2#03",
+    "quest": [
+      "Schau!"
+    ],
+    "answer": [
+      "Посмотр_и_!"
+    ]
+  },
+  {
+    "id": "chap3-ck2#04",
+    "quest": [
+      "Stadt"
+    ],
+    "answer": [
+      "г_о_род",
+      "г_о_рода ~No. pl.~"
+    ]
+  },
+  {
+    "id": "chap3-ck2#05",
+    "quest": [
+      "Norden"
+    ],
+    "answer": [
+      "с_е_вер"
+    ]
+  },
+  {
+    "id": "chap3-ck2#06",
+    "quest": [
+      "im Norden"
+    ],
+    "answer": [
+      "на с_е_вере"
+    ]
+  },
+  {
+    "id": "chap3-ck2#07",
+    "quest": [
+      "Zentrum"
+    ],
+    "answer": [
+      "центр"
+    ]
+  },
+  {
+    "id": "chap3-ck2#08",
+    "quest": [
+      "- Stadtmitte",
+      "- Stadtzentrum"
+    ],
+    "answer": [
+      "центр г_о_рода"
+    ]
+  },
+  {
+    "id": "chap3-ck2#09",
+    "quest": [
+      "Hotel"
+    ],
+    "answer": [
+      "гост_и_ница"
+    ]
+  },
+  {
+    "id": "chap3-ck2#10",
+    "quest": [
+      "Flughafen"
+    ],
+    "answer": [
+      "аэроп_о_рт"
+    ]
+  },
+  {
+    "id": "chap3-ck2#11",
+    "quest": [
+      "es ist / wird Zeit für mich"
+    ],
+    "answer": [
+      "мне пор_а_"
+    ]
+  },
+  {
+    "id": "chap3-ck2#12",
+    "quest": [
+      "bald"
+    ],
+    "answer": [
+      "ск_о_ро"
+    ]
+  },
+  {
+    "id": "chap3-ck2#13",
+    "quest": [
+      "Flugzeug"
+    ],
+    "answer": [
+      "самолёт"
+    ]
+  },
+  {
+    "id": "chap3-ck2#14",
+    "quest": [
+      "oder"
+    ],
+    "answer": [
+      "_и_ли"
+    ]
+  },
+  {
+    "id": "chap3-ck2#15",
+    "quest": [
+      "mein"
+    ],
+    "answer": [
+      "мой"
+    ]
+  },
+  {
+    "id": "chap3-ck2#16",
+    "quest": [
+      "Süden"
+    ],
+    "answer": [
+      "юг"
+    ]
+  },
+  {
+    "id": "chap3-ck2#17",
+    "quest": [
+      "im Süden"
+    ],
+    "answer": [
+      "на _ю_ге"
+    ]
+  },
+  {
+    "id": "chap3-ck2#18",
+    "quest": [
+      "Belgien"
+    ],
+    "answer": [
+      "Б_е_льгия"
+    ]
+  },
+  {
+    "id": "chap3-ck2#19",
+    "quest": [
+      "Mach dich bekannt!"
+    ],
+    "answer": [
+      "Познак_о_мься!"
+    ]
+  },
+  {
+    "id": "chap3-ck2#20",
+    "quest": [
+      "- Das kann nicht (wahr) sein!",
+      "- Das gibt's doch nicht!"
+    ],
+    "answer": [
+      "Не м_о_жет быть!"
+    ]
+  },
+  {
+    "id": "chap3-ck2#21",
+    "quest": [
+      "Telefon",
+      "Telefonnummer"
+    ],
+    "answer": [
+      "телеф_о_н"
+    ]
+  },
+  {
+    "id": "chap3-ck2#22",
+    "quest": [
+      "Nummer"
+    ],
+    "answer": [
+      "н_о_мер"
+    ]
+  },
+  {
+    "id": "chap3-ck2#23",
+    "quest": [
+      "Welche Telefonnummer hast du?"
+    ],
+    "answer": [
+      "Как_о_й у теб_я_ н_о_мер телеф_о_на?"
+    ]
+  },
+  {
+    "id": "chap3-ck2#24",
+    "quest": [
+      "Welche Telefonnummer haben Sie / ihr?"
+    ],
+    "answer": [
+      "Как_о_й у вас н_о_мер телеф_о_на?"
+    ]
+  },
+  {
+    "id": "chap3-ck2#25",
+    "quest": [
+      "Straße"
+    ],
+    "answer": [
+      "_у_лица"
+    ]
+  },
+  {
+    "id": "chap3-ck2#26",
+    "quest": [
+      "Haus"
+    ],
+    "answer": [
+      "дом"
+    ]
+  },
+  {
+    "id": "chap3-ck2#27",
+    "quest": [
+      "Wohnung"
+    ],
+    "answer": [
+      "кварт_и_ра"
+    ]
+  },
+  {
+    "id": "chap3-ck2#28",
+    "quest": [
+      "Wie ist deine Adresse?"
+    ],
+    "answer": [
+      "Как_о_й у теб_я_ _а_дрес?"
+    ]
+  },
+  {
+    "id": "chap3-ck2#29",
+    "quest": [
+      "Wie ist Ihre / eure Adresse?"
+    ],
+    "answer": [
+      "Как_о_й у вас _а_дрес?"
+    ]
+  },
+  {
+    "id": "chap3-ck2#30",
+    "quest": [
+      "meine Adresse"
+    ],
+    "answer": [
+      "мой _а_дрес"
+    ]
+  },
+  {
+    "id": "chap3-ck2#31",
+    "quest": [
+      "Das ist eine Überraschung"
+    ],
+    "answer": [
+      "Вот _э_то сюрпр_и_з!"
+    ]
+  }
 ]
