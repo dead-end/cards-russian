@@ -1,7 +1,7 @@
 
 
-|Deklination|Singular|Plural|
-|––––––––––– | –––––––––– | ––––– |
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
 | Nominativ|событие|события|
 | Genitiv|события|событий|
 | Dativ|событию|событиям|
