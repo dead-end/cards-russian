@@ -8,3 +8,14 @@
 | Akkusativ|событие|события|
 | Instrumental|событием|событиями|
 | Präpositiv|событии|событиях|
+
+
+
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|фирма|фирмы|
+|Genitiv|фирмы|фирм|
+|Dativ|фирме|фирмам|
+|Akkusativ|фирму|фирмы|
+|Instrumental|фирмой/фирмою|	фирмами
+|Präpositiv|фирме|фирмах|
