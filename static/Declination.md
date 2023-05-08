@@ -1,4 +1,5 @@
 # Maskulinum
+
 ## hart
 
 | Deklination | Singular | Plural |
@@ -31,6 +32,7 @@
 |Präpositiv|музее|музеях|
 
 # Neutrum
+
 ## hart
 
 | Deklination | Singular | Plural |
@@ -42,7 +44,7 @@
 |Instrumental|словом|словами|
 |Präpositiv|слове|словах|
 
-# weich
+## weich
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
@@ -63,7 +65,8 @@
 | Präpositiv|событии|событиях|
 
 # Femininum
-# hart
+
+## hart
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
@@ -74,7 +77,7 @@
 |Instrumental|фирмой/фирмою|	фирмами
 |Präpositiv|фирме|фирмах|
 
-# weich
+## weich
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
