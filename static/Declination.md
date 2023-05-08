@@ -1,4 +1,57 @@
+# Maskulinum
+## hart
 
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|фильм|фильмы|
+|Genitiv|фильма|фильмов|
+|Dativ|фильму|фильмам|
+|Akkusativ|фильм|фильмы|
+|Instrumental|фильмом|фильмами|
+|Präpositiv|фильме|фильмах|
+
+## weich
+
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|рубль|рубли|
+|Genitiv|рубля|рублей|
+|Dativ|рублю|рублям|
+|Akkusativ|рубль|рубли|
+|Instrumental|рублём|рублями|
+|Präpositiv|рубле|рублях|
+
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|музей|музеи|
+|Genitiv|музея|музеев|
+|Dativ|музею|музеям|
+|Akkusativ|музей|музеи|
+|Instrumental|музеем|музеями|
+|Präpositiv|музее|музеях|
+
+# Neutrum
+## hart
+
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|слово|слова|
+|Genitiv|слова|слов|
+|Dativ|слову|словам|
+|Akkusativ|слово|слова|
+|Instrumental|словом|словами|
+|Präpositiv|слове|словах|
+
+# weich
+
+| Deklination | Singular | Plural |
+| ----------- | -------- | ------ |
+|Nominativ|море|моря|
+|Genitiv|моря|морей|
+|Dativ|морю|морям|
+|Akkusativ|море|моря|
+|Instrumental|морем|морями|
+|Präpositiv|море|морях|
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
@@ -9,7 +62,8 @@
 | Instrumental|событием|событиями|
 | Präpositiv|событии|событиях|
 
-
+# Femininum
+# hart
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
@@ -19,6 +73,8 @@
 |Akkusativ|фирму|фирмы|
 |Instrumental|фирмой/фирмою|	фирмами
 |Präpositiv|фирме|фирмах|
+
+# weich
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
@@ -37,6 +93,8 @@
 |Akkusativ|экскурсию|экскурсии|
 |Instrumental|экскурсией/экскурсиею|экскурсиями|
 |Präpositiv|экскурсии|экскурсиях|
+
+# 3. Deklination
 
 | Deklination | Singular | Plural |
 | ----------- | -------- | ------ |
