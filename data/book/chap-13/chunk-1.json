@@ -1,0 +1,193 @@
+[
+  {
+    "id": "chap13-ck1#00",
+    "quest": ["Bankier"],
+    "answer": ["банк_и_р"]
+  },
+  {
+    "id": "chap13-ck1#01",
+    "quest": ["Fahrer", "Fahrerin"],
+    "answer": ["вод_и_тель ~m~"]
+  },
+  {
+    "id": "chap13-ck1#02",
+    "quest": ["Gesetz"],
+    "answer": ["зак_о_н"]
+  },
+  {
+    "id": "chap13-ck1#03",
+    "quest": ["geben", "~konjugieren~"],
+    "answer": [
+      "дав_а_ть",
+      "я да_ю_",
+      "ты даёшь",
+      "он / она / оно даёт",
+      "мы даём",
+      "вы даёте",
+      "они да_ю_т"
+    ]
+  },
+  {
+    "id": "chap13-ck1#04",
+    "quest": ["Unterricht"],
+    "answer": ["ур_о_к"]
+  },
+  {
+    "id": "chap13-ck1#05",
+    "quest": ["Belegschaft", "Team"],
+    "answer": ["коллект_и_в"]
+  },
+  {
+    "id": "chap13-ck1#06",
+    "quest": ["Lohn", "Gehalt"],
+    "answer": ["зарпл_а_та"]
+  },
+  {
+    "id": "chap13-ck1#07",
+    "quest": ["Stunde"],
+    "answer": ["час", "час_ы_ ~Nom. Pl.~", "час_о_в ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap13-ck1#08",
+    "quest": ["Wochenende"],
+    "answer": ["выходн_ы_е ~Pl.~"]
+  },
+  {
+    "id": "chap13-ck1#09",
+    "quest": ["an Wochenenden (~Pl.~)"],
+    "answer": ["в выходн_ы_е"]
+  },
+  {
+    "id": "chap13-ck1#10",
+    "quest": ["Chef"],
+    "answer": ["шеф"]
+  },
+  {
+    "id": "chap13-ck1#11",
+    "quest": ["flexible Arbeitszeit"],
+    "answer": ["г_и_бкий гр_а_фик раб_о_ты"]
+  },
+  {
+    "id": "chap13-ck1#12",
+    "quest": ["(Geld-)Prämie"],
+    "answer": ["пр_е_мия"]
+  },
+  {
+    "id": "chap13-ck1#13",
+    "quest": ["Bonus"],
+    "answer": ["б_о_нуc"]
+  },
+  {
+    "id": "chap13-ck1#14",
+    "quest": ["Was du nicht sagst!", "~(Ausdruck des Erstaunens)~"],
+    "answer": ["Да ты что!"]
+  },
+  {
+    "id": "chap13-ck1#15",
+    "quest": ["wichtig"],
+    "answer": ["в_а_жный", "в_а_жная", "в_а_жное", "в_а_жные"]
+  },
+  {
+    "id": "chap13-ck1#16",
+    "quest": ["übrigens"],
+    "answer": ["кст_а_ти"]
+  },
+  {
+    "id": "chap13-ck1#17",
+    "quest": ["Wie spät ist es?"],
+    "answer": ["Ск_о_лько вр_е_мени?"]
+  },
+  {
+    "id": "chap13-ck1#18",
+    "quest": ["monoton", "eintönig"],
+    "answer": ["монот_о_нный", "монот_о_нная", "монот_о_нное", "монот_о_нные"]
+  },
+  {
+    "id": "chap13-ck1#19",
+    "quest": ["schwer"],
+    "answer": ["тр_у_дный", "тр_у_дная", "тр_у_дное", "тр_у_дные"]
+  },
+  {
+    "id": "chap13-ck1#20",
+    "quest": ["leicht"],
+    "answer": ["лёгкий", "лёгкая", "лёгкое", "лёгкие"]
+  },
+  {
+    "id": "chap13-ck1#21",
+    "quest": ["~hier:~ hektisch", "unruhig"],
+    "answer": ["н_е_рвный", "н_е_рвная", "н_е_рвное", "н_е_рвные"]
+  },
+  {
+    "id": "chap13-ck1#22",
+    "quest": ["Wie spät ist es?", "Welche Stunde?"],
+    "answer": ["Кот_о_рый час?"]
+  },
+  {
+    "id": "chap13-ck1#23",
+    "quest": ["Arbeitstag"],
+    "answer": ["раб_о_чий день"]
+  },
+  {
+    "id": "chap13-ck1#24",
+    "quest": ["schreiben"],
+    "answer": ["написать ~voll.~", "писать ~unvoll.~"]
+  },
+  {
+    "id": "chap13-ck1#25",
+    "quest": ["Brief"],
+    "answer": ["письм_о_", "п_и_сьма ~Nom. Pl.~", "п_и_сем ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap13-ck1#26",
+    "quest": ["schicken", "absenden"],
+    "answer": [
+      "отпр_а_вить ~voll.~",
+      "я отпр_а_влю",
+      "ты отпр_а_вишь",
+      "он/она/оно отпр_а_вит",
+      "мы отпр_а_вим",
+      "вы отпр_а_вите",
+      "они отпр_а_вят",
+      "отправл_я_ть ~unvoll.~"
+    ]
+  },
+  {
+    "id": "chap13-ck1#27",
+    "quest": ["Flyer", "Prospekt"],
+    "answer": ["фл_а_ер"]
+  },
+  {
+    "id": "chap13-ck1#28",
+    "quest": ["für"],
+    "answer": ["для ~(+) Gen.~"]
+  },
+  {
+    "id": "chap13-ck1#29",
+    "quest": ["vorbereiten", "fertigstellen"],
+    "answer": ["подгот_о_вить ~voll.~", "гот_о_вить ~unvoll.~"]
+  },
+  {
+    "id": "chap13-ck1#30",
+    "quest": ["anrufen", "telefonieren"],
+    "answer": ["позвон_и_ть ~voll. (+) Dat.~", "звон_и_ть ~unvoll.~"]
+  },
+  {
+    "id": "chap13-ck1#31",
+    "quest": ["sagen"],
+    "answer": [
+      "сказ_а_ть ~voll.~",
+      "я скаж_у_",
+      "ты ск_а_жешь",
+      "он / она / оно ск_а_жет",
+      "мы ск_а_жем",
+      "вы ск_а_жете",
+      "они ск_а_жут",
+      "говор_и_ть ~unvoll.~"
+    ]
+  },
+  {
+    "id": "chap13-ck1#32",
+    "quest": ["endlich"],
+    "answer": ["након_е_ц", "конец ~Ende~"]
+  }
+]
