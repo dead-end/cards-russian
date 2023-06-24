@@ -1,25 +1,41 @@
 [
   {
     "id": "chap13-ck2#00",
-    "quest": ["schauen", "ansehen"],
-    "answer": ["посмотр_е_ть ~voll.~", "смотр_е_ть ~unvoll.~"]
+    "quest": [
+      "schauen",
+      "ansehen"
+    ],
+    "answer": [
+      "посмотр_е_ть ~voll.~",
+      "смотр_е_ть ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#01",
-    "quest": ["Auf Sie kann man sich verlassen."],
-    "answer": ["На вас м_о_жно полож_и_ться."]
+    "quest": [
+      "Auf Sie kann man sich verlassen."
+    ],
+    "answer": [
+      "На вас м_о_жно полож_и_ться."
+    ]
   },
   {
     "id": "chap13-ck2#02",
-    "quest": ["sich mit jmdm. unterhalten"],
-    "answer": ["разгов_а_ривать c ~unvoll. (+ Instr.)~"]
+    "quest": [
+      "sich mit jmdm. unterhalten"
+    ],
+    "answer": [
+      "разгов_а_ривать c ~unvoll. (+ Instr.)~"
+    ]
   },
   {
     "id": "chap13-ck2#03",
-    "quest": ["~hier:~ sich aufhalten", "sein"],
+    "quest": [
+      "~hier:~ sich aufhalten",
+      "sein"
+    ],
     "answer": [
       "наход_и_ться ~unvoll.~",
-
       "я нахож_у_сь",
       "ты находишься",
       "он/она/оно) нах_о_дится",
@@ -32,7 +48,9 @@
   },
   {
     "id": "chap13-ck2#04",
-    "quest": ["nehmen"],
+    "quest": [
+      "nehmen"
+    ],
     "answer": [
       "­взять ~voll.~",
       "я возьм_у_",
@@ -47,40 +65,70 @@
   },
   {
     "id": "chap13-ck2#05",
-    "quest": ["lesen"],
-    "answer": ["прочит_а_ть ~voll.~", "чит_а_ть ~unvoll.~"]
+    "quest": [
+      "lesen"
+    ],
+    "answer": [
+      "прочит_а_ть ~voll.~",
+      "чит_а_ть ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#06",
-    "quest": ["ganz"],
-    "answer": ["весь"]
+    "quest": [
+      "ganz"
+    ],
+    "answer": [
+      "весь"
+    ]
   },
   {
     "id": "chap13-ck2#07",
-    "quest": ["bekommen", "erhalten"],
-    "answer": ["получ_и_ть ~voll.~", "получ_а_ть ~unvoll.~"]
+    "quest": [
+      "bekommen",
+      "erhalten"
+    ],
+    "answer": [
+      "получ_и_ть ~voll.~",
+      "получ_а_ть ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#08",
-    "quest": ["machen", "tun"],
-    "answer": ["сд_е_лать ~voll.~", "делать ~unvoll.~"]
+    "quest": [
+      "machen",
+      "tun"
+    ],
+    "answer": [
+      "сд_е_лать ~voll.~",
+      "делать ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#09",
-    "quest": ["Redaktion"],
-    "answer": ["ред_а_кция"]
+    "quest": [
+      "Redaktion"
+    ],
+    "answer": [
+      "ред_а_кция"
+    ]
   },
   {
     "id": "chap13-ck2#10",
-    "quest": ["rechtzeitig"],
-    "answer": ["в_о_время"]
+    "quest": [
+      "rechtzeitig"
+    ],
+    "answer": [
+      "в_о_время"
+    ]
   },
   {
     "id": "chap13-ck2#11",
-    "quest": ["erzählen"],
+    "quest": [
+      "erzählen"
+    ],
     "answer": [
       "рассказ_а_ть ~voll.~",
-
       "я расскаж_у_",
       "ты расск_а_жешь",
       "он/она/оно расск_а_жет",
@@ -93,82 +141,152 @@
   },
   {
     "id": "chap13-ck2#12",
-    "quest": ["Antwort"],
-    "answer": ["ответ"]
+    "quest": [
+      "Antwort"
+    ],
+    "answer": [
+      "ответ"
+    ]
   },
   {
     "id": "chap13-ck2#13",
-    "quest": ["Eintrittskarte"],
-    "answer": ["бил_е_т"]
+    "quest": [
+      "Eintrittskarte"
+    ],
+    "answer": [
+      "бил_е_т"
+    ]
   },
   {
     "id": "chap13-ck2#14",
-    "quest": ["~hier:~ für Samstag"],
-    "answer": ["на субб_о_ту"]
+    "quest": [
+      "~hier:~ für Samstag"
+    ],
+    "answer": [
+      "на субб_о_ту"
+    ]
   },
   {
     "id": "chap13-ck2#15",
-    "quest": ["Vertrag"],
-    "answer": ["догов_о_р"]
+    "quest": [
+      "Vertrag"
+    ],
+    "answer": [
+      "догов_о_р"
+    ]
   },
   {
     "id": "chap13-ck2#16",
-    "quest": ["früher"],
-    "answer": ["р_а_ньше", "р_а_но ~früh~"]
+    "quest": [
+      "früher"
+    ],
+    "answer": [
+      "р_а_ньше",
+      "р_а_но ~früh~"
+    ]
   },
   {
     "id": "chap13-ck2#17",
-    "quest": ["Sender", "Kanal"],
-    "answer": ["кан_а_л"]
+    "quest": [
+      "Sender",
+      "Kanal"
+    ],
+    "answer": [
+      "кан_а_л"
+    ]
   },
   {
     "id": "chap13-ck2#18",
-    "quest": ["Talkshow"],
-    "answer": ["ток-шоу ~neut. indekl.~"]
+    "quest": [
+      "Talkshow"
+    ],
+    "answer": [
+      "ток-шоу ~neut. indekl.~"
+    ]
   },
   {
     "id": "chap13-ck2#19",
-    "quest": ["aktuell"],
-    "answer": ["акту_а_льный", "акту_а_льная", "акту_а_льное", "акту_а_льные"]
+    "quest": [
+      "aktuell"
+    ],
+    "answer": [
+      "акту_а_льный",
+      "акту_а_льная",
+      "акту_а_льное",
+      "акту_а_льные"
+    ]
   },
   {
     "id": "chap13-ck2#20",
-    "quest": ["Haus-"],
-    "answer": ["дом_а_шний", "дом_а_шняя", "дом_а_шнее", "дом_а_шние"]
+    "quest": [
+      "Haus-"
+    ],
+    "answer": [
+      "дом_а_шний",
+      "дом_а_шняя",
+      "дом_а_шнее",
+      "дом_а_шние"
+    ]
   },
   {
     "id": "chap13-ck2#21",
-    "quest": ["Applaus"],
-    "answer": ["аплодисм_е_нты ~Pl.~"]
+    "quest": [
+      "Applaus"
+    ],
+    "answer": [
+      "аплодисм_е_нты ~Pl.~"
+    ]
   },
   {
     "id": "chap13-ck2#22",
-    "quest": ["Geschäftsfrau"],
-    "answer": ["бизнесв_у_мен"]
+    "quest": [
+      "Geschäftsfrau"
+    ],
+    "answer": [
+      "бизнесв_у_мен"
+    ]
   },
   {
     "id": "chap13-ck2#23",
-    "quest": ["helfen"],
-    "answer": ["помогать ~unvoll.~"]
+    "quest": [
+      "helfen"
+    ],
+    "answer": [
+      "помогать ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#24",
-    "quest": ["~hier:~ im Haushalt"],
-    "answer": ["по хоз_я_йству"]
+    "quest": [
+      "~hier:~ im Haushalt"
+    ],
+    "answer": [
+      "по хоз_я_йству"
+    ]
   },
   {
     "id": "chap13-ck2#25",
-    "quest": ["~hier:~ Haushalt"],
-    "answer": ["хоз_я_йство"]
+    "quest": [
+      "~hier:~ Haushalt"
+    ],
+    "answer": [
+      "хоз_я_йство"
+    ]
   },
   {
     "id": "chap13-ck2#26",
-    "quest": ["in dieser Woche"],
-    "answer": ["на _э_той нед_е_ле"]
+    "quest": [
+      "in dieser Woche"
+    ],
+    "answer": [
+      "на _э_той нед_е_ле"
+    ]
   },
   {
     "id": "chap13-ck2#27",
-    "quest": ["bügeln"],
+    "quest": [
+      "bügeln"
+    ],
     "answer": [
       "гл_а_дить ~unvoll.~",
       "я гл_а_жу",
@@ -181,7 +299,9 @@
   },
   {
     "id": "chap13-ck2#28",
-    "quest": ["hassen"],
+    "quest": [
+      "hassen"
+    ],
     "answer": [
       "­ненав_и_деть ~unvoll.~",
       "я ненав_и_жу",
@@ -194,22 +314,38 @@
   },
   {
     "id": "chap13-ck2#29",
-    "quest": ["(die Wohnung) aufräumen"],
-    "answer": ["убир_а_ть (кварт_и_ру) ~unvoll.~"]
+    "quest": [
+      "(die Wohnung) aufräumen"
+    ],
+    "answer": [
+      "убир_а_ть (кварт_и_ру) ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#30",
-    "quest": ["Hund"],
-    "answer": ["соб_а_ка"]
+    "quest": [
+      "Hund"
+    ],
+    "answer": [
+      "соб_а_ка"
+    ]
   },
   {
     "id": "chap13-ck2#31",
-    "quest": ["~hier:~ den Hund ausführen"],
-    "answer": ["гулять с собакой ~unvoll.~"]
+    "quest": [
+      "~hier:~ den Hund ausführen"
+    ],
+    "answer": [
+      "гулять с собакой ~unvoll.~"
+    ]
   },
   {
     "id": "chap13-ck2#32",
-    "quest": ["Wäsche) waschen"],
-    "answer": ["стир_а_ть ~unvoll.~"]
+    "quest": [
+      "(Wäsche) waschen"
+    ],
+    "answer": [
+      "стир_а_ть ~unvoll.~"
+    ]
   }
 ]
