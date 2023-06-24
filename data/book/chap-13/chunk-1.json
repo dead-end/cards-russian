@@ -219,7 +219,8 @@
     "id": "chap13-ck1#21",
     "quest": [
       "~hier:~ hektisch",
-      "unruhig"
+      "unruhig",
+      "~normal~ nervös"
     ],
     "answer": [
       "н_е_рвный",
