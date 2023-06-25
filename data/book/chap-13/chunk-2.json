@@ -268,7 +268,11 @@
   {
     "id": "chap13-ck2#25",
     "quest": [
-      "~hier:~ Haushalt"
+      "~hier:~",
+      "- Haushalt",
+      "~normal:~",
+      "- die Wirtschaft",
+      "- der Betrieb"
     ],
     "answer": [
       "хоз_я_йство"
