@@ -1,0 +1,188 @@
+[
+  {
+    "id": "chap13-ck4#00",
+    "quest": ["einschlägige Arbeitserfahrung"],
+    "answer": ["_о_пыт раб_о_ты по специ_а_льности"]
+  },
+  {
+    "id": "chap13-ck4#01",
+    "quest": ["Fachrichtung", "Fach"],
+    "answer": ["специ_а_льность ~f~"]
+  },
+  {
+    "id": "chap13-ck4#02",
+    "quest": ["interessieren", "attraktiv finden"],
+    "answer": ["привлек_а_ть ~uv.~"]
+  },
+  {
+    "id": "chap13-ck4#03",
+    "quest": ["сторона", "стороны ~Nom. Pl.~", "сторон ~Gen. Pl.~"],
+    "answer": ["Seite"]
+  },
+  {
+    "id": "chap13-ck4#04",
+    "quest": ["frei"],
+    "answer": ["своб_о_дный", "своб_о_дная", "своб_о_дное", "своб_о_дные"]
+  },
+  {
+    "id": "chap13-ck4#05",
+    "quest": ["~hier:~ passt", "bequem"],
+    "answer": ["уд_о_бно"]
+  },
+  {
+    "id": "chap13-ck4#06",
+    "quest": ["verantwortungsbewusst", "pflichtbewusst", "zuverlässig"],
+    "answer": [
+      "отв_е_тственный",
+      "отв_е_тственная",
+      "отв_е_тственное",
+      "отв_е_тственные"
+    ]
+  },
+  {
+    "id": "chap13-ck4#07",
+    "quest": ["pünktlich"],
+    "answer": [
+      "пункту_а_льный",
+      "пункту_а_льная",
+      "пункту_а_льное",
+      "пункту_а_льные"
+    ]
+  },
+  {
+    "id": "chap13-ck4#08",
+    "quest": ["Workaholic"],
+    "answer": ["трудог_о_лик ~m / f~"]
+  },
+  {
+    "id": "chap13-ck4#09",
+    "quest": ["suchen"],
+    "answer": [
+      "иск_а_ть ~unvoll.~",
+      "я ищ_у_",
+      "ты _и_щешь",
+      "он / она / оно _и_щет",
+      "мы _и_щем",
+      "вы _и_щете",
+      "они _и_щут"
+    ]
+  },
+  {
+    "id": "chap13-ck4#10",
+    "quest": ["~hier:~ Herausforderung", "Aufgabe", "Problem"],
+    "answer": ["зад_а_ча"]
+  },
+  {
+    "id": "chap13-ck4#11",
+    "quest": ["Aussichten"],
+    "answer": ["перспект_и_вы ~Pl.~"]
+  },
+  {
+    "id": "chap13-ck4#12",
+    "quest": ["Wissenschaftler"],
+    "answer": ["учёный", "учёные ~Nom. Pl.~"]
+  },
+  {
+    "id": "chap13-ck4#13",
+    "quest": ["Physiker", "Physikerin"],
+    "answer": ["ф_и_зик"]
+  },
+  {
+    "id": "chap13-ck4#14",
+    "quest": ["Kandidat der Wissenschaften", "~Inhaber eines Doktorgrades~"],
+    "answer": ["кандид_а_т на_у_к"]
+  },
+  {
+    "id": "chap13-ck4#15",
+    "quest": ["Dozent"],
+    "answer": ["преподаватель ~m~"]
+  },
+  {
+    "id": "chap13-ck4#16",
+    "quest": ["wissenschaftlich"],
+    "answer": ["на_у_чный", "на_у_чная", "на_у_чное", "на_у_чные"]
+  },
+  {
+    "id": "chap13-ck4#17",
+    "quest": ["effektiv", "leistungsfähig"],
+    "answer": [
+      "эффект_и_вный",
+      "эффект_и_вная",
+      "эффект_и_вное",
+      "эффект_и_вные"
+    ]
+  },
+  {
+    "id": "chap13-ck4#18",
+    "quest": ["talentiert", "begabt"],
+    "answer": ["тал_а_нтливый", "тал_а_нтлиая", "тал_а_нтлиое", "тал_а_нтлиые"]
+  },
+  {
+    "id": "chap13-ck4#19",
+    "quest": ["bei"],
+    "answer": ["при ~(+) Präp.~"]
+  },
+  {
+    "id": "chap13-ck4#20",
+    "quest": ["danach"],
+    "answer": ["зат_е_м"]
+  },
+  {
+    "id": "chap13-ck4#21",
+    "quest": [
+      "die Aufnahmeprüfungen an der Hochschule ablegen",
+      "immatrikuliert werden"
+    ],
+    "answer": ["поступ_а_ть в университ_е_т ~unvoll.~", "поступ_и_ть ~voll.~"]
+  },
+  {
+    "id": "chap13-ck4#22",
+    "quest": ["parallel", "gleichzeitig"],
+    "answer": ["паралл_е_льно"]
+  },
+  {
+    "id": "chap13-ck4#23",
+    "quest": ["Praktikum"],
+    "answer": ["пр_а_ктика"]
+  },
+  {
+    "id": "chap13-ck4#24",
+    "quest": ["berühmt, bekannt"],
+    "answer": ["изв_е_стный", "изв_е_стная", "изв_е_стное", "изв_е_стные"]
+  },
+  {
+    "id": "chap13-ck4#25",
+    "quest": ["Vorlesung"],
+    "answer": ["л_е_кция"]
+  },
+  {
+    "id": "chap13-ck4#26",
+    "quest": ["Lehrbuch"],
+    "answer": ["уч_е_бник"]
+  },
+  {
+    "id": "chap13-ck4#27",
+    "quest": ["~hier:~ dennoch", "allerdings"],
+    "answer": ["правда", "Правда ~Wahrheit~"]
+  },
+  {
+    "id": "chap13-ck4#28",
+    "quest": ["Stipendium", "Zuwendung"],
+    "answer": ["грант"]
+  },
+  {
+    "id": "chap13-ck4#29",
+    "quest": ["Staat"],
+    "answer": ["госуд_а_рство"]
+  },
+  {
+    "id": "chap13-ck4#30",
+    "quest": ["müssen", "sollen"],
+    "answer": ["должн_ы_"]
+  },
+  {
+    "id": "chap13-ck4#31",
+    "quest": ["obwohl"],
+    "answer": ["хот_я_"]
+  }
+]
