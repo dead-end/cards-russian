@@ -1,0 +1,175 @@
+[
+  {
+    "id": "chap13-ck3#00",
+    "quest": ["~hier:~ Haushaltshilfe"],
+    "answer": ["пом_о_щница"]
+  },
+  {
+    "id": "chap13-ck3#01",
+    "quest": ["glauben"],
+    "answer": ["в_е_рить ~unv.~"]
+  },
+  {
+    "id": "chap13-ck3#02",
+    "quest": ["Hausaufgaben machen"],
+    "answer": ["д_е_лать ур_о_киn"]
+  },
+  {
+    "id": "chap13-ck3#03",
+    "quest": ["Kinder-"],
+    "answer": ["д_е_тский"]
+  },
+  {
+    "id": "chap13-ck3#04",
+    "quest": ["(Wäsche) waschen"],
+    "answer": ["постир_а_ть ~v.~", "стир_а_ть ~uv.~"]
+  },
+  {
+    "id": "chap13-ck3#05",
+    "quest": ["(Essen) zubereiten"],
+    "answer": ["пригот_о_вить ~v.~", "гот_о_вить ~uv.~"]
+  },
+  {
+    "id": "chap13-ck3#06",
+    "quest": ["bügeln"],
+    "answer": ["погл_а_дить ~v.~", "гл_а_дить ~uv.~"]
+  },
+  {
+    "id": "chap13-ck3#07",
+    "quest": ["Geschierr abwaschen ~konjugieren~"],
+    "answer": [
+      "мыть пос_у_ду ~unvoll.~",
+      "я м_о_ю",
+      "ты м_о_ешь",
+      "он / она / оно м_о_ет",
+      "мы м_о_ем",
+      "вы м_о_ете",
+      "они м_о_ют"
+    ]
+  },
+  {
+    "id": "chap13-ck3#08",
+    "quest": ["Geschierr abwaschen ~voll.~"],
+    "answer": ["пом_ы_ть пос_у_ду ~voll.~", "мыть пос_у_ду ~unvoll.~"]
+  },
+  {
+    "id": "chap13-ck3#09",
+    "quest": ["Geschirr"],
+    "answer": ["пос_у_да"]
+  },
+  {
+    "id": "chap13-ck3#10",
+    "quest": ["vielmals"],
+    "answer": ["мн_о_го раз"]
+  },
+  {
+    "id": "chap13-ck3#11",
+    "quest": ["Reportage"],
+    "answer": ["репорт_а_ж"]
+  },
+  {
+    "id": "chap13-ck3#12",
+    "quest": ["lecker"],
+    "answer": ["вк_у_сный", "вк_у_сная", "вк_у_сное", "вк_у_сные"]
+  },
+  {
+    "id": "chap13-ck3#13",
+    "quest": ["es wird gesucht"],
+    "answer": ["тр_е_буется"]
+  },
+  {
+    "id": "chap13-ck3#14",
+    "quest": ["Arbeitserfahrung"],
+    "answer": ["_о_пыт раб_о_ты"]
+  },
+  {
+    "id": "chap13-ck3#15",
+    "quest": ["Erfahrung"],
+    "answer": ["_о_пыт"]
+  },
+  {
+    "id": "chap13-ck3#16",
+    "quest": ["~hier:~ befristet", "vorläufig", "vorübergehend"],
+    "answer": ["вр_е_менный", "вр_е_менная", "вр_е_менное", "вр_е_менные"]
+  },
+  {
+    "id": "chap13-ck3#17",
+    "quest": ["Anforderung"],
+    "answer": ["тр_е_бование"]
+  },
+  {
+    "id": "chap13-ck3#18",
+    "quest": ["einschlägige Arbeitserfahrung"],
+    "answer": ["_о_пыт раб_о_ты по пр_о_филю"]
+  },
+  {
+    "id": "chap13-ck3#19",
+    "quest": ["Profil", "Fach"],
+    "answer": ["профиль ~m~"]
+  },
+  {
+    "id": "chap13-ck3#20",
+    "quest": ["mindestens"],
+    "answer": ["м_и_нимум"]
+  },
+  {
+    "id": "chap13-ck3#21",
+    "quest": ["Ausbildung"],
+    "answer": ["образов_а_ние"]
+  },
+  {
+    "id": "chap13-ck3#22",
+    "quest": ["akademischer Abschluss"],
+    "answer": ["в_ы_сшее образов_а_ние"]
+  },
+  {
+    "id": "chap13-ck3#23",
+    "quest": ["Fachkompetenz"],
+    "answer": ["профессион_а_льная компет_е_нтность ~f~"]
+  },
+  {
+    "id": "chap13-ck3#24",
+    "quest": ["Verantwortungsbewusstsein"],
+    "answer": ["отв_е_тственность ~f~"]
+  },
+  {
+    "id": "chap13-ck3#25",
+    "quest": ["Pünktlichkeit"],
+    "answer": ["пункту_а_льность ~f~"]
+  },
+  {
+    "id": "chap13-ck3#26",
+    "quest": ["~hier:~ unbefristete Arbeit"],
+    "answer": ["посто_я_нная раб_о_та"]
+  },
+  {
+    "id": "chap13-ck3#27",
+    "quest": ["flexible Arbeitszeit"],
+    "answer": ["своб_о_дный гр_а_фик"]
+  },
+  {
+    "id": "chap13-ck3#28",
+    "quest": ["Aufstiegsmöglichkeit"],
+    "answer": ["возм_о_жность карь_е_рного р_о_ста ~f~"]
+  },
+  {
+    "id": "chap13-ck3#29",
+    "quest": ["Ansprechpartner"],
+    "answer": ["конт_а_ктное лиц_о_"]
+  },
+  {
+    "id": "chap13-ck3#30",
+    "quest": ["Skype"],
+    "answer": ["скайп"]
+  },
+  {
+    "id": "chap13-ck3#31",
+    "quest": ["~hier:~ nur Bewerbungsschreiben", "Bewerbungsunterlagen"],
+    "answer": ["резюм_е_ ~n indekl.~"]
+  },
+  {
+    "id": "chap13-ck3#32",
+    "quest": ["über sich selber"],
+    "answer": ["о себ_е_"]
+  }
+]
