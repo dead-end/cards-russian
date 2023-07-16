@@ -16,8 +16,8 @@
   },
   {
     "id": "chap13-ck4#03",
-    "quest": ["сторона", "стороны ~Nom. Pl.~", "сторон ~Gen. Pl.~"],
-    "answer": ["Seite"]
+    "quest": ["Seite"],
+    "answer": ["сторон_а_", "ст_о_роны ~Nom. Pl.~", "стор_о_н ~Gen. Pl.~"]
   },
   {
     "id": "chap13-ck4#04",

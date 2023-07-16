@@ -7,7 +7,7 @@
   {
     "id": "chap13-ck3#01",
     "quest": ["glauben"],
-    "answer": ["в_е_рить ~unv.~"]
+    "answer": ["в_е_рить ~unvoll.~"]
   },
   {
     "id": "chap13-ck3#02",
@@ -22,21 +22,21 @@
   {
     "id": "chap13-ck3#04",
     "quest": ["(Wäsche) waschen"],
-    "answer": ["постир_а_ть ~v.~", "стир_а_ть ~uv.~"]
+    "answer": ["постир_а_ть ~voll.~", "стир_а_ть ~unvoll.~"]
   },
   {
     "id": "chap13-ck3#05",
     "quest": ["(Essen) zubereiten"],
-    "answer": ["пригот_о_вить ~v.~", "гот_о_вить ~uv.~"]
+    "answer": ["пригот_о_вить ~voll.~", "гот_о_вить ~unvoll.~"]
   },
   {
     "id": "chap13-ck3#06",
     "quest": ["bügeln"],
-    "answer": ["погл_а_дить ~v.~", "гл_а_дить ~uv.~"]
+    "answer": ["погл_а_дить ~voll.~", "гл_а_дить ~unvoll.~"]
   },
   {
     "id": "chap13-ck3#07",
-    "quest": ["Geschierr abwaschen ~konjugieren~"],
+    "quest": ["Geschirr abwaschen ~konjugieren~"],
     "answer": [
       "мыть пос_у_ду ~unvoll.~",
       "я м_о_ю",
@@ -49,7 +49,7 @@
   },
   {
     "id": "chap13-ck3#08",
-    "quest": ["Geschierr abwaschen ~voll.~"],
+    "quest": ["Geschirr abwaschen ~voll.~"],
     "answer": ["пом_ы_ть пос_у_ду ~voll.~", "мыть пос_у_ду ~unvoll.~"]
   },
   {
@@ -99,13 +99,13 @@
   },
   {
     "id": "chap13-ck3#18",
-    "quest": ["einschlägige Arbeitserfahrung"],
+    "quest": ["einschlägige Arbeitserfahrung", "Berufserfahrung"],
     "answer": ["_о_пыт раб_о_ты по пр_о_филю"]
   },
   {
     "id": "chap13-ck3#19",
     "quest": ["Profil", "Fach"],
-    "answer": ["профиль ~m~"]
+    "answer": ["пр_о_филь ~m~"]
   },
   {
     "id": "chap13-ck3#20",
