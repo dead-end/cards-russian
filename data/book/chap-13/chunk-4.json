@@ -55,7 +55,8 @@
     "id": "chap13-ck4#05",
     "quest": [
       "~hier:~ passt",
-      "bequem"
+      "bequem",
+      "~Adverb~"
     ],
     "answer": [
       "уд_о_бно"
