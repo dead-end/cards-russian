@@ -1,12 +1,18 @@
 [
   {
     "id": "chap12-ck2#00",
-    "quest": ["Aerobic"],
-    "answer": ["аэр_о_бика"]
+    "quest": [
+      "Aerobic"
+    ],
+    "answer": [
+      "аэр_о_бика"
+    ]
   },
   {
     "id": "chap12-ck2#01",
-    "quest": ["~hier:~ tut / tun weh"],
+    "quest": [
+      "~hier:~ tut / tun weh"
+    ],
     "answer": [
       "б_о_леть",
       "он / она / оно бол_и_т",
@@ -16,172 +22,336 @@
   },
   {
     "id": "chap12-ck2#02",
-    "quest": ["Kopf"],
-    "answer": ["голов_а_"]
+    "quest": [
+      "Kopf"
+    ],
+    "answer": [
+      "голов_а_"
+    ]
   },
   {
     "id": "chap12-ck2#03",
-    "quest": ["Gesicht"],
-    "answer": ["лиц_о_"]
+    "quest": [
+      "Gesicht"
+    ],
+    "answer": [
+      "лиц_о_"
+    ]
   },
   {
     "id": "chap12-ck2#04",
-    "quest": ["Auge"],
-    "answer": ["глаз", "глаз_а_ ~Nom. Pl.~"]
+    "quest": [
+      "Auge"
+    ],
+    "answer": [
+      "глаз",
+      "глаз_а_ ~Nom. Pl.~"
+    ]
   },
   {
     "id": "chap12-ck2#05",
-    "quest": ["Nase"],
-    "answer": ["нос"]
+    "quest": [
+      "Nase"
+    ],
+    "answer": [
+      "нос"
+    ]
   },
   {
     "id": "chap12-ck2#06",
-    "quest": ["Mund"],
-    "answer": ["рот"]
+    "quest": [
+      "Mund"
+    ],
+    "answer": [
+      "рот"
+    ]
   },
   {
     "id": "chap12-ck2#07",
-    "quest": ["Zahn"],
-    "answer": ["зуб"]
+    "quest": [
+      "Zahn"
+    ],
+    "answer": [
+      "зуб"
+    ]
   },
   {
     "id": "chap12-ck2#08",
-    "quest": ["Ohr"],
-    "answer": ["ухо", "уши ~Nom. Pl.~"]
+    "quest": [
+      "Ohr"
+    ],
+    "answer": [
+      "ухо",
+      "уши ~Nom. Pl.~"
+    ]
   },
   {
     "id": "chap12-ck2#09",
-    "quest": ["Bauch"],
-    "answer": ["ж_и_вот"]
+    "quest": [
+      "Bauch"
+    ],
+    "answer": [
+      "ж_и_вот"
+    ]
   },
   {
     "id": "chap12-ck2#10",
-    "quest": ["Rücken"],
-    "answer": ["спин_а_"]
+    "quest": [
+      "Rücken"
+    ],
+    "answer": [
+      "спин_а_"
+    ]
   },
   {
     "id": "chap12-ck2#11",
-    "quest": ["Hand", "Arm"],
-    "answer": ["рук_а_"]
+    "quest": [
+      "Hand",
+      "Arm"
+    ],
+    "answer": [
+      "рук_а_"
+    ]
   },
   {
     "id": "chap12-ck2#12",
-    "quest": ["Fuß", "Bein"],
-    "answer": ["ног_а_"]
+    "quest": [
+      "Fuß",
+      "Bein"
+    ],
+    "answer": [
+      "ног_а_"
+    ]
   },
   {
     "id": "chap12-ck2#13",
-    "quest": ["Haare"],
-    "answer": ["волосы ~Pl.~"]
+    "quest": [
+      "Haare"
+    ],
+    "answer": [
+      "волосы ~Pl.~"
+    ]
   },
   {
     "id": "chap12-ck2#14",
-    "quest": ["Finger", "Zeh"],
-    "answer": ["п_а_лец", "п_а_льца ~Gen. Sg.~", "п_а_льцев ~Gen. Pl.~"]
+    "quest": [
+      "Finger",
+      "Zeh"
+    ],
+    "answer": [
+      "п_а_лец",
+      "п_а_льца ~Gen. Sg.~",
+      "п_а_льцев ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap12-ck2#15",
-    "quest": ["… mir tut … weh", "… dir tun … weh"],
-    "answer": ["у меня … болит", "у тебя … болят"]
+    "quest": [
+      "… mir tut … weh",
+      "… dir tun … weh"
+    ],
+    "answer": [
+      "у меня … болит",
+      "у тебя … болят"
+    ]
   },
   {
     "id": "chap12-ck2#16",
-    "quest": ["Erkältung"],
-    "answer": ["прост_у_да"]
+    "quest": [
+      "Erkältung"
+    ],
+    "answer": [
+      "прост_у_да"
+    ]
   },
   {
     "id": "chap12-ck2#17",
-    "quest": ["Grippe"],
-    "answer": ["грипп"]
+    "quest": [
+      "Grippe"
+    ],
+    "answer": [
+      "грипп"
+    ]
   },
   {
     "id": "chap12-ck2#18",
-    "quest": ["Herz"],
-    "answer": ["с_е_рдце", "с_е_рдец ~Gen. Pl.~"]
+    "quest": [
+      "Herz"
+    ],
+    "answer": [
+      "с_е_рдце",
+      "с_е_рдец ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap12-ck2#19",
-    "quest": ["Hals", "Gurgel"],
-    "answer": ["г_о_рло"]
+    "quest": [
+      "Hals",
+      "Gurgel"
+    ],
+    "answer": [
+      "г_о_рло"
+    ]
   },
   {
     "id": "chap12-ck2#20",
-    "quest": ["Schnupfen"],
-    "answer": ["н_а_сморк"]
+    "quest": [
+      "Schnupfen"
+    ],
+    "answer": [
+      "н_а_сморк"
+    ]
   },
   {
     "id": "chap12-ck2#21",
-    "quest": ["Temperatur", "Fieber"],
-    "answer": ["температ_у_ра"]
+    "quest": [
+      "Temperatur",
+      "Fieber"
+    ],
+    "answer": [
+      "температ_у_ра"
+    ]
   },
   {
     "id": "chap12-ck2#22",
-    "quest": ["Husten"],
-    "answer": ["к_а_шель ~m~"]
+    "quest": [
+      "Husten"
+    ],
+    "answer": [
+      "к_а_шель ~m~"
+    ]
   },
   {
     "id": "chap12-ck2#23",
-    "quest": ["gesund" , "~Kurzform~"],
-    "answer": ["здор_о_в", "здор_о_ва", "здор_о_вы"]
+    "quest": [
+      "gesund",
+      "~Kurzform~"
+    ],
+    "answer": [
+      "здор_о_в",
+      "здор_о_ва",
+      "здор_о_вы"
+    ]
   },
   {
     "id": "chap12-ck2#24",
-    "quest": ["Mir ist schlecht."],
-    "answer": ["Мне пл_о_хо."]
+    "quest": [
+      "Mir ist schlecht."
+    ],
+    "answer": [
+      "Мне пл_о_хо."
+    ]
   },
   {
     "id": "chap12-ck2#25",
-    "quest": ["stark ~Adjektiv~"],
-    "answer": ["с_и_льный", "с_и_льная", "с_и_льное", "с_и_льные", "слабый ~schwach~"]
+    "quest": [
+      "stark ~Adjektiv~"
+    ],
+    "answer": [
+      "с_и_льный",
+      "с_и_льная",
+      "с_и_льное",
+      "с_и_льные",
+      "слабый ~schwach~"
+    ]
   },
   {
     "id": "chap12-ck2#26",
-    "quest": ["Schmerz"],
-    "answer": ["боль ~f~"]
+    "quest": [
+      "Schmerz"
+    ],
+    "answer": [
+      "боль ~f~"
+    ]
   },
   {
     "id": "chap12-ck2#27",
-    "quest": ["schwer"],
-    "answer": ["тр_у_дно", "труд ~Arbeit, Mühe, Werk~"]
+    "quest": [
+      "schwer"
+    ],
+    "answer": [
+      "тр_у_дно",
+      "труд ~Arbeit, Mühe, Werk~"
+    ]
   },
   {
     "id": "chap12-ck2#28",
-    "quest": ["~hier:~ (die Erste Hilfe) rufen"],
-    "answer": ["вызыв_а_ть"]
+    "quest": [
+      "~hier:~ (die Erste Hilfe) rufen",
+      "- etwas bestellen",
+      "- etwas auslösen"
+    ],
+    "answer": [
+      "вызыв_а_ть"
+    ]
   },
   {
     "id": "chap12-ck2#29",
-    "quest": ["Ambulanz", "Krankenwagen"],
-    "answer": ["Ск_о_рая п_о_мощь ~f~", "ск_о_рый ~rasch, schnell~", "ск_о_ро ~bald~"]
+    "quest": [
+      "Ambulanz",
+      "Krankenwagen"
+    ],
+    "answer": [
+      "Ск_о_рая п_о_мощь ~f~",
+      "ск_о_рый ~rasch, schnell~",
+      "ск_о_ро ~bald~"
+    ]
   },
   {
     "id": "chap12-ck2#30",
-    "quest": ["krank", "~Kurzform~"],
-    "answer": ["б_о_лeн", "больн_а_", "больн_ы_"]
+    "quest": [
+      "krank",
+      "~Kurzform~"
+    ],
+    "answer": [
+      "б_о_лeн",
+      "больн_а_",
+      "больн_ы_"
+    ]
   },
   {
     "id": "chap12-ck2#31",
-    "quest": ["messen"],
-    "answer": ["м_е_рить"]
+    "quest": [
+      "messen"
+    ],
+    "answer": [
+      "м_е_рить"
+    ]
   },
   {
     "id": "chap12-ck2#32",
-    "quest": ["(etw. tun) müssen"],
-    "answer": ["н_у_жно / н_а_до ~(+) Infinitiv~"]
+    "quest": [
+      "(etw. tun) müssen"
+    ],
+    "answer": [
+      "н_у_жно / н_а_до ~(+) Infinitiv~"
+    ]
   },
   {
     "id": "chap12-ck2#33",
-    "quest": ["ich / du … muss / musst (etw. tun)"],
-    "answer": ["мне / тебе… нужно / надо ~(+) Infinitiv~"]
+    "quest": [
+      "ich / du … muss / musst (etw. tun)"
+    ],
+    "answer": [
+      "мне / тебе… нужно / надо ~(+) Infinitiv~"
+    ]
   },
   {
     "id": "chap12-ck2#34",
-    "quest": ["Himbeere"],
-    "answer": ["мал_и_на"]
+    "quest": [
+      "Himbeere"
+    ],
+    "answer": [
+      "мал_и_на"
+    ]
   },
   {
     "id": "chap12-ck2#35",
-    "quest": ["einnehmen"],
-    "answer": ["приним_а_ть"]
+    "quest": [
+      "einnehmen"
+    ],
+    "answer": [
+      "приним_а_ть"
+    ]
   }
 ]
