@@ -1,0 +1,177 @@
+[
+  {
+    "id": "chap14-ck1#00",
+    "quest": ["die Gegend", "die Region", "~hier:~ Stadtbezirk"],
+    "answer": ["рай_о_н"]
+  },
+  {
+    "id": "chap14-ck1#01",
+    "quest": ["Unterhaltung"],
+    "answer": ["развлеч_е_ние"]
+  },
+  {
+    "id": "chap14-ck1#02",
+    "quest": ["Krankenhaus"],
+    "answer": ["больн_и_ца"]
+  },
+  {
+    "id": "chap14-ck1#03",
+    "quest": ["Philharmonie"],
+    "answer": ["филарм_о_ния"]
+  },
+  {
+    "id": "chap14-ck1#04",
+    "quest": ["Apotheke"],
+    "answer": ["апт_е_ка"]
+  },
+  {
+    "id": "chap14-ck1#05",
+    "quest": ["Konzert- ~Adjektiv~"],
+    "answer": ["конц_е_ртный"]
+  },
+  {
+    "id": "chap14-ck1#06",
+    "quest": ["meinen", "glauben"],
+    "answer": ["считать ~uv.~"]
+  },
+  {
+    "id": "chap14-ck1#07",
+    "quest": ["umziehen"],
+    "answer": ["пере_е_хать ~v.~", "переезж_а_ть ~uv.~"]
+  },
+  {
+    "id": "chap14-ck1#08",
+    "quest": ["(eine Wohnung) mieten"],
+    "answer": ["сним_а_ть (кварт_и_ру) ~uv.~"]
+  },
+  {
+    "id": "chap14-ck1#09",
+    "quest": ["(Stadt-, Orts-) Rand"],
+    "answer": ["окр_а_ина"]
+  },
+  {
+    "id": "chap14-ck1#10",
+    "quest": ["empfehlen", "raten"],
+    "answer": ["посов_е_товать ~v.~", "сов_е_товать ~uv.~"]
+  },
+  {
+    "id": "chap14-ck1#11",
+    "quest": ["Nord-", "nördlich"],
+    "answer": ["с_е_верный", "с_е_верная", "с_е_верное", "с_е_верные"]
+  },
+  {
+    "id": "chap14-ck1#12",
+    "quest": ["Teil"],
+    "answer": ["часть ~f~", "частей ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap14-ck1#13",
+    "quest": ["Einkaufszentrum"],
+    "answer": ["торг_о_вый ц_е_нтр"]
+  },
+  {
+    "id": "chap14-ck1#14",
+    "quest": ["Kindergarten"],
+    "answer": ["д_е_тский сад"]
+  },
+  {
+    "id": "chap14-ck1#15",
+    "quest": ["mit einem Wort", "kurzum"],
+    "answer": ["сл_о_вом"]
+  },
+  {
+    "id": "chap14-ck1#16",
+    "quest": ["bis"],
+    "answer": ["до ~(+) Gen.~"]
+  },
+  {
+    "id": "chap14-ck1#17",
+    "quest": ["hier: außer", "ausgenommen"],
+    "answer": ["кр_о_ме ~(+) Gen.~"]
+  },
+  {
+    "id": "chap14-ck1#18",
+    "quest": ["Nachtclub"],
+    "answer": ["ночн_о_й кл_у_б"]
+  },
+  {
+    "id": "chap14-ck1#19",
+    "quest": ["eine halbe Stunde"],
+    "answer": ["полчас_а_"]
+  },
+  {
+    "id": "chap14-ck1#20",
+    "quest": ["öffentliche Verkehrsmittel"],
+    "answer": ["общ_е_ственный тр_а_нспорт"]
+  },
+  {
+    "id": "chap14-ck1#21",
+    "quest": ["öffentlich"],
+    "answer": [
+      "общ_е_ственный",
+      "общ_е_ственная",
+      "общ_е_ственное",
+      "общ_е_ственные"
+    ]
+  },
+  {
+    "id": "chap14-ck1#22",
+    "quest": ["~hier:~ Wohnungen"],
+    "answer": ["жильё", "жить ~wohnen~"]
+  },
+  {
+    "id": "chap14-ck1#23",
+    "quest": ["einige"],
+    "answer": ["н_е_которые ~Pl.~"]
+  },
+  {
+    "id": "chap14-ck1#24",
+    "quest": ["Blick", "Aussicht"],
+    "answer": ["вид", "вид сп_о_рта ~Sportart~"]
+  },
+  {
+    "id": "chap14-ck1#25",
+    "quest": ["stundenlang"],
+    "answer": ["час_а_ми"]
+  },
+  {
+    "id": "chap14-ck1#26",
+    "quest": ["eigenes Haus"],
+    "answer": ["свой дом"]
+  },
+  {
+    "id": "chap14-ck1#27",
+    "quest": ["an", "bei", "neben"],
+    "answer": ["у ~(+) Gen.~"]
+  },
+  {
+    "id": "chap14-ck1#28",
+    "quest": ["Weg"],
+    "answer": ["дор_о_га"]
+  },
+  {
+    "id": "chap14-ck1#29",
+    "quest": ["Siedlung"],
+    "answer": ["посёлок", "посёлка ~Gen. Sg.~"]
+  },
+  {
+    "id": "chap14-ck1#30",
+    "quest": ["bereuen"],
+    "answer": ["жал_е_ть ~uv.~"]
+  },
+  {
+    "id": "chap14-ck1#31",
+    "quest": ["Neubau"],
+    "answer": ["новостр_о_йка", "новостр_о_ек ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap14-ck1#32",
+    "quest": ["komfortabel", "mit allen Bequemlichkeiten ausgestattet"],
+    "answer": [
+      "комфорт_а_бельный",
+      "комфорт_а_бельная",
+      "комфорт_а_бельное",
+      "комфорт_а_бельные"
+    ]
+  }
+]
