@@ -1,52 +1,100 @@
 [
   {
     "id": "chap14-ck2#00",
-    "quest": ["typisch", "Standard-"],
-    "answer": ["тип_и_чный", "тип_и_чная", "тип_и_чное", "тип_и_чные"]
+    "quest": [
+      "typisch",
+      "Standard-"
+    ],
+    "answer": [
+      "тип_и_чный",
+      "тип_и_чная",
+      "тип_и_чное",
+      "тип_и_чные"
+    ]
   },
   {
     "id": "chap14-ck2#01",
-    "quest": ["Schlaf-"],
-    "answer": ["сп_а_льный"]
+    "quest": [
+      "Schlaf-"
+    ],
+    "answer": [
+      "сп_а_льный"
+    ]
   },
   {
     "id": "chap14-ck2#02",
-    "quest": ["Lebensmittelgeschäft"],
-    "answer": ["продукт_о_вый магаз_и_н"]
+    "quest": [
+      "Lebensmittelgeschäft"
+    ],
+    "answer": [
+      "продукт_о_вый магаз_и_н"
+    ]
   },
   {
     "id": "chap14-ck2#03",
-    "quest": ["Frisiersalon"],
-    "answer": ["парикм_а_херская"]
+    "quest": [
+      "Frisiersalon"
+    ],
+    "answer": [
+      "парикм_а_херская"
+    ]
   },
   {
     "id": "chap14-ck2#04",
-    "quest": ["Kosmetiksalon"],
-    "answer": ["сал_о_н красот_ы_"]
+    "quest": [
+      "Kosmetiksalon"
+    ],
+    "answer": [
+      "сал_о_н красот_ы_"
+    ]
   },
   {
     "id": "chap14-ck2#05",
-    "quest": ["ganz in der Nähe", "~wörtl.:~ in zwei Schritten von"],
-    "answer": ["в двух шаг_а_х от ~(+) Gen.~"]
+    "quest": [
+      "ganz in der Nähe",
+      "~wörtl.:~ in zwei Schritten von"
+    ],
+    "answer": [
+      "в двух шаг_а_х от ~(+) Gen.~"
+    ]
   },
   {
     "id": "chap14-ck2#06",
-    "quest": ["Kinderspielplatz"],
-    "answer": ["детская площадка", "площадок ~Gen. Pl.~"]
+    "quest": [
+      "Kinderspielplatz"
+    ],
+    "answer": [
+      "детская площадка",
+      "площадок ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap14-ck2#07",
-    "quest": ["Vergnügungseinrichtung"],
-    "answer": ["аттракци_о_н"]
+    "quest": [
+      "Vergnügungseinrichtung"
+    ],
+    "answer": [
+      "аттракци_о_н"
+    ]
   },
   {
     "id": "chap14-ck2#08",
-    "quest": ["neben", "an"],
-    "answer": ["возле ~(+) Gen.~", "рядом с ~neben, in der Nähe von~"]
+    "quest": [
+      "neben",
+      "an"
+    ],
+    "answer": [
+      "возле ~(+) Gen.~",
+      "рядом с ~neben, in der Nähe von~"
+    ]
   },
   {
     "id": "chap14-ck2#09",
-    "quest": ["einziger", "einzige", "einziges)"],
+    "quest": [
+      "einziger",
+      "einzige",
+      "einziges)"
+    ],
     "answer": [
       "ед_и_нственный",
       "ед_и_нственная",
@@ -56,7 +104,9 @@
   },
   {
     "id": "chap14-ck2#10",
-    "quest": ["vielstöckig"],
+    "quest": [
+      "vielstöckig"
+    ],
     "answer": [
       "многоэт_а_жный",
       "многоэт_а_жная",
@@ -66,108 +116,207 @@
   },
   {
     "id": "chap14-ck2#11",
-    "quest": ["neben"],
-    "answer": ["около ~(+) Gen.~", "окраина ~(Stadt-, Orts-) Rand~"]
+    "quest": [
+      "neben"
+    ],
+    "answer": [
+      "около ~(+) Gen.~",
+      "окраина ~(Stadt-, Orts-) Rand~"
+    ]
   },
   {
     "id": "chap14-ck2#12",
-    "quest": ["Buchhandlung"],
-    "answer": ["кн_и_жный магаз_и_н"]
+    "quest": [
+      "Buchhandlung"
+    ],
+    "answer": [
+      "кн_и_жный магаз_и_н"
+    ]
   },
   {
     "id": "chap14-ck2#13",
-    "quest": ["Möbelhaus"],
-    "answer": ["м_е_бельный магаз_и_н"]
+    "quest": [
+      "Möbelhaus"
+    ],
+    "answer": [
+      "м_е_бельный магаз_и_н"
+    ]
   },
   {
     "id": "chap14-ck2#14",
-    "quest": ["Zimmer"],
-    "answer": ["к_о_мнатa"]
+    "quest": [
+      "Zimmer"
+    ],
+    "answer": [
+      "к_о_мнатa"
+    ]
   },
   {
     "id": "chap14-ck2#15",
-    "quest": ["zufrieden mit..."],
-    "answer": ["дов_о_лен, дов_о_льна, дов_о_льны ~(+) Instr.~"]
+    "quest": [
+      "zufrieden mit..."
+    ],
+    "answer": [
+      "дов_о_лен, дов_о_льна, дов_о_льны ~(+) Instr.~"
+    ]
   },
   {
     "id": "chap14-ck2#16",
-    "quest": ["Sind Sie auch beim Einkaufen?"],
-    "answer": ["Вы т_о_же за пок_у_пками?"]
+    "quest": [
+      "Sind Sie auch beim Einkaufen?"
+    ],
+    "answer": [
+      "Вы т_о_же за пок_у_пками?"
+    ]
   },
   {
     "id": "chap14-ck2#17",
-    "quest": ["Möbel", "Einrichtung"],
-    "answer": ["м_е_бель ~fem.~"]
+    "quest": [
+      "Möbel",
+      "Einrichtung"
+    ],
+    "answer": [
+      "м_е_бель ~fem.~"
+    ]
   },
   {
     "id": "chap14-ck2#18",
-    "quest": ["~hier:~ groß, geräumig"],
-    "answer": ["прост_о_рный", "прост_о_рная", "прост_о_рное", "прост_о_рные"]
+    "quest": [
+      "~hier:~ groß, geräumig"
+    ],
+    "answer": [
+      "прост_о_рный",
+      "прост_о_рная",
+      "прост_о_рное",
+      "прост_о_рные"
+    ]
   },
   {
     "id": "chap14-ck2#19",
-    "quest": ["Wohnzimmer"],
-    "answer": ["гост_и_ная"]
+    "quest": [
+      "Wohnzimmer"
+    ],
+    "answer": [
+      "гост_и_ная"
+    ]
   },
   {
     "id": "chap14-ck2#20",
-    "quest": ["Balkon"],
-    "answer": ["балк_о_н"]
+    "quest": [
+      "Balkon"
+    ],
+    "answer": [
+      "балк_о_н"
+    ]
   },
   {
     "id": "chap14-ck2#21",
-    "quest": ["gemütlich"],
-    "answer": ["у_ю_тный", "у_ю_тная", "у_ю_тное", "у_ю_тные"]
+    "quest": [
+      "gemütlich"
+    ],
+    "answer": [
+      "у_ю_тный",
+      "у_ю_тная",
+      "у_ю_тное",
+      "у_ю_тные"
+    ]
   },
   {
     "id": "chap14-ck2#22",
-    "quest": ["Küche"],
-    "answer": ["к_у_хня"]
+    "quest": [
+      "Küche"
+    ],
+    "answer": [
+      "к_у_хня"
+    ]
   },
   {
     "id": "chap14-ck2#23",
-    "quest": ["Schlafzimmer"],
-    "answer": ["спальня", "спален ~Gen. Pl.~"]
+    "quest": [
+      "Schlafzimmer"
+    ],
+    "answer": [
+      "спальня",
+      "спален ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap14-ck2#24",
-    "quest": ["~hier:~ Kinderzimmer"],
-    "answer": ["д_е_тская"]
+    "quest": [
+      "~hier:~ Kinderzimmer"
+    ],
+    "answer": [
+      "д_е_тская"
+    ]
   },
   {
     "id": "chap14-ck2#25",
-    "quest": ["Fenster"],
-    "answer": ["окно", "окна ~Gen. Sg.~", "окна ~Nom. Pl.~", "окон ~Gen. Pl.~"]
+    "quest": [
+      "Fenster"
+    ],
+    "answer": [
+      "окн_о_",
+      "окна ~Gen. Sg.~",
+      "окна ~Nom. Pl.~",
+      "окон ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap14-ck2#26",
-    "quest": ["Fenster gehen nach Süden"],
-    "answer": ["_о_кна ... вых_о_дят на юг"]
+    "quest": [
+      "Fenster gehen nach Süden"
+    ],
+    "answer": [
+      "_о_кна ... вых_о_дят на юг"
+    ]
   },
   {
     "id": "chap14-ck2#27",
-    "quest": ["Komm vorbei!"],
-    "answer": ["Приход_и_!"]
+    "quest": [
+      "Komm vorbei!"
+    ],
+    "answer": [
+      "Приход_и_!"
+    ]
   },
   {
     "id": "chap14-ck2#28",
-    "quest": ["Einzugsfeier"],
-    "answer": ["новос_е_лье"]
+    "quest": [
+      "Einzugsfeier"
+    ],
+    "answer": [
+      "новос_е_лье"
+    ]
   },
   {
     "id": "chap14-ck2#29",
-    "quest": ["selbst", "selber"],
-    "answer": ["сам", "сама", "сами"]
+    "quest": [
+      "selbst",
+      "selber"
+    ],
+    "answer": [
+      "сам",
+      "сама",
+      "сами"
+    ]
   },
   {
     "id": "chap14-ck2#30",
-    "quest": ["Einladung"],
-    "answer": ["приглаш_е_ние"]
+    "quest": [
+      "Einladung"
+    ],
+    "answer": [
+      "приглаш_е_ние"
+    ]
   },
   {
     "id": "chap14-ck2#31",
-    "quest": ["Einzimmerwohnung"],
-    "answer": ["однок_о_мнатная кварт_и_ра"]
+    "quest": [
+      "Einzimmerwohnung"
+    ],
+    "answer": [
+      "однок_о_мнатная кварт_и_ра"
+    ]
   },
   {
     "id": "chap14-ck2#32",
