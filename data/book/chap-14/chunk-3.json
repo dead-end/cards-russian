@@ -23,7 +23,7 @@
   {
     "id": "chap14-ck3#03",
     "quest": ["Esszimmer"],
-    "answer": ["стол_о_вая"]
+    "answer": ["стол_о_вая", "стол ~Tisch~"]
   },
   {
     "id": "chap14-ck3#04",
@@ -33,7 +33,12 @@
   {
     "id": "chap14-ck3#05",
     "quest": ["Stuhl"],
-    "answer": ["стул", "ст_у_лья ~Nom. Pl.~", "ст_у_льев ~Gen. Pl.~"]
+    "answer": [
+      "стул",
+      "ст_у_лья ~Nom. Pl.~",
+      "ст_у_льев ~Gen. Pl.~",
+      "стол ~Tisch~"
+    ]
   },
   {
     "id": "chap14-ck3#06",
@@ -63,7 +68,7 @@
   {
     "id": "chap14-ck3#11",
     "quest": ["Regal"],
-    "answer": ["полка", "полок ~Gen. Pl.~"]
+    "answer": ["п_о_лка", "п_о_лок ~Gen. Pl.~"]
   },
   {
     "id": "chap14-ck3#12",
@@ -103,7 +108,7 @@
   {
     "id": "chap14-ck3#18",
     "quest": ["Waschmaschine"],
-    "answer": ["стир_а_льная маш_и_на"]
+    "answer": ["стир_а_льная маш_и_на", "стир_а_ть ~waschen~"]
   },
   {
     "id": "chap14-ck3#19",
@@ -113,7 +118,7 @@
   {
     "id": "chap14-ck3#20",
     "quest": ["Geschirrspülmaschine"],
-    "answer": ["посудом_о_ечная маш_и_на"]
+    "answer": ["посудом_о_ечная маш_и_на", "пос_у_да ~Geschirr~"]
   },
   {
     "id": "chap14-ck3#21",
@@ -123,7 +128,7 @@
   {
     "id": "chap14-ck3#22",
     "quest": ["Waschbecken"],
-    "answer": ["умыв_а_льник"]
+    "answer": ["умыв_а_льник", "ум_ы_ть / умыв_а_ть ~etwas waschen~"]
   },
   {
     "id": "chap14-ck3#23",
@@ -161,7 +166,11 @@
   {
     "id": "chap14-ck3#28",
     "quest": ["zwischen"],
-    "answer": ["м_е_жду ~(+) Instr.~"]
+    "answer": [
+      "м_е_жду ~(+) Instr.~",
+      "нар_о_д ~Volk~",
+      "междунар_о_дный ~international"
+    ]
   },
   {
     "id": "chap14-ck3#29",
@@ -181,6 +190,6 @@
   {
     "id": "chap14-ck3#32",
     "quest": ["Kalender"],
-    "answer": ["календарь ~m~"]
+    "answer": ["календ_а_рь ~m~"]
   }
 ]
