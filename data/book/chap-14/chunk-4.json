@@ -1,0 +1,181 @@
+[
+  {
+    "id": "chap14-ck4#00",
+    "quest": ["Komm her!"],
+    "answer": ["Ид_и_ сюд_а_!"]
+  },
+  {
+    "id": "chap14-ck4#01",
+    "quest": ["vor"],
+    "answer": ["п_е_ред ~(+) Instr.~"]
+  },
+  {
+    "id": "chap14-ck4#02",
+    "quest": ["wie sie dahin gekommen sind!"],
+    "answer": [
+      "как он_и- туд_а_ поп_а_ли!",
+      "поп_а_сть ~jemanden / etwas treffen~"
+    ]
+  },
+  {
+    "id": "chap14-ck4#03",
+    "quest": ["Tür"],
+    "answer": ["дверь ~f~"]
+  },
+  {
+    "id": "chap14-ck4#04",
+    "quest": ["über"],
+    "answer": ["над ~(+) Instr.~"]
+  },
+  {
+    "id": "chap14-ck4#05",
+    "quest": ["komisch", "merkwürdig"],
+    "answer": ["стр_а_нно"]
+  },
+  {
+    "id": "chap14-ck4#06",
+    "quest": ["hierher"],
+    "answer": ["сюд_а_"]
+  },
+  {
+    "id": "chap14-ck4#07",
+    "quest": ["hängen"],
+    "answer": [
+      "вис_е_ть",
+      "я виш_у_",
+      "ты вис_и_шь",
+      "он / она / оно вис_и_т",
+      "мы вис_и_м",
+      "вы вис_и_те",
+      "они вис_я_т"
+    ]
+  },
+  {
+    "id": "chap14-ck4#08",
+    "quest": ["Kamin"],
+    "answer": ["кам_и_н"]
+  },
+  {
+    "id": "chap14-ck4#09",
+    "quest": ["Dach"],
+    "answer": ["кр_ы_ша"]
+  },
+  {
+    "id": "chap14-ck4#10",
+    "quest": ["Wie komme ich zu …?"],
+    "answer": ["Как дойт_и_ до …?"]
+  },
+  {
+    "id": "chap14-ck4#11",
+    "quest": ["Eingang"],
+    "answer": ["вход"]
+  },
+  {
+    "id": "chap14-ck4#12",
+    "quest": ["Ausgang"],
+    "answer": ["в_ы_ход"]
+  },
+  {
+    "id": "chap14-ck4#13",
+    "quest": ["Übergang"],
+    "answer": ["перех_о_д"]
+  },
+  {
+    "id": "chap14-ck4#14",
+    "quest": ["Ampel"],
+    "answer": ["светоф_о_р"]
+  },
+  {
+    "id": "chap14-ck4#15",
+    "quest": ["Kreuzung"],
+    "answer": ["перекрёсток", "перекрёстка ~Gen. Sg.~"]
+  },
+  {
+    "id": "chap14-ck4#16",
+    "quest": ["Haltestelle"],
+    "answer": ["остан_о_вка", "остан_о_вок ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap14-ck4#17",
+    "quest": ["Parkplatz"],
+    "answer": ["парк_о_вка", "парк_о_вок ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap14-ck4#18",
+    "quest": ["Tankstelle"],
+    "answer": ["запр_а_вка", "запр_а_вок ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap14-ck4#19",
+    "quest": [
+      "Wie komme ich zu …?",
+      "~Frage bei Nutzung eines Verkehrsmittels~"
+    ],
+    "answer": ["Как до_е_хать до …?"]
+  },
+  {
+    "id": "chap14-ck4#20",
+    "quest": ["Kulturpalast"],
+    "answer": ["Двор_е_ц Культ_у_ры"]
+  },
+  {
+    "id": "chap14-ck4#21",
+    "quest": ["zu Fuß"],
+    "answer": ["пешк_о_м"]
+  },
+  {
+    "id": "chap14-ck4#22",
+    "quest": ["geradeaus"],
+    "answer": ["пр_я_мо"]
+  },
+  {
+    "id": "chap14-ck4#23",
+    "quest": ["durch", "entlang"],
+    "answer": ["по ~(+) Dat.~"]
+  },
+  {
+    "id": "chap14-ck4#24",
+    "quest": ["über"],
+    "answer": ["ч_е_рез ~(+) Akk.~"]
+  },
+  {
+    "id": "chap14-ck4#25",
+    "quest": ["nach links"],
+    "answer": ["нал_е_во"]
+  },
+  {
+    "id": "chap14-ck4#26",
+    "quest": ["Sie (werden) … sehen"],
+    "answer": ["Вы ув_и_дите …"]
+  },
+  {
+    "id": "chap14-ck4#27",
+    "quest": ["Keine Ursache.", "Nichts zu danken."],
+    "answer": ["Не за что."]
+  },
+  {
+    "id": "chap14-ck4#28",
+    "quest": ["Oper", "Operntheater"],
+    "answer": ["_О_перный те_а_трr"]
+  },
+  {
+    "id": "chap14-ck4#29",
+    "quest": ["Würden Sie bitte sagen …?"],
+    "answer": ["Вы не скажете …? "]
+  },
+  {
+    "id": "chap14-ck4#30",
+    "quest": ["Vielen Dank."],
+    "answer": ["Большое спасибо."]
+  },
+  {
+    "id": "chap14-ck4#31",
+    "quest": ["Was ist das für ein (für eine) …?", "Was sind das für …?"],
+    "answer": ["Что это за …?"]
+  },
+  {
+    "id": "chap14-ck4#32",
+    "quest": ["nach rechts"],
+    "answer": ["напр_а_во"]
+  }
+]
