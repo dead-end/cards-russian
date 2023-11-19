@@ -1,12 +1,18 @@
 [
   {
     "id": "chap14-ck3#00",
-    "quest": ["eingeschossiges Haus"],
-    "answer": ["одноэт_а_жный дом"]
+    "quest": [
+      "eingeschossiges Haus"
+    ],
+    "answer": [
+      "одноэт_а_жный дом"
+    ]
   },
   {
     "id": "chap14-ck3#01",
-    "quest": ["zwei-, drei-, vier-, fünf-, sechsgeschossiges Haus"],
+    "quest": [
+      "zwei-, drei-, vier-, fünf-, sechsgeschossiges Haus"
+    ],
     "answer": [
       "двухэт_а_жный дом",
       "трёхэт_а_жный дом",
@@ -17,22 +23,37 @@
   },
   {
     "id": "chap14-ck3#02",
-    "quest": ["Badezimmer"],
-    "answer": ["в_а_нная"]
+    "quest": [
+      "Badezimmer"
+    ],
+    "answer": [
+      "в_а_нная"
+    ]
   },
   {
     "id": "chap14-ck3#03",
-    "quest": ["Esszimmer"],
-    "answer": ["стол_о_вая", "стол ~Tisch~"]
+    "quest": [
+      "Esszimmer"
+    ],
+    "answer": [
+      "стол_о_вая",
+      "стол ~Tisch~"
+    ]
   },
   {
     "id": "chap14-ck3#04",
-    "quest": ["Flur"],
-    "answer": ["корид_о_р"]
+    "quest": [
+      "Flur"
+    ],
+    "answer": [
+      "корид_о_р"
+    ]
   },
   {
     "id": "chap14-ck3#05",
-    "quest": ["Stuhl"],
+    "quest": [
+      "Stuhl"
+    ],
     "answer": [
       "стул",
       "ст_у_лья ~Nom. Pl.~",
@@ -42,47 +63,84 @@
   },
   {
     "id": "chap14-ck3#06",
-    "quest": ["Sofa"],
-    "answer": ["див_а_н"]
+    "quest": [
+      "Sofa"
+    ],
+    "answer": [
+      "див_а_н"
+    ]
   },
   {
     "id": "chap14-ck3#07",
-    "quest": ["Sofa"],
-    "answer": ["соф_а_"]
+    "quest": [
+      "Sofa"
+    ],
+    "answer": [
+      "соф_а_"
+    ]
   },
   {
     "id": "chap14-ck3#08",
-    "quest": ["Schrank"],
-    "answer": ["шкаф", "в / на шкафу ~Präp. Sg.~"]
+    "quest": [
+      "Schrank"
+    ],
+    "answer": [
+      "шкаф",
+      "в / на шкафу ~Präp. Sg.~"
+    ]
   },
   {
     "id": "chap14-ck3#09",
-    "quest": ["Bett"],
-    "answer": ["кров_а_ть ~f~"]
+    "quest": [
+      "Bett"
+    ],
+    "answer": [
+      "кров_а_ть ~f~"
+    ]
   },
   {
     "id": "chap14-ck3#10",
-    "quest": ["~hier:~ Wandschrank"],
-    "answer": ["ст_е_нка"]
+    "quest": [
+      "~hier:~ Wandschrank"
+    ],
+    "answer": [
+      "ст_е_нка",
+      "стен_а_ ~Wand~"
+    ]
   },
   {
     "id": "chap14-ck3#11",
-    "quest": ["Regal"],
-    "answer": ["п_о_лка", "п_о_лок ~Gen. Pl.~"]
+    "quest": [
+      "Regal"
+    ],
+    "answer": [
+      "п_о_лка",
+      "п_о_лок ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap14-ck3#12",
-    "quest": ["Spiegel"],
-    "answer": ["з_е_ркало"]
+    "quest": [
+      "Spiegel"
+    ],
+    "answer": [
+      "з_е_ркало"
+    ]
   },
   {
     "id": "chap14-ck3#13",
-    "quest": ["Bild"],
-    "answer": ["карт_и_на"]
+    "quest": [
+      "Bild"
+    ],
+    "answer": [
+      "карт_и_на"
+    ]
   },
   {
     "id": "chap14-ck3#14",
-    "quest": ["Teppich"],
+    "quest": [
+      "Teppich"
+    ],
     "answer": [
       "ковёр",
       "ковр_а_ ~Gen. Sg.~",
@@ -92,62 +150,113 @@
   },
   {
     "id": "chap14-ck3#15",
-    "quest": ["Lampe"],
-    "answer": ["л_а_мпа"]
+    "quest": [
+      "Lampe"
+    ],
+    "answer": [
+      "л_а_мпа"
+    ]
   },
   {
     "id": "chap14-ck3#16",
-    "quest": ["Haushaltstechnik"],
-    "answer": ["бытов_а_я т_е_хника"]
+    "quest": [
+      "Haushaltstechnik"
+    ],
+    "answer": [
+      "бытов_а_я т_е_хника",
+      "бытов_о_й ~Alltags…~"
+    ]
   },
   {
     "id": "chap14-ck3#17",
-    "quest": ["Herd"],
-    "answer": ["плит_а_"]
+    "quest": [
+      "Herd"
+    ],
+    "answer": [
+      "плит_а_"
+    ]
   },
   {
     "id": "chap14-ck3#18",
-    "quest": ["Waschmaschine"],
-    "answer": ["стир_а_льная маш_и_на", "стир_а_ть ~waschen~"]
+    "quest": [
+      "Waschmaschine"
+    ],
+    "answer": [
+      "стир_а_льная маш_и_на",
+      "стир_а_ть ~waschen~"
+    ]
   },
   {
     "id": "chap14-ck3#19",
-    "quest": ["Mikrowelle"],
-    "answer": ["микроволн_о_вка"]
+    "quest": [
+      "Mikrowelle"
+    ],
+    "answer": [
+      "микроволн_о_вка"
+    ]
   },
   {
     "id": "chap14-ck3#20",
-    "quest": ["Geschirrspülmaschine"],
-    "answer": ["посудом_о_ечная маш_и_на", "пос_у_да ~Geschirr~"]
+    "quest": [
+      "Geschirrspülmaschine"
+    ],
+    "answer": [
+      "посудом_о_ечная маш_и_на",
+      "пос_у_да ~Geschirr~"
+    ]
   },
   {
     "id": "chap14-ck3#21",
-    "quest": ["Sanitäranlagen"],
-    "answer": ["сант_е_хника"]
+    "quest": [
+      "Sanitäranlagen"
+    ],
+    "answer": [
+      "сант_е_хника"
+    ]
   },
   {
     "id": "chap14-ck3#22",
-    "quest": ["Waschbecken"],
-    "answer": ["умыв_а_льник", "ум_ы_ть / умыв_а_ть ~etwas waschen~"]
+    "quest": [
+      "Waschbecken"
+    ],
+    "answer": [
+      "умыв_а_льник",
+      "ум_ы_ть / умыв_а_ть ~etwas waschen~"
+    ]
   },
   {
     "id": "chap14-ck3#23",
-    "quest": ["Bad"],
-    "answer": ["в_а_нна"]
+    "quest": [
+      "Bad"
+    ],
+    "answer": [
+      "в_а_нна"
+    ]
   },
   {
     "id": "chap14-ck3#24",
-    "quest": ["Radio", "Rundfunk"],
-    "answer": ["р_а_дио ~n indekl.~"]
+    "quest": [
+      "Radio",
+      "Rundfunk"
+    ],
+    "answer": [
+      "р_а_дио ~n indekl.~"
+    ]
   },
   {
     "id": "chap14-ck3#25",
-    "quest": ["frühstücken"],
-    "answer": ["з_а_втракать ~uv.~"]
+    "quest": [
+      "frühstücken"
+    ],
+    "answer": [
+      "з_а_втракать ~uv.~"
+    ]
   },
   {
     "id": "chap14-ck3#26",
-    "quest": ["sehen"],
+    "quest": [
+      "sehen"
+    ],
     "answer": [
       "в_и_деть ~uv.~",
       "я в_и_жу",
@@ -160,12 +269,18 @@
   },
   {
     "id": "chap14-ck3#27",
-    "quest": ["Autoschlüssel"],
-    "answer": ["ключ_и_ от маш_и_ны"]
+    "quest": [
+      "Autoschlüssel"
+    ],
+    "answer": [
+      "ключ_и_ от маш_и_ны"
+    ]
   },
   {
     "id": "chap14-ck3#28",
-    "quest": ["zwischen"],
+    "quest": [
+      "zwischen"
+    ],
     "answer": [
       "м_е_жду ~(+) Instr.~",
       "нар_о_д ~Volk~",
@@ -174,22 +289,40 @@
   },
   {
     "id": "chap14-ck3#29",
-    "quest": ["Notizbuch"],
-    "answer": ["блокн_о_т"]
+    "quest": [
+      "Notizbuch"
+    ],
+    "answer": [
+      "блокн_о_т"
+    ]
   },
   {
     "id": "chap14-ck3#30",
-    "quest": ["unter"],
-    "answer": ["под ~(+) Instr.~"]
+    "quest": [
+      "unter"
+    ],
+    "answer": [
+      "под ~(+) Instr.~",
+      "вниз_у_"
+    ]
   },
   {
     "id": "chap14-ck3#31",
-    "quest": ["für", "hinter"],
-    "answer": ["за ~(+) Akk. / (+) Instr.~"]
+    "quest": [
+      "für",
+      "hinter"
+    ],
+    "answer": [
+      "за ~(+) Akk. / (+) Instr.~"
+    ]
   },
   {
     "id": "chap14-ck3#32",
-    "quest": ["Kalender"],
-    "answer": ["календ_а_рь ~m~"]
+    "quest": [
+      "Kalender"
+    ],
+    "answer": [
+      "календ_а_рь ~m~"
+    ]
   }
 ]
