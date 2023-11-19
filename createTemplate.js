@@ -7,7 +7,7 @@ const { exit } = require("process");
 const readline = require("readline");
 
 /**
- * The method checks if an id is already defined in a map.
+ * The method checks if an id from a new file is already defined in a map.
  */
 const checkId = (map, id, newFile) => {
   if (!id) {
@@ -61,6 +61,55 @@ const walk = (parent, callback, map) => {
   }
 };
 
+const processArr = (items, processItem, processEnd) => {
+  let count = items.length;
+
+  items.forEach((item) => {
+    processItem(item);
+    if (--count == 0) {
+    }
+  });
+};
+
+const dirs = ["data"];
+const files = [];
+
+const walker = (parent) => {
+  fs.readdir(parent, (err, entries) => {
+    if (err) {
+      throw err;
+    }
+
+    let count = entries.length;
+
+    entries.forEach((entry) => {
+      const p = path.join(parent, entry);
+
+      fs.lstat(p, (err, stats) => {
+        if (err) {
+          throw err;
+        }
+
+        if (stats.isDirectory()) {
+          //console.log(">>>> DIR", p);
+          dirs.push(p);
+        } else if (stats.isFile()) {
+          //console.log(">>>> FILE", p);
+          files.push(p);
+        }
+
+        if (--count === 0) {
+          if (dirs.length > 0) {
+            walker(dirs.shift());
+          } else {
+            console.log("Files found:", files.length);
+          }
+        }
+      });
+    });
+  });
+};
+
 /**
  * The method is called with an array of objects and each contains an id. It
  * checks if these ids are already defined in an other file.
@@ -69,6 +118,7 @@ const checkIds = (arr) => {
   const map = new Map();
   walk("data", processFile, map);
 
+  console.log("ids", map.size);
   arr.forEach((elem) => {
     checkId(map, elem.id, "<NEW>");
   });
@@ -132,6 +182,8 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
+
+walker(dirs.shift());
 
 rl.question("Go on? ", (answer) => {
   rl.close();
