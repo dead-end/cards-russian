@@ -161,17 +161,17 @@
   {
     "id": "chap14-ck4#29",
     "quest": ["Würden Sie bitte sagen …?"],
-    "answer": ["Вы не скажете …? "]
+    "answer": ["Вы не ск_а_жете …? "]
   },
   {
     "id": "chap14-ck4#30",
     "quest": ["Vielen Dank."],
-    "answer": ["Большое спасибо."]
+    "answer": ["Больш_о_е спас_и_бо."]
   },
   {
     "id": "chap14-ck4#31",
     "quest": ["Was ist das für ein (für eine) …?", "Was sind das für …?"],
-    "answer": ["Что это за …?"]
+    "answer": ["Что _э_то за …?"]
   },
   {
     "id": "chap14-ck4#32",
