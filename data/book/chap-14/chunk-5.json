@@ -1,22 +1,37 @@
 [
   {
     "id": "chap14-ck5#00",
-    "quest": ["(Haupt-) Postamt"],
-    "answer": ["Главпочт_а_мт"]
+    "quest": [
+      "(Haupt-) Postamt"
+    ],
+    "answer": [
+      "Главпочт_а_мт"
+    ]
   },
   {
     "id": "chap14-ck5#01",
-    "quest": ["bis zum Ende (Endhaltestelle)"],
-    "answer": ["до конц_а_"]
+    "quest": [
+      "bis zum Ende (Endhaltestelle)"
+    ],
+    "answer": [
+      "до конц_а_"
+    ]
   },
   {
     "id": "chap14-ck5#02",
-    "quest": ["Ende"],
-    "answer": ["кон_е_ц", "конц_а_ ~Gen. Sg.~"]
+    "quest": [
+      "Ende"
+    ],
+    "answer": [
+      "кон_е_ц",
+      "конц_а_ ~Gen. Sg.~"
+    ]
   },
   {
     "id": "chap14-ck5#03",
-    "quest": ["Theater-"],
+    "quest": [
+      "Theater-"
+    ],
     "answer": [
       "театр_а_льный",
       "театр_а_льная",
@@ -26,87 +41,162 @@
   },
   {
     "id": "chap14-ck5#04",
-    "quest": ["nah"],
-    "answer": ["бл_и_зко"]
+    "quest": [
+      "nah"
+    ],
+    "answer": [
+      "бл_и_зко"
+    ]
   },
   {
     "id": "chap14-ck5#05",
-    "quest": ["Operette"],
-    "answer": ["опер_е_тта"]
+    "quest": [
+      "Operette"
+    ],
+    "answer": [
+      "опер_е_тта"
+    ]
   },
   {
     "id": "chap14-ck5#06",
-    "quest": ["Prospekt"],
-    "answer": ["просп_е_кт"]
+    "quest": [
+      "Prospekt"
+    ],
+    "answer": [
+      "просп_е_кт"
+    ]
   },
   {
     "id": "chap14-ck5#07",
-    "quest": ["mieten"],
-    "answer": ["арендов_а_ть ~uv.~", "снимать (квартиру) ~uv.~"]
+    "quest": [
+      "mieten"
+    ],
+    "answer": [
+      "арендов_а_ть ~uv.~",
+      "снимать (квартиру) ~uv.~"
+    ]
   },
   {
     "id": "chap14-ck5#08",
-    "quest": ["Bauer", "Bäuerin"],
-    "answer": ["ф_е_рмер"]
+    "quest": [
+      "Bauer",
+      "Bäuerin"
+    ],
+    "answer": [
+      "ф_е_рмер"
+    ]
   },
   {
     "id": "chap14-ck5#09",
-    "quest": ["Immobilien"],
-    "answer": ["недв_и_жимость ~f~"]
+    "quest": [
+      "Immobilien"
+    ],
+    "answer": [
+      "недв_и_жимость ~f~"
+    ]
   },
   {
     "id": "chap14-ck5#10",
-    "quest": ["Lager"],
-    "answer": ["склад"]
+    "quest": [
+      "Lager"
+    ],
+    "answer": [
+      "склад"
+    ]
   },
   {
     "id": "chap14-ck5#11",
-    "quest": ["Land-", "außerhalb der Stadt"],
-    "answer": ["з_а_городная"]
+    "quest": [
+      "Land-",
+      "außerhalb der Stadt"
+    ],
+    "answer": [
+      "з_а_городная"
+    ]
   },
   {
     "id": "chap14-ck5#12",
-    "quest": ["Einfamilienhaus"],
-    "answer": ["котт_е_дж"]
+    "quest": [
+      "Einfamilienhaus"
+    ],
+    "answer": [
+      "котт_е_дж"
+    ]
   },
   {
     "id": "chap14-ck5#13",
-    "quest": ["Grundstück"],
-    "answer": ["зем_е_льный уч_а_сток"]
+    "quest": [
+      "Grundstück"
+    ],
+    "answer": [
+      "зем_е_льный уч_а_сток"
+    ]
   },
   {
     "id": "chap14-ck5#14",
-    "quest": ["Mietdauer"],
-    "answer": ["ср_о_ки ар_е_нды"]
+    "quest": [
+      "Mietdauer"
+    ],
+    "answer": [
+      "ср_о_ки ар_е_нды",
+      "сроки ~Dauer~",
+      "ар_е_нда ~Miete~"
+    ]
   },
   {
     "id": "chap14-ck5#15",
-    "quest": ["weitere Informationen"],
-    "answer": ["дополн_и_тельная информ_а_ция"]
+    "quest": [
+      "weitere Informationen"
+    ],
+    "answer": [
+      "дополн_и_тельная информ_а_ция"
+    ]
   },
   {
     "id": "chap14-ck5#16",
-    "quest": ["Bürotechnik"],
-    "answer": ["оргт_е_хника"]
+    "quest": [
+      "Bürotechnik"
+    ],
+    "answer": [
+      "оргт_е_хника"
+    ]
   },
   {
     "id": "chap14-ck5#17",
-    "quest": ["kostenlos"],
-    "answer": ["беспл_а_тный", "беспл_а_тная", "беспл_а_тное", "беспл_а_тные"]
+    "quest": [
+      "kostenlos"
+    ],
+    "answer": [
+      "беспл_а_тный",
+      "беспл_а_тная",
+      "беспл_а_тное",
+      "беспл_а_тные"
+    ]
   },
   {
     "id": "chap14-ck5#18",
-    "quest": ["~hier: renoviert~"],
-    "answer": ["рем_о_нт", "рем_о_нт маш_и_н ~Autoreparatur~"]
+    "quest": [
+      "~hier: renoviert~"
+    ],
+    "answer": [
+      "рем_о_нт",
+      "рем_о_нт маш_и_н ~Autoreparatur~"
+    ]
   },
   {
     "id": "chap14-ck5#19",
-    "quest": ["Quadratmeter"],
-    "answer": ["квадр_а_тный метp"]
+    "quest": [
+      "Quadratmeter"
+    ],
+    "answer": [
+      "квадр_а_тный метp"
+    ]
   },
   {
     "id": "chap14-ck5#20",
-    "quest": ["werden"],
+    "quest": [
+      "werden"
+    ],
     "answer": [
       "стать",
       "я ст_а_ну",
@@ -119,62 +209,112 @@
   },
   {
     "id": "chap14-ck5#21",
-    "quest": ["Klassizismus"],
-    "answer": ["классиц_и_зм"]
+    "quest": [
+      "Klassizismus"
+    ],
+    "answer": [
+      "классиц_и_зм"
+    ]
   },
   {
     "id": "chap14-ck5#22",
-    "quest": ["Moderne"],
-    "answer": ["соврем_е_нность ~f~"]
+    "quest": [
+      "Moderne"
+    ],
+    "answer": [
+      "соврем_е_нность ~f~"
+    ]
   },
   {
     "id": "chap14-ck5#23",
-    "quest": ["entwerfen"],
-    "answer": ["проект_и_ровать ~uv.~"]
+    "quest": [
+      "entwerfen"
+    ],
+    "answer": [
+      "проект_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap14-ck5#24",
-    "quest": ["Gebäude"],
-    "answer": ["зд_а_ние"]
+    "quest": [
+      "Gebäude"
+    ],
+    "answer": [
+      "зд_а_ние"
+    ]
   },
   {
     "id": "chap14-ck5#25",
-    "quest": ["Interieur", "Innenausstattung"],
-    "answer": ["интерь_е_р"]
+    "quest": [
+      "Interieur",
+      "Innenausstattung"
+    ],
+    "answer": [
+      "интерь_е_р"
+    ]
   },
   {
     "id": "chap14-ck5#26",
-    "quest": ["Epoche"],
-    "answer": ["эп_о_ха"]
+    "quest": [
+      "Epoche"
+    ],
+    "answer": [
+      "эп_о_ха"
+    ]
   },
   {
     "id": "chap14-ck5#27",
-    "quest": ["Element"],
-    "answer": ["элем_е_нт"]
+    "quest": [
+      "Element"
+    ],
+    "answer": [
+      "элем_е_нт"
+    ]
   },
   {
     "id": "chap14-ck5#28",
-    "quest": ["Neogotik"],
-    "answer": ["неог_о_тика"]
+    "quest": [
+      "Neogotik"
+    ],
+    "answer": [
+      "неог_о_тика"
+    ]
   },
   {
     "id": "chap14-ck5#29",
-    "quest": ["Barock"],
-    "answer": ["бар_о_кко"]
+    "quest": [
+      "Barock"
+    ],
+    "answer": [
+      "бар_о_кко"
+    ]
   },
   {
     "id": "chap14-ck5#30",
-    "quest": ["Jugendstil"],
-    "answer": ["стиль мод_е_рн ~m~"]
+    "quest": [
+      "Jugendstil"
+    ],
+    "answer": [
+      "стиль мод_е_рн ~m~"
+    ]
   },
   {
     "id": "chap14-ck5#31",
-    "quest": ["Künstler"],
-    "answer": ["арт_и_ст", "худ_о_жник ~Maler, Künstler~"]
+    "quest": [
+      "Künstler"
+    ],
+    "answer": [
+      "арт_и_ст",
+      "худ_о_жник ~Maler, Künstler~"
+    ]
   },
   {
     "id": "chap14-ck5#32",
-    "quest": ["Quartal"],
-    "answer": ["кварт_а_л"]
+    "quest": [
+      "Quartal"
+    ],
+    "answer": [
+      "кварт_а_л"
+    ]
   }
 ]
