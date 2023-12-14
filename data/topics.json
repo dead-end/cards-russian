@@ -275,6 +275,11 @@
     "tags": ["Buch", "Kapitel-15"]
   },
   {
+    "file": "data/book/chap-15/chunk-2.json",
+    "title": "Kapitel 15 Teil 2",
+    "tags": ["Buch", "Kapitel-15"]
+  },
+  {
     "file": "data/gram/plural.json",
     "title": "Grammatik Plural",
     "tags": ["Grammatik"],

@@ -36,7 +36,7 @@
   },
   {
     "id": "chap15-ck1#07",
-    "quest": ["Küste", "Ufwe"],
+    "quest": ["Küste", "Ufer"],
     "answer": ["б_е_рег", "берег_а_ ~Nom. Pl.~", "на берег_у_ ~Präp. Sg.~"]
   },
   {
@@ -52,7 +52,11 @@
   {
     "id": "chap15-ck1#10",
     "quest": ["Haseninsel"],
-    "answer": ["З_а_ячий _о_стров", "_о_стров ~Insel~"]
+    "answer": [
+      "З_а_ячий _о_стров",
+      "_о_стров ~Insel~",
+      "заячья нога ~Hasenfuß~"
+    ]
   },
   {
     "id": "chap15-ck1#11",
