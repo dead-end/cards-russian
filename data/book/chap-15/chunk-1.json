@@ -1,57 +1,108 @@
 [
   {
     "id": "chap15-ck1#00",
-    "quest": ["Sehenswürdigkeit"],
-    "answer": ["достопримеч_а_тельность ~f~"]
+    "quest": [
+      "Sehenswürdigkeit"
+    ],
+    "answer": [
+      "достопримеч_а_тельность ~f~"
+    ]
   },
   {
     "id": "chap15-ck1#01",
-    "quest": ["Eremitage"],
-    "answer": ["Эрмит_а_ж"]
+    "quest": [
+      "Eremitage"
+    ],
+    "answer": [
+      "Эрмит_а_ж"
+    ]
   },
   {
     "id": "chap15-ck1#02",
-    "quest": ["Peterhof"],
-    "answer": ["Петерг_о_ф"]
+    "quest": [
+      "Peterhof"
+    ],
+    "answer": [
+      "Петерг_о_ф"
+    ]
   },
   {
     "id": "chap15-ck1#03",
-    "quest": ["Katharinenpalast"],
-    "answer": ["Екатер_и_нинский двор_е_ц"]
+    "quest": [
+      "Katharinenpalast"
+    ],
+    "answer": [
+      "Екатер_и_нинский двор_е_ц"
+    ]
   },
   {
     "id": "chap15-ck1#04",
-    "quest": ["Peter-und-Paul-Festung"],
-    "answer": ["Петроп_а_вловская кр_е_пость ~f~"]
+    "quest": [
+      "Peter-und-Paul-Festung"
+    ],
+    "answer": [
+      "Петроп_а_вловская кр_е_пость ~f~"
+    ]
   },
   {
     "id": "chap15-ck1#05",
-    "quest": ["Sommer-"],
-    "answer": ["летний", "летняя", "летнее", "летние"]
+    "quest": [
+      "Sommer-"
+    ],
+    "answer": [
+      "летний",
+      "летняя",
+      "летнее",
+      "летние"
+    ]
   },
   {
     "id": "chap15-ck1#06",
-    "quest": ["Zarenresidenz"],
-    "answer": ["импер_а_торская резид_е_нция"]
+    "quest": [
+      "Zarenresidenz"
+    ],
+    "answer": [
+      "импер_а_торская резид_е_нция"
+    ]
   },
   {
     "id": "chap15-ck1#07",
-    "quest": ["Küste", "Ufer"],
-    "answer": ["б_е_рег", "берег_а_ ~Nom. Pl.~", "на берег_у_ ~Präp. Sg.~"]
+    "quest": [
+      "Küste",
+      "Ufer"
+    ],
+    "answer": [
+      "б_е_рег",
+      "берег_а_ ~Nom. Pl.~",
+      "на берег_у_ ~Präp. Sg.~"
+    ]
   },
   {
     "id": "chap15-ck1#08",
-    "quest": ["Finnischer Meerbusen"],
-    "answer": ["Ф_и_нский зал_и_в"]
+    "quest": [
+      "Finnischer Meerbusen"
+    ],
+    "answer": [
+      "Ф_и_нский зал_и_в"
+    ]
   },
   {
     "id": "chap15-ck1#09",
-    "quest": ["Welt-"],
-    "answer": ["миров_о_й", "миров_а_я", "миров_о_е", "миров_ы_е"]
+    "quest": [
+      "Welt-"
+    ],
+    "answer": [
+      "миров_о_й",
+      "миров_а_я",
+      "миров_о_е",
+      "миров_ы_е"
+    ]
   },
   {
     "id": "chap15-ck1#10",
-    "quest": ["Haseninsel"],
+    "quest": [
+      "Haseninsel"
+    ],
     "answer": [
       "З_а_ячий _о_стров",
       "_о_стров ~Insel~",
@@ -60,22 +111,39 @@
   },
   {
     "id": "chap15-ck1#11",
-    "quest": ["anfangen ~v.~", "beginnen ~v.~"],
-    "answer": ["нач_а_ться ~v.~", "начин_а_ться ~uv.~"]
+    "quest": [
+      "anfangen ~v.~",
+      "beginnen ~v.~"
+    ],
+    "answer": [
+      "нач_а_ться ~v.~",
+      "начин_а_ться ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck1#12",
-    "quest": ["Bau", "Errichtung"],
-    "answer": ["стро_и_тельство"]
+    "quest": [
+      "Bau",
+      "Errichtung"
+    ],
+    "answer": [
+      "стро_и_тельство"
+    ]
   },
   {
     "id": "chap15-ck1#13",
-    "quest": ["Zarskoje Selo"],
-    "answer": ["Ц_а_рское Сел_о_"]
+    "quest": [
+      "Zarskoje Selo"
+    ],
+    "answer": [
+      "Ц_а_рское Сел_о_"
+    ]
   },
   {
     "id": "chap15-ck1#14",
-    "quest": ["weltbekannt"],
+    "quest": [
+      "weltbekannt"
+    ],
     "answer": [
       "всем_и_рно изв_е_стный",
       "всем_и_рно изв_е_стная",
@@ -85,86 +153,152 @@
   },
   {
     "id": "chap15-ck1#15",
-    "quest": ["Bernsteinzimmer"],
-    "answer": ["Янт_а_рная к_о_мната"]
+    "quest": [
+      "Bernsteinzimmer"
+    ],
+    "answer": [
+      "Янт_а_рная к_о_мната"
+    ]
   },
   {
     "id": "chap15-ck1#16",
-    "quest": ["anfangen ~uv.~", "beginnen ~uv.~"],
-    "answer": ["начин_а_ться ~uv.~"]
+    "quest": [
+      "anfangen ~uv.~",
+      "beginnen ~uv.~"
+    ],
+    "answer": [
+      "начин_а_ться ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck1#17",
-    "quest": ["Jahrhundert"],
-    "answer": ["век"]
+    "quest": [
+      "Jahrhundert"
+    ],
+    "answer": [
+      "век"
+    ]
   },
   {
     "id": "chap15-ck1#18",
-    "quest": ["Privatsammlung"],
-    "answer": ["ч_а_стная колл_е_кция", "ч_а_стный ~privat~"]
+    "quest": [
+      "Privatsammlung"
+    ],
+    "answer": [
+      "ч_а_стная колл_е_кция",
+      "ч_а_стный ~privat~"
+    ]
   },
   {
     "id": "chap15-ck1#19",
-    "quest": ["Gebäudekomplex"],
-    "answer": ["к_о_мплекс"]
+    "quest": [
+      "Gebäudekomplex"
+    ],
+    "answer": [
+      "к_о_мплекс"
+    ]
   },
   {
     "id": "chap15-ck1#20",
-    "quest": ["Winterpalast"],
-    "answer": ["З_и_мний двор_е_ц"]
+    "quest": [
+      "Winterpalast"
+    ],
+    "answer": [
+      "З_и_мний двор_е_ц"
+    ]
   },
   {
     "id": "chap15-ck1#21",
-    "quest": ["nennen"],
-    "answer": ["назв_а_ть ~v.~", "назыв_а_ть ~uv.~"]
+    "quest": [
+      "nennen"
+    ],
+    "answer": [
+      "назв_а_ть ~v.~",
+      "назыв_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck1#22",
-    "quest": ["passt genau", "gerade"],
-    "answer": ["как раз"]
+    "quest": [
+      "passt genau",
+      "gerade"
+    ],
+    "answer": [
+      "как раз"
+    ]
   },
   {
     "id": "chap15-ck1#23",
-    "quest": ["(zeitlich) schaffen (etw. zu tun)"],
+    "quest": [
+      "(zeitlich) schaffen (etw. zu tun)"
+    ],
     "answer": [
       "усп_е_ть ~v.~",
       "я усп_е_ю",
       "ты усп_е_ешь",
-      "он/она/оно усп_е_ют",
-      "мы усп_е_ваем",
-      "вы усп_е_ваете",
-      "они усп_е_вают",
+      "он/она/оно усп_е_ет",
+      "мы усп_е_ем",
+      "вы усп_е_ете",
+      "они усп_е_ют",
       "- успев_а_ть ~uv.~"
     ]
   },
   {
     "id": "chap15-ck1#24",
-    "quest": ["Mariinski-Theater"],
-    "answer": ["Мари_и_нский те_а_тр"]
+    "quest": [
+      "Mariinski-Theater"
+    ],
+    "answer": [
+      "Мари_и_нский те_а_тр"
+    ]
   },
   {
     "id": "chap15-ck1#25",
-    "quest": ["~wörtl.:~ Prachtkerl, (als Lob) prima"],
-    "answer": ["молод_е_ц", "молодц_ы_ ~Nom. Pl.~", "-молод_о_й ~jung~"]
+    "quest": [
+      "~wörtl.:~ Prachtkerl, (als Lob) prima"
+    ],
+    "answer": [
+      "молод_е_ц",
+      "молодц_ы_ ~Nom. Pl.~",
+      "-молод_о_й ~jung~"
+    ]
   },
   {
     "id": "chap15-ck1#26",
-    "quest": ["berühmt, ruhmreich"],
-    "answer": ["знамен_и_тый", "знамен_и_тая", "знамен_и_тое", "знамен_и_тые"]
+    "quest": [
+      "berühmt, ruhmreich"
+    ],
+    "answer": [
+      "знамен_и_тый",
+      "знамен_и_тая",
+      "знамен_и_тое",
+      "знамен_и_тые"
+    ]
   },
   {
     "id": "chap15-ck1#27",
-    "quest": ["es lohnt sich (etwas zu tun)"],
-    "answer": ["ст_о_ит", "ст_о_ить ~(etw.) kosten~"]
+    "quest": [
+      "es lohnt sich (etwas zu tun)"
+    ],
+    "answer": [
+      "ст_о_ит",
+      "ст_о_ить ~(etw.) kosten~"
+    ]
   },
   {
     "id": "chap15-ck1#28",
-    "quest": ["übermorgen"],
-    "answer": ["послез_а_втра"]
+    "quest": [
+      "übermorgen"
+    ],
+    "answer": [
+      "послез_а_втра"
+    ]
   },
   {
     "id": "chap15-ck1#29",
-    "quest": ["(hin-) fahren"],
+    "quest": [
+      "(hin-) fahren"
+    ],
     "answer": [
       "поехать ~v.~",
       "я поеду",
@@ -178,12 +312,24 @@
   },
   {
     "id": "chap15-ck1#30",
-    "quest": ["solch ein", "so ein"],
-    "answer": ["так_о_й", "так_а_я", "так_о_е", "так_и_е"]
+    "quest": [
+      "solch ein",
+      "so ein"
+    ],
+    "answer": [
+      "так_о_й",
+      "так_а_я",
+      "так_о_е",
+      "так_и_е"
+    ]
   },
   {
     "id": "chap15-ck1#31",
-    "quest": ["kurz, kurzum"],
-    "answer": ["кор_о_че"]
+    "quest": [
+      "kurz, kurzum"
+    ],
+    "answer": [
+      "кор_о_че"
+    ]
   }
 ]
