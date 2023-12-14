@@ -1,52 +1,96 @@
 [
   {
     "id": "chap15-ck2#00",
-    "quest": ["Versailles"],
-    "answer": ["Верс_а_ль ~m~"]
+    "quest": [
+      "Versailles"
+    ],
+    "answer": [
+      "Верс_а_ль ~m~"
+    ]
   },
   {
     "id": "chap15-ck2#01",
-    "quest": ["kleines Haus"],
-    "answer": ["д_о_мик"]
+    "quest": [
+      "kleines Haus"
+    ],
+    "answer": [
+      "д_о_мик"
+    ]
   },
   {
     "id": "chap15-ck2#02",
-    "quest": ["Isaakskathedrale"],
-    "answer": ["Иса_а_киевский соб_о_р"]
+    "quest": [
+      "Isaakskathedrale"
+    ],
+    "answer": [
+      "Иса_а_киевский соб_о_р"
+    ]
   },
   {
     "id": "chap15-ck2#03",
-    "quest": ["Marmor"],
-    "answer": ["мр_а_мор"]
+    "quest": [
+      "Marmor"
+    ],
+    "answer": [
+      "мр_а_мор"
+    ]
   },
   {
     "id": "chap15-ck2#04",
-    "quest": ["Rat", "Ratschlag"],
-    "answer": ["совет", "сов_е_товать ~raten, empfehlen~"]
+    "quest": [
+      "Rat",
+      "Ratschlag"
+    ],
+    "answer": [
+      "совет",
+      "сов_е_товать ~raten, empfehlen~"
+    ]
   },
   {
     "id": "chap15-ck2#05",
-    "quest": ["Sender", "Kanal"],
-    "answer": ["кан_а_л"]
+    "quest": [
+      "Sender",
+      "Kanal"
+    ],
+    "answer": [
+      "кан_а_л"
+    ]
   },
   {
     "id": "chap15-ck2#06",
-    "quest": ["Lass uns …"],
-    "answer": ["Дав_а_й …"]
+    "quest": [
+      "Lass uns …"
+    ],
+    "answer": [
+      "Дав_а_й …"
+    ]
   },
   {
     "id": "chap15-ck2#07",
-    "quest": ["sich erinnern", "noch wissen"],
-    "answer": ["п_о_мнить ~uv.~"]
+    "quest": [
+      "sich erinnern",
+      "noch wissen"
+    ],
+    "answer": [
+      "п_о_мнить ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck2#08",
-    "quest": ["einverstanden (sein)"],
-    "answer": ["согл_а_сен", "согл_а_сна", "согл_а_сны"]
+    "quest": [
+      "einverstanden (sein)"
+    ],
+    "answer": [
+      "согл_а_сен",
+      "согл_а_сна",
+      "согл_а_сны"
+    ]
   },
   {
     "id": "chap15-ck2#09",
-    "quest": ["sich treffen mit"],
+    "quest": [
+      "sich treffen mit"
+    ],
     "answer": [
       "встретиться с ~v. (+) Instr.~",
       "я встречусь с",
@@ -59,7 +103,9 @@
   },
   {
     "id": "chap15-ck2#10",
-    "quest": ["(hin-) gehen"],
+    "quest": [
+      "(hin-) gehen"
+    ],
     "answer": [
       "пойти ~v.~",
       "я пойду",
@@ -73,12 +119,18 @@
   },
   {
     "id": "chap15-ck2#11",
-    "quest": ["~hier:~ Reise, Ausflug"],
-    "answer": ["по_е_здка"]
+    "quest": [
+      "~hier:~ Reise, Ausflug"
+    ],
+    "answer": [
+      "по_е_здка"
+    ]
   },
   {
     "id": "chap15-ck2#12",
-    "quest": ["verbringen"],
+    "quest": [
+      "verbringen"
+    ],
     "answer": [
       "провести ~v.~",
       "я проведу",
@@ -92,7 +144,10 @@
   },
   {
     "id": "chap15-ck2#13",
-    "quest": ["qualitativ", "hochwertig"],
+    "quest": [
+      "qualitativ",
+      "hochwertig"
+    ],
     "answer": [
       "к_а_чественный",
       "к_а_чественная",
@@ -102,52 +157,101 @@
   },
   {
     "id": "chap15-ck2#14",
-    "quest": ["Familien-"],
-    "answer": ["сем_е_йный", "сем_е_йная", "сем_е_йное", "сем_е_йные"]
+    "quest": [
+      "Familien-"
+    ],
+    "answer": [
+      "сем_е_йный",
+      "сем_е_йная",
+      "сем_е_йное",
+      "сем_е_йные"
+    ]
   },
   {
     "id": "chap15-ck2#15",
-    "quest": ["interessieren", "attraktiv finden"],
-    "answer": ["привлек_а_ть ~uv.~"]
+    "quest": [
+      "interessieren",
+      "attraktiv finden"
+    ],
+    "answer": [
+      "привлек_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck2#16",
-    "quest": ["Kiefernwald"],
-    "answer": ["сосн_о_вый лес"]
+    "quest": [
+      "Kiefernwald"
+    ],
+    "answer": [
+      "сосн_о_вый лес"
+    ]
   },
   {
     "id": "chap15-ck2#17",
-    "quest": ["still"],
-    "answer": ["т_и_хий", "т_и_хая", "т_и_хое", "т_и_хие"]
+    "quest": [
+      "still"
+    ],
+    "answer": [
+      "т_и_хий",
+      "т_и_хая",
+      "т_и_хое",
+      "т_и_хие"
+    ]
   },
   {
     "id": "chap15-ck2#18",
-    "quest": ["Unterkunft"],
-    "answer": ["прожив_а_ние"]
+    "quest": [
+      "Unterkunft"
+    ],
+    "answer": [
+      "прожив_а_ние"
+    ]
   },
   {
     "id": "chap15-ck2#19",
-    "quest": ["Verpflegung"],
-    "answer": ["пит_а_ние"]
+    "quest": [
+      "Verpflegung"
+    ],
+    "answer": [
+      "пит_а_ние"
+    ]
   },
   {
     "id": "chap15-ck2#20",
-    "quest": ["fürsorglich", "aufmerksam"],
-    "answer": ["заб_о_тливый", "заб_о_тливая", "заб_о_тливое", "заб_о_тливые"]
+    "quest": [
+      "fürsorglich",
+      "aufmerksam"
+    ],
+    "answer": [
+      "заб_о_тливый",
+      "заб_о_тливая",
+      "заб_о_тливое",
+      "заб_о_тливые"
+    ]
   },
   {
     "id": "chap15-ck2#21",
-    "quest": ["Personal"],
-    "answer": ["персон_а_л"]
+    "quest": [
+      "Personal"
+    ],
+    "answer": [
+      "персон_а_л"
+    ]
   },
   {
     "id": "chap15-ck2#22",
-    "quest": ["mit (den) Kindern"],
-    "answer": ["с детьм_и_"]
+    "quest": [
+      "mit (den) Kindern"
+    ],
+    "answer": [
+      "с детьм_и_"
+    ]
   },
   {
     "id": "chap15-ck2#23",
-    "quest": ["ein Dampfbad nehmen"],
+    "quest": [
+      "ein Dampfbad nehmen"
+    ],
     "answer": [
       "п_а_риться ~uv.~",
       "я п_а_рюсь",
@@ -160,12 +264,18 @@
   },
   {
     "id": "chap15-ck2#24",
-    "quest": ["unter Aufsicht"],
-    "answer": ["под присм_о_тром"]
+    "quest": [
+      "unter Aufsicht"
+    ],
+    "answer": [
+      "под присм_о_тром"
+    ]
   },
   {
     "id": "chap15-ck2#25",
-    "quest": ["qualifiziert"],
+    "quest": [
+      "qualifiziert"
+    ],
     "answer": [
       "квалифиц_и_рованный",
       "квалифиц_и_рованная",
@@ -175,32 +285,58 @@
   },
   {
     "id": "chap15-ck2#26",
-    "quest": ["Kindermädchen"],
-    "answer": ["н_я_ня"]
+    "quest": [
+      "Kindermädchen"
+    ],
+    "answer": [
+      "н_я_ня"
+    ]
   },
   {
     "id": "chap15-ck2#27",
-    "quest": ["organisieren"],
-    "answer": ["организовать ~uv. / v.~"]
+    "quest": [
+      "organisieren"
+    ],
+    "answer": [
+      "организовать ~uv. / v.~"
+    ]
   },
   {
     "id": "chap15-ck2#28",
-    "quest": ["Pony"],
-    "answer": ["пони ~m indekl.~"]
+    "quest": [
+      "Pony"
+    ],
+    "answer": [
+      "пони ~m indekl.~"
+    ]
   },
   {
     "id": "chap15-ck2#29",
-    "quest": ["ich sicher sein"],
-    "answer": ["ув_е_рен", "ув_е_рена", "ув_е_рены"]
+    "quest": [
+      "sich sicher sein"
+    ],
+    "answer": [
+      "ув_е_рен",
+      "ув_е_рена",
+      "ув_е_рены"
+    ]
   },
   {
     "id": "chap15-ck2#30",
-    "quest": ["einplanen"],
-    "answer": ["заплан_и_ровать ~v.~"]
+    "quest": [
+      "einplanen"
+    ],
+    "answer": [
+      "заплан_и_ровать ~v.~"
+    ]
   },
   {
     "id": "chap15-ck2#31",
-    "quest": ["zu Ende gehen"],
-    "answer": ["зак_а_нчиваться ~uv.~"]
+    "quest": [
+      "zu Ende gehen"
+    ],
+    "answer": [
+      "зак_а_нчиваться ~uv.~"
+    ]
   }
 ]
