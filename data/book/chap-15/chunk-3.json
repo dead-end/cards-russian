@@ -1,0 +1,185 @@
+[
+  {
+    "id": "chap15-ck3#00",
+    "quest": ["zu Ende sein"],
+    "answer": ["зак_о_нчиться ~v.~", "зак_а_нчиваться ~uv.~"]
+  },
+  {
+    "id": "chap15-ck3#01",
+    "quest": ["vorn", "voraus", "voran", "~hier:~ steht bevor"],
+    "answer": ["вперед_и_"]
+  },
+  {
+    "id": "chap15-ck3#02",
+    "quest": ["bedeuten"],
+    "answer": ["зн_а_чить ~uv.~"]
+  },
+  {
+    "id": "chap15-ck3#03",
+    "quest": ["noch einmal"],
+    "answer": ["ещё раз"]
+  },
+  {
+    "id": "chap15-ck3#04",
+    "quest": ["Aquapark", "Erlebnisbad"],
+    "answer": ["аквап_а_рк"]
+  },
+  {
+    "id": "chap15-ck3#05",
+    "quest": ["anbieten", "vorschlagen"],
+    "answer": ["предлаг_а_ть"]
+  },
+  {
+    "id": "chap15-ck3#06",
+    "quest": ["(Fußball-) Spiel"],
+    "answer": ["матч"]
+  },
+  {
+    "id": "chap15-ck3#07",
+    "quest": ["Idee"],
+    "answer": ["ид_е_я", "ид_е_й ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap15-ck3#08",
+    "quest": ["Spielplan"],
+    "answer": ["реперту_а_р"]
+  },
+  {
+    "id": "chap15-ck3#09",
+    "quest": ["frei sein"],
+    "answer": ["своб_о_ден", "своб_о_дна", "своб_о_дны"]
+  },
+  {
+    "id": "chap15-ck3#10",
+    "quest": ["Anfang", "Beginn"],
+    "answer": ["нач_а_ло", "начин_а_ть ~beginnen~"]
+  },
+  {
+    "id": "chap15-ck3#11",
+    "quest": ["Bis morgen!"],
+    "answer": ["До з_а_втра!"]
+  },
+  {
+    "id": "chap15-ck3#12",
+    "quest": ["Situation"],
+    "answer": ["ситу_а_ция"]
+  },
+  {
+    "id": "chap15-ck3#13",
+    "quest": ["Publikum"],
+    "answer": ["п_у_блика"]
+  },
+  {
+    "id": "chap15-ck3#14",
+    "quest": ["stattfinden"],
+    "answer": ["состо_я_ться", "состо_и_тся", "состо_я_тся ~v.~"]
+  },
+  {
+    "id": "chap15-ck3#15",
+    "quest": ["Veranstaltung"],
+    "answer": ["меропри_я_тие", "меропри_я_тия ~Nom. Pl.~"]
+  },
+  {
+    "id": "chap15-ck3#16",
+    "quest": ["der größte"],
+    "answer": ["крупн_е_йший", "кр_у_пный ~groß, bedeutend~"]
+  },
+  {
+    "id": "chap15-ck3#17",
+    "quest": ["legendär"],
+    "answer": [
+      "легенд_а_рный",
+      "легенд_а_рная",
+      "легенд_а_рное",
+      "легенд_а_рные"
+    ]
+  },
+  {
+    "id": "chap15-ck3#18",
+    "quest": ["Rockgruppe"],
+    "answer": ["рок-гр_у_ппа"]
+  },
+  {
+    "id": "chap15-ck3#19",
+    "quest": ["Orchester"],
+    "answer": ["орк_е_стр"]
+  },
+  {
+    "id": "chap15-ck3#20",
+    "quest": ["Kriegsmarine"],
+    "answer": ["Во_е_нно-Морск_о_й флот", "морск_о_й ~Adj. maritim~"]
+  },
+  {
+    "id": "chap15-ck3#21",
+    "quest": ["Dirigent"],
+    "answer": ["дирижёр"]
+  },
+  {
+    "id": "chap15-ck3#22",
+    "quest": ["Teilnehmer"],
+    "answer": ["уч_а_стник", "часть ~Teil~"]
+  },
+  {
+    "id": "chap15-ck3#23",
+    "quest": ["Kasse"],
+    "answer": ["к_а_сса"]
+  },
+  {
+    "id": "chap15-ck3#24",
+    "quest": ["reservieren", "bestellen"],
+    "answer": [
+      "заказ_а_ть ~v.~",
+      "(я) закаж_у_",
+      "(ты) зак_а_жешь",
+      "(он/она/оно) зак_а_жет",
+      "(мы) закажем",
+      "(вы) закажете",
+      "(они) закажут",
+      "- зак_а_зывать ~uv.~"
+    ]
+  },
+  {
+    "id": "chap15-ck3#25",
+    "quest": ["etwas näher"],
+    "answer": ["побл_и_же"]
+  },
+  {
+    "id": "chap15-ck3#26",
+    "quest": ["ausverkauft"],
+    "answer": ["аншл_а_г"]
+  },
+  {
+    "id": "chap15-ck3#27",
+    "quest": ["Parkett"],
+    "answer": ["парт_е_р"]
+  },
+  {
+    "id": "chap15-ck3#28",
+    "quest": ["Reihe"],
+    "answer": ["ряд"]
+  },
+  {
+    "id": "chap15-ck3#29",
+    "quest": ["Mitte"],
+    "answer": ["серед_и_на"]
+  },
+  {
+    "id": "chap15-ck3#30",
+    "quest": ["nehmen"],
+    "answer": [
+      "­взять ~v.~",
+      "(я) возьм_у_",
+      "(ты) возьмёшь",
+      "(он/она/оно) возьмёт",
+      "(мы) возьмём",
+      "(вы) возьмёте",
+      "(они) возьм_у_т",
+      "- брать ~.uv~"
+    ]
+  },
+  {
+    "id": "chap15-ck3#31",
+    "quest": ["reservieren"],
+    "answer": ["резерв_и_ровать ~uv.~"]
+  }
+]
