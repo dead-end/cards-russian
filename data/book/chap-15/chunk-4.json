@@ -79,11 +79,11 @@
   {
     "id": "chap15-ck4#08",
     "quest": [
-      "besprechen",
-      "ждать ~warten~"
+      "besprechen"
     ],
     "answer": [
-      "обсужд_а_ть ~uv.~"
+      "обсужд_а_ть ~uv.~",
+      "ждать ~warten~"
     ]
   },
   {
