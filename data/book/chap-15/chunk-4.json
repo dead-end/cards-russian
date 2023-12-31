@@ -2,13 +2,12 @@
   {
     "id": "chap15-ck4#00",
     "quest": [
-      "Reservierung"
+      "Reservierung",
+      "Auftrag",
+      "Bestellung"
     ],
     "answer": [
-      "зак_а_з",
-      "~reservieren, bestellen:~",
-      "- заказать v.",
-      "- заказывать uv."
+      "зак_а_з"
     ]
   },
   {
