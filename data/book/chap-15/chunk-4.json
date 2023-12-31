@@ -1,77 +1,138 @@
 [
   {
     "id": "chap15-ck4#00",
-    "quest": ["Reservierung"],
-    "answer": ["зак_а_з"]
+    "quest": [
+      "Reservierung"
+    ],
+    "answer": [
+      "зак_а_з"
+    ]
   },
   {
     "id": "chap15-ck4#01",
-    "quest": ["Gesamtsumme"],
-    "answer": ["_о_бщая с_у_мма"]
+    "quest": [
+      "Gesamtsumme"
+    ],
+    "answer": [
+      "_о_бщая с_у_мма"
+    ]
   },
   {
     "id": "chap15-ck4#02",
-    "quest": ["Rang"],
-    "answer": ["_я_рус"]
+    "quest": [
+      "Rang"
+    ],
+    "answer": [
+      "_я_рус"
+    ]
   },
   {
     "id": "chap15-ck4#03",
-    "quest": ["Loge"],
-    "answer": ["л_о_жа"]
+    "quest": [
+      "Loge"
+    ],
+    "answer": [
+      "л_о_жа"
+    ]
   },
   {
     "id": "chap15-ck4#04",
-    "quest": ["Stimmt alles?"],
-    "answer": ["Всё в_е_рно?", "в_е_рить ~uv. glauben~"]
+    "quest": [
+      "Stimmt alles?"
+    ],
+    "answer": [
+      "Всё в_е_рно?",
+      "в_е_рить ~uv. glauben~"
+    ]
   },
   {
     "id": "chap15-ck4#05",
-    "quest": ["wiederholen"],
-    "answer": ["повтор_я_ть ~uv.~"]
+    "quest": [
+      "wiederholen"
+    ],
+    "answer": [
+      "повтор_я_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#06",
-    "quest": ["Die Bestellung ist entgegengenommen."],
-    "answer": ["Заказ принят."]
+    "quest": [
+      "Die Bestellung ist entgegengenommen."
+    ],
+    "answer": [
+      "Заказ принят."
+    ]
   },
   {
     "id": "chap15-ck4#07",
-    "quest": ["Gespräch"],
-    "answer": ["разгов_о_р"]
+    "quest": [
+      "Gespräch"
+    ],
+    "answer": [
+      "разгов_о_р"
+    ]
   },
   {
     "id": "chap15-ck4#08",
-    "quest": ["besprechen"],
-    "answer": ["обсужд_а_ть ~uv.~"]
+    "quest": [
+      "besprechen"
+    ],
+    "answer": [
+      "обсужд_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#09",
-    "quest": ["dirigieren"],
-    "answer": ["диреж_и_ровать ~uv. + Instr.~"]
+    "quest": [
+      "dirigieren"
+    ],
+    "answer": [
+      "диреж_и_ровать ~uv. + Instr.~"
+    ]
   },
   {
     "id": "chap15-ck4#10",
-    "quest": ["Vorbereitung"],
-    "answer": ["подготовка", "подготовить ~vorbereiten~"]
+    "quest": [
+      "Vorbereitung"
+    ],
+    "answer": [
+      "подготовка",
+      "подготовить ~vorbereiten~"
+    ]
   },
   {
     "id": "chap15-ck4#11",
-    "quest": ["läuft auf Hochtouren"],
-    "answer": ["идёт п_о_лным х_о_дом"]
+    "quest": [
+      "läuft auf Hochtouren"
+    ],
+    "answer": [
+      "идёт п_о_лным х_о_дом"
+    ]
   },
   {
     "id": "chap15-ck4#12",
-    "quest": ["beabsichtigen", "vorhaben"],
-    "answer": ["предполаг_а_ть ~uv.~"]
+    "quest": [
+      "beabsichtigen",
+      "vorhaben"
+    ],
+    "answer": [
+      "предполаг_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#13",
-    "quest": ["Anzahl"],
-    "answer": ["кол_и_чество"]
+    "quest": [
+      "Anzahl"
+    ],
+    "answer": [
+      "кол_и_чество"
+    ]
   },
   {
     "id": "chap15-ck4#14",
-    "quest": ["akkreditiert"],
+    "quest": [
+      "akkreditiert"
+    ],
     "answer": [
       "аккредит_о_ванный",
       "аккредит_о_ванная",
@@ -81,7 +142,9 @@
   },
   {
     "id": "chap15-ck4#15",
-    "quest": ["gewähren"],
+    "quest": [
+      "gewähren"
+    ],
     "answer": [
       "предост_а_вить",
       "(я) предост_а_вляю",
@@ -95,12 +158,19 @@
   },
   {
     "id": "chap15-ck4#16",
-    "quest": ["bauen, errichten"],
-    "answer": ["постр_о_ить ~v.~", "стр_о_ить ~uv.~"]
+    "quest": [
+      "bauen, errichten"
+    ],
+    "answer": [
+      "постр_о_ить ~v.~",
+      "стр_о_ить ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#17",
-    "quest": ["improvisiert"],
+    "quest": [
+      "improvisiert"
+    ],
     "answer": [
       "импровиз_и_рованный",
       "импровиз_и_рованная",
@@ -110,37 +180,66 @@
   },
   {
     "id": "chap15-ck4#18",
-    "quest": ["Zuschauerraum"],
-    "answer": ["зр_и_тельный зал"]
+    "quest": [
+      "Zuschauerraum"
+    ],
+    "answer": [
+      "зр_и_тельный зал",
+      "- зр_и_тельный ~visuell~"
+    ]
   },
   {
     "id": "chap15-ck4#19",
-    "quest": ["mit Teilnahme"],
-    "answer": ["с уч_а_стием"]
+    "quest": [
+      "mit Teilnahme"
+    ],
+    "answer": [
+      "с уч_а_стием"
+    ]
   },
   {
     "id": "chap15-ck4#20",
-    "quest": ["die führen den Solisten"],
-    "answer": ["вед_у_щие сол_и_сты"]
+    "quest": [
+      "die führen den Solisten"
+    ],
+    "answer": [
+      "вед_у_щие сол_и_сты"
+    ]
   },
   {
     "id": "chap15-ck4#21",
-    "quest": ["Zusage"],
-    "answer": ["согл_а_сие"]
+    "quest": [
+      "Zusage"
+    ],
+    "answer": [
+      "согл_а_сие"
+    ]
   },
   {
     "id": "chap15-ck4#22",
-    "quest": ["Arie"],
-    "answer": ["_а_рия"]
+    "quest": [
+      "Arie"
+    ],
+    "answer": [
+      "_а_рия"
+    ]
   },
   {
     "id": "chap15-ck4#23",
-    "quest": ["durchsehen", "überfliegen"],
-    "answer": ["просмотр_е_ть ~v.~", "просм_а_тривать ~uv.~"]
+    "quest": [
+      "durchsehen",
+      "überfliegen"
+    ],
+    "answer": [
+      "просмотр_е_ть ~v.~",
+      "просм_а_тривать ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#24",
-    "quest": ["positiv"],
+    "quest": [
+      "positiv"
+    ],
     "answer": [
       "полож_и_тельный",
       "полож_и_тельная",
@@ -150,30 +249,51 @@
   },
   {
     "id": "chap15-ck4#25",
-    "quest": ["die Einschätzung", "die Stellungnahme", "~hier:~ Schätzung"],
-    "answer": ["оц_е_нка"]
+    "quest": [
+      "die Einschätzung",
+      "die Stellungnahme",
+      "~hier:~ Schätzung"
+    ],
+    "answer": [
+      "оц_е_нка"
+    ]
   },
   {
     "id": "chap15-ck4#26",
-    "quest": ["sich Mühe geben"],
-    "answer": ["постар_а_ться ~v.~", "стар_а_ться ~uv.~"]
+    "quest": [
+      "sich Mühe geben"
+    ],
+    "answer": [
+      "постар_а_ться ~v.~",
+      "стар_а_ться ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#27",
-    "quest": ["auf hohem Niveau"],
-    "answer": ["на выс_о_ком _у_ровне"]
+    "quest": [
+      "auf hohem Niveau"
+    ],
+    "answer": [
+      "на выс_о_ком _у_ровне"
+    ]
   },
   {
     "id": "chap15-ck4#28",
-    "quest": ["prüfen"],
-    "answer": ["пров_е_рить ~v.~", "провер_я_ть ~uv.~"]
+    "quest": [
+      "prüfen"
+    ],
+    "answer": [
+      "пров_е_рить ~v.~",
+      "провер_я_ть ~uv.~"
+    ]
   },
   {
     "id": "chap15-ck4#29",
-    "quest": [""],
+    "quest": [
+      ""
+    ],
     "answer": [
       "пон_я_ть ~v.~",
-
       "(я) пойм_у_",
       "(ты) поймёшь",
       "(он/она/оно) поймёт",
@@ -188,7 +308,10 @@
   },
   {
     "id": "chap15-ck4#30",
-    "quest": ["aussuchen", "wählen"],
+    "quest": [
+      "aussuchen",
+      "wählen"
+    ],
     "answer": [
       "в_ы_брать",
       "(я) в_ы_беру",
@@ -202,12 +325,22 @@
   },
   {
     "id": "chap15-ck4#31",
-    "quest": ["praktisch", "~hier:~ fast"],
-    "answer": ["практ_и_чески"]
+    "quest": [
+      "praktisch",
+      "~hier:~ fast"
+    ],
+    "answer": [
+      "практ_и_чески"
+    ]
   },
   {
     "id": "chap15-ck4#32",
-    "quest": ["Expert", "Expertin"],
-    "answer": ["эксп_е_рт"]
+    "quest": [
+      "Expert",
+      "Expertin"
+    ],
+    "answer": [
+      "эксп_е_рт"
+    ]
   }
 ]
