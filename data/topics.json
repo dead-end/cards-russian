@@ -295,6 +295,11 @@
     "tags": ["Buch", "Kapitel-16"]
   },
   {
+    "file": "data/book/chap-16/chunk-2.json",
+    "title": "Kapitel 16 Teil 2",
+    "tags": ["Buch", "Kapitel-16"]
+  },
+  {
     "file": "data/gram/plural.json",
     "title": "Grammatik Plural",
     "tags": ["Grammatik"],

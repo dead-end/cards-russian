@@ -1,0 +1,220 @@
+[
+  {
+    "id": "chap16-ck2#00",
+    "quest": ["schützen"],
+    "answer": ["охран_я_ть ~uv.~"]
+  },
+  {
+    "id": "chap16-ck2#01",
+    "quest": ["unmöglich", "nicht realistisch"],
+    "answer": [
+      "невозм_о_жен",
+      "невозм_о_жна",
+      "невозм_о_жны",
+      "- возможность ~f Möglichkeit~"
+    ]
+  },
+  {
+    "id": "chap16-ck2#02",
+    "quest": ["finanzielle Hilfe"],
+    "answer": ["фин_а_нсовая п_о_мощь ~f~"]
+  },
+  {
+    "id": "chap16-ck2#03",
+    "quest": ["Information(en)"],
+    "answer": ["информ_а_ция Information(en)"]
+  },
+  {
+    "id": "chap16-ck2#04",
+    "quest": ["Handelsfirma"],
+    "answer": ["комм_е_рческая ф_и_рма"]
+  },
+  {
+    "id": "chap16-ck2#05",
+    "quest": ["Amur-Tiger ~(Sibirischer Tiger)~"],
+    "answer": ["ам_у_рский тигр"]
+  },
+  {
+    "id": "chap16-ck2#06",
+    "quest": ["Tier"],
+    "answer": ["жив_о_тное", "жив_о_тные ~Nom. Pl.~", "жив_о_тных ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap16-ck2#07",
+    "quest": ["alt"],
+    "answer": ["ст_а_рый", "ст_а_рая", "ст_а_рое", "ст_а_рые"]
+  },
+  {
+    "id": "chap16-ck2#08",
+    "quest": ["Kindheit"],
+    "answer": ["д_е_тство"]
+  },
+  {
+    "id": "chap16-ck2#09",
+    "quest": ["glücklich"],
+    "answer": [
+      "счастл_и_вый",
+      "счастл_и_вая",
+      "счастл_и_вое",
+      "счастл_и_вые",
+      "- счастье ~Glück~"
+    ]
+  },
+  {
+    "id": "chap16-ck2#10",
+    "quest": ["aufwachsen"],
+    "answer": ["в_ы_расти", "в_ы_рос", "в_ы_расла", "в_ы_расли ~v.~"]
+  },
+  {
+    "id": "chap16-ck2#11",
+    "quest": ["junge Menschen"],
+    "answer": ["молодёжь ~f~"]
+  },
+  {
+    "id": "chap16-ck2#12",
+    "quest": ["Taiga"],
+    "answer": ["тайг_а_"]
+  },
+  {
+    "id": "chap16-ck2#13",
+    "quest": ["Eisenbahn"],
+    "answer": ["жел_е_зная дор_о_га", "дорога ~Weg~"]
+  },
+  {
+    "id": "chap16-ck2#14",
+    "quest": ["Baikal-Amur-Magistrale (BAM)"],
+    "answer": ["Байк_а_ло-Ам_у_рская магистр_а_ль (БАМ) ~f~"]
+  },
+  {
+    "id": "chap16-ck2#15",
+    "quest": ["Romantik"],
+    "answer": ["ром_а_нтика"]
+  },
+  {
+    "id": "chap16-ck2#16",
+    "quest": ["volles Programm"],
+    "answer": ["по п_о_лной прогр_а_мме"]
+  },
+  {
+    "id": "chap16-ck2#17",
+    "quest": ["schwer", "hart"],
+    "answer": ["тяжёлый", "тяжёлая", "тяжёлое", "тяжёлые"]
+  },
+  {
+    "id": "chap16-ck2#18",
+    "quest": ["Lebensbedingungen"],
+    "answer": ["усл_о_вия ж_и_зни"]
+  },
+  {
+    "id": "chap16-ck2#19",
+    "quest": ["(jemanden) kennenlernen"],
+    "answer": ["познак_о_миться с ~v. (+) Instr.~", "знак_о_миться ~uv.~"]
+  },
+  {
+    "id": "chap16-ck2#20",
+    "quest": ["heiraten", "Mann und Frau werden"],
+    "answer": ["пожен_и_ться v."]
+  },
+  {
+    "id": "chap16-ck2#21",
+    "quest": ["beenden"],
+    "answer": [
+      "зак_о_нчить",
+      "я зак_о_нчу",
+      "ты зак_о_нчишь",
+      "он / она / оно зак_о_нчит",
+      "мы зак_о_нчим",
+      "вы зак_о_нчите",
+      "они зак_о_нчат"
+    ]
+  },
+  {
+    "id": "chap16-ck2#22",
+    "quest": ["Heimat"],
+    "answer": ["р_о_дина"]
+  },
+  {
+    "id": "chap16-ck2#23",
+    "quest": ["in Rente gehen"],
+    "answer": [
+      "в_ы_йти",
+      "в_ы_шел",
+      "в_ы_шла",
+      "в_ы_шли на п_е_нсию ~v.~",
+      "- выходить ~uv.~"
+    ]
+  },
+  {
+    "id": "chap16-ck2#24",
+    "quest": ["in Rente (sein)"],
+    "answer": ["на п_е_нсии"]
+  },
+  {
+    "id": "chap16-ck2#25",
+    "quest": ["fortsetzen"],
+    "answer": ["продолжать ~uv.~"]
+  },
+  {
+    "id": "chap16-ck2#26",
+    "quest": ["Kraft"],
+    "answer": ["с_и_ла"]
+  },
+  {
+    "id": "chap16-ck2#27",
+    "quest": ["~hier:~ alleine"],
+    "answer": ["од_и_н", "одн_а_", "одн_и_"]
+  },
+  {
+    "id": "chap16-ck2#28",
+    "quest": ["sterben"],
+    "answer": ["умер_е_ть", "_у_мер", "умерл_а_", "_у_мерли ~v.~"]
+  },
+  {
+    "id": "chap16-ck2#29",
+    "quest": ["sich sehen"],
+    "answer": [
+      "в_и_деться",
+      "(я) в_и_жусь",
+      "(ты) в_и_дишься",
+      "(он/она/оно) в_и_дится",
+      "(мы) в_и_димся",
+      "(вы) в_и_дитесь",
+      "(они) в_и_дятся"
+    ]
+  },
+  {
+    "id": "chap16-ck2#30",
+    "quest": ["Sehnsucht haben"],
+    "answer": ["кучать по ~uv., (+) Dat.~"]
+  },
+  {
+    "id": "chap16-ck2#31",
+    "quest": ["(er, sie) lebt / leben"],
+    "answer": ["жив", "жив_а_", "ж_и_вы"]
+  },
+  {
+    "id": "chap16-ck2#32",
+    "quest": ["sein", "seine"],
+    "answer": ["ег_о_"]
+  },
+  {
+    "id": "chap16-ck2#33",
+    "quest": ["ihr", "ihre"],
+    "answer": ["её"]
+  },
+  {
+    "id": "chap16-ck2#34",
+    "quest": ["ihr", "ihre"],
+    "answer": ["их"]
+  },
+  {
+    "id": "chap16-ck2#35",
+    "quest": ["Familienstand"],
+    "answer": ["сем_е_йное полож_е_ние"]
+  },
+  {
+    "id": "chap16-ck2#36",
+    "quest": ["ledig (auf Mann bezogen)"],
+    "answer": ["не жен_а_т"]
+  }
+]
