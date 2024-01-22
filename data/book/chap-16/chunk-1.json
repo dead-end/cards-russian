@@ -1,13 +1,23 @@
 [
   {
     "id": "chap16-ck1#00",
-    "quest": ["~hier:~ Studium", "die Lehre", "das Lernen"],
-    "answer": ["учёба"]
+    "quest": [
+      "~hier:~ Studium",
+      "die Lehre",
+      "das Lernen"
+    ],
+    "answer": [
+      "учёба"
+    ]
   },
   {
     "id": "chap16-ck1#01",
-    "quest": ["Dokument"],
-    "answer": ["докум_е_нт"]
+    "quest": [
+      "Dokument"
+    ],
+    "answer": [
+      "докум_е_нт"
+    ]
   },
   {
     "id": "chap16-ck1#02",
@@ -15,98 +25,162 @@
       "die Aufnahme­ prüfungen an der Hochschule ablegen",
       "immatrikuliert werden"
     ],
-    "answer": ["поступать в университ_е_т ~uv.~", "поступ_и_ть ~v.~"]
+    "answer": [
+      "поступать в университ_е_т ~uv.~",
+      "поступ_и_ть ~v.~"
+    ]
   },
   {
     "id": "chap16-ck1#03",
-    "quest": ["Stipendium"],
-    "answer": ["стип_е_ндия"]
+    "quest": [
+      "Stipendium"
+    ],
+    "answer": [
+      "стип_е_ндия"
+    ]
   },
   {
     "id": "chap16-ck1#04",
-    "quest": ["Diplom"],
-    "answer": ["дипл_о_м"]
+    "quest": [
+      "Diplom"
+    ],
+    "answer": [
+      "дипл_о_м"
+    ]
   },
   {
     "id": "chap16-ck1#05",
-    "quest": ["Hörsaal"],
-    "answer": ["аудит_о_рия"]
+    "quest": [
+      "Hörsaal"
+    ],
+    "answer": [
+      "аудит_о_рия"
+    ]
   },
   {
     "id": "chap16-ck1#06",
-    "quest": ["Diplomarbeit"],
-    "answer": ["дипл_о_мная раб_о_та"]
+    "quest": [
+      "Diplomarbeit"
+    ],
+    "answer": [
+      "дипл_о_мная раб_о_та"
+    ]
   },
   {
     "id": "chap16-ck1#07",
-    "quest": ["Studentenausweis"],
-    "answer": ["студ_е_нческий бил_е_т"]
+    "quest": [
+      "Studentenausweis"
+    ],
+    "answer": [
+      "студ_е_нческий бил_е_т"
+    ]
   },
   {
     "id": "chap16-ck1#08",
-    "quest": ["Fernöstliche Föderale Universität"],
-    "answer": ["Дальневост_о_чный Федер_а_льный университ_е_т"]
+    "quest": [
+      "Fernöstliche Föderale Universität"
+    ],
+    "answer": [
+      "Дальневост_о_чный Федер_а_льный университ_е_т",
+      "- дальнейший ~weiterer~"
+    ]
   },
   {
     "id": "chap16-ck1#09",
-    "quest": ["Biomedizin"],
-    "answer": ["биомедиц_и_на"]
+    "quest": [
+      "Biomedizin"
+    ],
+    "answer": [
+      "биомедиц_и_на"
+    ]
   },
   {
     "id": "chap16-ck1#10",
-    "quest": ["Kurs", "~hier:~ Studienjahr"],
-    "answer": ["курс"]
+    "quest": [
+      "Kurs",
+      "~hier:~ Studienjahr"
+    ],
+    "answer": [
+      "курс"
+    ]
   },
   {
     "id": "chap16-ck1#11",
-    "quest": ["Zukunftspläne"],
-    "answer": ["пл_а_ны на буд_у_щее"]
+    "quest": [
+      "Zukunftspläne"
+    ],
+    "answer": [
+      "пл_а_ны на буд_у_щее"
+    ]
   },
   {
     "id": "chap16-ck1#12",
-    "quest": ["Zukunft"],
-    "answer": ["б_у_дущее"]
+    "quest": [
+      "Zukunft"
+    ],
+    "answer": [
+      "б_у_дущее"
+    ]
   },
   {
     "id": "chap16-ck1#13",
-    "quest": ["kommen", "ankommen"],
-    "answer": ["при_е_хать ~v.~", "приезж_а_ть ~uv.~"]
+    "quest": [
+      "kommen",
+      "ankommen"
+    ],
+    "answer": [
+      "при_е_хать ~v.~",
+      "приезж_а_ть ~uv.~",
+      "- ехать ~fahren~",
+      "- поехать ~(hin-) fahren~"
+    ]
   },
   {
     "id": "chap16-ck1#14",
-    "quest": ["Volontär"],
-    "answer": ["волонтёр"]
+    "quest": [
+      "Volontär"
+    ],
+    "answer": [
+      "волонтёр"
+    ]
   },
   {
     "id": "chap16-ck1#15",
-    "quest": ["geboren werden", "zur Welt kommen"],
+    "quest": [
+      "geboren werden",
+      "zur Welt kommen"
+    ],
     "answer": [
       "род_и_ться",
-      "я ~(m)~ родился",
-      "я ~(f)~ родилась",
-      "ты ~(m)~ родился",
-      "ты ~(f)~ родилась",
-      "он родился",
-      "она родилась",
+      "я / ты / он ~(m)~ родился",
+      "я / ты / она ~(f)~ родилась",
       "оно родилось",
-      "мы родились",
-      "вы родились",
-      "они родились"
+      "мы / вы / они родились"
     ]
   },
   {
     "id": "chap16-ck1#16",
-    "quest": ["er (sie) ist, sie sind in die Schule gekommen"],
-    "answer": ["пошл_а_, пошёл, пошл_и_ в школу ~v.~"]
+    "quest": [
+      "er (sie) ist, sie sind in die Schule gekommen"
+    ],
+    "answer": [
+      "пошл_а_, пошёл, пошл_и_ в школу ~v.~"
+    ]
   },
   {
     "id": "chap16-ck1#17",
-    "quest": ["Biologie"],
-    "answer": ["биол_о_гия"]
+    "quest": [
+      "Biologie"
+    ],
+    "answer": [
+      "биол_о_гия"
+    ]
   },
   {
     "id": "chap16-ck1#18",
-    "quest": ["Prüfungen ablegen"],
+    "quest": [
+      "Prüfungen ablegen"
+    ],
     "answer": [
       "сдать экзамены ~v.~",
       "я сдам",
@@ -121,7 +195,10 @@
   },
   {
     "id": "chap16-ck1#19",
-    "quest": ["geraten", "gelangen"],
+    "quest": [
+      "geraten",
+      "gelangen"
+    ],
     "answer": [
       "поп_а_сть",
       "Я попад_у_",
@@ -135,17 +212,27 @@
   },
   {
     "id": "chap16-ck1#20",
-    "quest": ["Verwandte"],
-    "answer": ["р_о_дственник"]
+    "quest": [
+      "Verwandte"
+    ],
+    "answer": [
+      "р_о_дственник"
+    ]
   },
   {
     "id": "chap16-ck1#21",
-    "quest": ["zufällig"],
-    "answer": ["случ_а_йно"]
+    "quest": [
+      "zufällig"
+    ],
+    "answer": [
+      "случ_а_йно"
+    ]
   },
   {
     "id": "chap16-ck1#22",
-    "quest": ["finden"],
+    "quest": [
+      "finden"
+    ],
     "answer": [
       "найти",
       "я найду",
@@ -159,47 +246,93 @@
   },
   {
     "id": "chap16-ck1#23",
-    "quest": ["Handels-"],
-    "answer": ["торг_о_вый", "торг_о_вая", "торг_о_вое", "торг_о_вые"]
+    "quest": [
+      "Handels-"
+    ],
+    "answer": [
+      "торг_о_вый",
+      "торг_о_вая",
+      "торг_о_вое",
+      "торг_о_вые",
+      "- торговый центр ~Einkaufszentrum~"
+    ]
   },
   {
     "id": "chap16-ck1#24",
-    "quest": ["Tante"],
-    "answer": ["тётя"]
+    "quest": [
+      "Tante"
+    ],
+    "answer": [
+      "тётя"
+    ]
   },
   {
     "id": "chap16-ck1#25",
-    "quest": ["Biologe", "Biologin"],
-    "answer": ["би_о_лог"]
+    "quest": [
+      "Biologe",
+      "Biologin"
+    ],
+    "answer": [
+      "би_о_лог"
+    ]
   },
   {
     "id": "chap16-ck1#26",
-    "quest": ["hören", "zuhören"],
-    "answer": ["посл_у_шать ~v.~", "сл_у_шать ~uv.~"]
+    "quest": [
+      "hören",
+      "zuhören"
+    ],
+    "answer": [
+      "посл_у_шать ~v.~",
+      "сл_у_шать ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck1#27",
-    "quest": ["außerdem"],
-    "answer": ["кр_о_ме тог_о_"]
+    "quest": [
+      "außerdem"
+    ],
+    "answer": [
+      "кр_о_ме тог_о_"
+    ]
   },
   {
     "id": "chap16-ck1#28",
-    "quest": ["(an) teilnehmen"],
-    "answer": ["уч_а_ствовать в ~(+) Präp.~"]
+    "quest": [
+      "(an) teilnehmen"
+    ],
+    "answer": [
+      "уч_а_ствовать в ~(+) Präp.~"
+    ]
   },
   {
     "id": "chap16-ck1#29",
-    "quest": ["Schul-"],
-    "answer": ["шк_о_льный", "шк_о_льная", "шк_о_льное", "шк_о_льные"]
+    "quest": [
+      "Schul-"
+    ],
+    "answer": [
+      "шк_о_льный",
+      "шк_о_льная",
+      "шк_о_льное",
+      "шк_о_льные"
+    ]
   },
   {
     "id": "chap16-ck1#30",
-    "quest": ["Wahl"],
-    "answer": ["в_ы_бор", "в_ы_брать ~wählen~"]
+    "quest": [
+      "Wahl"
+    ],
+    "answer": [
+      "в_ы_бор",
+      "в_ы_брать ~wählen~"
+    ]
   },
   {
     "id": "chap16-ck1#31",
-    "quest": ["abschließen", "absolvieren"],
+    "quest": [
+      "abschließen",
+      "absolvieren"
+    ],
     "answer": [
       "ок_о_нчить",
       "я ок_о_нчу",
@@ -212,7 +345,11 @@
   },
   {
     "id": "chap16-ck1#32",
-    "quest": ["durchführen"],
+    "quest": [
+      "durchführen",
+      "- etwas verbringen",
+      "- jemanden / etwas führen"
+    ],
     "answer": [
       "провод_и_ть",
       "я провожу",
@@ -220,27 +357,45 @@
       "он / она / оно проводит",
       "мы проводим",
       "вы проводите",
-      "они проводят"
+      "они проводят",
+      "- Я провожу отпуск дома"
     ]
   },
   {
     "id": "chap16-ck1#33",
-    "quest": ["kinderreiche Familie"],
-    "answer": ["многод_е_тная семь_я_"]
+    "quest": [
+      "kinderreiche Familie"
+    ],
+    "answer": [
+      "многод_е_тная семь_я_"
+    ]
   },
   {
     "id": "chap16-ck1#34",
-    "quest": ["Patient"],
-    "answer": ["паци_е_нт"]
+    "quest": [
+      "Patient"
+    ],
+    "answer": [
+      "паци_е_нт"
+    ]
   },
   {
     "id": "chap16-ck1#35",
-    "quest": ["auch", "ebenso"],
-    "answer": ["также"]
+    "quest": [
+      "auch",
+      "ebenso"
+    ],
+    "answer": [
+      "также"
+    ]
   },
   {
     "id": "chap16-ck1#36",
-    "quest": ["Aktion"],
-    "answer": ["_а_кция"]
+    "quest": [
+      "Aktion"
+    ],
+    "answer": [
+      "_а_кция"
+    ]
   }
 ]
