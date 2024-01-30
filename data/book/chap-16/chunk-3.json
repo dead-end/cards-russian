@@ -1,0 +1,212 @@
+[
+  {
+    "id": "chap16-ck3#00",
+    "quest": ["verheiratet ~(auf Mann bezogen)~"],
+    "answer": ["жен_а_т", "жен_а_ты"]
+  },
+  {
+    "id": "chap16-ck3#01",
+    "quest": ["geschieden"],
+    "answer": ["разведён", "разведен_а_"]
+  },
+  {
+    "id": "chap16-ck3#02",
+    "quest": ["Witwer"],
+    "answer": ["вдов_е_ц", "вдовц_а_ ~Gen.Sg.~"]
+  },
+  {
+    "id": "chap16-ck3#03",
+
+    "quest": ["ledig ~(auf Frau bezogen)~"],
+    "answer": ["не з_а_мужем"]
+  },
+  {
+    "id": "chap16-ck3#04",
+    "quest": ["verheiratet ~(auf Frau bezogen)~"],
+    "answer": ["з_а_мужем"]
+  },
+  {
+    "id": "chap16-ck3#05",
+    "quest": ["Witwe"],
+    "answer": ["вдов_а_"]
+  },
+  {
+    "id": "chap16-ck3#06",
+    "quest": ["Hochzeit"],
+    "answer": ["св_а_дьба", "св_а_деб ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap16-ck3#07",
+    "quest": ["Ring"],
+    "answer": ["кольц_о_", "кол_е_ц ~Gen. Pl.~"]
+  },
+  {
+    "id": "chap16-ck3#08",
+    "quest": ["Ach was!"],
+    "answer": ["Что ты!"]
+  },
+  {
+    "id": "chap16-ck3#09",
+    "quest": ["heiraten ~(auf Frau bezogen)~"],
+    "answer": ["в_ы_йти замуж", "в_ы_шла", "в_ы_шли ~v.~", "-выход_и_ть ~uv.~"]
+  },
+  {
+    "id": "chap16-ck3#10",
+    "quest": ["ging", "gingen"],
+    "answer": ["шёл", "шла", "шли"]
+  },
+  {
+    "id": "chap16-ck3#11",
+    "quest": ["heiraten ~(vom Mann aus)~"],
+    "answer": ["жен_и_ться", "жен_и_лся", "жен_и_лись ~v. / uv.~"]
+  },
+  {
+    "id": "chap16-ck3#12",
+    "quest": ["Militärangehöriger"],
+    "answer": ["во_е_нный"]
+  },
+  {
+    "id": "chap16-ck3#13",
+    "quest": ["(er)öffnen"],
+    "answer": [
+      "откр_ы_ть",
+      "я откр_о_ю",
+      "ты откроешь",
+      "он / она / оно откроет",
+      "мы откроем",
+      "вы откроете",
+      "они откроют",
+      "- открыв_а_ть ~uv.~"
+    ]
+  },
+  {
+    "id": "chap16-ck3#14",
+    "quest": [""],
+    "answer": [""]
+  },
+  {
+    "id": "chap16-ck3#15",
+    "quest": ["verdienen"],
+    "answer": [
+      "зараб_о_тать ~v.~",
+      "зарабатывать ~uv.~",
+      "зарплата ~Lohn, Gehalt~"
+    ]
+  },
+  {
+    "id": "chap16-ck3#16",
+    "quest": ["Million"],
+    "answer": ["милли_о_н"]
+  },
+  {
+    "id": "chap16-ck3#17",
+    "quest": ["gewöhnlich"],
+    "answer": ["об_ы_чный", "об_ы_чная", "об_ы_чное", "об_ы_чные"]
+  },
+  {
+    "id": "chap16-ck3#18",
+    "quest": ["Perestroika"],
+    "answer": ["перестр_о_йка"]
+  },
+  {
+    "id": "chap16-ck3#19",
+    "quest": ["leer"],
+    "answer": ["п_у_сто"]
+  },
+  {
+    "id": "chap16-ck3#20",
+    "quest": ["konnte", "konnten"],
+    "answer": ["мог", "могл_а_", "могл_и_"]
+  },
+  {
+    "id": "chap16-ck3#21",
+    "quest": ["wachsen"],
+    "answer": [
+      "расти",
+      "я расту",
+      "ты растёшь",
+      "он / она / оно растёт",
+      "мы растём",
+      "вы растёте",
+      "они растут",
+      "рос",
+      "росла",
+      "росли uv."
+    ]
+  },
+  {
+    "id": "chap16-ck3#22",
+    "quest": ["viele"],
+    "answer": ["мн_о_гие"]
+  },
+  {
+    "id": "chap16-ck3#23",
+    "quest": ["Bekannte(n)"],
+    "answer": ["знакомый", "знакомая", "знакомые"]
+  },
+  {
+    "id": "chap16-ck3#24",
+    "quest": ["aussichtslose, hoffnungslose Situation"],
+    "answer": ["безв_ы_ходная ситу_а_ция"]
+  },
+  {
+    "id": "chap16-ck3#25",
+    "quest": ["aus jeder Situation"],
+    "answer": ["из любой ситуации"]
+  },
+  {
+    "id": "chap16-ck3#26",
+    "quest": ["half", "halfen"],
+    "answer": ["пом_о_г", "помогл_а_", "помогл_и_ ~v.~"]
+  },
+  {
+    "id": "chap16-ck3#27",
+    "quest": ["zivilisiert"],
+    "answer": ["цивилиз_о_ванно"]
+  },
+  {
+    "id": "chap16-ck3#28",
+    "quest": ["verhandeln"],
+    "answer": ["догов_а_риваться ~uv.~"]
+  },
+  {
+    "id": "chap16-ck3#29",
+    "quest": ["E-Mail"],
+    "answer": ["электр_о_нная п_о_чта"]
+  },
+  {
+    "id": "chap16-ck3#30",
+    "quest": ["planen"],
+    "answer": ["план_и_ровать ~uv.~"]
+  },
+  {
+    "id": "chap16-ck3#31",
+    "quest": ["sportlich"],
+    "answer": ["спортивный", "спортивная", "спортивное", "спортивные"]
+  },
+  {
+    "id": "chap16-ck3#32",
+    "quest": ["Pelzmantel"],
+    "answer": ["ш_у_ба"]
+  },
+  {
+    "id": "chap16-ck3#33",
+    "quest": ["Tablet-PC"],
+    "answer": ["планш_е_т"]
+  },
+  {
+    "id": "chap16-ck3#34",
+    "quest": ["sich interessieren"],
+    "answer": ["интересов_а_ться ~+ Instr.~"]
+  },
+  {
+    "id": "chap16-ck3#35",
+    "quest": ["Asiatisch-Pazifischer Raum"],
+    "answer": ["Ази_а_тско-Тихооке_а_нский реги_о_н"]
+  },
+  {
+    "id": "chap16-ck3#36",
+    "quest": ["Bucht"],
+    "answer": ["б_у_хта"]
+  }
+]
