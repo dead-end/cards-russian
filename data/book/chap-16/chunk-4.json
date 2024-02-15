@@ -1,107 +1,198 @@
 [
   {
     "id": "chap16-ck4#00",
-    "quest": ["Fracht"],
-    "answer": ["груз"]
+    "quest": [
+      "Fracht"
+    ],
+    "answer": [
+      "груз"
+    ]
   },
   {
     "id": "chap16-ck4#01",
-    "quest": ["importieren"],
-    "answer": ["импорт_и_ровать ~uv.~"]
+    "quest": [
+      "importieren"
+    ],
+    "answer": [
+      "импорт_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#02",
-    "quest": ["exportieren"],
-    "answer": ["экспорт_и_ровать ~uv.~"]
+    "quest": [
+      "exportieren"
+    ],
+    "answer": [
+      "экспорт_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#03",
-    "quest": ["Lebensmittel"],
-    "answer": ["прод_у_кты пит_а_ния"]
+    "quest": [
+      "Lebensmittel"
+    ],
+    "answer": [
+      "прод_у_кты пит_а_ния"
+    ]
   },
   {
     "id": "chap16-ck4#04",
-    "quest": ["Pazifik"],
-    "answer": ["Т_и_хий оке_а_н"]
+    "quest": [
+      "Pazifik"
+    ],
+    "answer": [
+      "Т_и_хий оке_а_н"
+    ]
   },
   {
     "id": "chap16-ck4#05",
-    "quest": ["Atlantik"],
-    "answer": ["Атлант_и_ческий оке_а_н"]
+    "quest": [
+      "Atlantik"
+    ],
+    "answer": [
+      "Атлант_и_ческий оке_а_н"
+    ]
   },
   {
     "id": "chap16-ck4#06",
-    "quest": ["Metall"],
-    "answer": ["мет_а_лл"]
+    "quest": [
+      "Metall"
+    ],
+    "answer": [
+      "мет_а_лл"
+    ]
   },
   {
     "id": "chap16-ck4#07",
-    "quest": ["Meer-", "Meeres"],
-    "answer": ["морск_о_й", "морск_а_я", "морск_о_е", "морск_и_е"]
+    "quest": [
+      "Meer-",
+      "Meeres"
+    ],
+    "answer": [
+      "морск_о_й",
+      "морск_а_я",
+      "морск_о_е",
+      "морск_и_е"
+    ]
   },
   {
     "id": "chap16-ck4#08",
-    "quest": ["zufrieren"],
-    "answer": ["замерз_а_ть ~uv.~"]
+    "quest": [
+      "zufrieren"
+    ],
+    "answer": [
+      "замерз_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#09",
-    "quest": ["Südkorea"],
-    "answer": ["_Ю_жная Кор_е_я"]
+    "quest": [
+      "Südkorea"
+    ],
+    "answer": [
+      "_Ю_жная Кор_е_я"
+    ]
   },
   {
     "id": "chap16-ck4#10",
-    "quest": ["Taiwan"],
-    "answer": ["Тайв_а_нь ~m~"]
+    "quest": [
+      "Taiwan"
+    ],
+    "answer": [
+      "Тайв_а_нь ~m~"
+    ]
   },
   {
     "id": "chap16-ck4#11",
-    "quest": ["Vietnam"],
-    "answer": ["Вьетн_а_м"]
+    "quest": [
+      "Vietnam"
+    ],
+    "answer": [
+      "Вьетн_а_м"
+    ]
   },
   {
     "id": "chap16-ck4#12",
-    "quest": ["Meeresfrüchte"],
-    "answer": ["морепрод_у_кты"]
+    "quest": [
+      "Meeresfrüchte"
+    ],
+    "answer": [
+      "морепрод_у_кты"
+    ]
   },
   {
     "id": "chap16-ck4#13",
-    "quest": ["Schwarzmetalle"],
-    "answer": ["чёрные мет_а_ллы"]
+    "quest": [
+      "Schwarzmetalle"
+    ],
+    "answer": [
+      "чёрные мет_а_ллы"
+    ]
   },
   {
     "id": "chap16-ck4#14",
-    "quest": ["Buntmetalle"],
-    "answer": ["цветн_ы_е мет_а_ллы"]
+    "quest": [
+      "Buntmetalle"
+    ],
+    "answer": [
+      "цветн_ы_е мет_а_ллы"
+    ]
   },
   {
     "id": "chap16-ck4#15",
-    "quest": ["Erlauben Sie …", "Gestatten Sie …"],
-    "answer": ["Разреш_и_те …"]
+    "quest": [
+      "Erlauben Sie …",
+      "Gestatten Sie …"
+    ],
+    "answer": [
+      "Разреш_и_те …"
+    ]
   },
   {
     "id": "chap16-ck4#16",
-    "quest": ["Sortiment", "Palette"],
-    "answer": ["ассортим_е_нт"]
+    "quest": [
+      "Sortiment",
+      "Palette"
+    ],
+    "answer": [
+      "ассортим_е_нт"
+    ]
   },
   {
     "id": "chap16-ck4#17",
-    "quest": ["Fisch-"],
-    "answer": ["р_ы_бный", "р_ы_бная", "р_ы_бное", "р_ы_бные"]
+    "quest": [
+      "Fisch-"
+    ],
+    "answer": [
+      "р_ы_бный",
+      "р_ы_бная",
+      "р_ы_бное",
+      "р_ы_бные"
+    ]
   },
   {
     "id": "chap16-ck4#18",
-    "quest": ["Ferner Osten"],
-    "answer": ["Д_а_льний Вост_о_к"]
+    "quest": [
+      "Ferner Osten"
+    ],
+    "answer": [
+      "Д_а_льний Вост_о_к"
+    ]
   },
   {
     "id": "chap16-ck4#19",
-    "quest": ["Kataloge"],
-    "answer": ["катал_о_г"]
+    "quest": [
+      "Kataloge"
+    ],
+    "answer": [
+      "катал_о_г"
+    ]
   },
   {
     "id": "chap16-ck4#20",
-    "quest": ["auf … hoffen"],
+    "quest": [
+      "auf … hoffen"
+    ],
     "answer": [
       "над_е_яться на ~(+) Akk.~",
       "я над_е_юсь",
@@ -114,8 +205,12 @@
   },
   {
     "id": "chap16-ck4#21",
-    "quest": ["gute Zusammenarbeit"],
-    "answer": ["взаимов_ы_годное сотр_у_дничество"]
+    "quest": [
+      "gute Zusammenarbeit"
+    ],
+    "answer": [
+      "взаимов_ы_годное сотр_у_дничество"
+    ]
   },
   {
     "id": "chap16-ck4#22",
@@ -125,11 +220,16 @@
       "~in Briefen:~ Mit Hochachtung",
       "hochachtungsvoll"
     ],
-    "answer": ["С уваж_е_нием"]
+    "answer": [
+      "С уваж_е_нием"
+    ]
   },
   {
     "id": "chap16-ck4#23",
-    "quest": [""],
+    "quest": [
+      "retten",
+      "erretten"
+    ],
     "answer": [
       "­спасти",
       "(я) спасу",
@@ -145,27 +245,48 @@
   },
   {
     "id": "chap16-ck4#24",
-    "quest": ["chinesisch"],
-    "answer": ["кит_а_йский", "кит_а_йская", "кит_а_йское", "кит_а_йские"]
+    "quest": [
+      "chinesisch"
+    ],
+    "answer": [
+      "кит_а_йский",
+      "кит_а_йская",
+      "кит_а_йское",
+      "кит_а_йские"
+    ]
   },
   {
     "id": "chap16-ck4#25",
-    "quest": ["Rettung"],
-    "answer": ["спас_е_ние"]
+    "quest": [
+      "Rettung"
+    ],
+    "answer": [
+      "спас_е_ние"
+    ]
   },
   {
     "id": "chap16-ck4#26",
-    "quest": ["adoptieren"],
-    "answer": ["усынов_и_ть ~v.~"]
+    "quest": [
+      "adoptieren"
+    ],
+    "answer": [
+      "усынов_и_ть ~v.~"
+    ]
   },
   {
     "id": "chap16-ck4#27",
-    "quest": ["sofort"],
-    "answer": ["ср_а_зу"]
+    "quest": [
+      "sofort"
+    ],
+    "answer": [
+      "ср_а_зу"
+    ]
   },
   {
     "id": "chap16-ck4#28",
-    "quest": ["entscheiden"],
+    "quest": [
+      "entscheiden"
+    ],
     "answer": [
       "реш_и_ть ~v.~",
       "(я) реш_у_",
@@ -179,17 +300,28 @@
   },
   {
     "id": "chap16-ck4#29",
-    "quest": ["Fernöstliche Küstenregion"],
-    "answer": ["Прим_о_рье"]
+    "quest": [
+      "Fernöstliche Küstenregion"
+    ],
+    "answer": [
+      "Прим_о_рье"
+    ]
   },
   {
     "id": "chap16-ck4#30",
-    "quest": ["wollen"],
-    "answer": ["захотеть ~v.~", "хотеть ~uv.~"]
+    "quest": [
+      "wollen"
+    ],
+    "answer": [
+      "захотеть ~v.~",
+      "хотеть ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#31",
-    "quest": ["bezahlen"],
+    "quest": [
+      "bezahlen"
+    ],
     "answer": [
       "заплат_и_ть ~v.~",
       "(я) заплачу",
@@ -203,22 +335,38 @@
   },
   {
     "id": "chap16-ck4#32",
-    "quest": ["träumen"],
-    "answer": ["мечтать ~uv.~"]
+    "quest": [
+      "träumen"
+    ],
+    "answer": [
+      "мечтать ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#33",
-    "quest": ["wegfahren"],
-    "answer": ["уехать ~v.~", "уезжать ~uv.~"]
+    "quest": [
+      "wegfahren"
+    ],
+    "answer": [
+      "уехать ~v.~",
+      "уезжать ~uv.~"
+    ]
   },
   {
     "id": "chap16-ck4#34",
-    "quest": ["alles hängt von uns ab"],
-    "answer": ["всё зав_и_сит от нас"]
+    "quest": [
+      "alles hängt von uns ab"
+    ],
+    "answer": [
+      "всё зав_и_сит от нас"
+    ]
   },
   {
     "id": "chap16-ck4#35",
-    "quest": ["~hier:~ lehren", "beibringen"],
+    "quest": [
+      "~hier:~ lehren",
+      "beibringen"
+    ],
     "answer": [
       "учить ~uv. (+) Akk.~",
       "(я) учу",
@@ -231,7 +379,11 @@
   },
   {
     "id": "chap16-ck4#36",
-    "quest": ["Adoptiveltern ~Pl.~"],
-    "answer": ["усынов_и_тели ~Pl.~"]
+    "quest": [
+      "Adoptiveltern ~Pl.~"
+    ],
+    "answer": [
+      "усынов_и_тели ~Pl.~"
+    ]
   }
 ]
