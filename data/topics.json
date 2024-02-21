@@ -311,7 +311,12 @@
   },
   {
     "file": "data/book/chap-17/chunk-1.json",
-    "title": "Kapitel 17 Teil 7",
+    "title": "Kapitel 17 Teil 1",
+    "tags": ["Buch", "Kapitel-17"]
+  },
+  {
+    "file": "data/book/chap-17/chunk-2.json",
+    "title": "Kapitel 17 Teil 2",
     "tags": ["Buch", "Kapitel-17"]
   },
   {
