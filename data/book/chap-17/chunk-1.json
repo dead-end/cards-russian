@@ -1,17 +1,28 @@
 [
   {
     "id": "chap17-ck1#00",
-    "quest": ["Welt", "Frieden"],
-    "answer": ["мир"]
+    "quest": [
+      "Welt",
+      "Frieden"
+    ],
+    "answer": [
+      "мир"
+    ]
   },
   {
     "id": "chap17-ck1#01",
-    "quest": ["Umfrage"],
-    "answer": ["опрос"]
+    "quest": [
+      "Umfrage"
+    ],
+    "answer": [
+      "опр_о_с"
+    ]
   },
   {
     "id": "chap17-ck1#02",
-    "quest": ["erfahren"],
+    "quest": [
+      "erfahren"
+    ],
     "answer": [
       "узн_а_ть ~v.~",
       "я узн_а_ю",
@@ -25,113 +36,212 @@
   },
   {
     "id": "chap17-ck1#03",
-    "quest": [""],
-    "answer": ["интер_е_сен", "интер_е_сна", "интер_е_сно", "интер_е_сны"]
+    "quest": [
+      "interessant"
+    ],
+    "answer": [
+      "интер_е_сен",
+      "интер_е_сна",
+      "интер_е_сно",
+      "интер_е_сны"
+    ]
   },
   {
     "id": "chap17-ck1#04",
-    "quest": ["Neuigkeit", "Nachrichten"],
-    "answer": ["новость ~f~"]
+    "quest": [
+      "Neuigkeit",
+      "Nachrichten"
+    ],
+    "answer": [
+      "н_о_вость ~f~"
+    ]
   },
   {
     "id": "chap17-ck1#05",
-    "quest": ["Ergebnis", "Bilanz"],
-    "answer": ["ит_о_г"]
+    "quest": [
+      "Ergebnis",
+      "Bilanz"
+    ],
+    "answer": [
+      "ит_о_г"
+    ]
   },
   {
     "id": "chap17-ck1#06",
-    "quest": ["Kochsendung"],
-    "answer": ["кулин_а_рная прогр_а_мма"]
+    "quest": [
+      "Kochsendung"
+    ],
+    "answer": [
+      "кулин_а_рная прогр_а_мма"
+    ]
   },
   {
     "id": "chap17-ck1#07",
-    "quest": ["Sendung"],
-    "answer": ["перед_а_ча"]
+    "quest": [
+      "Sendung"
+    ],
+    "answer": [
+      "перед_а_ча"
+    ]
   },
   {
     "id": "chap17-ck1#08",
-    "quest": ["vorziehen", "den Vorzug geben"],
-    "answer": ["предпочит_а_ть ~uv.~"]
+    "quest": [
+      "vorziehen",
+      "den Vorzug geben"
+    ],
+    "answer": [
+      "предпочит_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck1#09",
-    "quest": ["Ökonom"],
-    "answer": ["эконом_и_ст"]
+    "quest": [
+      "Ökonom"
+    ],
+    "answer": [
+      "эконом_и_ст"
+    ]
   },
   {
     "id": "chap17-ck1#10",
-    "quest": ["Actionfilm"],
-    "answer": ["боев_и_к"]
+    "quest": [
+      "Actionfilm"
+    ],
+    "answer": [
+      "боев_и_к"
+    ]
   },
   {
     "id": "chap17-ck1#11",
-    "quest": ["Thriller"],
-    "answer": ["тр_и_ллер"]
+    "quest": [
+      "Thriller"
+    ],
+    "answer": [
+      "тр_и_ллер"
+    ]
   },
   {
     "id": "chap17-ck1#12",
-    "quest": ["ständig", "immer wieder"],
-    "answer": ["посто_я_нно", "постоянная работа ~hier: unbefristete Arbeit~"]
+    "quest": [
+      "ständig",
+      "immer wieder"
+    ],
+    "answer": [
+      "посто_я_нно",
+      "постоянная работа ~hier: unbefristete Arbeit~"
+    ]
   },
   {
     "id": "chap17-ck1#13",
-    "quest": ["einschalten"],
-    "answer": ["включать ~uv.~"]
+    "quest": [
+      "einschalten"
+    ],
+    "answer": [
+      "включ_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck1#14",
-    "quest": ["Wettervorhersage"],
-    "answer": ["прогн_о_з пог_о_ды"]
+    "quest": [
+      "Wettervorhersage"
+    ],
+    "answer": [
+      "прогн_о_з пог_о_ды"
+    ]
   },
   {
     "id": "chap17-ck1#15",
-    "quest": ["Ereignis"],
-    "answer": ["соб_ы_тие"]
+    "quest": [
+      "Ereignis"
+    ],
+    "answer": [
+      "соб_ы_тие"
+    ]
   },
   {
     "id": "chap17-ck1#16",
-    "quest": ["Zeichentrickfilm"],
-    "answer": ["мультф_и_льм"]
+    "quest": [
+      "Zeichentrickfilm"
+    ],
+    "answer": [
+      "мультф_и_льм"
+    ]
   },
   {
     "id": "chap17-ck1#17",
-    "quest": ["Meinung"],
-    "answer": ["мн_е_ние"]
+    "quest": [
+      "Meinung"
+    ],
+    "answer": [
+      "мн_е_ние"
+    ]
   },
   {
     "id": "chap17-ck1#32",
-    "quest": ["Vorschlag"],
-    "answer": ["предлож_е_ние"]
+    "quest": [
+      "Vorschlag"
+    ],
+    "answer": [
+      "предлож_е_ние"
+    ]
   },
   {
     "id": "chap17-ck1#18",
-    "quest": ["Raum"],
-    "answer": ["помещ_е_ние"]
+    "quest": [
+      "Raum"
+    ],
+    "answer": [
+      "помещ_е_ние"
+    ]
   },
   {
     "id": "chap17-ck1#19",
-    "quest": ["Kommunikation", "Umgang"],
-    "answer": ["общ_е_ние"]
+    "quest": [
+      "Kommunikation",
+      "Umgang"
+    ],
+    "answer": [
+      "общ_е_ние",
+      "сообщение ~Bericht, Beitrag~"
+    ]
   },
   {
     "id": "chap17-ck1#33",
-    "quest": ["Fernsehen"],
-    "answer": ["телевидение"]
+    "quest": [
+      "Fernsehen"
+    ],
+    "answer": [
+      "телевидение"
+    ]
   },
   {
     "id": "chap17-ck1#20",
-    "quest": ["Fernsehturm"],
-    "answer": ["телевизи_о_нная б_а_шня", "б_а_шен ~Gen. Pl.~"]
+    "quest": [
+      "Fernsehturm"
+    ],
+    "answer": [
+      "телевизи_о_нная б_а_шня",
+      "б_а_шен ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck1#21",
-    "quest": ["Höhe"],
-    "answer": ["высот_а_"]
+    "quest": [
+      "Höhe"
+    ],
+    "answer": [
+      "высот_а_"
+    ]
   },
   {
     "id": "chap17-ck1#22",
-    "quest": ["Meter"],
-    "answer": ["метр"]
+    "quest": [
+      "Meter"
+    ],
+    "answer": [
+      "метр"
+    ]
   },
   {
     "id": "chap17-ck1#23",
@@ -140,46 +250,89 @@
       "aufhören",
       "vergehen - verging, vergangen"
     ],
-    "answer": ["проход_и_ть ~uv.~"]
+    "answer": [
+      "проход_и_ть ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck1#24",
-    "quest": ["Schauspiel", "Aufführung"],
-    "answer": ["спект_а_кль ~m~"]
+    "quest": [
+      "Schauspiel",
+      "Aufführung"
+    ],
+    "answer": [
+      "спект_а_кль ~m~"
+    ]
   },
   {
     "id": "chap17-ck1#25",
-    "quest": ["Seminar"],
-    "answer": ["семин_а_р"]
+    "quest": [
+      "Seminar"
+    ],
+    "answer": [
+      "семин_а_р"
+    ]
   },
   {
     "id": "chap17-ck1#26",
-    "quest": ["Exkursion", "Ausflug", "Führung"],
-    "answer": ["экск_у_рсия"]
+    "quest": [
+      "Exkursion",
+      "Ausflug",
+      "Führung"
+    ],
+    "answer": [
+      "экск_у_рсия"
+    ]
   },
   {
     "id": "chap17-ck1#27",
-    "quest": ["ungewöhnlich"],
-    "answer": ["необ_ы_чный", "необ_ы_чная", "необ_ы_чное", "необ_ы_чные"]
+    "quest": [
+      "ungewöhnlich"
+    ],
+    "answer": [
+      "необ_ы_чный",
+      "необ_ы_чная",
+      "необ_ы_чное",
+      "необ_ы_чные"
+    ]
   },
   {
     "id": "chap17-ck1#28",
-    "quest": ["Tradition"],
-    "answer": ["трад_и_ция"]
+    "quest": [
+      "Tradition"
+    ],
+    "answer": [
+      "трад_и_ция"
+    ]
   },
   {
     "id": "chap17-ck1#29",
-    "quest": ["ausländisch", "Auslands-"],
-    "answer": ["заруб_е_жный", "заруб_е_жная", "заруб_е_жное", "заруб_е_жные"]
+    "quest": [
+      "ausländisch",
+      "Auslands-"
+    ],
+    "answer": [
+      "заруб_е_жный",
+      "заруб_е_жная",
+      "заруб_е_жное",
+      "заруб_е_жные"
+    ]
   },
   {
     "id": "chap17-ck1#30",
-    "quest": ["Liga"],
-    "answer": ["л_и_га"]
+    "quest": [
+      "Liga"
+    ],
+    "answer": [
+      "л_и_га"
+    ]
   },
   {
     "id": "chap17-ck1#31",
-    "quest": ["kommunizieren", "verkehren mit"],
+    "quest": [
+      "kommunizieren",
+      "verkehren mit"
+    ],
     "answer": [
       "общ_а_ться с ~(+) Instr. uv.~",
       "я общаюсь",
