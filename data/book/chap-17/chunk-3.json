@@ -1,52 +1,94 @@
 [
   {
     "id": "chap17-ck3#00",
-    "quest": ["Generaldirektor"],
-    "answer": ["генер_а_льный дир_е_ктор"]
+    "quest": [
+      "Generaldirektor"
+    ],
+    "answer": [
+      "генер_а_льный дир_е_ктор"
+    ]
   },
   {
     "id": "chap17-ck3#01",
-    "quest": ["für etw. / jmdn. verantwortlich sein"],
-    "answer": ["отвеч_а_ть за ~(+) Akk.~"]
+    "quest": [
+      "für etw. / jmdn. verantwortlich sein"
+    ],
+    "answer": [
+      "отвеч_а_ть за ~(+) Akk.~",
+      "ответ ~Antwort~"
+    ]
   },
   {
     "id": "chap17-ck3#02",
-    "quest": ["Beschaffung"],
-    "answer": ["зак_у_пка", "зак_у_пок ~Gen. Pl.~"]
+    "quest": [
+      "Beschaffung"
+    ],
+    "answer": [
+      "зак_у_пка",
+      "зак_у_пок ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck3#03",
-    "quest": ["Verkauf"],
-    "answer": ["прод_а_жа"]
+    "quest": [
+      "Verkauf"
+    ],
+    "answer": [
+      "прод_а_жа"
+    ]
   },
   {
     "id": "chap17-ck3#04",
-    "quest": ["eigentlich"],
-    "answer": ["с_о_бственно"]
+    "quest": [
+      "eigentlich"
+    ],
+    "answer": [
+      "с_о_бственно"
+    ]
   },
   {
     "id": "chap17-ck3#05",
-    "quest": ["Bote"],
-    "answer": ["курь_е_р"]
+    "quest": [
+      "Bote"
+    ],
+    "answer": [
+      "курь_е_р"
+    ]
   },
   {
     "id": "chap17-ck3#06",
-    "quest": ["Modem"],
-    "answer": ["мод_е_м"]
+    "quest": [
+      "Modem"
+    ],
+    "answer": [
+      "мод_е_м"
+    ]
   },
   {
     "id": "chap17-ck3#07",
-    "quest": ["USB-Stick"],
-    "answer": ["фл_е_шка", "фл_е_шек ~Gen. Pl.~"]
+    "quest": [
+      "USB-Stick"
+    ],
+    "answer": [
+      "фл_е_шка",
+      "фл_е_шек ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck3#08",
-    "quest": ["Mauspad"],
-    "answer": ["к_о_врик для м_ы_ши", "к_о_врик ~Matte, Badevorleger~"]
+    "quest": [
+      "Mauspad"
+    ],
+    "answer": [
+      "к_о_врик для м_ы_ши",
+      "к_о_врик ~Matte, Badevorleger~"
+    ]
   },
   {
     "id": "chap17-ck3#09",
-    "quest": ["bringen"],
+    "quest": [
+      "bringen"
+    ],
     "answer": [
       "прин_о_сить ~uv.~",
       "я принош_у_",
@@ -59,32 +101,58 @@
   },
   {
     "id": "chap17-ck3#10",
-    "quest": ["Kleinigkeit"],
-    "answer": ["м_е_лочь ~f~", "мелоч_е_й ~Gen. Pl.~"]
+    "quest": [
+      "Kleinigkeit"
+    ],
+    "answer": [
+      "м_е_лочь ~f~",
+      "мелоч_е_й ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck3#11",
-    "quest": ["erfreuen", "eine Freude bereiten"],
-    "answer": ["пор_а_довать ~v.~", "р_а_довать ~uv.~"]
+    "quest": [
+      "erfreuen",
+      "eine Freude bereiten"
+    ],
+    "answer": [
+      "пор_а_довать ~v.~",
+      "р_а_довать ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck3#12",
-    "quest": ["kleines Unternehmen"],
-    "answer": ["м_а_лый б_и_знес"]
+    "quest": [
+      "kleines Unternehmen"
+    ],
+    "answer": [
+      "м_а_лый б_и_знес",
+      "- маленький ~klein~"
+    ]
   },
   {
     "id": "chap17-ck3#13",
-    "quest": ["konkurrieren"],
-    "answer": ["конкур_и_ровать ~uv.~"]
+    "quest": [
+      "konkurrieren"
+    ],
+    "answer": [
+      "конкур_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck3#14",
-    "quest": ["individuell"],
-    "answer": ["индивиду_а_льно"]
+    "quest": [
+      "individuell"
+    ],
+    "answer": [
+      "индивиду_а_льно"
+    ]
   },
   {
     "id": "chap17-ck3#15",
-    "quest": ["Computer-"],
+    "quest": [
+      "Computer-"
+    ],
     "answer": [
       "компь_ю_терный",
       "компь_ю_терная",
@@ -94,22 +162,42 @@
   },
   {
     "id": "chap17-ck3#16",
-    "quest": ["echt", "richtig", "origina"],
-    "answer": ["насто_я_щий", "насто_я_щая", "насто_я_щее", "насто_я_щие"]
+    "quest": [
+      "echt",
+      "richtig",
+      "origina"
+    ],
+    "answer": [
+      "насто_я_щий",
+      "насто_я_щая",
+      "насто_я_щее",
+      "насто_я_щие"
+    ]
   },
   {
     "id": "chap17-ck3#17",
-    "quest": ["eine Zeitlang arbeiten"],
-    "answer": ["пораб_о_тать ~v.~"]
+    "quest": [
+      "eine Zeitlang arbeiten"
+    ],
+    "answer": [
+      "пораб_о_тать ~v.~"
+    ]
   },
   {
     "id": "chap17-ck3#18",
-    "quest": ["Freude"],
-    "answer": ["радость ~f~"]
+    "quest": [
+      "Freude"
+    ],
+    "answer": [
+      "радость ~f~"
+    ]
   },
   {
     "id": "chap17-ck3#19",
-    "quest": ["zurückkehren", "zurückkommen"],
+    "quest": [
+      "zurückkehren",
+      "zurückkommen"
+    ],
     "answer": [
       "верн_у_ться ~v.~",
       "я верн_у_сь",
@@ -123,62 +211,122 @@
   },
   {
     "id": "chap17-ck3#20",
-    "quest": ["Vorfahren"],
-    "answer": ["пр_е_дки ~ugs.~"]
+    "quest": [
+      "Vorfahren"
+    ],
+    "answer": [
+      "пр_е_дки ~ugs.~",
+      "прародители ~Vorfahren~"
+    ]
   },
   {
     "id": "chap17-ck3#21",
-    "quest": ["Kaufmann (alt)"],
-    "answer": ["куп_е_ц", "купцы ~Nom. Pl.~", "купцов ~Gen. Pl.~"]
+    "quest": [
+      "Kaufmann (alt)"
+    ],
+    "answer": [
+      "куп_е_ц",
+      "купцы ~Nom. Pl.~",
+      "купцов ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck3#22",
-    "quest": ["Gründer"],
-    "answer": ["основ_а_тель ~m~"]
+    "quest": [
+      "Gründer"
+    ],
+    "answer": [
+      "основ_а_тель ~m~",
+      "в основном ~hauptsächlich~"
+    ]
   },
   {
     "id": "chap17-ck3#23",
-    "quest": ["Urgroßvater"],
-    "answer": ["прад_е_душка"]
+    "quest": [
+      "Urgroßvater"
+    ],
+    "answer": [
+      "прад_е_душка"
+    ]
   },
   {
     "id": "chap17-ck3#24",
-    "quest": ["Zarin"],
-    "answer": ["цар_и_ца"]
+    "quest": [
+      "Zarin"
+    ],
+    "answer": [
+      "цар_и_ца"
+    ]
   },
   {
     "id": "chap17-ck3#25",
-    "quest": ["Zusammenfluss"],
-    "answer": ["сли_я_ние"]
+    "quest": [
+      "Zusammenfluss"
+    ],
+    "answer": [
+      "сли_я_ние"
+    ]
   },
   {
     "id": "chap17-ck3#26",
-    "quest": ["Hügel"],
-    "answer": ["холм"]
+    "quest": [
+      "Hügel"
+    ],
+    "answer": [
+      "холм"
+    ]
   },
   {
     "id": "chap17-ck3#27",
-    "quest": ["Informationstechnologien"],
-    "answer": ["информаци_о_нные технол_о_гии"]
+    "quest": [
+      "Informationstechnologien"
+    ],
+    "answer": [
+      "информаци_о_нные технол_о_гии"
+    ]
   },
   {
     "id": "chap17-ck3#28",
-    "quest": ["liegen", "sich befinden"],
-    "answer": ["распол_о_жен", "распол_о_жна", "распол_о_жно", "распол_о_жны"]
+    "quest": [
+      "liegen",
+      "sich befinden"
+    ],
+    "answer": [
+      "распол_о_жен",
+      "распол_о_жна",
+      "распол_о_жно",
+      "распол_о_жны"
+    ]
   },
   {
     "id": "chap17-ck3#29",
-    "quest": ["Software-"],
-    "answer": ["софтв_е_рный", "софтв_е_рная", "софтв_е_рное", "софтв_е_рные"]
+    "quest": [
+      "Software-"
+    ],
+    "answer": [
+      "софтв_е_рный",
+      "софтв_е_рная",
+      "софтв_е_рное",
+      "софтв_е_рные"
+    ]
   },
   {
     "id": "chap17-ck3#30",
-    "quest": ["höflich"],
-    "answer": ["в_е_жливый", "в_е_жливая", "в_е_жливое", "в_е_жливые"]
+    "quest": [
+      "höflich"
+    ],
+    "answer": [
+      "в_е_жливый",
+      "в_е_жливая",
+      "в_е_жливое",
+      "в_е_жливые"
+    ]
   },
   {
     "id": "chap17-ck3#31",
-    "quest": ["gastfreundlich"],
+    "quest": [
+      "gastfreundlich"
+    ],
     "answer": [
       "гостепри_и_мный",
       "гостепри_и_мная",
@@ -188,7 +336,9 @@
   },
   {
     "id": "chap17-ck3#32",
-    "quest": ["potenziell"],
+    "quest": [
+      "potenziell"
+    ],
     "answer": [
       "потенци_а_льный",
       "потенци_а_льная",

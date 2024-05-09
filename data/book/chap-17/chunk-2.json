@@ -1,17 +1,33 @@
 [
   {
     "id": "chap17-ck2#00",
-    "quest": ["brauchen"],
-    "answer": ["н_у_жен", "нужн_а_", "нужн_о_", "н_у_жны"]
+    "quest": [
+      "brauchen"
+    ],
+    "answer": [
+      "н_у_жен",
+      "нужн_а_",
+      "нужн_о_",
+      "н_у_жны"
+    ]
   },
   {
     "id": "chap17-ck2#01",
-    "quest": ["normal"],
-    "answer": ["норм_а_льный", "норм_а_льная", "норм_а_льное", "норм_а_льные"]
+    "quest": [
+      "normal"
+    ],
+    "answer": [
+      "норм_а_льный",
+      "норм_а_льная",
+      "норм_а_льное",
+      "норм_а_льные"
+    ]
   },
   {
     "id": "chap17-ck2#02",
-    "quest": ["(zweckgemäß) benutzen"],
+    "quest": [
+      "(zweckgemäß) benutzen"
+    ],
     "answer": [
       "п_о_льзоваться ~uv.~",
       "я п_о_льзуюсь",
@@ -24,17 +40,27 @@
   },
   {
     "id": "chap17-ck2#03",
-    "quest": ["Handy"],
-    "answer": ["моб_и_льник"]
+    "quest": [
+      "Handy"
+    ],
+    "answer": [
+      "моб_и_льник"
+    ]
   },
   {
     "id": "chap17-ck2#04",
-    "quest": ["in vielen Ländern"],
-    "answer": ["во мн_о_гих стр_а_нах"]
+    "quest": [
+      "in vielen Ländern"
+    ],
+    "answer": [
+      "во мн_о_гих стр_а_нах"
+    ]
   },
   {
     "id": "chap17-ck2#05",
-    "quest": ["befreundet sein"],
+    "quest": [
+      "befreundet sein"
+    ],
     "answer": [
       "друж_и_ть ~uv.~",
       "Я друж_у_",
@@ -47,47 +73,84 @@
   },
   {
     "id": "chap17-ck2#06",
-    "quest": ["soziales Netzwerk"],
-    "answer": ["соци_а_льная сеть ~f~"]
+    "quest": [
+      "soziales Netzwerk"
+    ],
+    "answer": [
+      "соци_а_льная сеть ~f~"
+    ]
   },
   {
     "id": "chap17-ck2#07",
-    "quest": ["Twitter"],
-    "answer": ["Тв_и_ттер"]
+    "quest": [
+      "Twitter"
+    ],
+    "answer": [
+      "Тв_и_ттер"
+    ]
   },
   {
     "id": "chap17-ck2#08",
-    "quest": ["Onlinezeitung"],
-    "answer": ["онл_а_йн-газ_е_та"]
+    "quest": [
+      "Onlinezeitung"
+    ],
+    "answer": [
+      "онл_а_йн-газ_е_та"
+    ]
   },
   {
     "id": "chap17-ck2#09",
-    "quest": ["tatsächlich"],
-    "answer": ["действ_и_тельно"]
+    "quest": [
+      "tatsächlich"
+    ],
+    "answer": [
+      "действ_и_тельно"
+    ]
   },
   {
     "id": "chap17-ck2#10",
-    "quest": ["begrüßen"],
-    "answer": ["приветствовать ~uv.~"]
+    "quest": [
+      "begrüßen"
+    ],
+    "answer": [
+      "приветствовать ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck2#11",
-    "quest": ["Rolle"],
-    "answer": ["роль ~f~"]
+    "quest": [
+      "Rolle"
+    ],
+    "answer": [
+      "роль ~f~"
+    ]
   },
   {
     "id": "chap17-ck2#12",
-    "quest": ["Fashion Blogger"],
-    "answer": ["фэшн-бл_о_ггер"]
+    "quest": [
+      "Fashion Blogger"
+    ],
+    "answer": [
+      "фэшн-бл_о_ггер"
+    ]
   },
   {
     "id": "chap17-ck2#13",
-    "quest": ["real"],
-    "answer": ["ре_а_льный", "ре_а_льная", "ре_а_льное", "ре_а_льные"]
+    "quest": [
+      "real"
+    ],
+    "answer": [
+      "ре_а_льный",
+      "ре_а_льная",
+      "ре_а_льное",
+      "ре_а_льные"
+    ]
   },
   {
     "id": "chap17-ck2#14",
-    "quest": ["fragen"],
+    "quest": [
+      "fragen"
+    ],
     "answer": [
       "спрос_и_ть ~v.~",
       "я спрош_у_",
@@ -101,22 +164,42 @@
   },
   {
     "id": "chap17-ck2#15",
-    "quest": ["jmdn. kennen", "mit jmdm. bekannt sein"],
-    "answer": ["знаком", "знакома", "знакомы"]
+    "quest": [
+      "jmdn. kennen",
+      "mit jmdm. bekannt sein",
+      "- kurz"
+    ],
+    "answer": [
+      "знаком",
+      "знакома",
+      "знакомы"
+    ]
   },
   {
     "id": "chap17-ck2#16",
-    "quest": ["Mitschüler", "Klassenkamerad"],
-    "answer": ["однокл_а_ссник"]
+    "quest": [
+      "Mitschüler",
+      "Klassenkamerad"
+    ],
+    "answer": [
+      "однокл_а_ссник"
+    ]
   },
   {
     "id": "chap17-ck2#17",
-    "quest": ["Ding", "Sache"],
-    "answer": ["вещь ~f~"]
+    "quest": [
+      "Ding",
+      "Sache"
+    ],
+    "answer": [
+      "вещь ~f~"
+    ]
   },
   {
     "id": "chap17-ck2#18",
-    "quest": ["suchen"],
+    "quest": [
+      "suchen"
+    ],
     "answer": [
       "поиск_а_ть",
       "Я поищ_у_",
@@ -130,7 +213,10 @@
   },
   {
     "id": "chap17-ck2#19",
-    "quest": ["mit jmdm. Bekanntschaft schließen", "jmdn. kennenlernen"],
+    "quest": [
+      "mit jmdm. Bekanntschaft schließen",
+      "jmdn. kennenlernen"
+    ],
     "answer": [
       "знак_о_миться с ~uv. (+) Instr.~",
       "я знак_о_млюсь",
@@ -143,27 +229,48 @@
   },
   {
     "id": "chap17-ck2#20",
-    "quest": ["enttäuschen"],
-    "answer": ["разочар_о_вывать ~uv.~"]
+    "quest": [
+      "enttäuschen"
+    ],
+    "answer": [
+      "разочар_о_вывать ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck2#21",
-    "quest": ["auf eine Homepage gehen"],
-    "answer": ["заход_и_ть на сайт ~uv.~"]
+    "quest": [
+      "auf eine Homepage gehen"
+    ],
+    "answer": [
+      "заход_и_ть на сайт ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck2#22",
-    "quest": ["mit jmdm. kommunizieren", "verkehren"],
-    "answer": ["пообщ_а_ться с ~v.~", "общаться ~uv. (+) Instr.~"]
+    "quest": [
+      "mit jmdm. kommunizieren",
+      "verkehren"
+    ],
+    "answer": [
+      "пообщ_а_ться с ~v.~",
+      "общаться ~uv. (+) Instr.~"
+    ]
   },
   {
     "id": "chap17-ck2#23",
-    "quest": ["zusenden"],
-    "answer": ["присылать ~uv.~"]
+    "quest": [
+      "zusenden"
+    ],
+    "answer": [
+      "присылать ~uv.~"
+    ]
   },
   {
     "id": "chap17-ck2#24",
-    "quest": ["(be)grüßen", "sich begrüßen"],
+    "quest": [
+      "(be)grüßen",
+      "sich begrüßen"
+    ],
     "answer": [
       "здор_о_ваться с ~uv. (+) Instr.~",
       "Я здор_о_ваюсь",
@@ -176,42 +283,85 @@
   },
   {
     "id": "chap17-ck2#25",
-    "quest": ["jünger", "jüngste"],
-    "answer": ["мл_а_дший", "мл_а_дшая", "мл_а_дшее", "мл_а_дшие"]
+    "quest": [
+      "jünger",
+      "jüngste"
+    ],
+    "answer": [
+      "мл_а_дший",
+      "мл_а_дшая",
+      "мл_а_дшее",
+      "мл_а_дшие",
+      "- молодой ~jung~"
+    ]
   },
   {
     "id": "chap17-ck2#26",
-    "quest": ["Nachbar"],
-    "answer": ["сос_е_д", "сос_е_ди ~Nom. Pl.~", "сос_е_дей ~Gen. Pl.~"]
+    "quest": [
+      "Nachbar"
+    ],
+    "answer": [
+      "сос_е_д",
+      "сос_е_ди ~Nom. Pl.~",
+      "сос_е_дей ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap17-ck2#27",
-    "quest": ["wichtig"],
-    "answer": ["в_а_жен", "важн_а_", "важн_о_", "в_а_жны"]
+    "quest": [
+      "wichtig ~kurz~"
+    ],
+    "answer": [
+      "в_а_жен",
+      "важн_а_",
+      "важн_о_",
+      "в_а_жны"
+    ]
   },
   {
     "id": "chap17-ck2#28",
-    "quest": ["Inhaber", "Besitzer"],
-    "answer": ["влад_е_лец", "влад_е_льца ~Gen. Sg.~"]
+    "quest": [
+      "Inhaber",
+      "Besitzer"
+    ],
+    "answer": [
+      "влад_е_лец",
+      "влад_е_льца ~Gen. Sg.~"
+    ]
   },
   {
     "id": "chap17-ck2#29",
-    "quest": ["Computer ~ugs.~"],
-    "answer": ["комп"]
+    "quest": [
+      "Computer ~ugs.~"
+    ],
+    "answer": [
+      "комп"
+    ]
   },
   {
     "id": "chap17-ck2#30",
-    "quest": ["~hier:~ Unternehmen", "Geschäft"],
-    "answer": ["д_е_ло"]
+    "quest": [
+      "~hier:~ Unternehmen",
+      "Geschäft"
+    ],
+    "answer": [
+      "д_е_ло"
+    ]
   },
   {
     "id": "chap17-ck2#31",
-    "quest": ["Startkapital"],
-    "answer": ["ст_а_ртовый капит_а_л"]
+    "quest": [
+      "Startkapital"
+    ],
+    "answer": [
+      "ст_а_ртовый капит_а_л"
+    ]
   },
   {
     "id": "chap17-ck2#32",
-    "quest": ["aufteilen"],
+    "quest": [
+      "aufteilen"
+    ],
     "answer": [
       "раздел_и_ть ~v.~",
       "Я раздел_ю_",
@@ -219,7 +369,8 @@
       "Он/она/оно разделит",
       "Мы разделим",
       "Вы разделите",
-      "Они разд_е_лят"
+      "Они разд_е_лят",
+      "- делить ~trennen, einteilen~"
     ]
   }
 ]
