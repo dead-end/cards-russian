@@ -50,7 +50,9 @@
   {
     "id": "chap18-ck1#04",
     "quest": [
-      "~hier:~ Schifffahrt"
+      "~hier:~ Schifffahrt",
+      "Spaziergang",
+      "Tour"
     ],
     "answer": [
       "прог_у_лка",
