@@ -1,12 +1,20 @@
 [
   {
     "id": "chap18-ck1#00",
-    "quest": ["kommen", "ankommen"],
-    "answer": ["приех_а_ть ~v.~", "приезж_а_ть ~uv.~"]
+    "quest": [
+      "kommen",
+      "ankommen"
+    ],
+    "answer": [
+      "приех_а_ть ~v.~",
+      "приезж_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck1#01",
-    "quest": ["~hier:~ eine Fahrt machen"],
+    "quest": [
+      "~hier:~ eine Fahrt machen"
+    ],
     "answer": [
       "соверш_и_ть путеш_е_ствие ~v.~",
       "(я) совершаю",
@@ -20,12 +28,19 @@
   },
   {
     "id": "chap18-ck1#02",
-    "quest": ["Bord"],
-    "answer": ["борт", "на борту ~Präp. Sg.~"]
+    "quest": [
+      "Bord"
+    ],
+    "answer": [
+      "борт",
+      "на борту ~Präp. Sg.~"
+    ]
   },
   {
     "id": "chap18-ck1#03",
-    "quest": ["Motorschiff"],
+    "quest": [
+      "Motorschiff"
+    ],
     "answer": [
       "теплох_о_д",
       "- тепло ~die Wärme~",
@@ -34,17 +49,30 @@
   },
   {
     "id": "chap18-ck1#04",
-    "quest": ["~hier:~ Schifffahrt"],
-    "answer": ["прог_у_лка", "прог_у_лок ~Gen. Pl.~"]
+    "quest": [
+      "~hier:~ Schifffahrt",
+      "Spaziergang",
+      "Tour"
+    ],
+    "answer": [
+      "прог_у_лка",
+      "прог_у_лок ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap18-ck1#05",
-    "quest": ["~hier:~ Art und Weise"],
-    "answer": ["сп_о_соб"]
+    "quest": [
+      "~hier:~ Art und Weise"
+    ],
+    "answer": [
+      "сп_о_соб"
+    ]
   },
   {
     "id": "chap18-ck1#06",
-    "quest": ["genießen"],
+    "quest": [
+      "genießen"
+    ],
     "answer": [
       "наслад_и_ться ~v.~ (+) Instr.",
       "(я) наслажусь",
@@ -58,47 +86,82 @@
   },
   {
     "id": "chap18-ck1#07",
-    "quest": ["Schönheit"],
-    "answer": ["красот_а_"]
+    "quest": [
+      "Schönheit"
+    ],
+    "answer": [
+      "красот_а_"
+    ]
   },
   {
     "id": "chap18-ck1#08",
-    "quest": ["~hier:~ Ambiente"],
-    "answer": ["атмосф_е_ра"]
+    "quest": [
+      "~hier:~ Ambiente"
+    ],
+    "answer": [
+      "атмосф_е_ра"
+    ]
   },
   {
     "id": "chap18-ck1#09",
-    "quest": ["Basilius-Kathedrale"],
-    "answer": ["Храм Вас_и_лия Блаж_е_нного"]
+    "quest": [
+      "Basilius-Kathedrale"
+    ],
+    "answer": [
+      "Храм Вас_и_лия Блаж_е_нного"
+    ]
   },
   {
     "id": "chap18-ck1#10",
-    "quest": ["Große Steinbrücke (Moskau)"],
-    "answer": ["Больш_о_й К_а_менный мост"]
+    "quest": [
+      "Große Steinbrücke (Moskau)"
+    ],
+    "answer": [
+      "Больш_о_й К_а_менный мост"
+    ]
   },
   {
     "id": "chap18-ck1#11",
-    "quest": ["Christi-Erlöser-Kathedrale"],
-    "answer": ["Храм Христ_а_ Спас_и_теля", "- спасти ~retten~"]
+    "quest": [
+      "Christi-Erlöser-Kathedrale"
+    ],
+    "answer": [
+      "Храм Христ_а_ Спас_и_теля",
+      "- спасти ~retten~"
+    ]
   },
   {
     "id": "chap18-ck1#12",
-    "quest": ["Zentralpark"],
-    "answer": ["Центр_а_льный парк"]
+    "quest": [
+      "Zentralpark"
+    ],
+    "answer": [
+      "Центр_а_льный парк"
+    ]
   },
   {
     "id": "chap18-ck1#13",
-    "quest": ["Sperlingsberge"],
-    "answer": ["Воробьёвы г_о_ры"]
+    "quest": [
+      "Sperlingsberge"
+    ],
+    "answer": [
+      "Воробьёвы г_о_ры"
+    ]
   },
   {
     "id": "chap18-ck1#14",
-    "quest": ["~hier:~ Luschniki Stadion"],
-    "answer": ["Лужник_и_"]
+    "quest": [
+      "~hier:~ Luschniki Stadion"
+    ],
+    "answer": [
+      "Лужник_и_"
+    ]
   },
   {
     "id": "chap18-ck1#15",
-    "quest": ["aussehen"],
+    "quest": [
+      "aussehen"
+    ],
     "answer": [
       "в_ы_глядеть ~uv.~",
       "(я) в_ы_гляжу",
@@ -106,67 +169,117 @@
       "(он/она/оно) выглядит",
       "(мы) выглядим",
       "(вы) выглядите",
-      "(они) выглядят"
+      "(они) выглядят",
+      "- на ... взгляд ~aus … Sicht~"
     ]
   },
   {
     "id": "chap18-ck1#16",
-    "quest": ["anders"],
-    "answer": ["ин_а_че"]
+    "quest": [
+      "anders"
+    ],
+    "answer": [
+      "ин_а_че"
+    ]
   },
   {
     "id": "chap18-ck1#17",
-    "quest": ["Fracht"],
-    "answer": ["фрахт", "- груз"]
+    "quest": [
+      "Fracht"
+    ],
+    "answer": [
+      "фрахт",
+      "- груз"
+    ]
   },
   {
     "id": "chap18-ck1#18",
-    "quest": ["Preis"],
-    "answer": ["ст_о_имость ~f~"]
+    "quest": [
+      "Preis"
+    ],
+    "answer": [
+      "ст_о_имость ~f~"
+    ]
   },
   {
     "id": "chap18-ck1#19",
-    "quest": ["Person"],
-    "answer": ["перс_о_на"]
+    "quest": [
+      "Person"
+    ],
+    "answer": [
+      "перс_о_на"
+    ]
   },
   {
     "id": "chap18-ck1#20",
-    "quest": [" Reederei"],
-    "answer": ["судох_о_дная комп_а_ния"]
+    "quest": [
+      "Reederei"
+    ],
+    "answer": [
+      "судох_о_дная комп_а_ния",
+      "- судно ~Schiff~"
+    ]
   },
   {
     "id": "chap18-ck1#21",
-    "quest": ["eine Zeitlang spazieren gehen"],
-    "answer": ["погул_я_ть ~v.~"]
+    "quest": [
+      "eine Zeitlang spazieren gehen"
+    ],
+    "answer": [
+      "погул_я_ть ~v.~"
+    ]
   },
   {
     "id": "chap18-ck1#22",
-    "quest": [" Samoskworetschje (alter Stadtteil Moskaus)"],
-    "answer": ["Замосквор_е_чье"]
+    "quest": [
+      " Samoskworetschje (alter Stadtteil Moskaus)"
+    ],
+    "answer": [
+      "Замосквор_е_чье"
+    ]
   },
   {
     "id": "chap18-ck1#23",
-    "quest": ["Luftfahrt"],
-    "answer": ["авиация"]
+    "quest": [
+      "Luftfahrt"
+    ],
+    "answer": [
+      "авиация"
+    ]
   },
   {
     "id": "chap18-ck1#24",
-    "quest": ["Radiohörerin"],
-    "answer": ["радиосл_у_шательница"]
+    "quest": [
+      "Radiohörerin"
+    ],
+    "answer": [
+      "радиосл_у_шательница"
+    ]
   },
   {
     "id": "chap18-ck1#25",
-    "quest": ["sich orientieren"],
-    "answer": ["ориент_и_роваться ~uv.~"]
+    "quest": [
+      "sich orientieren"
+    ],
+    "answer": [
+      "ориент_и_роваться ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck1#26",
-    "quest": [" Stadtrundfahrt mit dem Bus"],
-    "answer": ["авт_о_бусная экск_у_рсия"]
+    "quest": [
+      " Stadtrundfahrt mit dem Bus"
+    ],
+    "answer": [
+      "авт_о_бусная экск_у_рсия"
+    ]
   },
   {
     "id": "chap18-ck1#27",
-    "quest": ["hier: einsteigen in", "sich setzen"],
+    "quest": [
+      "hier: einsteigen in",
+      "sich setzen"
+    ],
     "answer": [
       "сесть на ~v. (+) Akk.~",
       "(я) с_я_ду",
@@ -180,17 +293,30 @@
   },
   {
     "id": "chap18-ck1#28",
-    "quest": [" Stadtrundfahrt"],
-    "answer": ["обз_о_рная экск_у_рсия"]
+    "quest": [
+      "Stadtrundfahrt"
+    ],
+    "answer": [
+      "обз_о_рная экск_у_рсия",
+      "- обзорный ~Übersichts-~"
+    ]
   },
   {
     "id": "chap18-ck1#29",
-    "quest": ["um … herum"],
-    "answer": ["вокр_у_г ~(+) Gen.~"]
+    "quest": [
+      "um … herum"
+    ],
+    "answer": [
+      "вокр_у_г ~(+) Gen.~",
+      "- круг ~Kreis~"
+    ]
   },
   {
     "id": "chap18-ck1#30",
-    "quest": ["nach draußen gehen", "aussteigen"],
+    "quest": [
+      "nach draußen gehen",
+      "aussteigen"
+    ],
     "answer": [
       "выход_и_ть ~uv.~",
       "(я) выхожу",
@@ -199,12 +325,16 @@
       "(мы) выходим",
       "(вы) выходите",
       "(они) выходят",
-      "- йти ~v.~"
+      "- выйти ~v.~"
     ]
   },
   {
     "id": "chap18-ck1#31",
-    "quest": ["weiter"],
-    "answer": ["д_а_льше"]
+    "quest": [
+      "weiter"
+    ],
+    "answer": [
+      "д_а_льше"
+    ]
   }
 ]
