@@ -1,27 +1,49 @@
 [
   {
     "id": "chap18-ck2#00",
-    "quest": ["mehr"],
-    "answer": ["б_о_лее"]
+    "quest": [
+      "mehr"
+    ],
+    "answer": [
+      "б_о_лее"
+    ]
   },
   {
     "id": "chap18-ck2#01",
-    "quest": ["einfach"],
-    "answer": ["прост_о_й", "рост_а_я", "рост_о_е", "рост_ы_е "]
+    "quest": [
+      "einfach"
+    ],
+    "answer": [
+      "прост_о_й",
+      "рост_а_я",
+      "рост_о_е",
+      "рост_ы_е "
+    ]
   },
   {
     "id": "chap18-ck2#02",
-    "quest": ["weniger"],
-    "answer": ["м_е_нее"]
+    "quest": [
+      "weniger"
+    ],
+    "answer": [
+      "м_е_нее"
+    ]
   },
   {
     "id": "chap18-ck2#03",
-    "quest": ["abhängen von"],
-    "answer": ["зав_и_сеть от ~uv. (+) Gen.~"]
+    "quest": [
+      "abhängen von"
+    ],
+    "answer": [
+      "зав_и_сеть от ~uv. (+) Gen.~"
+    ]
   },
   {
     "id": "chap18-ck2#04",
-    "quest": ["hier: einsteigen", "setzen"],
+    "quest": [
+      "hier: einsteigen",
+      "setzen"
+    ],
     "answer": [
       "сад_и_ться ~uv.~",
       "(я) саж_у_сь",
@@ -34,17 +56,27 @@
   },
   {
     "id": "chap18-ck2#05",
-    "quest": ["Tretjakow-Galerie"],
-    "answer": ["Третьяк_о_вская галер_е_я"]
+    "quest": [
+      "Tretjakow-Galerie"
+    ],
+    "answer": [
+      "Третьяк_о_вская галер_е_я"
+    ]
   },
   {
     "id": "chap18-ck2#06",
-    "quest": ["Geist"],
-    "answer": ["дух"]
+    "quest": [
+      "Geist"
+    ],
+    "answer": [
+      "дух"
+    ]
   },
   {
     "id": "chap18-ck2#07",
-    "quest": ["helfen"],
+    "quest": [
+      "helfen"
+    ],
     "answer": [
       "пом_о_чь ~v.~",
       "(я) помог_у_",
@@ -58,7 +90,11 @@
   },
   {
     "id": "chap18-ck2#08",
-    "quest": ["~hier: ~übernachten", "anhalten", "halten"],
+    "quest": [
+      "~hier: ~übernachten",
+      "anhalten",
+      "halten"
+    ],
     "answer": [
       "остановиться ~v.~",
       "(я) остановлюсь",
@@ -73,7 +109,9 @@
   },
   {
     "id": "chap18-ck2#09",
-    "quest": ["vorschlagen"],
+    "quest": [
+      "vorschlagen"
+    ],
     "answer": [
       "предлож_и_ть ~v.~",
       "(я) предлож_у_",
@@ -87,17 +125,27 @@
   },
   {
     "id": "chap18-ck2#10",
-    "quest": ["dauern"],
-    "answer": ["дл_и_ться ~uv.~"]
+    "quest": [
+      "dauern"
+    ],
+    "answer": [
+      "дл_и_ться ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck2#11",
-    "quest": ["ausführlich"],
-    "answer": ["подр_о_бно"]
+    "quest": [
+      "ausführlich"
+    ],
+    "answer": [
+      "подр_о_бно"
+    ]
   },
   {
     "id": "chap18-ck2#12",
-    "quest": ["ermöglichen"],
+    "quest": [
+      "ermöglichen"
+    ],
     "answer": [
       "позв_о_лить ~v.~",
       "(я) позв_о_лю",
@@ -111,87 +159,166 @@
   },
   {
     "id": "chap18-ck2#13",
-    "quest": ["zum ersten Mal"],
-    "answer": ["вперв_ы_е", "в первый раз"]
+    "quest": [
+      "zum ersten Mal"
+    ],
+    "answer": [
+      "вперв_ы_е",
+      "в первый раз"
+    ]
   },
   {
     "id": "chap18-ck2#14",
-    "quest": ["in der Chronik erwähnen"],
-    "answer": ["упомин_а_ть в л_е_тописях ~uv.~"]
+    "quest": [
+      "in der Chronik erwähnen"
+    ],
+    "answer": [
+      "упомин_а_ть в л_е_тописях ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck2#15",
-    "quest": ["Chronik", "Annalen"],
-    "answer": ["л_е_топись ~f~"]
+    "quest": [
+      "Chronik",
+      "Annalen"
+    ],
+    "answer": [
+      "л_е_топись ~f~"
+    ]
   },
   {
     "id": "chap18-ck2#16",
-    "quest": ["traditionell"],
-    "answer": ["традици_о_нно "]
+    "quest": [
+      "traditionell"
+    ],
+    "answer": [
+      "традици_о_нно "
+    ]
   },
   {
     "id": "chap18-ck2#17",
-    "quest": ["Großfürst"],
-    "answer": ["с_у_здальский князь ~m~"]
+    "quest": [
+      "Großfürst"
+    ],
+    "answer": [
+      "с_у_здальский князь ~m~"
+    ]
   },
   {
     "id": "chap18-ck2#18",
-    "quest": ["gelten als"],
-    "answer": ["счит_а_ться ~uv. (+) Instr.~"]
+    "quest": [
+      "gelten als"
+    ],
+    "answer": [
+      "счит_а_ться ~uv. (+) Instr.~"
+    ]
   },
   {
     "id": "chap18-ck2#19",
-    "quest": ["Bildhauer"],
-    "answer": ["ск_у_льптор"]
+    "quest": [
+      "Bildhauer"
+    ],
+    "answer": [
+      "ск_у_льптор"
+    ]
   },
   {
     "id": "chap18-ck2#20",
-    "quest": ["Ensemble"],
-    "answer": ["анс_а_мбль ~m~"]
+    "quest": [
+      "Ensemble"
+    ],
+    "answer": [
+      "анс_а_мбль ~m~"
+    ]
   },
   {
     "id": "chap18-ck2#21",
-    "quest": ["alt", "altertümlich"],
-    "answer": ["др_е_вний", "др_е_внияя", "др_е_вниее", "др_е_вниие "]
+    "quest": [
+      "alt",
+      "altertümlich"
+    ],
+    "answer": [
+      "др_е_вний",
+      "др_е_внияя",
+      "др_е_вниее",
+      "др_е_вниие "
+    ]
   },
   {
     "id": "chap18-ck2#22",
-    "quest": ["entlang"],
-    "answer": ["вдоль ~(+) Gen.~"]
+    "quest": [
+      "entlang"
+    ],
+    "answer": [
+      "вдоль ~(+) Gen.~"
+    ]
   },
   {
     "id": "chap18-ck2#23",
-    "quest": ["Mauer", "Wand"],
-    "answer": ["стен_а:", "ст_е_ны ~Nom. Pl.~"]
+    "quest": [
+      "Mauer",
+      "Wand"
+    ],
+    "answer": [
+      "стен_а_",
+      "ст_е_ны ~Nom. Pl.~"
+    ]
   },
   {
     "id": "chap18-ck2#24",
-    "quest": ["Haupt-"],
-    "answer": ["гл_а_вный", "гл_а_вная", "гл_а_вное", "гл_а_вные"]
+    "quest": [
+      "Haupt-"
+    ],
+    "answer": [
+      "гл_а_вный",
+      "гл_а_вная",
+      "гл_а_вное",
+      "гл_а_вные"
+    ]
   },
   {
     "id": "chap18-ck2#25",
-    "quest": ["an einigen Tagen"],
-    "answer": ["в отд_е_льные дни "]
+    "quest": [
+      "an einigen Tagen"
+    ],
+    "answer": [
+      "в отд_е_льные дни "
+    ]
   },
   {
     "id": "chap18-ck2#26",
-    "quest": ["Gottesdienst"],
-    "answer": ["богослуж_е_ние"]
+    "quest": [
+      "Gottesdienst"
+    ],
+    "answer": [
+      "богослуж_е_ние"
+    ]
   },
   {
     "id": "chap18-ck2#27",
-    "quest": ["Glocke"],
-    "answer": ["к_о_локол", "колокол_а_ ~Nom. Pl.~"]
+    "quest": [
+      "Glocke"
+    ],
+    "answer": [
+      "к_о_локол",
+      "колокол_а_ ~Nom. Pl.~"
+    ]
   },
   {
     "id": "chap18-ck2#28",
-    "quest": ["Halt machen"],
-    "answer": ["сд_е_лать остан_о_вку ~v.~"]
+    "quest": [
+      "Halt machen"
+    ],
+    "answer": [
+      "сд_е_лать остан_о_вку ~v.~"
+    ]
   },
   {
     "id": "chap18-ck2#29",
-    "quest": ["fortsetzen", "fortfahren"],
+    "quest": [
+      "fortsetzen",
+      "fortfahren"
+    ],
     "answer": [
       "прод_о_лжить ~v.~",
       "(я) прод_о_лжу",
@@ -205,12 +332,21 @@
   },
   {
     "id": "chap18-ck2#30",
-    "quest": ["Graduationswort vor Adjektiven zur Bildung des Superlativs"],
-    "answer": ["с_а_мый", "с_а_мая", "с_а_мое", "с_а_мые"]
+    "quest": [
+      "Graduationswort vor Adjektiven zur Bildung des Superlativs"
+    ],
+    "answer": [
+      "с_а_мый",
+      "с_а_мая",
+      "с_а_мое",
+      "с_а_мые"
+    ]
   },
   {
     "id": "chap18-ck2#31",
-    "quest": ["sein"],
+    "quest": [
+      "sein"
+    ],
     "answer": [
       "явл_я_ться ~uv. (+) Instr.~",
       "(я) явл_я_юсь",
