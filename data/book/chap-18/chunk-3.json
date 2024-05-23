@@ -1,7 +1,9 @@
 [
   {
     "id": "chap18-ck3#00",
-    "quest": ["gründen"],
+    "quest": [
+      "gründen"
+    ],
     "answer": [
       "основ_а_ть ~v.~",
       "осн_о_вывать ~uv.~",
@@ -10,137 +12,267 @@
   },
   {
     "id": "chap18-ck3#01",
-    "quest": ["errichten"],
-    "answer": ["с_о_здать ~v.~", "создав_а_ть ~uv.~"]
+    "quest": [
+      "errichten"
+    ],
+    "answer": [
+      "с_о_здать ~v.~",
+      "создав_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck3#02",
-    "quest": ["Mariä-Verkündigungs-Kathedrale"],
-    "answer": ["Благов_е_щенский соб_о_р"]
+    "quest": [
+      "Mariä-Verkündigungs-Kathedrale"
+    ],
+    "answer": [
+      "Благов_е_щенский соб_о_р"
+    ]
   },
   {
     "id": "chap18-ck3#03",
-    "quest": ["lang (räumlich)"],
-    "answer": ["дл_и_нный", "дл_и_нная", "дл_и_нное", "дл_и_нные"]
+    "quest": [
+      "lang (räumlich)"
+    ],
+    "answer": [
+      "дл_и_нный",
+      "дл_и_нная",
+      "дл_и_нное",
+      "дл_и_нные"
+    ]
   },
   {
     "id": "chap18-ck3#04",
-    "quest": ["breit"],
-    "answer": ["шир_о_кий", "шир_о_кая", "шир_о_кое", "шир_о_кие"]
+    "quest": [
+      "breit"
+    ],
+    "answer": [
+      "шир_о_кий",
+      "шир_о_кая",
+      "шир_о_кое",
+      "шир_о_кие"
+    ]
   },
   {
     "id": "chap18-ck3#05",
-    "quest": ["annähernd", "ungefähr"],
-    "answer": ["приблиз_и_тельно"]
+    "quest": [
+      "annähernd",
+      "ungefähr"
+    ],
+    "answer": [
+      "приблиз_и_тельно"
+    ]
   },
   {
     "id": "chap18-ck3#06",
-    "quest": ["sich erstrecken"],
-    "answer": ["тян_у_ться ~uv.~", "т_я_нется", "т_я_нутся"]
+    "quest": [
+      "sich erstrecken"
+    ],
+    "answer": [
+      "тян_у_ться ~uv.~",
+      "т_я_нется",
+      "т_я_нутся"
+    ]
   },
   {
     "id": "chap18-ck3#07",
-    "quest": ["viel weniger"],
-    "answer": ["намн_о_го м_е_ньше"]
+    "quest": [
+      "viel weniger"
+    ],
+    "answer": [
+      "намн_о_го м_е_ньше"
+    ]
   },
   {
     "id": "chap18-ck3#08",
-    "quest": ["dennoch"],
-    "answer": ["всё же", "же ~bloß, ja, jedoch"]
+    "quest": [
+      "dennoch"
+    ],
+    "answer": [
+      "всё же",
+      "же ~bloß, ja, jedoch"
+    ]
   },
   {
     "id": "chap18-ck3#09",
-    "quest": ["Wolkenkratzer"],
-    "answer": ["небоскрёб"]
+    "quest": [
+      "Wolkenkratzer"
+    ],
+    "answer": [
+      "небоскрёб"
+    ]
   },
   {
     "id": "chap18-ck3#10",
-    "quest": ["hier: hervorheben", "etwas markieren, betonen"],
-    "answer": ["в_ы_делить ~v.~", "выдел_я_ть ~uv.~"]
+    "quest": [
+      "hier: hervorheben",
+      "etwas markieren, betonen"
+    ],
+    "answer": [
+      "в_ы_делить ~v.~",
+      "выдел_я_ть ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck3#11",
-    "quest": ["Entwurf"],
-    "answer": ["план"]
+    "quest": [
+      "Entwurf"
+    ],
+    "answer": [
+      "план"
+    ]
   },
   {
     "id": "chap18-ck3#12",
-    "quest": ["Lage"],
-    "answer": ["располож_е_ние"]
+    "quest": [
+      "Lage"
+    ],
+    "answer": [
+      "располож_е_ние"
+    ]
   },
   {
     "id": "chap18-ck3#13",
-    "quest": ["sich vollziehen"],
-    "answer": ["соверш_а_ться ~uv.~", "соверш_и_ть путеш_е_ствие ~v.~"]
+    "quest": [
+      "sich vollziehen"
+    ],
+    "answer": [
+      "соверш_а_ться ~uv.~",
+      "соверш_и_ть путеш_е_ствие ~v.~"
+    ]
   },
   {
     "id": "chap18-ck3#14",
-    "quest": ["gigantisch"],
-    "answer": ["гиг_а_нтский", "гиг_а_нтская", "гиг_а_нтское", "гиг_а_нтские"]
+    "quest": [
+      "gigantisch"
+    ],
+    "answer": [
+      "гиг_а_нтский",
+      "гиг_а_нтская",
+      "гиг_а_нтское",
+      "гиг_а_нтские"
+    ]
   },
   {
     "id": "chap18-ck3#15",
-    "quest": ["Arsenal"],
-    "answer": ["арсен_а_л"]
+    "quest": [
+      "Arsenal"
+    ],
+    "answer": [
+      "арсен_а_л"
+    ]
   },
   {
     "id": "chap18-ck3#16",
-    "quest": ["restaurieren"],
-    "answer": ["реставр_и_ровать ~uv.~"]
+    "quest": [
+      "restaurieren"
+    ],
+    "answer": [
+      "реставр_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck3#17",
-    "quest": ["Ikone"],
-    "answer": ["ик_о_на"]
+    "quest": [
+      "Ikone"
+    ],
+    "answer": [
+      "ик_о_на"
+    ]
   },
   {
     "id": "chap18-ck3#18",
-    "quest": ["Filmstudio"],
-    "answer": ["киност_у_дия"]
+    "quest": [
+      "Filmstudio"
+    ],
+    "answer": [
+      "киност_у_дия"
+    ]
   },
   {
     "id": "chap18-ck3#19",
-    "quest": ["Schokoladenfabrik"],
-    "answer": ["шокол_а_дная ф_а_брика"]
+    "quest": [
+      "Schokoladenfabrik"
+    ],
+    "answer": [
+      "шокол_а_дная ф_а_брика"
+    ]
   },
   {
     "id": "chap18-ck3#20",
-    "quest": ["innerhalb dieser Zeit"],
-    "answer": ["за _э_то вр_е_мя"]
+    "quest": [
+      "innerhalb dieser Zeit"
+    ],
+    "answer": [
+      "за _э_то вр_е_мя"
+    ]
   },
   {
     "id": "chap18-ck3#21",
-    "quest": ["Nacht-"],
-    "answer": ["ночн_о_й", "ночн_а_я", "ночн_о_е", "ночн_ы_е"]
+    "quest": [
+      "Nacht-"
+    ],
+    "answer": [
+      "ночн_о_й",
+      "ночн_а_я",
+      "ночн_о_е",
+      "ночн_ы_е"
+    ]
   },
   {
     "id": "chap18-ck3#22",
-    "quest": ["~hier:~ besuchen", "sich (einige Zeit) aufhalten"],
-    "answer": ["побыв_а_ть ~v.~", "быв_а_ть ~uv.", "- посещать ~besuchen~"]
+    "quest": [
+      "~hier:~ besuchen",
+      "sich (einige Zeit) aufhalten"
+    ],
+    "answer": [
+      "побыв_а_ть ~v.~",
+      "быв_а_ть ~uv.",
+      "- посещать ~besuchen~"
+    ]
   },
   {
     "id": "chap18-ck3#23",
-    "quest": ["Eröffnung"],
-    "answer": ["откр_ы_тие"]
+    "quest": [
+      "Eröffnung"
+    ],
+    "answer": [
+      "откр_ы_тие"
+    ]
   },
   {
     "id": "chap18-ck3#24",
-    "quest": ["Filmfestival"],
-    "answer": ["кинофестив_а_ль ~m~"]
+    "quest": [
+      "Filmfestival"
+    ],
+    "answer": [
+      "кинофестив_а_ль ~m~"
+    ]
   },
   {
     "id": "chap18-ck3#25",
-    "quest": ["Regisseur", "Regisseurin"],
-    "answer": ["режиссёр"]
+    "quest": [
+      "Regisseur",
+      "Regisseurin"
+    ],
+    "answer": [
+      "режиссёр"
+    ]
   },
   {
     "id": "chap18-ck3#26",
-    "quest": ["und überhaupt"],
-    "answer": ["и вообщ_е_"]
+    "quest": [
+      "und überhaupt"
+    ],
+    "answer": [
+      "и вообщ_е_"
+    ]
   },
   {
     "id": "chap18-ck3#27",
-    "quest": ["treffen"],
+    "quest": [
+      "treffen"
+    ],
     "answer": [
       "встр_е_тить",
       "(я) встр_е_чу",
@@ -154,22 +286,44 @@
   },
   {
     "id": "chap18-ck3#28",
-    "quest": ["Eindruck von"],
-    "answer": ["впечатл_е_ние от ~(+) Gen.~"]
+    "quest": [
+      "Eindruck von"
+    ],
+    "answer": [
+      "впечатл_е_ние от ~(+) Gen.~"
+    ]
   },
   {
     "id": "chap18-ck3#29",
-    "quest": ["fern"],
-    "answer": ["далёкий", "далёкая", "далёкое", "далёкие"]
+    "quest": [
+      "fern"
+    ],
+    "answer": [
+      "далёкий",
+      "далёкая",
+      "далёкое",
+      "далёкие",
+      "- Дальний Восток ~ferner Osten~"
+    ]
   },
   {
     "id": "chap18-ck3#30",
-    "quest": ["Moskauer"],
-    "answer": ["москвич", "москвичи ~Nom. Pl.~"]
+    "quest": [
+      "Moskauer"
+    ],
+    "answer": [
+      "москвич",
+      "москвичи ~Nom. Pl.~"
+    ]
   },
   {
     "id": "chap18-ck3#31",
-    "quest": ["lieber Freund ~ironisch~"],
-    "answer": ["друж_о_к", "дружк_а_ ~Gen. Sg.~"]
+    "quest": [
+      "lieber Freund ~ironisch~"
+    ],
+    "answer": [
+      "друж_о_к",
+      "дружк_а_ ~Gen. Sg.~"
+    ]
   }
 ]
