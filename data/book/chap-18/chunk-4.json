@@ -1,17 +1,30 @@
 [
   {
     "id": "chap18-ck4#00",
-    "quest": ["tief"],
-    "answer": ["глуб_о_кий", "глуб_о_кая", "глуб_о_кое", "глуб_о_кие"]
+    "quest": [
+      "tief"
+    ],
+    "answer": [
+      "глуб_о_кий",
+      "глуб_о_кая",
+      "глуб_о_кое",
+      "глуб_о_кие"
+    ]
   },
   {
     "id": "chap18-ck4#01",
-    "quest": ["~nichtzielgerichtet~ fliegen"],
-    "answer": ["лет_а_ть ~uv.~"]
+    "quest": [
+      "~nichtzielgerichtet~ fliegen"
+    ],
+    "answer": [
+      "лет_а_ть ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#02",
-    "quest": ["~zielgerichtet~ fliegen"],
+    "quest": [
+      "~zielgerichtet~ fliegen"
+    ],
     "answer": [
       "лететь ~uv.~",
       "(я) леч_у_",
@@ -24,17 +37,33 @@
   },
   {
     "id": "chap18-ck4#03",
-    "quest": ["schnell"],
-    "answer": ["б_ы_стрый", "б_ы_страя", "б_ы_строе", "б_ы_стрые"]
+    "quest": [
+      "schnell"
+    ],
+    "answer": [
+      "б_ы_стрый",
+      "б_ы_страя",
+      "б_ы_строе",
+      "б_ы_стрые"
+    ]
   },
   {
     "id": "chap18-ck4#04",
-    "quest": ["bequem"],
-    "answer": ["уд_о_бный", "уд_о_бная", "уд_о_бное", "уд_о_бные"]
+    "quest": [
+      "bequem"
+    ],
+    "answer": [
+      "уд_о_бный",
+      "уд_о_бная",
+      "уд_о_бное",
+      "уд_о_бные"
+    ]
   },
   {
     "id": "chap18-ck4#05",
-    "quest": ["sich ändern"],
+    "quest": [
+      "sich ändern"
+    ],
     "answer": [
       "мен_я_ться ~uv.~",
       "(я) мен_я_юсь",
@@ -47,42 +76,76 @@
   },
   {
     "id": "chap18-ck4#06",
-    "quest": ["Landschaft"],
-    "answer": ["ландш_а_фт"]
+    "quest": [
+      "Landschaft"
+    ],
+    "answer": [
+      "ландш_а_фт"
+    ]
   },
   {
     "id": "chap18-ck4#07",
-    "quest": ["Exotik"],
-    "answer": ["экз_о_тика"]
+    "quest": [
+      "Exotik"
+    ],
+    "answer": [
+      "экз_о_тика"
+    ]
   },
   {
     "id": "chap18-ck4#08",
-    "quest": ["Tal der Geysire"],
-    "answer": ["Дол_и_на г_е_йзеров"]
+    "quest": [
+      "Tal der Geysire"
+    ],
+    "answer": [
+      "Дол_и_на г_е_йзеров"
+    ]
   },
   {
     "id": "chap18-ck4#09",
-    "quest": ["klein"],
-    "answer": ["м_а_лый", "м_а_лая", "м_а_лое", "м_а_лые"]
+    "quest": [
+      "klein"
+    ],
+    "answer": [
+      "м_а_лый",
+      "м_а_лая",
+      "м_а_лое",
+      "м_а_лые"
+    ]
   },
   {
     "id": "chap18-ck4#10",
-    "quest": ["Jeep"],
-    "answer": ["джип"]
+    "quest": [
+      "Jeep"
+    ],
+    "answer": [
+      "джип"
+    ]
   },
   {
     "id": "chap18-ck4#11",
-    "quest": ["Hubschrauber"],
-    "answer": ["вертолёт"]
+    "quest": [
+      "Hubschrauber"
+    ],
+    "answer": [
+      "вертолёт"
+    ]
   },
   {
     "id": "chap18-ck4#12",
-    "quest": ["fotografieren"],
-    "answer": ["сфотограф_и_ровать ~v.~", "фотограф_и_ровать ~uv.~"]
+    "quest": [
+      "fotografieren"
+    ],
+    "answer": [
+      "сфотограф_и_ровать ~v.~",
+      "фотограф_и_ровать ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#13",
-    "quest": ["einladen"],
+    "quest": [
+      "einladen"
+    ],
     "answer": [
       "приглас_и_ть ~v.~",
       "(я) приглаш_у_",
@@ -96,62 +159,109 @@
   },
   {
     "id": "chap18-ck4#14",
-    "quest": ["Rhein"],
-    "answer": ["Рейн"]
+    "quest": [
+      "Rhein"
+    ],
+    "answer": [
+      "Рейн"
+    ]
   },
   {
     "id": "chap18-ck4#15",
-    "quest": ["Zugspitze"],
-    "answer": ["Ц_у_гшпитце"]
+    "quest": [
+      "Zugspitze"
+    ],
+    "answer": [
+      "Ц_у_гшпитце"
+    ]
   },
   {
     "id": "chap18-ck4#16",
-    "quest": ["Bodensee"],
-    "answer": ["Б_о_денское _о_зеро"]
+    "quest": [
+      "Bodensee"
+    ],
+    "answer": [
+      "Б_о_денское _о_зеро"
+    ]
   },
   {
     "id": "chap18-ck4#17",
-    "quest": ["reisen"],
-    "answer": ["путеш_е_ствовать ~uv.~"]
+    "quest": [
+      "reisen"
+    ],
+    "answer": [
+      "путеш_е_ствовать ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#18",
-    "quest": ["Verkaufsmanager"],
-    "answer": ["м_е_неджер по прод_а_жам"]
+    "quest": [
+      "Verkaufsmanager"
+    ],
+    "answer": [
+      "м_е_неджер по прод_а_жам"
+    ]
   },
   {
     "id": "chap18-ck4#19",
-    "quest": ["Besprechung"],
-    "answer": ["совещ_а_ние"]
+    "quest": [
+      "Besprechung"
+    ],
+    "answer": [
+      "совещ_а_ние"
+    ]
   },
   {
     "id": "chap18-ck4#20",
-    "quest": ["wegen", "anlässlich"],
-    "answer": ["по п_о_воду ~(+) Gen.~"]
+    "quest": [
+      "wegen",
+      "anlässlich"
+    ],
+    "answer": [
+      "по п_о_воду ~(+) Gen.~"
+    ]
   },
   {
     "id": "chap18-ck4#21",
-    "quest": ["Besuch"],
-    "answer": ["виз_и_т"]
+    "quest": [
+      "Besuch"
+    ],
+    "answer": [
+      "виз_и_т"
+    ]
   },
   {
     "id": "chap18-ck4#22",
-    "quest": ["eine Zeitlang mit jmdm. sprechen"],
-    "answer": ["поговор_и_ть с ~(+) Instr.~"]
+    "quest": [
+      "eine Zeitlang mit jmdm. sprechen"
+    ],
+    "answer": [
+      "поговор_и_ть с ~(+) Instr.~"
+    ]
   },
   {
     "id": "chap18-ck4#23",
-    "quest": ["verbinden"],
-    "answer": ["соедин_я_ть ~uv.~"]
+    "quest": [
+      "verbinden"
+    ],
+    "answer": [
+      "соедин_я_ть ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#24",
-    "quest": ["Er ist nicht am Platz."],
-    "answer": ["Ег_о_ нет на м_е_сте."]
+    "quest": [
+      "Er ist nicht am Platz."
+    ],
+    "answer": [
+      "Ег_о_ нет на м_е_сте."
+    ]
   },
   {
     "id": "chap18-ck4#25",
-    "quest": ["ausrichten"],
+    "quest": [
+      "ausrichten"
+    ],
     "answer": [
       "перед_а_ть ~v.~",
       "(я) перед_а_м",
@@ -165,32 +275,59 @@
   },
   {
     "id": "chap18-ck4#26",
-    "quest": ["es geht um …", "es handelt sich um …"],
-    "answer": ["речь идёт о ~(+) Akk.~"]
+    "quest": [
+      "es geht um …",
+      "es handelt sich um …"
+    ],
+    "answer": [
+      "речь идёт о ~(+) Akk.~",
+      "речь ~die Reden, das Sprechen~"
+    ]
   },
   {
     "id": "chap18-ck4#27",
-    "quest": ["Aufenthaltsprogramm"],
-    "answer": ["прогр_а_мма пребыв_а_ния"]
+    "quest": [
+      "Aufenthaltsprogramm"
+    ],
+    "answer": [
+      "прогр_а_мма пребыв_а_ния"
+    ]
   },
   {
     "id": "chap18-ck4#28",
-    "quest": ["hier: einige Einzelheiten klären"],
-    "answer": ["уточн_и_ть н_е_которые дет_а_ли ~v.~", "уточнять ~uv.~"]
+    "quest": [
+      "hier: einige Einzelheiten klären"
+    ],
+    "answer": [
+      "уточн_и_ть н_е_которые дет_а_ли ~v.~",
+      "уточнять ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#29",
-    "quest": ["Detail", "Einzelheit"],
-    "answer": ["дет_а_ль ~f~"]
+    "quest": [
+      "Detail",
+      "Einzelheit"
+    ],
+    "answer": [
+      "дет_а_ль ~f~"
+    ]
   },
   {
     "id": "chap18-ck4#30",
-    "quest": ["zurückrufen"],
-    "answer": ["перезвон_и_ть ~v.~", "перезв_а_нивать ~uv.~"]
+    "quest": [
+      "zurückrufen"
+    ],
+    "answer": [
+      "перезвон_и_ть ~v.~",
+      "перезв_а_нивать ~uv.~"
+    ]
   },
   {
     "id": "chap18-ck4#31",
-    "quest": ["warten"],
+    "quest": [
+      "warten"
+    ],
     "answer": [
       "подожд_а_ть ~v. Futur~",
       "(я) подожд_у_",
