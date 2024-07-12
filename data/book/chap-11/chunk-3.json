@@ -1,17 +1,29 @@
 [
   {
     "id": "chap11-ck3#00",
-    "quest": ["Bus"],
-    "answer": ["авт_о_бус"]
+    "quest": [
+      "Bus"
+    ],
+    "answer": [
+      "авт_о_бус"
+    ]
   },
   {
     "id": "chap11-ck3#01",
-    "quest": ["(elektrische) Vorortbahn", "Vorortzug"],
-    "answer": ["электр_и_чка", "электр_и_чек ~Gen. Pl.~"]
+    "quest": [
+      "(elektrische) Vorortbahn",
+      "Vorortzug"
+    ],
+    "answer": [
+      "электр_и_чка",
+      "электр_и_чек ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap11-ck3#02",
-    "quest": ["fahren ~(konjugieren)~"],
+    "quest": [
+      "fahren ~(konjugieren)~"
+    ],
     "answer": [
       "_е_хать",
       "я _е_ду",
@@ -24,17 +36,27 @@
   },
   {
     "id": "chap11-ck3#03",
-    "quest": ["~hier:~ womit ~(bei Transportmitteln)~"],
-    "answer": ["на чём"]
+    "quest": [
+      "~hier:~ womit ~(bei Transportmitteln)~"
+    ],
+    "answer": [
+      "на чём"
+    ]
   },
   {
     "id": "chap11-ck3#04",
-    "quest": ["auftreten"],
-    "answer": ["выступ_а_ть"]
+    "quest": [
+      "auftreten"
+    ],
+    "answer": [
+      "выступ_а_ть"
+    ]
   },
   {
     "id": "chap11-ck3#05",
-    "quest": ["können ~(konjugieren)~"],
+    "quest": [
+      "können ~(konjugieren)~"
+    ],
     "answer": [
       "мочь",
       "я мог_у_",
@@ -47,147 +69,302 @@
   },
   {
     "id": "chap11-ck3#06",
-    "quest": ["Maler", "Künstler"],
-    "answer": ["худ_о_жник"]
+    "quest": [
+      "Maler",
+      "Künstler"
+    ],
+    "answer": [
+      "худ_о_жник"
+    ]
   },
   {
     "id": "chap11-ck3#07",
-    "quest": ["Einen angenehmen Abend!"],
-    "answer": ["При_я_тного в_е_чера!"]
+    "quest": [
+      "Einen angenehmen Abend!"
+    ],
+    "answer": [
+      "При_я_тного в_е_чера!"
+    ]
   },
   {
     "id": "chap11-ck3#08",
-    "quest": ["angenehm ~(Adjektiv)~"],
-    "answer": ["при_я_тный", "при_я_тная", "при_я_тное", "при_я_тные"]
+    "quest": [
+      "angenehm ~(Adjektiv)~"
+    ],
+    "answer": [
+      "при_я_тный",
+      "при_я_тная",
+      "при_я_тное",
+      "при_я_тные"
+    ]
   },
   {
     "id": "chap11-ck3#09",
-    "quest": ["Basketball"],
-    "answer": ["баскетб_о_л"]
+    "quest": [
+      "Basketball"
+    ],
+    "answer": [
+      "баскетб_о_л"
+    ]
   },
   {
     "id": "chap11-ck3#10",
-    "quest": ["Portal"],
-    "answer": ["порт_а_л"]
+    "quest": [
+      "Portal"
+    ],
+    "answer": [
+      "порт_а_л"
+    ]
   },
   {
     "id": "chap11-ck3#11",
-    "quest": ["für alle"],
-    "answer": ["для всех"]
+    "quest": [
+      "für alle"
+    ],
+    "answer": [
+      "для всех"
+    ]
   },
   {
     "id": "chap11-ck3#12",
-    "quest": ["ländlich", "Land-"],
-    "answer": ["с_е_льский" ,"село ~Dorf~"]
+    "quest": [
+      "ländlich",
+      "Land-"
+    ],
+    "answer": [
+      "с_е_льский",
+      "село ~Dorf~"
+    ]
   },
   {
     "id": "chap11-ck3#13",
-    "quest": ["Anzeige", "Annonce"],
-    "answer": ["объявл_е_ние", "объявл_е_ний ~Gen. Pl.~"]
+    "quest": [
+      "Anzeige",
+      "Annonce"
+    ],
+    "answer": [
+      "объявл_е_ние",
+      "объявл_е_ний ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap11-ck3#14",
-    "quest": ["Milch-", "~Adjektiv~"],
-    "answer": ["мол_о_чный", "мол_о_чная", "мол_о_чное", "мол_о_чные"]
+    "quest": [
+      "Milch-",
+      "~Adjektiv~"
+    ],
+    "answer": [
+      "мол_о_чный",
+      "мол_о_чная",
+      "мол_о_чное",
+      "мол_о_чные"
+    ]
   },
   {
     "id": "chap11-ck3#15",
-    "quest": ["beginnen"],
-    "answer": ["начин_а_ть"]
+    "quest": [
+      "beginnen"
+    ],
+    "answer": [
+      "начин_а_ть"
+    ]
   },
   {
     "id": "chap11-ck3#16",
-    "quest": ["bauen"],
-    "answer": ["стр_о_ить" , "стр_о_йка ~Baustelle~"]
+    "quest": [
+      "bauen"
+    ],
+    "answer": [
+      "стр_о_ить",
+      "стр_о_йка ~Baustelle~"
+    ]
   },
   {
     "id": "chap11-ck3#17",
-    "quest": ["lokal", "örtlich", "~Adjektiv~"],
-    "answer": ["м_е_стный", "м_е_стная", "м_е_стное", "м_е_стные"]
+    "quest": [
+      "lokal",
+      "örtlich",
+      "~Adjektiv~"
+    ],
+    "answer": [
+      "м_е_стный",
+      "м_е_стная",
+      "м_е_стное",
+      "м_е_стные"
+    ]
   },
   {
     "id": "chap11-ck3#18",
-    "quest": ["Beschriftung"],
-    "answer": ["н_а_дпись ~f~" , "п_о_дпись ~Unterschrift~"]
+    "quest": [
+      "Beschriftung"
+    ],
+    "answer": [
+      "н_а_дпись ~f~",
+      "п_о_дпись ~Unterschrift~",
+      "над ~über~"
+    ]
   },
   {
     "id": "chap11-ck3#19",
-    "quest": ["hergestellt in …"],
-    "answer": ["сд_е_лано в …"]
+    "quest": [
+      "hergestellt in …"
+    ],
+    "answer": [
+      "сд_е_лано в …"
+    ]
   },
   {
     "id": "chap11-ck3#20",
-    "quest": ["(Geld) verdienen"],
-    "answer": ["зараб_а_тывать"]
+    "quest": [
+      "(Geld) verdienen"
+    ],
+    "answer": [
+      "зараб_а_тывать"
+    ]
   },
   {
     "id": "chap11-ck3#21",
-    "quest": ["teuer", "lieber / liebe", "~bei Anreden~", "~Adjektiv~"],
-    "answer": ["дорог_о_й", "дорог_а_я", "дорог_о_е", "дорог_и_е"]
+    "quest": [
+      "teuer",
+      "lieber / liebe",
+      "~bei Anreden~",
+      "~Adjektiv~"
+    ],
+    "answer": [
+      "дорог_о_й",
+      "дорог_а_я",
+      "дорог_о_е",
+      "дорог_и_е"
+    ]
   },
   {
     "id": "chap11-ck3#22",
-    "quest": ["Leser"],
-    "answer": ["чит_а_тель ~m~"]
+    "quest": [
+      "Leser"
+    ],
+    "answer": [
+      "чит_а_тель ~m~"
+    ]
   },
   {
     "id": "chap11-ck3#23",
-    "quest": ["vorstellen"],
-    "answer": ["представл_я_ть"]
+    "quest": [
+      "vorstellen"
+    ],
+    "answer": [
+      "представл_я_ть"
+    ]
   },
   {
     "id": "chap11-ck3#24",
-    "quest": ["Wettbewerb"],
-    "answer": ["к_о_нкурс"]
+    "quest": [
+      "Wettbewerb"
+    ],
+    "answer": [
+      "к_о_нкурс"
+    ]
   },
   {
     "id": "chap11-ck3#25",
-    "quest": ["Bericht", "Beitrag"],
-    "answer": ["сообщ_е_ние", "сообщ_е_ний ~Gen. Pl.~"]
+    "quest": [
+      "Bericht",
+      "Beitrag"
+    ],
+    "answer": [
+      "сообщ_е_ние",
+      "сообщ_е_ний ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap11-ck3#26",
-    "quest": ["Stern"],
-    "answer": ["звезд_а_", "звёзды ~Nom. Pl.~", "звёзд ~Gen. Pl.~"]
+    "quest": [
+      "Stern"
+    ],
+    "answer": [
+      "звезд_а_",
+      "звёзды ~Nom. Pl.~",
+      "звёзд ~Gen. Pl.~"
+    ]
   },
   {
     "id": "chap11-ck3#27",
-    "quest": ["Traum"],
-    "answer": ["мечт_а_"]
+    "quest": [
+      "Traum"
+    ],
+    "answer": [
+      "мечт_а_"
+    ]
   },
   {
     "id": "chap11-ck3#28",
-    "quest": ["Europameisterschaft"],
-    "answer": ["чемпион_а_т Евр_о_пы"]
+    "quest": [
+      "Europameisterschaft"
+    ],
+    "answer": [
+      "чемпион_а_т Евр_о_пы"
+    ]
   },
   {
     "id": "chap11-ck3#29",
-    "quest": ["moderne Kunst"],
-    "answer": ["соврем_е_нное иск_у_сство"]
+    "quest": [
+      "moderne Kunst"
+    ],
+    "answer": [
+      "соврем_е_нное иск_у_сство"
+    ]
   },
   {
     "id": "chap11-ck3#30",
-    "quest": ["Geoökologie"],
-    "answer": ["геоэкол_о_гия"]
+    "quest": [
+      "Geoökologie"
+    ],
+    "answer": [
+      "геоэкол_о_гия"
+    ]
   },
   {
     "id": "chap11-ck3#31",
-    "quest": ["Botanik"],
-    "answer": ["бот_а_ника"]
+    "quest": [
+      "Botanik"
+    ],
+    "answer": [
+      "бот_а_ника"
+    ]
   },
   {
     "id": "chap11-ck3#32",
-    "quest": ["hat Ähnlichkeit mit"],
-    "answer": ["пох_о_жа на ~(+) Akk.~"]
+    "quest": [
+      "hat Ähnlichkeit mit"
+    ],
+    "answer": [
+      "пох_о_жа на ~(+) Akk.~"
+    ]
   },
   {
     "id": "chap11-ck3#33",
-    "quest": ["aufgeschlossen ~Adjektiv~"],
-    "answer": ["откр_ы_тый", "откр_ы_тая", "откр_ы_тое", "откр_ы_тые"]
+    "quest": [
+      "aufgeschlossen ~Adjektiv~"
+    ],
+    "answer": [
+      "откр_ы_тый",
+      "откр_ы_тая",
+      "откр_ы_тое",
+      "откр_ы_тые"
+    ]
   },
   {
     "id": "chap11-ck3#34",
-    "quest": ["~hier:~", "gut", "gutherzig", "~Adjektiv~"],
-    "answer": ["д_о_брый", "д_о_брая", "д_о_брое", "д_о_брые"]
+    "quest": [
+      "~hier:~",
+      "gut",
+      "gutherzig",
+      "~Adjektiv~"
+    ],
+    "answer": [
+      "д_о_брый",
+      "д_о_брая",
+      "д_о_брое",
+      "д_о_брые"
+    ]
   }
 ]
