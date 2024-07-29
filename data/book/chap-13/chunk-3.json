@@ -256,11 +256,11 @@
   {
     "id": "chap13-ck3#26",
     "quest": [
-      "~hier:~ unbefristete Arbeit",
-      "постоянный ~laufend, ständig~"
+      "~hier:~ unbefristete Arbeit"
     ],
     "answer": [
-      "посто_я_нная раб_о_та"
+      "посто_я_нная раб_о_та",
+      "постоянный ~laufend, ständig~"
     ]
   },
   {
